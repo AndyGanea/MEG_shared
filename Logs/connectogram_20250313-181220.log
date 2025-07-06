@@ -1,0 +1,112 @@
+2025-03-13 18:12:20,110 - INFO - Starting MEG Connectogram Visualization V2
+2025-03-13 18:12:20,111 - INFO - Selected dataset: DataSet5_Align_cue_626_to_938_unc
+2025-03-13 18:12:20,111 - INFO - Selected analysis type: Wilcoxon
+2025-03-13 18:12:20,111 - INFO - Selected analysis folder: Wilcoxon_03102025-1305
+2025-03-13 18:12:20,111 - INFO - Log file: Logs\connectogram_20250313-181220.log
+2025-03-13 18:12:20,111 - INFO - Processing all folders in Wilcoxon_03102025-1305...
+2025-03-13 18:12:20,112 - INFO - Processing Cue_gDTF_100Hz...
+2025-03-13 18:12:20,112 - INFO - Processing Data\DataSet5_Align_cue_626_to_938_unc\Wilcoxon_03102025-1305\Cue_gDTF_100Hz\gDTF_100Hz_L-R_wilcoxon.csv
+2025-03-13 18:12:20,113 - INFO - Matrix shape: (32, 32)
+2025-03-13 18:12:20,113 - INFO - Found 45 connections out of 1024 possible connections
+2025-03-13 18:12:20,967 - INFO - Created 'positive connections' connectogram for gDTF_100Hz
+2025-03-13 18:12:20,968 - INFO - Saved PNG: Data\DataSet5_Align_cue_626_to_938_unc\Wilcoxon_03102025-1305\Cue_gDTF_100Hz\gDTF_100Hz_L-R_wilcoxon_circular_connectogram_positive_20250313-1812.png
+2025-03-13 18:12:20,969 - INFO - Saved SVG: Data\DataSet5_Align_cue_626_to_938_unc\Wilcoxon_03102025-1305\Cue_gDTF_100Hz\gDTF_100Hz_L-R_wilcoxon_circular_connectogram_positive_20250313-1812.svg
+2025-03-13 18:12:21,717 - INFO - Created 'negative connections' connectogram for gDTF_100Hz
+2025-03-13 18:12:21,717 - INFO - Saved PNG: Data\DataSet5_Align_cue_626_to_938_unc\Wilcoxon_03102025-1305\Cue_gDTF_100Hz\gDTF_100Hz_L-R_wilcoxon_circular_connectogram_negative_20250313-1812.png
+2025-03-13 18:12:21,717 - INFO - Saved SVG: Data\DataSet5_Align_cue_626_to_938_unc\Wilcoxon_03102025-1305\Cue_gDTF_100Hz\gDTF_100Hz_L-R_wilcoxon_circular_connectogram_negative_20250313-1812.svg
+2025-03-13 18:12:21,718 - INFO - Saved connectivity report to: Data\DataSet5_Align_cue_626_to_938_unc\Wilcoxon_03102025-1305\Cue_gDTF_100Hz\gDTF_100Hz_connectivity_report_20250313-1812.txt
+2025-03-13 18:12:21,718 - INFO - Processing Cue_gDTF_10Hz...
+2025-03-13 18:12:21,720 - INFO - Processing Data\DataSet5_Align_cue_626_to_938_unc\Wilcoxon_03102025-1305\Cue_gDTF_10Hz\gDTF_10Hz_L-R_wilcoxon.csv
+2025-03-13 18:12:21,720 - INFO - Matrix shape: (32, 32)
+2025-03-13 18:12:21,720 - INFO - Found 74 connections out of 1024 possible connections
+2025-03-13 18:12:22,602 - INFO - Created 'positive connections' connectogram for gDTF_10Hz
+2025-03-13 18:12:22,602 - INFO - Saved PNG: Data\DataSet5_Align_cue_626_to_938_unc\Wilcoxon_03102025-1305\Cue_gDTF_10Hz\gDTF_10Hz_L-R_wilcoxon_circular_connectogram_positive_20250313-1812.png
+2025-03-13 18:12:22,602 - INFO - Saved SVG: Data\DataSet5_Align_cue_626_to_938_unc\Wilcoxon_03102025-1305\Cue_gDTF_10Hz\gDTF_10Hz_L-R_wilcoxon_circular_connectogram_positive_20250313-1812.svg
+2025-03-13 18:12:23,407 - INFO - Created 'negative connections' connectogram for gDTF_10Hz
+2025-03-13 18:12:23,407 - INFO - Saved PNG: Data\DataSet5_Align_cue_626_to_938_unc\Wilcoxon_03102025-1305\Cue_gDTF_10Hz\gDTF_10Hz_L-R_wilcoxon_circular_connectogram_negative_20250313-1812.png
+2025-03-13 18:12:23,407 - INFO - Saved SVG: Data\DataSet5_Align_cue_626_to_938_unc\Wilcoxon_03102025-1305\Cue_gDTF_10Hz\gDTF_10Hz_L-R_wilcoxon_circular_connectogram_negative_20250313-1812.svg
+2025-03-13 18:12:23,408 - INFO - Saved connectivity report to: Data\DataSet5_Align_cue_626_to_938_unc\Wilcoxon_03102025-1305\Cue_gDTF_10Hz\gDTF_10Hz_connectivity_report_20250313-1812.txt
+2025-03-13 18:12:23,408 - INFO - Processing Cue_gDTF_20Hz...
+2025-03-13 18:12:23,409 - INFO - Processing Data\DataSet5_Align_cue_626_to_938_unc\Wilcoxon_03102025-1305\Cue_gDTF_20Hz\gDTF_20Hz_L-R_wilcoxon.csv
+2025-03-13 18:12:23,410 - INFO - Matrix shape: (32, 32)
+2025-03-13 18:12:23,410 - INFO - Found 59 connections out of 1024 possible connections
+2025-03-13 18:12:24,234 - INFO - Created 'positive connections' connectogram for gDTF_20Hz
+2025-03-13 18:12:24,234 - INFO - Saved PNG: Data\DataSet5_Align_cue_626_to_938_unc\Wilcoxon_03102025-1305\Cue_gDTF_20Hz\gDTF_20Hz_L-R_wilcoxon_circular_connectogram_positive_20250313-1812.png
+2025-03-13 18:12:24,234 - INFO - Saved SVG: Data\DataSet5_Align_cue_626_to_938_unc\Wilcoxon_03102025-1305\Cue_gDTF_20Hz\gDTF_20Hz_L-R_wilcoxon_circular_connectogram_positive_20250313-1812.svg
+2025-03-13 18:12:24,967 - INFO - Created 'negative connections' connectogram for gDTF_20Hz
+2025-03-13 18:12:24,968 - INFO - Saved PNG: Data\DataSet5_Align_cue_626_to_938_unc\Wilcoxon_03102025-1305\Cue_gDTF_20Hz\gDTF_20Hz_L-R_wilcoxon_circular_connectogram_negative_20250313-1812.png
+2025-03-13 18:12:24,969 - INFO - Saved SVG: Data\DataSet5_Align_cue_626_to_938_unc\Wilcoxon_03102025-1305\Cue_gDTF_20Hz\gDTF_20Hz_L-R_wilcoxon_circular_connectogram_negative_20250313-1812.svg
+2025-03-13 18:12:24,969 - INFO - Saved connectivity report to: Data\DataSet5_Align_cue_626_to_938_unc\Wilcoxon_03102025-1305\Cue_gDTF_20Hz\gDTF_20Hz_connectivity_report_20250313-1812.txt
+2025-03-13 18:12:24,969 - INFO - Processing Cue_gPDC_100Hz...
+2025-03-13 18:12:24,970 - INFO - Processing Data\DataSet5_Align_cue_626_to_938_unc\Wilcoxon_03102025-1305\Cue_gPDC_100Hz\gPDC_100Hz_L-R_wilcoxon.csv
+2025-03-13 18:12:24,970 - INFO - Matrix shape: (32, 32)
+2025-03-13 18:12:24,970 - INFO - Found 62 connections out of 1024 possible connections
+2025-03-13 18:12:25,843 - INFO - Created 'positive connections' connectogram for gPDC_100Hz
+2025-03-13 18:12:25,843 - INFO - Saved PNG: Data\DataSet5_Align_cue_626_to_938_unc\Wilcoxon_03102025-1305\Cue_gPDC_100Hz\gPDC_100Hz_L-R_wilcoxon_circular_connectogram_positive_20250313-1812.png
+2025-03-13 18:12:25,843 - INFO - Saved SVG: Data\DataSet5_Align_cue_626_to_938_unc\Wilcoxon_03102025-1305\Cue_gPDC_100Hz\gPDC_100Hz_L-R_wilcoxon_circular_connectogram_positive_20250313-1812.svg
+2025-03-13 18:12:26,596 - INFO - Created 'negative connections' connectogram for gPDC_100Hz
+2025-03-13 18:12:26,598 - INFO - Saved PNG: Data\DataSet5_Align_cue_626_to_938_unc\Wilcoxon_03102025-1305\Cue_gPDC_100Hz\gPDC_100Hz_L-R_wilcoxon_circular_connectogram_negative_20250313-1812.png
+2025-03-13 18:12:26,598 - INFO - Saved SVG: Data\DataSet5_Align_cue_626_to_938_unc\Wilcoxon_03102025-1305\Cue_gPDC_100Hz\gPDC_100Hz_L-R_wilcoxon_circular_connectogram_negative_20250313-1812.svg
+2025-03-13 18:12:26,599 - INFO - Saved connectivity report to: Data\DataSet5_Align_cue_626_to_938_unc\Wilcoxon_03102025-1305\Cue_gPDC_100Hz\gPDC_100Hz_connectivity_report_20250313-1812.txt
+2025-03-13 18:12:26,599 - INFO - Processing Cue_gPDC_10Hz...
+2025-03-13 18:12:26,600 - INFO - Processing Data\DataSet5_Align_cue_626_to_938_unc\Wilcoxon_03102025-1305\Cue_gPDC_10Hz\gPDC_10Hz_L-R_wilcoxon.csv
+2025-03-13 18:12:26,600 - INFO - Matrix shape: (32, 32)
+2025-03-13 18:12:26,600 - INFO - Found 67 connections out of 1024 possible connections
+2025-03-13 18:12:27,436 - INFO - Created 'positive connections' connectogram for gPDC_10Hz
+2025-03-13 18:12:27,437 - INFO - Saved PNG: Data\DataSet5_Align_cue_626_to_938_unc\Wilcoxon_03102025-1305\Cue_gPDC_10Hz\gPDC_10Hz_L-R_wilcoxon_circular_connectogram_positive_20250313-1812.png
+2025-03-13 18:12:27,437 - INFO - Saved SVG: Data\DataSet5_Align_cue_626_to_938_unc\Wilcoxon_03102025-1305\Cue_gPDC_10Hz\gPDC_10Hz_L-R_wilcoxon_circular_connectogram_positive_20250313-1812.svg
+2025-03-13 18:12:28,225 - INFO - Created 'negative connections' connectogram for gPDC_10Hz
+2025-03-13 18:12:28,226 - INFO - Saved PNG: Data\DataSet5_Align_cue_626_to_938_unc\Wilcoxon_03102025-1305\Cue_gPDC_10Hz\gPDC_10Hz_L-R_wilcoxon_circular_connectogram_negative_20250313-1812.png
+2025-03-13 18:12:28,226 - INFO - Saved SVG: Data\DataSet5_Align_cue_626_to_938_unc\Wilcoxon_03102025-1305\Cue_gPDC_10Hz\gPDC_10Hz_L-R_wilcoxon_circular_connectogram_negative_20250313-1812.svg
+2025-03-13 18:12:28,227 - INFO - Saved connectivity report to: Data\DataSet5_Align_cue_626_to_938_unc\Wilcoxon_03102025-1305\Cue_gPDC_10Hz\gPDC_10Hz_connectivity_report_20250313-1812.txt
+2025-03-13 18:12:28,227 - INFO - Processing Cue_gPDC_20Hz...
+2025-03-13 18:12:28,227 - INFO - Processing Data\DataSet5_Align_cue_626_to_938_unc\Wilcoxon_03102025-1305\Cue_gPDC_20Hz\gPDC_20Hz_L-R_wilcoxon.csv
+2025-03-13 18:12:28,228 - INFO - Matrix shape: (32, 32)
+2025-03-13 18:12:28,228 - INFO - Found 70 connections out of 1024 possible connections
+2025-03-13 18:12:29,088 - INFO - Created 'positive connections' connectogram for gPDC_20Hz
+2025-03-13 18:12:29,088 - INFO - Saved PNG: Data\DataSet5_Align_cue_626_to_938_unc\Wilcoxon_03102025-1305\Cue_gPDC_20Hz\gPDC_20Hz_L-R_wilcoxon_circular_connectogram_positive_20250313-1812.png
+2025-03-13 18:12:29,088 - INFO - Saved SVG: Data\DataSet5_Align_cue_626_to_938_unc\Wilcoxon_03102025-1305\Cue_gPDC_20Hz\gPDC_20Hz_L-R_wilcoxon_circular_connectogram_positive_20250313-1812.svg
+2025-03-13 18:12:29,911 - INFO - Created 'negative connections' connectogram for gPDC_20Hz
+2025-03-13 18:12:29,911 - INFO - Saved PNG: Data\DataSet5_Align_cue_626_to_938_unc\Wilcoxon_03102025-1305\Cue_gPDC_20Hz\gPDC_20Hz_L-R_wilcoxon_circular_connectogram_negative_20250313-1812.png
+2025-03-13 18:12:29,911 - INFO - Saved SVG: Data\DataSet5_Align_cue_626_to_938_unc\Wilcoxon_03102025-1305\Cue_gPDC_20Hz\gPDC_20Hz_L-R_wilcoxon_circular_connectogram_negative_20250313-1812.svg
+2025-03-13 18:12:29,912 - INFO - Saved connectivity report to: Data\DataSet5_Align_cue_626_to_938_unc\Wilcoxon_03102025-1305\Cue_gPDC_20Hz\gPDC_20Hz_connectivity_report_20250313-1812.txt
+2025-03-13 18:12:29,913 - INFO - Processing Cue_iPDC_100Hz...
+2025-03-13 18:12:29,914 - INFO - Processing Data\DataSet5_Align_cue_626_to_938_unc\Wilcoxon_03102025-1305\Cue_iPDC_100Hz\iPDC_100Hz_L-R_wilcoxon.csv
+2025-03-13 18:12:29,914 - INFO - Matrix shape: (32, 32)
+2025-03-13 18:12:29,914 - INFO - Found 59 connections out of 1024 possible connections
+2025-03-13 18:12:30,729 - INFO - Created 'positive connections' connectogram for iPDC_100Hz
+2025-03-13 18:12:30,729 - INFO - Saved PNG: Data\DataSet5_Align_cue_626_to_938_unc\Wilcoxon_03102025-1305\Cue_iPDC_100Hz\iPDC_100Hz_L-R_wilcoxon_circular_connectogram_positive_20250313-1812.png
+2025-03-13 18:12:30,730 - INFO - Saved SVG: Data\DataSet5_Align_cue_626_to_938_unc\Wilcoxon_03102025-1305\Cue_iPDC_100Hz\iPDC_100Hz_L-R_wilcoxon_circular_connectogram_positive_20250313-1812.svg
+2025-03-13 18:12:31,598 - INFO - Created 'negative connections' connectogram for iPDC_100Hz
+2025-03-13 18:12:31,598 - INFO - Saved PNG: Data\DataSet5_Align_cue_626_to_938_unc\Wilcoxon_03102025-1305\Cue_iPDC_100Hz\iPDC_100Hz_L-R_wilcoxon_circular_connectogram_negative_20250313-1812.png
+2025-03-13 18:12:31,598 - INFO - Saved SVG: Data\DataSet5_Align_cue_626_to_938_unc\Wilcoxon_03102025-1305\Cue_iPDC_100Hz\iPDC_100Hz_L-R_wilcoxon_circular_connectogram_negative_20250313-1812.svg
+2025-03-13 18:12:31,600 - INFO - Saved connectivity report to: Data\DataSet5_Align_cue_626_to_938_unc\Wilcoxon_03102025-1305\Cue_iPDC_100Hz\iPDC_100Hz_connectivity_report_20250313-1812.txt
+2025-03-13 18:12:31,600 - INFO - Processing Cue_iPDC_10Hz...
+2025-03-13 18:12:31,601 - INFO - Processing Data\DataSet5_Align_cue_626_to_938_unc\Wilcoxon_03102025-1305\Cue_iPDC_10Hz\iPDC_10Hz_L-R_wilcoxon.csv
+2025-03-13 18:12:31,601 - INFO - Matrix shape: (32, 32)
+2025-03-13 18:12:31,602 - INFO - Found 65 connections out of 1024 possible connections
+2025-03-13 18:12:32,589 - INFO - Created 'positive connections' connectogram for iPDC_10Hz
+2025-03-13 18:12:32,590 - INFO - Saved PNG: Data\DataSet5_Align_cue_626_to_938_unc\Wilcoxon_03102025-1305\Cue_iPDC_10Hz\iPDC_10Hz_L-R_wilcoxon_circular_connectogram_positive_20250313-1812.png
+2025-03-13 18:12:32,590 - INFO - Saved SVG: Data\DataSet5_Align_cue_626_to_938_unc\Wilcoxon_03102025-1305\Cue_iPDC_10Hz\iPDC_10Hz_L-R_wilcoxon_circular_connectogram_positive_20250313-1812.svg
+2025-03-13 18:12:33,376 - INFO - Created 'negative connections' connectogram for iPDC_10Hz
+2025-03-13 18:12:33,378 - INFO - Saved PNG: Data\DataSet5_Align_cue_626_to_938_unc\Wilcoxon_03102025-1305\Cue_iPDC_10Hz\iPDC_10Hz_L-R_wilcoxon_circular_connectogram_negative_20250313-1812.png
+2025-03-13 18:12:33,378 - INFO - Saved SVG: Data\DataSet5_Align_cue_626_to_938_unc\Wilcoxon_03102025-1305\Cue_iPDC_10Hz\iPDC_10Hz_L-R_wilcoxon_circular_connectogram_negative_20250313-1812.svg
+2025-03-13 18:12:33,379 - INFO - Saved connectivity report to: Data\DataSet5_Align_cue_626_to_938_unc\Wilcoxon_03102025-1305\Cue_iPDC_10Hz\iPDC_10Hz_connectivity_report_20250313-1812.txt
+2025-03-13 18:12:33,379 - INFO - Processing Cue_iPDC_20Hz...
+2025-03-13 18:12:33,380 - INFO - Processing Data\DataSet5_Align_cue_626_to_938_unc\Wilcoxon_03102025-1305\Cue_iPDC_20Hz\iPDC_20Hz_L-R_wilcoxon.csv
+2025-03-13 18:12:33,380 - INFO - Matrix shape: (32, 32)
+2025-03-13 18:12:33,380 - INFO - Found 62 connections out of 1024 possible connections
+2025-03-13 18:12:34,215 - INFO - Created 'positive connections' connectogram for iPDC_20Hz
+2025-03-13 18:12:34,215 - INFO - Saved PNG: Data\DataSet5_Align_cue_626_to_938_unc\Wilcoxon_03102025-1305\Cue_iPDC_20Hz\iPDC_20Hz_L-R_wilcoxon_circular_connectogram_positive_20250313-1812.png
+2025-03-13 18:12:34,215 - INFO - Saved SVG: Data\DataSet5_Align_cue_626_to_938_unc\Wilcoxon_03102025-1305\Cue_iPDC_20Hz\iPDC_20Hz_L-R_wilcoxon_circular_connectogram_positive_20250313-1812.svg
+2025-03-13 18:12:35,046 - INFO - Created 'negative connections' connectogram for iPDC_20Hz
+2025-03-13 18:12:35,046 - INFO - Saved PNG: Data\DataSet5_Align_cue_626_to_938_unc\Wilcoxon_03102025-1305\Cue_iPDC_20Hz\iPDC_20Hz_L-R_wilcoxon_circular_connectogram_negative_20250313-1812.png
+2025-03-13 18:12:35,046 - INFO - Saved SVG: Data\DataSet5_Align_cue_626_to_938_unc\Wilcoxon_03102025-1305\Cue_iPDC_20Hz\iPDC_20Hz_L-R_wilcoxon_circular_connectogram_negative_20250313-1812.svg
+2025-03-13 18:12:35,047 - INFO - Saved connectivity report to: Data\DataSet5_Align_cue_626_to_938_unc\Wilcoxon_03102025-1305\Cue_iPDC_20Hz\iPDC_20Hz_connectivity_report_20250313-1812.txt
+2025-03-13 18:12:35,047 - INFO - 
+---------------------
+2025-03-13 18:12:35,047 - INFO - Processing complete!
+2025-03-13 18:12:35,047 - INFO - Folders processed: 9
+2025-03-13 18:12:35,048 - INFO - Visualizations created: 18
+2025-03-13 18:12:35,048 - INFO - Errors encountered: 0
+2025-03-13 18:12:35,049 - INFO - Process completed at: 2025-03-13 18:12:35

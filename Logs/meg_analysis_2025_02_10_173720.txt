@@ -1,0 +1,79 @@
+MEG Analysis Framework
+=====================
+Selected dataset: DataSet2_unc
+Process started at: 2025-02-10 17:37:20
+---------------------
+
+Analyzing dataset structure...
+
+Dataset Structure:
+Alignments: ['cue', 'mov']
+Targets: ['L', 'R']
+Methods: ['gDTF', 'gPDC', 'iPDC']
+Frequencies: ['100Hz', '10Hz', '20Hz']
+Subjects: ['BG', 'DOC', 'GB', 'JDC', 'JFXD', 'JZ', 'LT', 'NvA', 'RR', 'SJB']
+Starting Top 10 Analysis...
+
+Processing: mov_iPDC_100Hz
+Created plot: mov_iPDC_100Hz_top10.png
+
+Processing: mov_iPDC_20Hz
+Created plot: mov_iPDC_20Hz_top10.png
+
+Processing: mov_iPDC_10Hz
+Created plot: mov_iPDC_10Hz_top10.png
+
+Processing: mov_gDTF_100Hz
+Created plot: mov_gDTF_100Hz_top10.png
+
+Processing: mov_gDTF_20Hz
+Created plot: mov_gDTF_20Hz_top10.png
+
+Processing: mov_gDTF_10Hz
+Created plot: mov_gDTF_10Hz_top10.png
+
+Processing: mov_gPDC_100Hz
+Created plot: mov_gPDC_100Hz_top10.png
+
+Processing: mov_gPDC_20Hz
+Created plot: mov_gPDC_20Hz_top10.png
+
+Processing: mov_gPDC_10Hz
+Created plot: mov_gPDC_10Hz_top10.png
+
+Processing: cue_iPDC_100Hz
+Created plot: cue_iPDC_100Hz_top10.png
+
+Processing: cue_iPDC_20Hz
+Created plot: cue_iPDC_20Hz_top10.png
+
+Processing: cue_iPDC_10Hz
+Created plot: cue_iPDC_10Hz_top10.png
+
+Processing: cue_gDTF_100Hz
+Created plot: cue_gDTF_100Hz_top10.png
+
+Processing: cue_gDTF_20Hz
+Created plot: cue_gDTF_20Hz_top10.png
+
+Processing: cue_gDTF_10Hz
+Created plot: cue_gDTF_10Hz_top10.png
+
+Processing: cue_gPDC_100Hz
+Created plot: cue_gPDC_100Hz_top10.png
+
+Processing: cue_gPDC_20Hz
+Created plot: cue_gPDC_20Hz_top10.png
+
+Processing: cue_gPDC_10Hz
+Created plot: cue_gPDC_10Hz_top10.png
+
+Analysis complete. Created 18 plots.
+
+Operation Summary
+================
+Files processed: 396
+Plots created: 18
+Errors encountered: 0
+
+Process completed at: 2025-02-10 17:37:34

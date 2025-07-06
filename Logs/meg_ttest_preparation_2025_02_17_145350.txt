@@ -1,0 +1,1027 @@
+MEG T-test Data Preparation
+==========================
+Selected dataset: DataSet2_unc
+Excluding iDTF: True
+Process started at: 2025-02-17 14:53:50
+---------------------
+
+Starting T-test data preparation...
+Found 18 valid combinations
+
+Processing: cue_gDTF_100Hz
+Searching for pattern 'cue_L_gDTF_100Hz_average.csv' in Data\DataSet2_unc\cue\L\gDTF_100Hz
+No average file found in Data\DataSet2_unc\cue\L\gDTF_100Hz
+Searching for pattern 'cue_R_gDTF_100Hz_average.csv' in Data\DataSet2_unc\cue\R\gDTF_100Hz
+No average file found in Data\DataSet2_unc\cue\R\gDTF_100Hz
+Processing subject: BG
+Searching for pattern 'cue_L_gDTF_100Hz_BG_average.csv' in Data\DataSet2_unc\cue\L\gDTF_100Hz\BG
+No average file found in Data\DataSet2_unc\cue\L\gDTF_100Hz\BG
+Searching for pattern 'cue_R_gDTF_100Hz_BG_average.csv' in Data\DataSet2_unc\cue\R\gDTF_100Hz\BG
+No average file found in Data\DataSet2_unc\cue\R\gDTF_100Hz\BG
+Processing subject: DOC
+Searching for pattern 'cue_L_gDTF_100Hz_DOC_average.csv' in Data\DataSet2_unc\cue\L\gDTF_100Hz\DOC
+No average file found in Data\DataSet2_unc\cue\L\gDTF_100Hz\DOC
+Searching for pattern 'cue_R_gDTF_100Hz_DOC_average.csv' in Data\DataSet2_unc\cue\R\gDTF_100Hz\DOC
+No average file found in Data\DataSet2_unc\cue\R\gDTF_100Hz\DOC
+Processing subject: GB
+Searching for pattern 'cue_L_gDTF_100Hz_GB_average.csv' in Data\DataSet2_unc\cue\L\gDTF_100Hz\GB
+No average file found in Data\DataSet2_unc\cue\L\gDTF_100Hz\GB
+Searching for pattern 'cue_R_gDTF_100Hz_GB_average.csv' in Data\DataSet2_unc\cue\R\gDTF_100Hz\GB
+No average file found in Data\DataSet2_unc\cue\R\gDTF_100Hz\GB
+Processing subject: JDC
+Searching for pattern 'cue_L_gDTF_100Hz_JDC_average.csv' in Data\DataSet2_unc\cue\L\gDTF_100Hz\JDC
+No average file found in Data\DataSet2_unc\cue\L\gDTF_100Hz\JDC
+Searching for pattern 'cue_R_gDTF_100Hz_JDC_average.csv' in Data\DataSet2_unc\cue\R\gDTF_100Hz\JDC
+No average file found in Data\DataSet2_unc\cue\R\gDTF_100Hz\JDC
+Processing subject: JFXD
+Searching for pattern 'cue_L_gDTF_100Hz_JFXD_average.csv' in Data\DataSet2_unc\cue\L\gDTF_100Hz\JFXD
+No average file found in Data\DataSet2_unc\cue\L\gDTF_100Hz\JFXD
+Searching for pattern 'cue_R_gDTF_100Hz_JFXD_average.csv' in Data\DataSet2_unc\cue\R\gDTF_100Hz\JFXD
+No average file found in Data\DataSet2_unc\cue\R\gDTF_100Hz\JFXD
+Processing subject: JZ
+Searching for pattern 'cue_L_gDTF_100Hz_JZ_average.csv' in Data\DataSet2_unc\cue\L\gDTF_100Hz\JZ
+No average file found in Data\DataSet2_unc\cue\L\gDTF_100Hz\JZ
+Searching for pattern 'cue_R_gDTF_100Hz_JZ_average.csv' in Data\DataSet2_unc\cue\R\gDTF_100Hz\JZ
+No average file found in Data\DataSet2_unc\cue\R\gDTF_100Hz\JZ
+Processing subject: LT
+Searching for pattern 'cue_L_gDTF_100Hz_LT_average.csv' in Data\DataSet2_unc\cue\L\gDTF_100Hz\LT
+No average file found in Data\DataSet2_unc\cue\L\gDTF_100Hz\LT
+Searching for pattern 'cue_R_gDTF_100Hz_LT_average.csv' in Data\DataSet2_unc\cue\R\gDTF_100Hz\LT
+No average file found in Data\DataSet2_unc\cue\R\gDTF_100Hz\LT
+Processing subject: NvA
+Searching for pattern 'cue_L_gDTF_100Hz_NvA_average.csv' in Data\DataSet2_unc\cue\L\gDTF_100Hz\NvA
+No average file found in Data\DataSet2_unc\cue\L\gDTF_100Hz\NvA
+Searching for pattern 'cue_R_gDTF_100Hz_NvA_average.csv' in Data\DataSet2_unc\cue\R\gDTF_100Hz\NvA
+No average file found in Data\DataSet2_unc\cue\R\gDTF_100Hz\NvA
+Processing subject: RR
+Searching for pattern 'cue_L_gDTF_100Hz_RR_average.csv' in Data\DataSet2_unc\cue\L\gDTF_100Hz\RR
+No average file found in Data\DataSet2_unc\cue\L\gDTF_100Hz\RR
+Searching for pattern 'cue_R_gDTF_100Hz_RR_average.csv' in Data\DataSet2_unc\cue\R\gDTF_100Hz\RR
+No average file found in Data\DataSet2_unc\cue\R\gDTF_100Hz\RR
+Processing subject: SJB
+Searching for pattern 'cue_L_gDTF_100Hz_SJB_average.csv' in Data\DataSet2_unc\cue\L\gDTF_100Hz\SJB
+No average file found in Data\DataSet2_unc\cue\L\gDTF_100Hz\SJB
+Searching for pattern 'cue_R_gDTF_100Hz_SJB_average.csv' in Data\DataSet2_unc\cue\R\gDTF_100Hz\SJB
+No average file found in Data\DataSet2_unc\cue\R\gDTF_100Hz\SJB
+
+Processing: cue_gDTF_10Hz
+Searching for pattern 'cue_L_gDTF_10Hz_average.csv' in Data\DataSet2_unc\cue\L\gDTF_10Hz
+No average file found in Data\DataSet2_unc\cue\L\gDTF_10Hz
+Searching for pattern 'cue_R_gDTF_10Hz_average.csv' in Data\DataSet2_unc\cue\R\gDTF_10Hz
+No average file found in Data\DataSet2_unc\cue\R\gDTF_10Hz
+Processing subject: BG
+Searching for pattern 'cue_L_gDTF_10Hz_BG_average.csv' in Data\DataSet2_unc\cue\L\gDTF_10Hz\BG
+No average file found in Data\DataSet2_unc\cue\L\gDTF_10Hz\BG
+Searching for pattern 'cue_R_gDTF_10Hz_BG_average.csv' in Data\DataSet2_unc\cue\R\gDTF_10Hz\BG
+No average file found in Data\DataSet2_unc\cue\R\gDTF_10Hz\BG
+Processing subject: DOC
+Searching for pattern 'cue_L_gDTF_10Hz_DOC_average.csv' in Data\DataSet2_unc\cue\L\gDTF_10Hz\DOC
+No average file found in Data\DataSet2_unc\cue\L\gDTF_10Hz\DOC
+Searching for pattern 'cue_R_gDTF_10Hz_DOC_average.csv' in Data\DataSet2_unc\cue\R\gDTF_10Hz\DOC
+No average file found in Data\DataSet2_unc\cue\R\gDTF_10Hz\DOC
+Processing subject: GB
+Searching for pattern 'cue_L_gDTF_10Hz_GB_average.csv' in Data\DataSet2_unc\cue\L\gDTF_10Hz\GB
+No average file found in Data\DataSet2_unc\cue\L\gDTF_10Hz\GB
+Searching for pattern 'cue_R_gDTF_10Hz_GB_average.csv' in Data\DataSet2_unc\cue\R\gDTF_10Hz\GB
+No average file found in Data\DataSet2_unc\cue\R\gDTF_10Hz\GB
+Processing subject: JDC
+Searching for pattern 'cue_L_gDTF_10Hz_JDC_average.csv' in Data\DataSet2_unc\cue\L\gDTF_10Hz\JDC
+No average file found in Data\DataSet2_unc\cue\L\gDTF_10Hz\JDC
+Searching for pattern 'cue_R_gDTF_10Hz_JDC_average.csv' in Data\DataSet2_unc\cue\R\gDTF_10Hz\JDC
+No average file found in Data\DataSet2_unc\cue\R\gDTF_10Hz\JDC
+Processing subject: JFXD
+Searching for pattern 'cue_L_gDTF_10Hz_JFXD_average.csv' in Data\DataSet2_unc\cue\L\gDTF_10Hz\JFXD
+No average file found in Data\DataSet2_unc\cue\L\gDTF_10Hz\JFXD
+Searching for pattern 'cue_R_gDTF_10Hz_JFXD_average.csv' in Data\DataSet2_unc\cue\R\gDTF_10Hz\JFXD
+No average file found in Data\DataSet2_unc\cue\R\gDTF_10Hz\JFXD
+Processing subject: JZ
+Searching for pattern 'cue_L_gDTF_10Hz_JZ_average.csv' in Data\DataSet2_unc\cue\L\gDTF_10Hz\JZ
+No average file found in Data\DataSet2_unc\cue\L\gDTF_10Hz\JZ
+Searching for pattern 'cue_R_gDTF_10Hz_JZ_average.csv' in Data\DataSet2_unc\cue\R\gDTF_10Hz\JZ
+No average file found in Data\DataSet2_unc\cue\R\gDTF_10Hz\JZ
+Processing subject: LT
+Searching for pattern 'cue_L_gDTF_10Hz_LT_average.csv' in Data\DataSet2_unc\cue\L\gDTF_10Hz\LT
+No average file found in Data\DataSet2_unc\cue\L\gDTF_10Hz\LT
+Searching for pattern 'cue_R_gDTF_10Hz_LT_average.csv' in Data\DataSet2_unc\cue\R\gDTF_10Hz\LT
+No average file found in Data\DataSet2_unc\cue\R\gDTF_10Hz\LT
+Processing subject: NvA
+Searching for pattern 'cue_L_gDTF_10Hz_NvA_average.csv' in Data\DataSet2_unc\cue\L\gDTF_10Hz\NvA
+No average file found in Data\DataSet2_unc\cue\L\gDTF_10Hz\NvA
+Searching for pattern 'cue_R_gDTF_10Hz_NvA_average.csv' in Data\DataSet2_unc\cue\R\gDTF_10Hz\NvA
+No average file found in Data\DataSet2_unc\cue\R\gDTF_10Hz\NvA
+Processing subject: RR
+Searching for pattern 'cue_L_gDTF_10Hz_RR_average.csv' in Data\DataSet2_unc\cue\L\gDTF_10Hz\RR
+No average file found in Data\DataSet2_unc\cue\L\gDTF_10Hz\RR
+Searching for pattern 'cue_R_gDTF_10Hz_RR_average.csv' in Data\DataSet2_unc\cue\R\gDTF_10Hz\RR
+No average file found in Data\DataSet2_unc\cue\R\gDTF_10Hz\RR
+Processing subject: SJB
+Searching for pattern 'cue_L_gDTF_10Hz_SJB_average.csv' in Data\DataSet2_unc\cue\L\gDTF_10Hz\SJB
+No average file found in Data\DataSet2_unc\cue\L\gDTF_10Hz\SJB
+Searching for pattern 'cue_R_gDTF_10Hz_SJB_average.csv' in Data\DataSet2_unc\cue\R\gDTF_10Hz\SJB
+No average file found in Data\DataSet2_unc\cue\R\gDTF_10Hz\SJB
+
+Processing: cue_gDTF_20Hz
+Searching for pattern 'cue_L_gDTF_20Hz_average.csv' in Data\DataSet2_unc\cue\L\gDTF_20Hz
+No average file found in Data\DataSet2_unc\cue\L\gDTF_20Hz
+Searching for pattern 'cue_R_gDTF_20Hz_average.csv' in Data\DataSet2_unc\cue\R\gDTF_20Hz
+No average file found in Data\DataSet2_unc\cue\R\gDTF_20Hz
+Processing subject: BG
+Searching for pattern 'cue_L_gDTF_20Hz_BG_average.csv' in Data\DataSet2_unc\cue\L\gDTF_20Hz\BG
+No average file found in Data\DataSet2_unc\cue\L\gDTF_20Hz\BG
+Searching for pattern 'cue_R_gDTF_20Hz_BG_average.csv' in Data\DataSet2_unc\cue\R\gDTF_20Hz\BG
+No average file found in Data\DataSet2_unc\cue\R\gDTF_20Hz\BG
+Processing subject: DOC
+Searching for pattern 'cue_L_gDTF_20Hz_DOC_average.csv' in Data\DataSet2_unc\cue\L\gDTF_20Hz\DOC
+No average file found in Data\DataSet2_unc\cue\L\gDTF_20Hz\DOC
+Searching for pattern 'cue_R_gDTF_20Hz_DOC_average.csv' in Data\DataSet2_unc\cue\R\gDTF_20Hz\DOC
+No average file found in Data\DataSet2_unc\cue\R\gDTF_20Hz\DOC
+Processing subject: GB
+Searching for pattern 'cue_L_gDTF_20Hz_GB_average.csv' in Data\DataSet2_unc\cue\L\gDTF_20Hz\GB
+No average file found in Data\DataSet2_unc\cue\L\gDTF_20Hz\GB
+Searching for pattern 'cue_R_gDTF_20Hz_GB_average.csv' in Data\DataSet2_unc\cue\R\gDTF_20Hz\GB
+No average file found in Data\DataSet2_unc\cue\R\gDTF_20Hz\GB
+Processing subject: JDC
+Searching for pattern 'cue_L_gDTF_20Hz_JDC_average.csv' in Data\DataSet2_unc\cue\L\gDTF_20Hz\JDC
+No average file found in Data\DataSet2_unc\cue\L\gDTF_20Hz\JDC
+Searching for pattern 'cue_R_gDTF_20Hz_JDC_average.csv' in Data\DataSet2_unc\cue\R\gDTF_20Hz\JDC
+No average file found in Data\DataSet2_unc\cue\R\gDTF_20Hz\JDC
+Processing subject: JFXD
+Searching for pattern 'cue_L_gDTF_20Hz_JFXD_average.csv' in Data\DataSet2_unc\cue\L\gDTF_20Hz\JFXD
+No average file found in Data\DataSet2_unc\cue\L\gDTF_20Hz\JFXD
+Searching for pattern 'cue_R_gDTF_20Hz_JFXD_average.csv' in Data\DataSet2_unc\cue\R\gDTF_20Hz\JFXD
+No average file found in Data\DataSet2_unc\cue\R\gDTF_20Hz\JFXD
+Processing subject: JZ
+Searching for pattern 'cue_L_gDTF_20Hz_JZ_average.csv' in Data\DataSet2_unc\cue\L\gDTF_20Hz\JZ
+No average file found in Data\DataSet2_unc\cue\L\gDTF_20Hz\JZ
+Searching for pattern 'cue_R_gDTF_20Hz_JZ_average.csv' in Data\DataSet2_unc\cue\R\gDTF_20Hz\JZ
+No average file found in Data\DataSet2_unc\cue\R\gDTF_20Hz\JZ
+Processing subject: LT
+Searching for pattern 'cue_L_gDTF_20Hz_LT_average.csv' in Data\DataSet2_unc\cue\L\gDTF_20Hz\LT
+No average file found in Data\DataSet2_unc\cue\L\gDTF_20Hz\LT
+Searching for pattern 'cue_R_gDTF_20Hz_LT_average.csv' in Data\DataSet2_unc\cue\R\gDTF_20Hz\LT
+No average file found in Data\DataSet2_unc\cue\R\gDTF_20Hz\LT
+Processing subject: NvA
+Searching for pattern 'cue_L_gDTF_20Hz_NvA_average.csv' in Data\DataSet2_unc\cue\L\gDTF_20Hz\NvA
+No average file found in Data\DataSet2_unc\cue\L\gDTF_20Hz\NvA
+Searching for pattern 'cue_R_gDTF_20Hz_NvA_average.csv' in Data\DataSet2_unc\cue\R\gDTF_20Hz\NvA
+No average file found in Data\DataSet2_unc\cue\R\gDTF_20Hz\NvA
+Processing subject: RR
+Searching for pattern 'cue_L_gDTF_20Hz_RR_average.csv' in Data\DataSet2_unc\cue\L\gDTF_20Hz\RR
+No average file found in Data\DataSet2_unc\cue\L\gDTF_20Hz\RR
+Searching for pattern 'cue_R_gDTF_20Hz_RR_average.csv' in Data\DataSet2_unc\cue\R\gDTF_20Hz\RR
+No average file found in Data\DataSet2_unc\cue\R\gDTF_20Hz\RR
+Processing subject: SJB
+Searching for pattern 'cue_L_gDTF_20Hz_SJB_average.csv' in Data\DataSet2_unc\cue\L\gDTF_20Hz\SJB
+No average file found in Data\DataSet2_unc\cue\L\gDTF_20Hz\SJB
+Searching for pattern 'cue_R_gDTF_20Hz_SJB_average.csv' in Data\DataSet2_unc\cue\R\gDTF_20Hz\SJB
+No average file found in Data\DataSet2_unc\cue\R\gDTF_20Hz\SJB
+
+Processing: cue_gPDC_100Hz
+Searching for pattern 'cue_L_gPDC_100Hz_average.csv' in Data\DataSet2_unc\cue\L\gPDC_100Hz
+No average file found in Data\DataSet2_unc\cue\L\gPDC_100Hz
+Searching for pattern 'cue_R_gPDC_100Hz_average.csv' in Data\DataSet2_unc\cue\R\gPDC_100Hz
+No average file found in Data\DataSet2_unc\cue\R\gPDC_100Hz
+Processing subject: BG
+Searching for pattern 'cue_L_gPDC_100Hz_BG_average.csv' in Data\DataSet2_unc\cue\L\gPDC_100Hz\BG
+No average file found in Data\DataSet2_unc\cue\L\gPDC_100Hz\BG
+Searching for pattern 'cue_R_gPDC_100Hz_BG_average.csv' in Data\DataSet2_unc\cue\R\gPDC_100Hz\BG
+No average file found in Data\DataSet2_unc\cue\R\gPDC_100Hz\BG
+Processing subject: DOC
+Searching for pattern 'cue_L_gPDC_100Hz_DOC_average.csv' in Data\DataSet2_unc\cue\L\gPDC_100Hz\DOC
+No average file found in Data\DataSet2_unc\cue\L\gPDC_100Hz\DOC
+Searching for pattern 'cue_R_gPDC_100Hz_DOC_average.csv' in Data\DataSet2_unc\cue\R\gPDC_100Hz\DOC
+No average file found in Data\DataSet2_unc\cue\R\gPDC_100Hz\DOC
+Processing subject: GB
+Searching for pattern 'cue_L_gPDC_100Hz_GB_average.csv' in Data\DataSet2_unc\cue\L\gPDC_100Hz\GB
+No average file found in Data\DataSet2_unc\cue\L\gPDC_100Hz\GB
+Searching for pattern 'cue_R_gPDC_100Hz_GB_average.csv' in Data\DataSet2_unc\cue\R\gPDC_100Hz\GB
+No average file found in Data\DataSet2_unc\cue\R\gPDC_100Hz\GB
+Processing subject: JDC
+Searching for pattern 'cue_L_gPDC_100Hz_JDC_average.csv' in Data\DataSet2_unc\cue\L\gPDC_100Hz\JDC
+No average file found in Data\DataSet2_unc\cue\L\gPDC_100Hz\JDC
+Searching for pattern 'cue_R_gPDC_100Hz_JDC_average.csv' in Data\DataSet2_unc\cue\R\gPDC_100Hz\JDC
+No average file found in Data\DataSet2_unc\cue\R\gPDC_100Hz\JDC
+Processing subject: JFXD
+Searching for pattern 'cue_L_gPDC_100Hz_JFXD_average.csv' in Data\DataSet2_unc\cue\L\gPDC_100Hz\JFXD
+No average file found in Data\DataSet2_unc\cue\L\gPDC_100Hz\JFXD
+Searching for pattern 'cue_R_gPDC_100Hz_JFXD_average.csv' in Data\DataSet2_unc\cue\R\gPDC_100Hz\JFXD
+No average file found in Data\DataSet2_unc\cue\R\gPDC_100Hz\JFXD
+Processing subject: JZ
+Searching for pattern 'cue_L_gPDC_100Hz_JZ_average.csv' in Data\DataSet2_unc\cue\L\gPDC_100Hz\JZ
+No average file found in Data\DataSet2_unc\cue\L\gPDC_100Hz\JZ
+Searching for pattern 'cue_R_gPDC_100Hz_JZ_average.csv' in Data\DataSet2_unc\cue\R\gPDC_100Hz\JZ
+No average file found in Data\DataSet2_unc\cue\R\gPDC_100Hz\JZ
+Processing subject: LT
+Searching for pattern 'cue_L_gPDC_100Hz_LT_average.csv' in Data\DataSet2_unc\cue\L\gPDC_100Hz\LT
+No average file found in Data\DataSet2_unc\cue\L\gPDC_100Hz\LT
+Searching for pattern 'cue_R_gPDC_100Hz_LT_average.csv' in Data\DataSet2_unc\cue\R\gPDC_100Hz\LT
+No average file found in Data\DataSet2_unc\cue\R\gPDC_100Hz\LT
+Processing subject: NvA
+Searching for pattern 'cue_L_gPDC_100Hz_NvA_average.csv' in Data\DataSet2_unc\cue\L\gPDC_100Hz\NvA
+No average file found in Data\DataSet2_unc\cue\L\gPDC_100Hz\NvA
+Searching for pattern 'cue_R_gPDC_100Hz_NvA_average.csv' in Data\DataSet2_unc\cue\R\gPDC_100Hz\NvA
+No average file found in Data\DataSet2_unc\cue\R\gPDC_100Hz\NvA
+Processing subject: RR
+Searching for pattern 'cue_L_gPDC_100Hz_RR_average.csv' in Data\DataSet2_unc\cue\L\gPDC_100Hz\RR
+No average file found in Data\DataSet2_unc\cue\L\gPDC_100Hz\RR
+Searching for pattern 'cue_R_gPDC_100Hz_RR_average.csv' in Data\DataSet2_unc\cue\R\gPDC_100Hz\RR
+No average file found in Data\DataSet2_unc\cue\R\gPDC_100Hz\RR
+Processing subject: SJB
+Searching for pattern 'cue_L_gPDC_100Hz_SJB_average.csv' in Data\DataSet2_unc\cue\L\gPDC_100Hz\SJB
+No average file found in Data\DataSet2_unc\cue\L\gPDC_100Hz\SJB
+Searching for pattern 'cue_R_gPDC_100Hz_SJB_average.csv' in Data\DataSet2_unc\cue\R\gPDC_100Hz\SJB
+No average file found in Data\DataSet2_unc\cue\R\gPDC_100Hz\SJB
+
+Processing: cue_gPDC_10Hz
+Searching for pattern 'cue_L_gPDC_10Hz_average.csv' in Data\DataSet2_unc\cue\L\gPDC_10Hz
+No average file found in Data\DataSet2_unc\cue\L\gPDC_10Hz
+Searching for pattern 'cue_R_gPDC_10Hz_average.csv' in Data\DataSet2_unc\cue\R\gPDC_10Hz
+No average file found in Data\DataSet2_unc\cue\R\gPDC_10Hz
+Processing subject: BG
+Searching for pattern 'cue_L_gPDC_10Hz_BG_average.csv' in Data\DataSet2_unc\cue\L\gPDC_10Hz\BG
+No average file found in Data\DataSet2_unc\cue\L\gPDC_10Hz\BG
+Searching for pattern 'cue_R_gPDC_10Hz_BG_average.csv' in Data\DataSet2_unc\cue\R\gPDC_10Hz\BG
+No average file found in Data\DataSet2_unc\cue\R\gPDC_10Hz\BG
+Processing subject: DOC
+Searching for pattern 'cue_L_gPDC_10Hz_DOC_average.csv' in Data\DataSet2_unc\cue\L\gPDC_10Hz\DOC
+No average file found in Data\DataSet2_unc\cue\L\gPDC_10Hz\DOC
+Searching for pattern 'cue_R_gPDC_10Hz_DOC_average.csv' in Data\DataSet2_unc\cue\R\gPDC_10Hz\DOC
+No average file found in Data\DataSet2_unc\cue\R\gPDC_10Hz\DOC
+Processing subject: GB
+Searching for pattern 'cue_L_gPDC_10Hz_GB_average.csv' in Data\DataSet2_unc\cue\L\gPDC_10Hz\GB
+No average file found in Data\DataSet2_unc\cue\L\gPDC_10Hz\GB
+Searching for pattern 'cue_R_gPDC_10Hz_GB_average.csv' in Data\DataSet2_unc\cue\R\gPDC_10Hz\GB
+No average file found in Data\DataSet2_unc\cue\R\gPDC_10Hz\GB
+Processing subject: JDC
+Searching for pattern 'cue_L_gPDC_10Hz_JDC_average.csv' in Data\DataSet2_unc\cue\L\gPDC_10Hz\JDC
+No average file found in Data\DataSet2_unc\cue\L\gPDC_10Hz\JDC
+Searching for pattern 'cue_R_gPDC_10Hz_JDC_average.csv' in Data\DataSet2_unc\cue\R\gPDC_10Hz\JDC
+No average file found in Data\DataSet2_unc\cue\R\gPDC_10Hz\JDC
+Processing subject: JFXD
+Searching for pattern 'cue_L_gPDC_10Hz_JFXD_average.csv' in Data\DataSet2_unc\cue\L\gPDC_10Hz\JFXD
+No average file found in Data\DataSet2_unc\cue\L\gPDC_10Hz\JFXD
+Searching for pattern 'cue_R_gPDC_10Hz_JFXD_average.csv' in Data\DataSet2_unc\cue\R\gPDC_10Hz\JFXD
+No average file found in Data\DataSet2_unc\cue\R\gPDC_10Hz\JFXD
+Processing subject: JZ
+Searching for pattern 'cue_L_gPDC_10Hz_JZ_average.csv' in Data\DataSet2_unc\cue\L\gPDC_10Hz\JZ
+No average file found in Data\DataSet2_unc\cue\L\gPDC_10Hz\JZ
+Searching for pattern 'cue_R_gPDC_10Hz_JZ_average.csv' in Data\DataSet2_unc\cue\R\gPDC_10Hz\JZ
+No average file found in Data\DataSet2_unc\cue\R\gPDC_10Hz\JZ
+Processing subject: LT
+Searching for pattern 'cue_L_gPDC_10Hz_LT_average.csv' in Data\DataSet2_unc\cue\L\gPDC_10Hz\LT
+No average file found in Data\DataSet2_unc\cue\L\gPDC_10Hz\LT
+Searching for pattern 'cue_R_gPDC_10Hz_LT_average.csv' in Data\DataSet2_unc\cue\R\gPDC_10Hz\LT
+No average file found in Data\DataSet2_unc\cue\R\gPDC_10Hz\LT
+Processing subject: NvA
+Searching for pattern 'cue_L_gPDC_10Hz_NvA_average.csv' in Data\DataSet2_unc\cue\L\gPDC_10Hz\NvA
+No average file found in Data\DataSet2_unc\cue\L\gPDC_10Hz\NvA
+Searching for pattern 'cue_R_gPDC_10Hz_NvA_average.csv' in Data\DataSet2_unc\cue\R\gPDC_10Hz\NvA
+No average file found in Data\DataSet2_unc\cue\R\gPDC_10Hz\NvA
+Processing subject: RR
+Searching for pattern 'cue_L_gPDC_10Hz_RR_average.csv' in Data\DataSet2_unc\cue\L\gPDC_10Hz\RR
+No average file found in Data\DataSet2_unc\cue\L\gPDC_10Hz\RR
+Searching for pattern 'cue_R_gPDC_10Hz_RR_average.csv' in Data\DataSet2_unc\cue\R\gPDC_10Hz\RR
+No average file found in Data\DataSet2_unc\cue\R\gPDC_10Hz\RR
+Processing subject: SJB
+Searching for pattern 'cue_L_gPDC_10Hz_SJB_average.csv' in Data\DataSet2_unc\cue\L\gPDC_10Hz\SJB
+No average file found in Data\DataSet2_unc\cue\L\gPDC_10Hz\SJB
+Searching for pattern 'cue_R_gPDC_10Hz_SJB_average.csv' in Data\DataSet2_unc\cue\R\gPDC_10Hz\SJB
+No average file found in Data\DataSet2_unc\cue\R\gPDC_10Hz\SJB
+
+Processing: cue_gPDC_20Hz
+Searching for pattern 'cue_L_gPDC_20Hz_average.csv' in Data\DataSet2_unc\cue\L\gPDC_20Hz
+No average file found in Data\DataSet2_unc\cue\L\gPDC_20Hz
+Searching for pattern 'cue_R_gPDC_20Hz_average.csv' in Data\DataSet2_unc\cue\R\gPDC_20Hz
+No average file found in Data\DataSet2_unc\cue\R\gPDC_20Hz
+Processing subject: BG
+Searching for pattern 'cue_L_gPDC_20Hz_BG_average.csv' in Data\DataSet2_unc\cue\L\gPDC_20Hz\BG
+No average file found in Data\DataSet2_unc\cue\L\gPDC_20Hz\BG
+Searching for pattern 'cue_R_gPDC_20Hz_BG_average.csv' in Data\DataSet2_unc\cue\R\gPDC_20Hz\BG
+No average file found in Data\DataSet2_unc\cue\R\gPDC_20Hz\BG
+Processing subject: DOC
+Searching for pattern 'cue_L_gPDC_20Hz_DOC_average.csv' in Data\DataSet2_unc\cue\L\gPDC_20Hz\DOC
+No average file found in Data\DataSet2_unc\cue\L\gPDC_20Hz\DOC
+Searching for pattern 'cue_R_gPDC_20Hz_DOC_average.csv' in Data\DataSet2_unc\cue\R\gPDC_20Hz\DOC
+No average file found in Data\DataSet2_unc\cue\R\gPDC_20Hz\DOC
+Processing subject: GB
+Searching for pattern 'cue_L_gPDC_20Hz_GB_average.csv' in Data\DataSet2_unc\cue\L\gPDC_20Hz\GB
+No average file found in Data\DataSet2_unc\cue\L\gPDC_20Hz\GB
+Searching for pattern 'cue_R_gPDC_20Hz_GB_average.csv' in Data\DataSet2_unc\cue\R\gPDC_20Hz\GB
+No average file found in Data\DataSet2_unc\cue\R\gPDC_20Hz\GB
+Processing subject: JDC
+Searching for pattern 'cue_L_gPDC_20Hz_JDC_average.csv' in Data\DataSet2_unc\cue\L\gPDC_20Hz\JDC
+No average file found in Data\DataSet2_unc\cue\L\gPDC_20Hz\JDC
+Searching for pattern 'cue_R_gPDC_20Hz_JDC_average.csv' in Data\DataSet2_unc\cue\R\gPDC_20Hz\JDC
+No average file found in Data\DataSet2_unc\cue\R\gPDC_20Hz\JDC
+Processing subject: JFXD
+Searching for pattern 'cue_L_gPDC_20Hz_JFXD_average.csv' in Data\DataSet2_unc\cue\L\gPDC_20Hz\JFXD
+No average file found in Data\DataSet2_unc\cue\L\gPDC_20Hz\JFXD
+Searching for pattern 'cue_R_gPDC_20Hz_JFXD_average.csv' in Data\DataSet2_unc\cue\R\gPDC_20Hz\JFXD
+No average file found in Data\DataSet2_unc\cue\R\gPDC_20Hz\JFXD
+Processing subject: JZ
+Searching for pattern 'cue_L_gPDC_20Hz_JZ_average.csv' in Data\DataSet2_unc\cue\L\gPDC_20Hz\JZ
+No average file found in Data\DataSet2_unc\cue\L\gPDC_20Hz\JZ
+Searching for pattern 'cue_R_gPDC_20Hz_JZ_average.csv' in Data\DataSet2_unc\cue\R\gPDC_20Hz\JZ
+No average file found in Data\DataSet2_unc\cue\R\gPDC_20Hz\JZ
+Processing subject: LT
+Searching for pattern 'cue_L_gPDC_20Hz_LT_average.csv' in Data\DataSet2_unc\cue\L\gPDC_20Hz\LT
+No average file found in Data\DataSet2_unc\cue\L\gPDC_20Hz\LT
+Searching for pattern 'cue_R_gPDC_20Hz_LT_average.csv' in Data\DataSet2_unc\cue\R\gPDC_20Hz\LT
+No average file found in Data\DataSet2_unc\cue\R\gPDC_20Hz\LT
+Processing subject: NvA
+Searching for pattern 'cue_L_gPDC_20Hz_NvA_average.csv' in Data\DataSet2_unc\cue\L\gPDC_20Hz\NvA
+No average file found in Data\DataSet2_unc\cue\L\gPDC_20Hz\NvA
+Searching for pattern 'cue_R_gPDC_20Hz_NvA_average.csv' in Data\DataSet2_unc\cue\R\gPDC_20Hz\NvA
+No average file found in Data\DataSet2_unc\cue\R\gPDC_20Hz\NvA
+Processing subject: RR
+Searching for pattern 'cue_L_gPDC_20Hz_RR_average.csv' in Data\DataSet2_unc\cue\L\gPDC_20Hz\RR
+No average file found in Data\DataSet2_unc\cue\L\gPDC_20Hz\RR
+Searching for pattern 'cue_R_gPDC_20Hz_RR_average.csv' in Data\DataSet2_unc\cue\R\gPDC_20Hz\RR
+No average file found in Data\DataSet2_unc\cue\R\gPDC_20Hz\RR
+Processing subject: SJB
+Searching for pattern 'cue_L_gPDC_20Hz_SJB_average.csv' in Data\DataSet2_unc\cue\L\gPDC_20Hz\SJB
+No average file found in Data\DataSet2_unc\cue\L\gPDC_20Hz\SJB
+Searching for pattern 'cue_R_gPDC_20Hz_SJB_average.csv' in Data\DataSet2_unc\cue\R\gPDC_20Hz\SJB
+No average file found in Data\DataSet2_unc\cue\R\gPDC_20Hz\SJB
+
+Processing: cue_iPDC_100Hz
+Searching for pattern 'cue_L_iPDC_100Hz_average.csv' in Data\DataSet2_unc\cue\L\iPDC_100Hz
+No average file found in Data\DataSet2_unc\cue\L\iPDC_100Hz
+Searching for pattern 'cue_R_iPDC_100Hz_average.csv' in Data\DataSet2_unc\cue\R\iPDC_100Hz
+No average file found in Data\DataSet2_unc\cue\R\iPDC_100Hz
+Processing subject: BG
+Searching for pattern 'cue_L_iPDC_100Hz_BG_average.csv' in Data\DataSet2_unc\cue\L\iPDC_100Hz\BG
+No average file found in Data\DataSet2_unc\cue\L\iPDC_100Hz\BG
+Searching for pattern 'cue_R_iPDC_100Hz_BG_average.csv' in Data\DataSet2_unc\cue\R\iPDC_100Hz\BG
+No average file found in Data\DataSet2_unc\cue\R\iPDC_100Hz\BG
+Processing subject: DOC
+Searching for pattern 'cue_L_iPDC_100Hz_DOC_average.csv' in Data\DataSet2_unc\cue\L\iPDC_100Hz\DOC
+No average file found in Data\DataSet2_unc\cue\L\iPDC_100Hz\DOC
+Searching for pattern 'cue_R_iPDC_100Hz_DOC_average.csv' in Data\DataSet2_unc\cue\R\iPDC_100Hz\DOC
+No average file found in Data\DataSet2_unc\cue\R\iPDC_100Hz\DOC
+Processing subject: GB
+Searching for pattern 'cue_L_iPDC_100Hz_GB_average.csv' in Data\DataSet2_unc\cue\L\iPDC_100Hz\GB
+No average file found in Data\DataSet2_unc\cue\L\iPDC_100Hz\GB
+Searching for pattern 'cue_R_iPDC_100Hz_GB_average.csv' in Data\DataSet2_unc\cue\R\iPDC_100Hz\GB
+No average file found in Data\DataSet2_unc\cue\R\iPDC_100Hz\GB
+Processing subject: JDC
+Searching for pattern 'cue_L_iPDC_100Hz_JDC_average.csv' in Data\DataSet2_unc\cue\L\iPDC_100Hz\JDC
+No average file found in Data\DataSet2_unc\cue\L\iPDC_100Hz\JDC
+Searching for pattern 'cue_R_iPDC_100Hz_JDC_average.csv' in Data\DataSet2_unc\cue\R\iPDC_100Hz\JDC
+No average file found in Data\DataSet2_unc\cue\R\iPDC_100Hz\JDC
+Processing subject: JFXD
+Searching for pattern 'cue_L_iPDC_100Hz_JFXD_average.csv' in Data\DataSet2_unc\cue\L\iPDC_100Hz\JFXD
+No average file found in Data\DataSet2_unc\cue\L\iPDC_100Hz\JFXD
+Searching for pattern 'cue_R_iPDC_100Hz_JFXD_average.csv' in Data\DataSet2_unc\cue\R\iPDC_100Hz\JFXD
+No average file found in Data\DataSet2_unc\cue\R\iPDC_100Hz\JFXD
+Processing subject: JZ
+Searching for pattern 'cue_L_iPDC_100Hz_JZ_average.csv' in Data\DataSet2_unc\cue\L\iPDC_100Hz\JZ
+No average file found in Data\DataSet2_unc\cue\L\iPDC_100Hz\JZ
+Searching for pattern 'cue_R_iPDC_100Hz_JZ_average.csv' in Data\DataSet2_unc\cue\R\iPDC_100Hz\JZ
+No average file found in Data\DataSet2_unc\cue\R\iPDC_100Hz\JZ
+Processing subject: LT
+Searching for pattern 'cue_L_iPDC_100Hz_LT_average.csv' in Data\DataSet2_unc\cue\L\iPDC_100Hz\LT
+No average file found in Data\DataSet2_unc\cue\L\iPDC_100Hz\LT
+Searching for pattern 'cue_R_iPDC_100Hz_LT_average.csv' in Data\DataSet2_unc\cue\R\iPDC_100Hz\LT
+No average file found in Data\DataSet2_unc\cue\R\iPDC_100Hz\LT
+Processing subject: NvA
+Searching for pattern 'cue_L_iPDC_100Hz_NvA_average.csv' in Data\DataSet2_unc\cue\L\iPDC_100Hz\NvA
+No average file found in Data\DataSet2_unc\cue\L\iPDC_100Hz\NvA
+Searching for pattern 'cue_R_iPDC_100Hz_NvA_average.csv' in Data\DataSet2_unc\cue\R\iPDC_100Hz\NvA
+No average file found in Data\DataSet2_unc\cue\R\iPDC_100Hz\NvA
+Processing subject: RR
+Searching for pattern 'cue_L_iPDC_100Hz_RR_average.csv' in Data\DataSet2_unc\cue\L\iPDC_100Hz\RR
+No average file found in Data\DataSet2_unc\cue\L\iPDC_100Hz\RR
+Searching for pattern 'cue_R_iPDC_100Hz_RR_average.csv' in Data\DataSet2_unc\cue\R\iPDC_100Hz\RR
+No average file found in Data\DataSet2_unc\cue\R\iPDC_100Hz\RR
+Processing subject: SJB
+Searching for pattern 'cue_L_iPDC_100Hz_SJB_average.csv' in Data\DataSet2_unc\cue\L\iPDC_100Hz\SJB
+No average file found in Data\DataSet2_unc\cue\L\iPDC_100Hz\SJB
+Searching for pattern 'cue_R_iPDC_100Hz_SJB_average.csv' in Data\DataSet2_unc\cue\R\iPDC_100Hz\SJB
+No average file found in Data\DataSet2_unc\cue\R\iPDC_100Hz\SJB
+
+Processing: cue_iPDC_10Hz
+Searching for pattern 'cue_L_iPDC_10Hz_average.csv' in Data\DataSet2_unc\cue\L\iPDC_10Hz
+No average file found in Data\DataSet2_unc\cue\L\iPDC_10Hz
+Searching for pattern 'cue_R_iPDC_10Hz_average.csv' in Data\DataSet2_unc\cue\R\iPDC_10Hz
+No average file found in Data\DataSet2_unc\cue\R\iPDC_10Hz
+Processing subject: BG
+Searching for pattern 'cue_L_iPDC_10Hz_BG_average.csv' in Data\DataSet2_unc\cue\L\iPDC_10Hz\BG
+No average file found in Data\DataSet2_unc\cue\L\iPDC_10Hz\BG
+Searching for pattern 'cue_R_iPDC_10Hz_BG_average.csv' in Data\DataSet2_unc\cue\R\iPDC_10Hz\BG
+No average file found in Data\DataSet2_unc\cue\R\iPDC_10Hz\BG
+Processing subject: DOC
+Searching for pattern 'cue_L_iPDC_10Hz_DOC_average.csv' in Data\DataSet2_unc\cue\L\iPDC_10Hz\DOC
+No average file found in Data\DataSet2_unc\cue\L\iPDC_10Hz\DOC
+Searching for pattern 'cue_R_iPDC_10Hz_DOC_average.csv' in Data\DataSet2_unc\cue\R\iPDC_10Hz\DOC
+No average file found in Data\DataSet2_unc\cue\R\iPDC_10Hz\DOC
+Processing subject: GB
+Searching for pattern 'cue_L_iPDC_10Hz_GB_average.csv' in Data\DataSet2_unc\cue\L\iPDC_10Hz\GB
+No average file found in Data\DataSet2_unc\cue\L\iPDC_10Hz\GB
+Searching for pattern 'cue_R_iPDC_10Hz_GB_average.csv' in Data\DataSet2_unc\cue\R\iPDC_10Hz\GB
+No average file found in Data\DataSet2_unc\cue\R\iPDC_10Hz\GB
+Processing subject: JDC
+Searching for pattern 'cue_L_iPDC_10Hz_JDC_average.csv' in Data\DataSet2_unc\cue\L\iPDC_10Hz\JDC
+No average file found in Data\DataSet2_unc\cue\L\iPDC_10Hz\JDC
+Searching for pattern 'cue_R_iPDC_10Hz_JDC_average.csv' in Data\DataSet2_unc\cue\R\iPDC_10Hz\JDC
+No average file found in Data\DataSet2_unc\cue\R\iPDC_10Hz\JDC
+Processing subject: JFXD
+Searching for pattern 'cue_L_iPDC_10Hz_JFXD_average.csv' in Data\DataSet2_unc\cue\L\iPDC_10Hz\JFXD
+No average file found in Data\DataSet2_unc\cue\L\iPDC_10Hz\JFXD
+Searching for pattern 'cue_R_iPDC_10Hz_JFXD_average.csv' in Data\DataSet2_unc\cue\R\iPDC_10Hz\JFXD
+No average file found in Data\DataSet2_unc\cue\R\iPDC_10Hz\JFXD
+Processing subject: JZ
+Searching for pattern 'cue_L_iPDC_10Hz_JZ_average.csv' in Data\DataSet2_unc\cue\L\iPDC_10Hz\JZ
+No average file found in Data\DataSet2_unc\cue\L\iPDC_10Hz\JZ
+Searching for pattern 'cue_R_iPDC_10Hz_JZ_average.csv' in Data\DataSet2_unc\cue\R\iPDC_10Hz\JZ
+No average file found in Data\DataSet2_unc\cue\R\iPDC_10Hz\JZ
+Processing subject: LT
+Searching for pattern 'cue_L_iPDC_10Hz_LT_average.csv' in Data\DataSet2_unc\cue\L\iPDC_10Hz\LT
+No average file found in Data\DataSet2_unc\cue\L\iPDC_10Hz\LT
+Searching for pattern 'cue_R_iPDC_10Hz_LT_average.csv' in Data\DataSet2_unc\cue\R\iPDC_10Hz\LT
+No average file found in Data\DataSet2_unc\cue\R\iPDC_10Hz\LT
+Processing subject: NvA
+Searching for pattern 'cue_L_iPDC_10Hz_NvA_average.csv' in Data\DataSet2_unc\cue\L\iPDC_10Hz\NvA
+No average file found in Data\DataSet2_unc\cue\L\iPDC_10Hz\NvA
+Searching for pattern 'cue_R_iPDC_10Hz_NvA_average.csv' in Data\DataSet2_unc\cue\R\iPDC_10Hz\NvA
+No average file found in Data\DataSet2_unc\cue\R\iPDC_10Hz\NvA
+Processing subject: RR
+Searching for pattern 'cue_L_iPDC_10Hz_RR_average.csv' in Data\DataSet2_unc\cue\L\iPDC_10Hz\RR
+No average file found in Data\DataSet2_unc\cue\L\iPDC_10Hz\RR
+Searching for pattern 'cue_R_iPDC_10Hz_RR_average.csv' in Data\DataSet2_unc\cue\R\iPDC_10Hz\RR
+No average file found in Data\DataSet2_unc\cue\R\iPDC_10Hz\RR
+Processing subject: SJB
+Searching for pattern 'cue_L_iPDC_10Hz_SJB_average.csv' in Data\DataSet2_unc\cue\L\iPDC_10Hz\SJB
+No average file found in Data\DataSet2_unc\cue\L\iPDC_10Hz\SJB
+Searching for pattern 'cue_R_iPDC_10Hz_SJB_average.csv' in Data\DataSet2_unc\cue\R\iPDC_10Hz\SJB
+No average file found in Data\DataSet2_unc\cue\R\iPDC_10Hz\SJB
+
+Processing: cue_iPDC_20Hz
+Searching for pattern 'cue_L_iPDC_20Hz_average.csv' in Data\DataSet2_unc\cue\L\iPDC_20Hz
+No average file found in Data\DataSet2_unc\cue\L\iPDC_20Hz
+Searching for pattern 'cue_R_iPDC_20Hz_average.csv' in Data\DataSet2_unc\cue\R\iPDC_20Hz
+No average file found in Data\DataSet2_unc\cue\R\iPDC_20Hz
+Processing subject: BG
+Searching for pattern 'cue_L_iPDC_20Hz_BG_average.csv' in Data\DataSet2_unc\cue\L\iPDC_20Hz\BG
+No average file found in Data\DataSet2_unc\cue\L\iPDC_20Hz\BG
+Searching for pattern 'cue_R_iPDC_20Hz_BG_average.csv' in Data\DataSet2_unc\cue\R\iPDC_20Hz\BG
+No average file found in Data\DataSet2_unc\cue\R\iPDC_20Hz\BG
+Processing subject: DOC
+Searching for pattern 'cue_L_iPDC_20Hz_DOC_average.csv' in Data\DataSet2_unc\cue\L\iPDC_20Hz\DOC
+No average file found in Data\DataSet2_unc\cue\L\iPDC_20Hz\DOC
+Searching for pattern 'cue_R_iPDC_20Hz_DOC_average.csv' in Data\DataSet2_unc\cue\R\iPDC_20Hz\DOC
+No average file found in Data\DataSet2_unc\cue\R\iPDC_20Hz\DOC
+Processing subject: GB
+Searching for pattern 'cue_L_iPDC_20Hz_GB_average.csv' in Data\DataSet2_unc\cue\L\iPDC_20Hz\GB
+No average file found in Data\DataSet2_unc\cue\L\iPDC_20Hz\GB
+Searching for pattern 'cue_R_iPDC_20Hz_GB_average.csv' in Data\DataSet2_unc\cue\R\iPDC_20Hz\GB
+No average file found in Data\DataSet2_unc\cue\R\iPDC_20Hz\GB
+Processing subject: JDC
+Searching for pattern 'cue_L_iPDC_20Hz_JDC_average.csv' in Data\DataSet2_unc\cue\L\iPDC_20Hz\JDC
+No average file found in Data\DataSet2_unc\cue\L\iPDC_20Hz\JDC
+Searching for pattern 'cue_R_iPDC_20Hz_JDC_average.csv' in Data\DataSet2_unc\cue\R\iPDC_20Hz\JDC
+No average file found in Data\DataSet2_unc\cue\R\iPDC_20Hz\JDC
+Processing subject: JFXD
+Searching for pattern 'cue_L_iPDC_20Hz_JFXD_average.csv' in Data\DataSet2_unc\cue\L\iPDC_20Hz\JFXD
+No average file found in Data\DataSet2_unc\cue\L\iPDC_20Hz\JFXD
+Searching for pattern 'cue_R_iPDC_20Hz_JFXD_average.csv' in Data\DataSet2_unc\cue\R\iPDC_20Hz\JFXD
+No average file found in Data\DataSet2_unc\cue\R\iPDC_20Hz\JFXD
+Processing subject: JZ
+Searching for pattern 'cue_L_iPDC_20Hz_JZ_average.csv' in Data\DataSet2_unc\cue\L\iPDC_20Hz\JZ
+No average file found in Data\DataSet2_unc\cue\L\iPDC_20Hz\JZ
+Searching for pattern 'cue_R_iPDC_20Hz_JZ_average.csv' in Data\DataSet2_unc\cue\R\iPDC_20Hz\JZ
+No average file found in Data\DataSet2_unc\cue\R\iPDC_20Hz\JZ
+Processing subject: LT
+Searching for pattern 'cue_L_iPDC_20Hz_LT_average.csv' in Data\DataSet2_unc\cue\L\iPDC_20Hz\LT
+No average file found in Data\DataSet2_unc\cue\L\iPDC_20Hz\LT
+Searching for pattern 'cue_R_iPDC_20Hz_LT_average.csv' in Data\DataSet2_unc\cue\R\iPDC_20Hz\LT
+No average file found in Data\DataSet2_unc\cue\R\iPDC_20Hz\LT
+Processing subject: NvA
+Searching for pattern 'cue_L_iPDC_20Hz_NvA_average.csv' in Data\DataSet2_unc\cue\L\iPDC_20Hz\NvA
+No average file found in Data\DataSet2_unc\cue\L\iPDC_20Hz\NvA
+Searching for pattern 'cue_R_iPDC_20Hz_NvA_average.csv' in Data\DataSet2_unc\cue\R\iPDC_20Hz\NvA
+No average file found in Data\DataSet2_unc\cue\R\iPDC_20Hz\NvA
+Processing subject: RR
+Searching for pattern 'cue_L_iPDC_20Hz_RR_average.csv' in Data\DataSet2_unc\cue\L\iPDC_20Hz\RR
+No average file found in Data\DataSet2_unc\cue\L\iPDC_20Hz\RR
+Searching for pattern 'cue_R_iPDC_20Hz_RR_average.csv' in Data\DataSet2_unc\cue\R\iPDC_20Hz\RR
+No average file found in Data\DataSet2_unc\cue\R\iPDC_20Hz\RR
+Processing subject: SJB
+Searching for pattern 'cue_L_iPDC_20Hz_SJB_average.csv' in Data\DataSet2_unc\cue\L\iPDC_20Hz\SJB
+No average file found in Data\DataSet2_unc\cue\L\iPDC_20Hz\SJB
+Searching for pattern 'cue_R_iPDC_20Hz_SJB_average.csv' in Data\DataSet2_unc\cue\R\iPDC_20Hz\SJB
+No average file found in Data\DataSet2_unc\cue\R\iPDC_20Hz\SJB
+
+Processing: mov_gDTF_100Hz
+Searching for pattern 'mov_L_gDTF_100Hz_average.csv' in Data\DataSet2_unc\mov\L\gDTF_100Hz
+No average file found in Data\DataSet2_unc\mov\L\gDTF_100Hz
+Searching for pattern 'mov_R_gDTF_100Hz_average.csv' in Data\DataSet2_unc\mov\R\gDTF_100Hz
+No average file found in Data\DataSet2_unc\mov\R\gDTF_100Hz
+Processing subject: BG
+Searching for pattern 'mov_L_gDTF_100Hz_BG_average.csv' in Data\DataSet2_unc\mov\L\gDTF_100Hz\BG
+No average file found in Data\DataSet2_unc\mov\L\gDTF_100Hz\BG
+Searching for pattern 'mov_R_gDTF_100Hz_BG_average.csv' in Data\DataSet2_unc\mov\R\gDTF_100Hz\BG
+No average file found in Data\DataSet2_unc\mov\R\gDTF_100Hz\BG
+Processing subject: DOC
+Searching for pattern 'mov_L_gDTF_100Hz_DOC_average.csv' in Data\DataSet2_unc\mov\L\gDTF_100Hz\DOC
+No average file found in Data\DataSet2_unc\mov\L\gDTF_100Hz\DOC
+Searching for pattern 'mov_R_gDTF_100Hz_DOC_average.csv' in Data\DataSet2_unc\mov\R\gDTF_100Hz\DOC
+No average file found in Data\DataSet2_unc\mov\R\gDTF_100Hz\DOC
+Processing subject: GB
+Searching for pattern 'mov_L_gDTF_100Hz_GB_average.csv' in Data\DataSet2_unc\mov\L\gDTF_100Hz\GB
+No average file found in Data\DataSet2_unc\mov\L\gDTF_100Hz\GB
+Searching for pattern 'mov_R_gDTF_100Hz_GB_average.csv' in Data\DataSet2_unc\mov\R\gDTF_100Hz\GB
+No average file found in Data\DataSet2_unc\mov\R\gDTF_100Hz\GB
+Processing subject: JDC
+Searching for pattern 'mov_L_gDTF_100Hz_JDC_average.csv' in Data\DataSet2_unc\mov\L\gDTF_100Hz\JDC
+No average file found in Data\DataSet2_unc\mov\L\gDTF_100Hz\JDC
+Searching for pattern 'mov_R_gDTF_100Hz_JDC_average.csv' in Data\DataSet2_unc\mov\R\gDTF_100Hz\JDC
+No average file found in Data\DataSet2_unc\mov\R\gDTF_100Hz\JDC
+Processing subject: JFXD
+Searching for pattern 'mov_L_gDTF_100Hz_JFXD_average.csv' in Data\DataSet2_unc\mov\L\gDTF_100Hz\JFXD
+No average file found in Data\DataSet2_unc\mov\L\gDTF_100Hz\JFXD
+Searching for pattern 'mov_R_gDTF_100Hz_JFXD_average.csv' in Data\DataSet2_unc\mov\R\gDTF_100Hz\JFXD
+No average file found in Data\DataSet2_unc\mov\R\gDTF_100Hz\JFXD
+Processing subject: JZ
+Searching for pattern 'mov_L_gDTF_100Hz_JZ_average.csv' in Data\DataSet2_unc\mov\L\gDTF_100Hz\JZ
+No average file found in Data\DataSet2_unc\mov\L\gDTF_100Hz\JZ
+Searching for pattern 'mov_R_gDTF_100Hz_JZ_average.csv' in Data\DataSet2_unc\mov\R\gDTF_100Hz\JZ
+No average file found in Data\DataSet2_unc\mov\R\gDTF_100Hz\JZ
+Processing subject: LT
+Searching for pattern 'mov_L_gDTF_100Hz_LT_average.csv' in Data\DataSet2_unc\mov\L\gDTF_100Hz\LT
+No average file found in Data\DataSet2_unc\mov\L\gDTF_100Hz\LT
+Searching for pattern 'mov_R_gDTF_100Hz_LT_average.csv' in Data\DataSet2_unc\mov\R\gDTF_100Hz\LT
+No average file found in Data\DataSet2_unc\mov\R\gDTF_100Hz\LT
+Processing subject: NvA
+Searching for pattern 'mov_L_gDTF_100Hz_NvA_average.csv' in Data\DataSet2_unc\mov\L\gDTF_100Hz\NvA
+No average file found in Data\DataSet2_unc\mov\L\gDTF_100Hz\NvA
+Searching for pattern 'mov_R_gDTF_100Hz_NvA_average.csv' in Data\DataSet2_unc\mov\R\gDTF_100Hz\NvA
+No average file found in Data\DataSet2_unc\mov\R\gDTF_100Hz\NvA
+Processing subject: RR
+Searching for pattern 'mov_L_gDTF_100Hz_RR_average.csv' in Data\DataSet2_unc\mov\L\gDTF_100Hz\RR
+No average file found in Data\DataSet2_unc\mov\L\gDTF_100Hz\RR
+Searching for pattern 'mov_R_gDTF_100Hz_RR_average.csv' in Data\DataSet2_unc\mov\R\gDTF_100Hz\RR
+No average file found in Data\DataSet2_unc\mov\R\gDTF_100Hz\RR
+Processing subject: SJB
+Searching for pattern 'mov_L_gDTF_100Hz_SJB_average.csv' in Data\DataSet2_unc\mov\L\gDTF_100Hz\SJB
+No average file found in Data\DataSet2_unc\mov\L\gDTF_100Hz\SJB
+Searching for pattern 'mov_R_gDTF_100Hz_SJB_average.csv' in Data\DataSet2_unc\mov\R\gDTF_100Hz\SJB
+No average file found in Data\DataSet2_unc\mov\R\gDTF_100Hz\SJB
+
+Processing: mov_gDTF_10Hz
+Searching for pattern 'mov_L_gDTF_10Hz_average.csv' in Data\DataSet2_unc\mov\L\gDTF_10Hz
+No average file found in Data\DataSet2_unc\mov\L\gDTF_10Hz
+Searching for pattern 'mov_R_gDTF_10Hz_average.csv' in Data\DataSet2_unc\mov\R\gDTF_10Hz
+No average file found in Data\DataSet2_unc\mov\R\gDTF_10Hz
+Processing subject: BG
+Searching for pattern 'mov_L_gDTF_10Hz_BG_average.csv' in Data\DataSet2_unc\mov\L\gDTF_10Hz\BG
+No average file found in Data\DataSet2_unc\mov\L\gDTF_10Hz\BG
+Searching for pattern 'mov_R_gDTF_10Hz_BG_average.csv' in Data\DataSet2_unc\mov\R\gDTF_10Hz\BG
+No average file found in Data\DataSet2_unc\mov\R\gDTF_10Hz\BG
+Processing subject: DOC
+Searching for pattern 'mov_L_gDTF_10Hz_DOC_average.csv' in Data\DataSet2_unc\mov\L\gDTF_10Hz\DOC
+No average file found in Data\DataSet2_unc\mov\L\gDTF_10Hz\DOC
+Searching for pattern 'mov_R_gDTF_10Hz_DOC_average.csv' in Data\DataSet2_unc\mov\R\gDTF_10Hz\DOC
+No average file found in Data\DataSet2_unc\mov\R\gDTF_10Hz\DOC
+Processing subject: GB
+Searching for pattern 'mov_L_gDTF_10Hz_GB_average.csv' in Data\DataSet2_unc\mov\L\gDTF_10Hz\GB
+No average file found in Data\DataSet2_unc\mov\L\gDTF_10Hz\GB
+Searching for pattern 'mov_R_gDTF_10Hz_GB_average.csv' in Data\DataSet2_unc\mov\R\gDTF_10Hz\GB
+No average file found in Data\DataSet2_unc\mov\R\gDTF_10Hz\GB
+Processing subject: JDC
+Searching for pattern 'mov_L_gDTF_10Hz_JDC_average.csv' in Data\DataSet2_unc\mov\L\gDTF_10Hz\JDC
+No average file found in Data\DataSet2_unc\mov\L\gDTF_10Hz\JDC
+Searching for pattern 'mov_R_gDTF_10Hz_JDC_average.csv' in Data\DataSet2_unc\mov\R\gDTF_10Hz\JDC
+No average file found in Data\DataSet2_unc\mov\R\gDTF_10Hz\JDC
+Processing subject: JFXD
+Searching for pattern 'mov_L_gDTF_10Hz_JFXD_average.csv' in Data\DataSet2_unc\mov\L\gDTF_10Hz\JFXD
+No average file found in Data\DataSet2_unc\mov\L\gDTF_10Hz\JFXD
+Searching for pattern 'mov_R_gDTF_10Hz_JFXD_average.csv' in Data\DataSet2_unc\mov\R\gDTF_10Hz\JFXD
+No average file found in Data\DataSet2_unc\mov\R\gDTF_10Hz\JFXD
+Processing subject: JZ
+Searching for pattern 'mov_L_gDTF_10Hz_JZ_average.csv' in Data\DataSet2_unc\mov\L\gDTF_10Hz\JZ
+No average file found in Data\DataSet2_unc\mov\L\gDTF_10Hz\JZ
+Searching for pattern 'mov_R_gDTF_10Hz_JZ_average.csv' in Data\DataSet2_unc\mov\R\gDTF_10Hz\JZ
+No average file found in Data\DataSet2_unc\mov\R\gDTF_10Hz\JZ
+Processing subject: LT
+Searching for pattern 'mov_L_gDTF_10Hz_LT_average.csv' in Data\DataSet2_unc\mov\L\gDTF_10Hz\LT
+No average file found in Data\DataSet2_unc\mov\L\gDTF_10Hz\LT
+Searching for pattern 'mov_R_gDTF_10Hz_LT_average.csv' in Data\DataSet2_unc\mov\R\gDTF_10Hz\LT
+No average file found in Data\DataSet2_unc\mov\R\gDTF_10Hz\LT
+Processing subject: NvA
+Searching for pattern 'mov_L_gDTF_10Hz_NvA_average.csv' in Data\DataSet2_unc\mov\L\gDTF_10Hz\NvA
+No average file found in Data\DataSet2_unc\mov\L\gDTF_10Hz\NvA
+Searching for pattern 'mov_R_gDTF_10Hz_NvA_average.csv' in Data\DataSet2_unc\mov\R\gDTF_10Hz\NvA
+No average file found in Data\DataSet2_unc\mov\R\gDTF_10Hz\NvA
+Processing subject: RR
+Searching for pattern 'mov_L_gDTF_10Hz_RR_average.csv' in Data\DataSet2_unc\mov\L\gDTF_10Hz\RR
+No average file found in Data\DataSet2_unc\mov\L\gDTF_10Hz\RR
+Searching for pattern 'mov_R_gDTF_10Hz_RR_average.csv' in Data\DataSet2_unc\mov\R\gDTF_10Hz\RR
+No average file found in Data\DataSet2_unc\mov\R\gDTF_10Hz\RR
+Processing subject: SJB
+Searching for pattern 'mov_L_gDTF_10Hz_SJB_average.csv' in Data\DataSet2_unc\mov\L\gDTF_10Hz\SJB
+No average file found in Data\DataSet2_unc\mov\L\gDTF_10Hz\SJB
+Searching for pattern 'mov_R_gDTF_10Hz_SJB_average.csv' in Data\DataSet2_unc\mov\R\gDTF_10Hz\SJB
+No average file found in Data\DataSet2_unc\mov\R\gDTF_10Hz\SJB
+
+Processing: mov_gDTF_20Hz
+Searching for pattern 'mov_L_gDTF_20Hz_average.csv' in Data\DataSet2_unc\mov\L\gDTF_20Hz
+No average file found in Data\DataSet2_unc\mov\L\gDTF_20Hz
+Searching for pattern 'mov_R_gDTF_20Hz_average.csv' in Data\DataSet2_unc\mov\R\gDTF_20Hz
+No average file found in Data\DataSet2_unc\mov\R\gDTF_20Hz
+Processing subject: BG
+Searching for pattern 'mov_L_gDTF_20Hz_BG_average.csv' in Data\DataSet2_unc\mov\L\gDTF_20Hz\BG
+No average file found in Data\DataSet2_unc\mov\L\gDTF_20Hz\BG
+Searching for pattern 'mov_R_gDTF_20Hz_BG_average.csv' in Data\DataSet2_unc\mov\R\gDTF_20Hz\BG
+No average file found in Data\DataSet2_unc\mov\R\gDTF_20Hz\BG
+Processing subject: DOC
+Searching for pattern 'mov_L_gDTF_20Hz_DOC_average.csv' in Data\DataSet2_unc\mov\L\gDTF_20Hz\DOC
+No average file found in Data\DataSet2_unc\mov\L\gDTF_20Hz\DOC
+Searching for pattern 'mov_R_gDTF_20Hz_DOC_average.csv' in Data\DataSet2_unc\mov\R\gDTF_20Hz\DOC
+No average file found in Data\DataSet2_unc\mov\R\gDTF_20Hz\DOC
+Processing subject: GB
+Searching for pattern 'mov_L_gDTF_20Hz_GB_average.csv' in Data\DataSet2_unc\mov\L\gDTF_20Hz\GB
+No average file found in Data\DataSet2_unc\mov\L\gDTF_20Hz\GB
+Searching for pattern 'mov_R_gDTF_20Hz_GB_average.csv' in Data\DataSet2_unc\mov\R\gDTF_20Hz\GB
+No average file found in Data\DataSet2_unc\mov\R\gDTF_20Hz\GB
+Processing subject: JDC
+Searching for pattern 'mov_L_gDTF_20Hz_JDC_average.csv' in Data\DataSet2_unc\mov\L\gDTF_20Hz\JDC
+No average file found in Data\DataSet2_unc\mov\L\gDTF_20Hz\JDC
+Searching for pattern 'mov_R_gDTF_20Hz_JDC_average.csv' in Data\DataSet2_unc\mov\R\gDTF_20Hz\JDC
+No average file found in Data\DataSet2_unc\mov\R\gDTF_20Hz\JDC
+Processing subject: JFXD
+Searching for pattern 'mov_L_gDTF_20Hz_JFXD_average.csv' in Data\DataSet2_unc\mov\L\gDTF_20Hz\JFXD
+No average file found in Data\DataSet2_unc\mov\L\gDTF_20Hz\JFXD
+Searching for pattern 'mov_R_gDTF_20Hz_JFXD_average.csv' in Data\DataSet2_unc\mov\R\gDTF_20Hz\JFXD
+No average file found in Data\DataSet2_unc\mov\R\gDTF_20Hz\JFXD
+Processing subject: JZ
+Searching for pattern 'mov_L_gDTF_20Hz_JZ_average.csv' in Data\DataSet2_unc\mov\L\gDTF_20Hz\JZ
+No average file found in Data\DataSet2_unc\mov\L\gDTF_20Hz\JZ
+Searching for pattern 'mov_R_gDTF_20Hz_JZ_average.csv' in Data\DataSet2_unc\mov\R\gDTF_20Hz\JZ
+No average file found in Data\DataSet2_unc\mov\R\gDTF_20Hz\JZ
+Processing subject: LT
+Searching for pattern 'mov_L_gDTF_20Hz_LT_average.csv' in Data\DataSet2_unc\mov\L\gDTF_20Hz\LT
+No average file found in Data\DataSet2_unc\mov\L\gDTF_20Hz\LT
+Searching for pattern 'mov_R_gDTF_20Hz_LT_average.csv' in Data\DataSet2_unc\mov\R\gDTF_20Hz\LT
+No average file found in Data\DataSet2_unc\mov\R\gDTF_20Hz\LT
+Processing subject: NvA
+Searching for pattern 'mov_L_gDTF_20Hz_NvA_average.csv' in Data\DataSet2_unc\mov\L\gDTF_20Hz\NvA
+No average file found in Data\DataSet2_unc\mov\L\gDTF_20Hz\NvA
+Searching for pattern 'mov_R_gDTF_20Hz_NvA_average.csv' in Data\DataSet2_unc\mov\R\gDTF_20Hz\NvA
+No average file found in Data\DataSet2_unc\mov\R\gDTF_20Hz\NvA
+Processing subject: RR
+Searching for pattern 'mov_L_gDTF_20Hz_RR_average.csv' in Data\DataSet2_unc\mov\L\gDTF_20Hz\RR
+No average file found in Data\DataSet2_unc\mov\L\gDTF_20Hz\RR
+Searching for pattern 'mov_R_gDTF_20Hz_RR_average.csv' in Data\DataSet2_unc\mov\R\gDTF_20Hz\RR
+No average file found in Data\DataSet2_unc\mov\R\gDTF_20Hz\RR
+Processing subject: SJB
+Searching for pattern 'mov_L_gDTF_20Hz_SJB_average.csv' in Data\DataSet2_unc\mov\L\gDTF_20Hz\SJB
+No average file found in Data\DataSet2_unc\mov\L\gDTF_20Hz\SJB
+Searching for pattern 'mov_R_gDTF_20Hz_SJB_average.csv' in Data\DataSet2_unc\mov\R\gDTF_20Hz\SJB
+No average file found in Data\DataSet2_unc\mov\R\gDTF_20Hz\SJB
+
+Processing: mov_gPDC_100Hz
+Searching for pattern 'mov_L_gPDC_100Hz_average.csv' in Data\DataSet2_unc\mov\L\gPDC_100Hz
+No average file found in Data\DataSet2_unc\mov\L\gPDC_100Hz
+Searching for pattern 'mov_R_gPDC_100Hz_average.csv' in Data\DataSet2_unc\mov\R\gPDC_100Hz
+No average file found in Data\DataSet2_unc\mov\R\gPDC_100Hz
+Processing subject: BG
+Searching for pattern 'mov_L_gPDC_100Hz_BG_average.csv' in Data\DataSet2_unc\mov\L\gPDC_100Hz\BG
+No average file found in Data\DataSet2_unc\mov\L\gPDC_100Hz\BG
+Searching for pattern 'mov_R_gPDC_100Hz_BG_average.csv' in Data\DataSet2_unc\mov\R\gPDC_100Hz\BG
+No average file found in Data\DataSet2_unc\mov\R\gPDC_100Hz\BG
+Processing subject: DOC
+Searching for pattern 'mov_L_gPDC_100Hz_DOC_average.csv' in Data\DataSet2_unc\mov\L\gPDC_100Hz\DOC
+No average file found in Data\DataSet2_unc\mov\L\gPDC_100Hz\DOC
+Searching for pattern 'mov_R_gPDC_100Hz_DOC_average.csv' in Data\DataSet2_unc\mov\R\gPDC_100Hz\DOC
+No average file found in Data\DataSet2_unc\mov\R\gPDC_100Hz\DOC
+Processing subject: GB
+Searching for pattern 'mov_L_gPDC_100Hz_GB_average.csv' in Data\DataSet2_unc\mov\L\gPDC_100Hz\GB
+No average file found in Data\DataSet2_unc\mov\L\gPDC_100Hz\GB
+Searching for pattern 'mov_R_gPDC_100Hz_GB_average.csv' in Data\DataSet2_unc\mov\R\gPDC_100Hz\GB
+No average file found in Data\DataSet2_unc\mov\R\gPDC_100Hz\GB
+Processing subject: JDC
+Searching for pattern 'mov_L_gPDC_100Hz_JDC_average.csv' in Data\DataSet2_unc\mov\L\gPDC_100Hz\JDC
+No average file found in Data\DataSet2_unc\mov\L\gPDC_100Hz\JDC
+Searching for pattern 'mov_R_gPDC_100Hz_JDC_average.csv' in Data\DataSet2_unc\mov\R\gPDC_100Hz\JDC
+No average file found in Data\DataSet2_unc\mov\R\gPDC_100Hz\JDC
+Processing subject: JFXD
+Searching for pattern 'mov_L_gPDC_100Hz_JFXD_average.csv' in Data\DataSet2_unc\mov\L\gPDC_100Hz\JFXD
+No average file found in Data\DataSet2_unc\mov\L\gPDC_100Hz\JFXD
+Searching for pattern 'mov_R_gPDC_100Hz_JFXD_average.csv' in Data\DataSet2_unc\mov\R\gPDC_100Hz\JFXD
+No average file found in Data\DataSet2_unc\mov\R\gPDC_100Hz\JFXD
+Processing subject: JZ
+Searching for pattern 'mov_L_gPDC_100Hz_JZ_average.csv' in Data\DataSet2_unc\mov\L\gPDC_100Hz\JZ
+No average file found in Data\DataSet2_unc\mov\L\gPDC_100Hz\JZ
+Searching for pattern 'mov_R_gPDC_100Hz_JZ_average.csv' in Data\DataSet2_unc\mov\R\gPDC_100Hz\JZ
+No average file found in Data\DataSet2_unc\mov\R\gPDC_100Hz\JZ
+Processing subject: LT
+Searching for pattern 'mov_L_gPDC_100Hz_LT_average.csv' in Data\DataSet2_unc\mov\L\gPDC_100Hz\LT
+No average file found in Data\DataSet2_unc\mov\L\gPDC_100Hz\LT
+Searching for pattern 'mov_R_gPDC_100Hz_LT_average.csv' in Data\DataSet2_unc\mov\R\gPDC_100Hz\LT
+No average file found in Data\DataSet2_unc\mov\R\gPDC_100Hz\LT
+Processing subject: NvA
+Searching for pattern 'mov_L_gPDC_100Hz_NvA_average.csv' in Data\DataSet2_unc\mov\L\gPDC_100Hz\NvA
+No average file found in Data\DataSet2_unc\mov\L\gPDC_100Hz\NvA
+Searching for pattern 'mov_R_gPDC_100Hz_NvA_average.csv' in Data\DataSet2_unc\mov\R\gPDC_100Hz\NvA
+No average file found in Data\DataSet2_unc\mov\R\gPDC_100Hz\NvA
+Processing subject: RR
+Searching for pattern 'mov_L_gPDC_100Hz_RR_average.csv' in Data\DataSet2_unc\mov\L\gPDC_100Hz\RR
+No average file found in Data\DataSet2_unc\mov\L\gPDC_100Hz\RR
+Searching for pattern 'mov_R_gPDC_100Hz_RR_average.csv' in Data\DataSet2_unc\mov\R\gPDC_100Hz\RR
+No average file found in Data\DataSet2_unc\mov\R\gPDC_100Hz\RR
+Processing subject: SJB
+Searching for pattern 'mov_L_gPDC_100Hz_SJB_average.csv' in Data\DataSet2_unc\mov\L\gPDC_100Hz\SJB
+No average file found in Data\DataSet2_unc\mov\L\gPDC_100Hz\SJB
+Searching for pattern 'mov_R_gPDC_100Hz_SJB_average.csv' in Data\DataSet2_unc\mov\R\gPDC_100Hz\SJB
+No average file found in Data\DataSet2_unc\mov\R\gPDC_100Hz\SJB
+
+Processing: mov_gPDC_10Hz
+Searching for pattern 'mov_L_gPDC_10Hz_average.csv' in Data\DataSet2_unc\mov\L\gPDC_10Hz
+No average file found in Data\DataSet2_unc\mov\L\gPDC_10Hz
+Searching for pattern 'mov_R_gPDC_10Hz_average.csv' in Data\DataSet2_unc\mov\R\gPDC_10Hz
+No average file found in Data\DataSet2_unc\mov\R\gPDC_10Hz
+Processing subject: BG
+Searching for pattern 'mov_L_gPDC_10Hz_BG_average.csv' in Data\DataSet2_unc\mov\L\gPDC_10Hz\BG
+No average file found in Data\DataSet2_unc\mov\L\gPDC_10Hz\BG
+Searching for pattern 'mov_R_gPDC_10Hz_BG_average.csv' in Data\DataSet2_unc\mov\R\gPDC_10Hz\BG
+No average file found in Data\DataSet2_unc\mov\R\gPDC_10Hz\BG
+Processing subject: DOC
+Searching for pattern 'mov_L_gPDC_10Hz_DOC_average.csv' in Data\DataSet2_unc\mov\L\gPDC_10Hz\DOC
+No average file found in Data\DataSet2_unc\mov\L\gPDC_10Hz\DOC
+Searching for pattern 'mov_R_gPDC_10Hz_DOC_average.csv' in Data\DataSet2_unc\mov\R\gPDC_10Hz\DOC
+No average file found in Data\DataSet2_unc\mov\R\gPDC_10Hz\DOC
+Processing subject: GB
+Searching for pattern 'mov_L_gPDC_10Hz_GB_average.csv' in Data\DataSet2_unc\mov\L\gPDC_10Hz\GB
+No average file found in Data\DataSet2_unc\mov\L\gPDC_10Hz\GB
+Searching for pattern 'mov_R_gPDC_10Hz_GB_average.csv' in Data\DataSet2_unc\mov\R\gPDC_10Hz\GB
+No average file found in Data\DataSet2_unc\mov\R\gPDC_10Hz\GB
+Processing subject: JDC
+Searching for pattern 'mov_L_gPDC_10Hz_JDC_average.csv' in Data\DataSet2_unc\mov\L\gPDC_10Hz\JDC
+No average file found in Data\DataSet2_unc\mov\L\gPDC_10Hz\JDC
+Searching for pattern 'mov_R_gPDC_10Hz_JDC_average.csv' in Data\DataSet2_unc\mov\R\gPDC_10Hz\JDC
+No average file found in Data\DataSet2_unc\mov\R\gPDC_10Hz\JDC
+Processing subject: JFXD
+Searching for pattern 'mov_L_gPDC_10Hz_JFXD_average.csv' in Data\DataSet2_unc\mov\L\gPDC_10Hz\JFXD
+No average file found in Data\DataSet2_unc\mov\L\gPDC_10Hz\JFXD
+Searching for pattern 'mov_R_gPDC_10Hz_JFXD_average.csv' in Data\DataSet2_unc\mov\R\gPDC_10Hz\JFXD
+No average file found in Data\DataSet2_unc\mov\R\gPDC_10Hz\JFXD
+Processing subject: JZ
+Searching for pattern 'mov_L_gPDC_10Hz_JZ_average.csv' in Data\DataSet2_unc\mov\L\gPDC_10Hz\JZ
+No average file found in Data\DataSet2_unc\mov\L\gPDC_10Hz\JZ
+Searching for pattern 'mov_R_gPDC_10Hz_JZ_average.csv' in Data\DataSet2_unc\mov\R\gPDC_10Hz\JZ
+No average file found in Data\DataSet2_unc\mov\R\gPDC_10Hz\JZ
+Processing subject: LT
+Searching for pattern 'mov_L_gPDC_10Hz_LT_average.csv' in Data\DataSet2_unc\mov\L\gPDC_10Hz\LT
+No average file found in Data\DataSet2_unc\mov\L\gPDC_10Hz\LT
+Searching for pattern 'mov_R_gPDC_10Hz_LT_average.csv' in Data\DataSet2_unc\mov\R\gPDC_10Hz\LT
+No average file found in Data\DataSet2_unc\mov\R\gPDC_10Hz\LT
+Processing subject: NvA
+Searching for pattern 'mov_L_gPDC_10Hz_NvA_average.csv' in Data\DataSet2_unc\mov\L\gPDC_10Hz\NvA
+No average file found in Data\DataSet2_unc\mov\L\gPDC_10Hz\NvA
+Searching for pattern 'mov_R_gPDC_10Hz_NvA_average.csv' in Data\DataSet2_unc\mov\R\gPDC_10Hz\NvA
+No average file found in Data\DataSet2_unc\mov\R\gPDC_10Hz\NvA
+Processing subject: RR
+Searching for pattern 'mov_L_gPDC_10Hz_RR_average.csv' in Data\DataSet2_unc\mov\L\gPDC_10Hz\RR
+No average file found in Data\DataSet2_unc\mov\L\gPDC_10Hz\RR
+Searching for pattern 'mov_R_gPDC_10Hz_RR_average.csv' in Data\DataSet2_unc\mov\R\gPDC_10Hz\RR
+No average file found in Data\DataSet2_unc\mov\R\gPDC_10Hz\RR
+Processing subject: SJB
+Searching for pattern 'mov_L_gPDC_10Hz_SJB_average.csv' in Data\DataSet2_unc\mov\L\gPDC_10Hz\SJB
+No average file found in Data\DataSet2_unc\mov\L\gPDC_10Hz\SJB
+Searching for pattern 'mov_R_gPDC_10Hz_SJB_average.csv' in Data\DataSet2_unc\mov\R\gPDC_10Hz\SJB
+No average file found in Data\DataSet2_unc\mov\R\gPDC_10Hz\SJB
+
+Processing: mov_gPDC_20Hz
+Searching for pattern 'mov_L_gPDC_20Hz_average.csv' in Data\DataSet2_unc\mov\L\gPDC_20Hz
+No average file found in Data\DataSet2_unc\mov\L\gPDC_20Hz
+Searching for pattern 'mov_R_gPDC_20Hz_average.csv' in Data\DataSet2_unc\mov\R\gPDC_20Hz
+No average file found in Data\DataSet2_unc\mov\R\gPDC_20Hz
+Processing subject: BG
+Searching for pattern 'mov_L_gPDC_20Hz_BG_average.csv' in Data\DataSet2_unc\mov\L\gPDC_20Hz\BG
+No average file found in Data\DataSet2_unc\mov\L\gPDC_20Hz\BG
+Searching for pattern 'mov_R_gPDC_20Hz_BG_average.csv' in Data\DataSet2_unc\mov\R\gPDC_20Hz\BG
+No average file found in Data\DataSet2_unc\mov\R\gPDC_20Hz\BG
+Processing subject: DOC
+Searching for pattern 'mov_L_gPDC_20Hz_DOC_average.csv' in Data\DataSet2_unc\mov\L\gPDC_20Hz\DOC
+No average file found in Data\DataSet2_unc\mov\L\gPDC_20Hz\DOC
+Searching for pattern 'mov_R_gPDC_20Hz_DOC_average.csv' in Data\DataSet2_unc\mov\R\gPDC_20Hz\DOC
+No average file found in Data\DataSet2_unc\mov\R\gPDC_20Hz\DOC
+Processing subject: GB
+Searching for pattern 'mov_L_gPDC_20Hz_GB_average.csv' in Data\DataSet2_unc\mov\L\gPDC_20Hz\GB
+No average file found in Data\DataSet2_unc\mov\L\gPDC_20Hz\GB
+Searching for pattern 'mov_R_gPDC_20Hz_GB_average.csv' in Data\DataSet2_unc\mov\R\gPDC_20Hz\GB
+No average file found in Data\DataSet2_unc\mov\R\gPDC_20Hz\GB
+Processing subject: JDC
+Searching for pattern 'mov_L_gPDC_20Hz_JDC_average.csv' in Data\DataSet2_unc\mov\L\gPDC_20Hz\JDC
+No average file found in Data\DataSet2_unc\mov\L\gPDC_20Hz\JDC
+Searching for pattern 'mov_R_gPDC_20Hz_JDC_average.csv' in Data\DataSet2_unc\mov\R\gPDC_20Hz\JDC
+No average file found in Data\DataSet2_unc\mov\R\gPDC_20Hz\JDC
+Processing subject: JFXD
+Searching for pattern 'mov_L_gPDC_20Hz_JFXD_average.csv' in Data\DataSet2_unc\mov\L\gPDC_20Hz\JFXD
+No average file found in Data\DataSet2_unc\mov\L\gPDC_20Hz\JFXD
+Searching for pattern 'mov_R_gPDC_20Hz_JFXD_average.csv' in Data\DataSet2_unc\mov\R\gPDC_20Hz\JFXD
+No average file found in Data\DataSet2_unc\mov\R\gPDC_20Hz\JFXD
+Processing subject: JZ
+Searching for pattern 'mov_L_gPDC_20Hz_JZ_average.csv' in Data\DataSet2_unc\mov\L\gPDC_20Hz\JZ
+No average file found in Data\DataSet2_unc\mov\L\gPDC_20Hz\JZ
+Searching for pattern 'mov_R_gPDC_20Hz_JZ_average.csv' in Data\DataSet2_unc\mov\R\gPDC_20Hz\JZ
+No average file found in Data\DataSet2_unc\mov\R\gPDC_20Hz\JZ
+Processing subject: LT
+Searching for pattern 'mov_L_gPDC_20Hz_LT_average.csv' in Data\DataSet2_unc\mov\L\gPDC_20Hz\LT
+No average file found in Data\DataSet2_unc\mov\L\gPDC_20Hz\LT
+Searching for pattern 'mov_R_gPDC_20Hz_LT_average.csv' in Data\DataSet2_unc\mov\R\gPDC_20Hz\LT
+No average file found in Data\DataSet2_unc\mov\R\gPDC_20Hz\LT
+Processing subject: NvA
+Searching for pattern 'mov_L_gPDC_20Hz_NvA_average.csv' in Data\DataSet2_unc\mov\L\gPDC_20Hz\NvA
+No average file found in Data\DataSet2_unc\mov\L\gPDC_20Hz\NvA
+Searching for pattern 'mov_R_gPDC_20Hz_NvA_average.csv' in Data\DataSet2_unc\mov\R\gPDC_20Hz\NvA
+No average file found in Data\DataSet2_unc\mov\R\gPDC_20Hz\NvA
+Processing subject: RR
+Searching for pattern 'mov_L_gPDC_20Hz_RR_average.csv' in Data\DataSet2_unc\mov\L\gPDC_20Hz\RR
+No average file found in Data\DataSet2_unc\mov\L\gPDC_20Hz\RR
+Searching for pattern 'mov_R_gPDC_20Hz_RR_average.csv' in Data\DataSet2_unc\mov\R\gPDC_20Hz\RR
+No average file found in Data\DataSet2_unc\mov\R\gPDC_20Hz\RR
+Processing subject: SJB
+Searching for pattern 'mov_L_gPDC_20Hz_SJB_average.csv' in Data\DataSet2_unc\mov\L\gPDC_20Hz\SJB
+No average file found in Data\DataSet2_unc\mov\L\gPDC_20Hz\SJB
+Searching for pattern 'mov_R_gPDC_20Hz_SJB_average.csv' in Data\DataSet2_unc\mov\R\gPDC_20Hz\SJB
+No average file found in Data\DataSet2_unc\mov\R\gPDC_20Hz\SJB
+
+Processing: mov_iPDC_100Hz
+Searching for pattern 'mov_L_iPDC_100Hz_average.csv' in Data\DataSet2_unc\mov\L\iPDC_100Hz
+No average file found in Data\DataSet2_unc\mov\L\iPDC_100Hz
+Searching for pattern 'mov_R_iPDC_100Hz_average.csv' in Data\DataSet2_unc\mov\R\iPDC_100Hz
+No average file found in Data\DataSet2_unc\mov\R\iPDC_100Hz
+Processing subject: BG
+Searching for pattern 'mov_L_iPDC_100Hz_BG_average.csv' in Data\DataSet2_unc\mov\L\iPDC_100Hz\BG
+No average file found in Data\DataSet2_unc\mov\L\iPDC_100Hz\BG
+Searching for pattern 'mov_R_iPDC_100Hz_BG_average.csv' in Data\DataSet2_unc\mov\R\iPDC_100Hz\BG
+No average file found in Data\DataSet2_unc\mov\R\iPDC_100Hz\BG
+Processing subject: DOC
+Searching for pattern 'mov_L_iPDC_100Hz_DOC_average.csv' in Data\DataSet2_unc\mov\L\iPDC_100Hz\DOC
+No average file found in Data\DataSet2_unc\mov\L\iPDC_100Hz\DOC
+Searching for pattern 'mov_R_iPDC_100Hz_DOC_average.csv' in Data\DataSet2_unc\mov\R\iPDC_100Hz\DOC
+No average file found in Data\DataSet2_unc\mov\R\iPDC_100Hz\DOC
+Processing subject: GB
+Searching for pattern 'mov_L_iPDC_100Hz_GB_average.csv' in Data\DataSet2_unc\mov\L\iPDC_100Hz\GB
+No average file found in Data\DataSet2_unc\mov\L\iPDC_100Hz\GB
+Searching for pattern 'mov_R_iPDC_100Hz_GB_average.csv' in Data\DataSet2_unc\mov\R\iPDC_100Hz\GB
+No average file found in Data\DataSet2_unc\mov\R\iPDC_100Hz\GB
+Processing subject: JDC
+Searching for pattern 'mov_L_iPDC_100Hz_JDC_average.csv' in Data\DataSet2_unc\mov\L\iPDC_100Hz\JDC
+No average file found in Data\DataSet2_unc\mov\L\iPDC_100Hz\JDC
+Searching for pattern 'mov_R_iPDC_100Hz_JDC_average.csv' in Data\DataSet2_unc\mov\R\iPDC_100Hz\JDC
+No average file found in Data\DataSet2_unc\mov\R\iPDC_100Hz\JDC
+Processing subject: JFXD
+Searching for pattern 'mov_L_iPDC_100Hz_JFXD_average.csv' in Data\DataSet2_unc\mov\L\iPDC_100Hz\JFXD
+No average file found in Data\DataSet2_unc\mov\L\iPDC_100Hz\JFXD
+Searching for pattern 'mov_R_iPDC_100Hz_JFXD_average.csv' in Data\DataSet2_unc\mov\R\iPDC_100Hz\JFXD
+No average file found in Data\DataSet2_unc\mov\R\iPDC_100Hz\JFXD
+Processing subject: JZ
+Searching for pattern 'mov_L_iPDC_100Hz_JZ_average.csv' in Data\DataSet2_unc\mov\L\iPDC_100Hz\JZ
+No average file found in Data\DataSet2_unc\mov\L\iPDC_100Hz\JZ
+Searching for pattern 'mov_R_iPDC_100Hz_JZ_average.csv' in Data\DataSet2_unc\mov\R\iPDC_100Hz\JZ
+No average file found in Data\DataSet2_unc\mov\R\iPDC_100Hz\JZ
+Processing subject: LT
+Searching for pattern 'mov_L_iPDC_100Hz_LT_average.csv' in Data\DataSet2_unc\mov\L\iPDC_100Hz\LT
+No average file found in Data\DataSet2_unc\mov\L\iPDC_100Hz\LT
+Searching for pattern 'mov_R_iPDC_100Hz_LT_average.csv' in Data\DataSet2_unc\mov\R\iPDC_100Hz\LT
+No average file found in Data\DataSet2_unc\mov\R\iPDC_100Hz\LT
+Processing subject: NvA
+Searching for pattern 'mov_L_iPDC_100Hz_NvA_average.csv' in Data\DataSet2_unc\mov\L\iPDC_100Hz\NvA
+No average file found in Data\DataSet2_unc\mov\L\iPDC_100Hz\NvA
+Searching for pattern 'mov_R_iPDC_100Hz_NvA_average.csv' in Data\DataSet2_unc\mov\R\iPDC_100Hz\NvA
+No average file found in Data\DataSet2_unc\mov\R\iPDC_100Hz\NvA
+Processing subject: RR
+Searching for pattern 'mov_L_iPDC_100Hz_RR_average.csv' in Data\DataSet2_unc\mov\L\iPDC_100Hz\RR
+No average file found in Data\DataSet2_unc\mov\L\iPDC_100Hz\RR
+Searching for pattern 'mov_R_iPDC_100Hz_RR_average.csv' in Data\DataSet2_unc\mov\R\iPDC_100Hz\RR
+No average file found in Data\DataSet2_unc\mov\R\iPDC_100Hz\RR
+Processing subject: SJB
+Searching for pattern 'mov_L_iPDC_100Hz_SJB_average.csv' in Data\DataSet2_unc\mov\L\iPDC_100Hz\SJB
+No average file found in Data\DataSet2_unc\mov\L\iPDC_100Hz\SJB
+Searching for pattern 'mov_R_iPDC_100Hz_SJB_average.csv' in Data\DataSet2_unc\mov\R\iPDC_100Hz\SJB
+No average file found in Data\DataSet2_unc\mov\R\iPDC_100Hz\SJB
+
+Processing: mov_iPDC_10Hz
+Searching for pattern 'mov_L_iPDC_10Hz_average.csv' in Data\DataSet2_unc\mov\L\iPDC_10Hz
+No average file found in Data\DataSet2_unc\mov\L\iPDC_10Hz
+Searching for pattern 'mov_R_iPDC_10Hz_average.csv' in Data\DataSet2_unc\mov\R\iPDC_10Hz
+No average file found in Data\DataSet2_unc\mov\R\iPDC_10Hz
+Processing subject: BG
+Searching for pattern 'mov_L_iPDC_10Hz_BG_average.csv' in Data\DataSet2_unc\mov\L\iPDC_10Hz\BG
+No average file found in Data\DataSet2_unc\mov\L\iPDC_10Hz\BG
+Searching for pattern 'mov_R_iPDC_10Hz_BG_average.csv' in Data\DataSet2_unc\mov\R\iPDC_10Hz\BG
+No average file found in Data\DataSet2_unc\mov\R\iPDC_10Hz\BG
+Processing subject: DOC
+Searching for pattern 'mov_L_iPDC_10Hz_DOC_average.csv' in Data\DataSet2_unc\mov\L\iPDC_10Hz\DOC
+No average file found in Data\DataSet2_unc\mov\L\iPDC_10Hz\DOC
+Searching for pattern 'mov_R_iPDC_10Hz_DOC_average.csv' in Data\DataSet2_unc\mov\R\iPDC_10Hz\DOC
+No average file found in Data\DataSet2_unc\mov\R\iPDC_10Hz\DOC
+Processing subject: GB
+Searching for pattern 'mov_L_iPDC_10Hz_GB_average.csv' in Data\DataSet2_unc\mov\L\iPDC_10Hz\GB
+No average file found in Data\DataSet2_unc\mov\L\iPDC_10Hz\GB
+Searching for pattern 'mov_R_iPDC_10Hz_GB_average.csv' in Data\DataSet2_unc\mov\R\iPDC_10Hz\GB
+No average file found in Data\DataSet2_unc\mov\R\iPDC_10Hz\GB
+Processing subject: JDC
+Searching for pattern 'mov_L_iPDC_10Hz_JDC_average.csv' in Data\DataSet2_unc\mov\L\iPDC_10Hz\JDC
+No average file found in Data\DataSet2_unc\mov\L\iPDC_10Hz\JDC
+Searching for pattern 'mov_R_iPDC_10Hz_JDC_average.csv' in Data\DataSet2_unc\mov\R\iPDC_10Hz\JDC
+No average file found in Data\DataSet2_unc\mov\R\iPDC_10Hz\JDC
+Processing subject: JFXD
+Searching for pattern 'mov_L_iPDC_10Hz_JFXD_average.csv' in Data\DataSet2_unc\mov\L\iPDC_10Hz\JFXD
+No average file found in Data\DataSet2_unc\mov\L\iPDC_10Hz\JFXD
+Searching for pattern 'mov_R_iPDC_10Hz_JFXD_average.csv' in Data\DataSet2_unc\mov\R\iPDC_10Hz\JFXD
+No average file found in Data\DataSet2_unc\mov\R\iPDC_10Hz\JFXD
+Processing subject: JZ
+Searching for pattern 'mov_L_iPDC_10Hz_JZ_average.csv' in Data\DataSet2_unc\mov\L\iPDC_10Hz\JZ
+No average file found in Data\DataSet2_unc\mov\L\iPDC_10Hz\JZ
+Searching for pattern 'mov_R_iPDC_10Hz_JZ_average.csv' in Data\DataSet2_unc\mov\R\iPDC_10Hz\JZ
+No average file found in Data\DataSet2_unc\mov\R\iPDC_10Hz\JZ
+Processing subject: LT
+Searching for pattern 'mov_L_iPDC_10Hz_LT_average.csv' in Data\DataSet2_unc\mov\L\iPDC_10Hz\LT
+No average file found in Data\DataSet2_unc\mov\L\iPDC_10Hz\LT
+Searching for pattern 'mov_R_iPDC_10Hz_LT_average.csv' in Data\DataSet2_unc\mov\R\iPDC_10Hz\LT
+No average file found in Data\DataSet2_unc\mov\R\iPDC_10Hz\LT
+Processing subject: NvA
+Searching for pattern 'mov_L_iPDC_10Hz_NvA_average.csv' in Data\DataSet2_unc\mov\L\iPDC_10Hz\NvA
+No average file found in Data\DataSet2_unc\mov\L\iPDC_10Hz\NvA
+Searching for pattern 'mov_R_iPDC_10Hz_NvA_average.csv' in Data\DataSet2_unc\mov\R\iPDC_10Hz\NvA
+No average file found in Data\DataSet2_unc\mov\R\iPDC_10Hz\NvA
+Processing subject: RR
+Searching for pattern 'mov_L_iPDC_10Hz_RR_average.csv' in Data\DataSet2_unc\mov\L\iPDC_10Hz\RR
+No average file found in Data\DataSet2_unc\mov\L\iPDC_10Hz\RR
+Searching for pattern 'mov_R_iPDC_10Hz_RR_average.csv' in Data\DataSet2_unc\mov\R\iPDC_10Hz\RR
+No average file found in Data\DataSet2_unc\mov\R\iPDC_10Hz\RR
+Processing subject: SJB
+Searching for pattern 'mov_L_iPDC_10Hz_SJB_average.csv' in Data\DataSet2_unc\mov\L\iPDC_10Hz\SJB
+No average file found in Data\DataSet2_unc\mov\L\iPDC_10Hz\SJB
+Searching for pattern 'mov_R_iPDC_10Hz_SJB_average.csv' in Data\DataSet2_unc\mov\R\iPDC_10Hz\SJB
+No average file found in Data\DataSet2_unc\mov\R\iPDC_10Hz\SJB
+
+Processing: mov_iPDC_20Hz
+Searching for pattern 'mov_L_iPDC_20Hz_average.csv' in Data\DataSet2_unc\mov\L\iPDC_20Hz
+No average file found in Data\DataSet2_unc\mov\L\iPDC_20Hz
+Searching for pattern 'mov_R_iPDC_20Hz_average.csv' in Data\DataSet2_unc\mov\R\iPDC_20Hz
+No average file found in Data\DataSet2_unc\mov\R\iPDC_20Hz
+Processing subject: BG
+Searching for pattern 'mov_L_iPDC_20Hz_BG_average.csv' in Data\DataSet2_unc\mov\L\iPDC_20Hz\BG
+No average file found in Data\DataSet2_unc\mov\L\iPDC_20Hz\BG
+Searching for pattern 'mov_R_iPDC_20Hz_BG_average.csv' in Data\DataSet2_unc\mov\R\iPDC_20Hz\BG
+No average file found in Data\DataSet2_unc\mov\R\iPDC_20Hz\BG
+Processing subject: DOC
+Searching for pattern 'mov_L_iPDC_20Hz_DOC_average.csv' in Data\DataSet2_unc\mov\L\iPDC_20Hz\DOC
+No average file found in Data\DataSet2_unc\mov\L\iPDC_20Hz\DOC
+Searching for pattern 'mov_R_iPDC_20Hz_DOC_average.csv' in Data\DataSet2_unc\mov\R\iPDC_20Hz\DOC
+No average file found in Data\DataSet2_unc\mov\R\iPDC_20Hz\DOC
+Processing subject: GB
+Searching for pattern 'mov_L_iPDC_20Hz_GB_average.csv' in Data\DataSet2_unc\mov\L\iPDC_20Hz\GB
+No average file found in Data\DataSet2_unc\mov\L\iPDC_20Hz\GB
+Searching for pattern 'mov_R_iPDC_20Hz_GB_average.csv' in Data\DataSet2_unc\mov\R\iPDC_20Hz\GB
+No average file found in Data\DataSet2_unc\mov\R\iPDC_20Hz\GB
+Processing subject: JDC
+Searching for pattern 'mov_L_iPDC_20Hz_JDC_average.csv' in Data\DataSet2_unc\mov\L\iPDC_20Hz\JDC
+No average file found in Data\DataSet2_unc\mov\L\iPDC_20Hz\JDC
+Searching for pattern 'mov_R_iPDC_20Hz_JDC_average.csv' in Data\DataSet2_unc\mov\R\iPDC_20Hz\JDC
+No average file found in Data\DataSet2_unc\mov\R\iPDC_20Hz\JDC
+Processing subject: JFXD
+Searching for pattern 'mov_L_iPDC_20Hz_JFXD_average.csv' in Data\DataSet2_unc\mov\L\iPDC_20Hz\JFXD
+No average file found in Data\DataSet2_unc\mov\L\iPDC_20Hz\JFXD
+Searching for pattern 'mov_R_iPDC_20Hz_JFXD_average.csv' in Data\DataSet2_unc\mov\R\iPDC_20Hz\JFXD
+No average file found in Data\DataSet2_unc\mov\R\iPDC_20Hz\JFXD
+Processing subject: JZ
+Searching for pattern 'mov_L_iPDC_20Hz_JZ_average.csv' in Data\DataSet2_unc\mov\L\iPDC_20Hz\JZ
+No average file found in Data\DataSet2_unc\mov\L\iPDC_20Hz\JZ
+Searching for pattern 'mov_R_iPDC_20Hz_JZ_average.csv' in Data\DataSet2_unc\mov\R\iPDC_20Hz\JZ
+No average file found in Data\DataSet2_unc\mov\R\iPDC_20Hz\JZ
+Processing subject: LT
+Searching for pattern 'mov_L_iPDC_20Hz_LT_average.csv' in Data\DataSet2_unc\mov\L\iPDC_20Hz\LT
+No average file found in Data\DataSet2_unc\mov\L\iPDC_20Hz\LT
+Searching for pattern 'mov_R_iPDC_20Hz_LT_average.csv' in Data\DataSet2_unc\mov\R\iPDC_20Hz\LT
+No average file found in Data\DataSet2_unc\mov\R\iPDC_20Hz\LT
+Processing subject: NvA
+Searching for pattern 'mov_L_iPDC_20Hz_NvA_average.csv' in Data\DataSet2_unc\mov\L\iPDC_20Hz\NvA
+No average file found in Data\DataSet2_unc\mov\L\iPDC_20Hz\NvA
+Searching for pattern 'mov_R_iPDC_20Hz_NvA_average.csv' in Data\DataSet2_unc\mov\R\iPDC_20Hz\NvA
+No average file found in Data\DataSet2_unc\mov\R\iPDC_20Hz\NvA
+Processing subject: RR
+Searching for pattern 'mov_L_iPDC_20Hz_RR_average.csv' in Data\DataSet2_unc\mov\L\iPDC_20Hz\RR
+No average file found in Data\DataSet2_unc\mov\L\iPDC_20Hz\RR
+Searching for pattern 'mov_R_iPDC_20Hz_RR_average.csv' in Data\DataSet2_unc\mov\R\iPDC_20Hz\RR
+No average file found in Data\DataSet2_unc\mov\R\iPDC_20Hz\RR
+Processing subject: SJB
+Searching for pattern 'mov_L_iPDC_20Hz_SJB_average.csv' in Data\DataSet2_unc\mov\L\iPDC_20Hz\SJB
+No average file found in Data\DataSet2_unc\mov\L\iPDC_20Hz\SJB
+Searching for pattern 'mov_R_iPDC_20Hz_SJB_average.csv' in Data\DataSet2_unc\mov\R\iPDC_20Hz\SJB
+No average file found in Data\DataSet2_unc\mov\R\iPDC_20Hz\SJB
+
+Preparation complete!
+
+Operation Summary
+================
+Combinations processed: 18
+Difference matrices created: 0
+Errors encountered: 0
+
+Process completed at: 2025-02-17 14:53:51

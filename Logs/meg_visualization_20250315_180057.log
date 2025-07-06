@@ -1,0 +1,122 @@
+2025-03-15 18:00:57,408 - INFO - Starting MEG Visualization V1
+2025-03-15 18:01:10,245 - INFO - Selected dataset: DataSet5_Align_cue_626_to_938_unc
+2025-03-15 18:01:10,246 - INFO - Selected analysis type: Wilcoxon
+2025-03-15 18:01:10,246 - INFO - Selected analysis folder: Wilcoxon_03102025-1305
+2025-03-15 18:01:10,246 - INFO - Selected visualization type: circular
+2025-03-15 18:01:10,246 - INFO - Connection display mode: separate
+2025-03-15 18:01:10,246 - INFO - Processing all folders in Wilcoxon_03102025-1305...
+2025-03-15 18:01:10,247 - INFO - Found 9 folders to process
+2025-03-15 18:01:10,247 - INFO - Processing folder 1/9: Cue_gDTF_100Hz
+2025-03-15 18:01:10,248 - INFO - Reading connectivity matrix from gDTF_100Hz_L-R_wilcoxon.csv
+2025-03-15 18:01:10,250 - ERROR - Error creating visualizations: [Errno 2] No such file or directory: 'Data\\DataSet5_Align_cue_626_to_938_unc\\Wilcoxon_03102025-1305\\Cue_gDTF_100Hz\\gDTF_100Hz_L-R_wilcoxon_connectivity_report_20250315_180110.txt\\gDTF_100Hz_L-R_wilcoxon_connectivity_report.txt'
+2025-03-15 18:01:10,251 - ERROR - Traceback (most recent call last):
+  File "c:\Users\dgane\Apps\MEG\Scripts\meg_visualization_v1.py", line 1139, in create_visualizations
+    self.circular_viz.generate_connectivity_report(
+  File "c:\Users\dgane\Apps\MEG\Scripts\meg_visualization_v1.py", line 770, in generate_connectivity_report
+    with open(report_path, 'w') as f:
+         ^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'Data\\DataSet5_Align_cue_626_to_938_unc\\Wilcoxon_03102025-1305\\Cue_gDTF_100Hz\\gDTF_100Hz_L-R_wilcoxon_connectivity_report_20250315_180110.txt\\gDTF_100Hz_L-R_wilcoxon_connectivity_report.txt'
+
+2025-03-15 18:01:10,251 - INFO - Progress: 1/9 folders completed
+2025-03-15 18:01:10,252 - INFO - Processing folder 2/9: Cue_gDTF_10Hz
+2025-03-15 18:01:10,252 - INFO - Reading connectivity matrix from gDTF_10Hz_L-R_wilcoxon.csv
+2025-03-15 18:01:10,254 - ERROR - Error creating visualizations: [Errno 2] No such file or directory: 'Data\\DataSet5_Align_cue_626_to_938_unc\\Wilcoxon_03102025-1305\\Cue_gDTF_10Hz\\gDTF_10Hz_L-R_wilcoxon_connectivity_report_20250315_180110.txt\\gDTF_10Hz_L-R_wilcoxon_connectivity_report.txt'
+2025-03-15 18:01:10,254 - ERROR - Traceback (most recent call last):
+  File "c:\Users\dgane\Apps\MEG\Scripts\meg_visualization_v1.py", line 1139, in create_visualizations
+    self.circular_viz.generate_connectivity_report(
+  File "c:\Users\dgane\Apps\MEG\Scripts\meg_visualization_v1.py", line 770, in generate_connectivity_report
+    with open(report_path, 'w') as f:
+         ^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'Data\\DataSet5_Align_cue_626_to_938_unc\\Wilcoxon_03102025-1305\\Cue_gDTF_10Hz\\gDTF_10Hz_L-R_wilcoxon_connectivity_report_20250315_180110.txt\\gDTF_10Hz_L-R_wilcoxon_connectivity_report.txt'
+
+2025-03-15 18:01:10,254 - INFO - Progress: 2/9 folders completed
+2025-03-15 18:01:10,255 - INFO - Processing folder 3/9: Cue_gDTF_20Hz
+2025-03-15 18:01:10,255 - INFO - Reading connectivity matrix from gDTF_20Hz_L-R_wilcoxon.csv
+2025-03-15 18:01:10,257 - ERROR - Error creating visualizations: [Errno 2] No such file or directory: 'Data\\DataSet5_Align_cue_626_to_938_unc\\Wilcoxon_03102025-1305\\Cue_gDTF_20Hz\\gDTF_20Hz_L-R_wilcoxon_connectivity_report_20250315_180110.txt\\gDTF_20Hz_L-R_wilcoxon_connectivity_report.txt'
+2025-03-15 18:01:10,257 - ERROR - Traceback (most recent call last):
+  File "c:\Users\dgane\Apps\MEG\Scripts\meg_visualization_v1.py", line 1139, in create_visualizations
+    self.circular_viz.generate_connectivity_report(
+  File "c:\Users\dgane\Apps\MEG\Scripts\meg_visualization_v1.py", line 770, in generate_connectivity_report
+    with open(report_path, 'w') as f:
+         ^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'Data\\DataSet5_Align_cue_626_to_938_unc\\Wilcoxon_03102025-1305\\Cue_gDTF_20Hz\\gDTF_20Hz_L-R_wilcoxon_connectivity_report_20250315_180110.txt\\gDTF_20Hz_L-R_wilcoxon_connectivity_report.txt'
+
+2025-03-15 18:01:10,257 - INFO - Progress: 3/9 folders completed
+2025-03-15 18:01:10,257 - INFO - Processing folder 4/9: Cue_gPDC_100Hz
+2025-03-15 18:01:10,258 - INFO - Reading connectivity matrix from gPDC_100Hz_L-R_wilcoxon.csv
+2025-03-15 18:01:10,260 - ERROR - Error creating visualizations: [Errno 2] No such file or directory: 'Data\\DataSet5_Align_cue_626_to_938_unc\\Wilcoxon_03102025-1305\\Cue_gPDC_100Hz\\gPDC_100Hz_L-R_wilcoxon_connectivity_report_20250315_180110.txt\\gPDC_100Hz_L-R_wilcoxon_connectivity_report.txt'
+2025-03-15 18:01:10,260 - ERROR - Traceback (most recent call last):
+  File "c:\Users\dgane\Apps\MEG\Scripts\meg_visualization_v1.py", line 1139, in create_visualizations
+    self.circular_viz.generate_connectivity_report(
+  File "c:\Users\dgane\Apps\MEG\Scripts\meg_visualization_v1.py", line 770, in generate_connectivity_report
+    with open(report_path, 'w') as f:
+         ^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'Data\\DataSet5_Align_cue_626_to_938_unc\\Wilcoxon_03102025-1305\\Cue_gPDC_100Hz\\gPDC_100Hz_L-R_wilcoxon_connectivity_report_20250315_180110.txt\\gPDC_100Hz_L-R_wilcoxon_connectivity_report.txt'
+
+2025-03-15 18:01:10,260 - INFO - Progress: 4/9 folders completed
+2025-03-15 18:01:10,260 - INFO - Processing folder 5/9: Cue_gPDC_10Hz
+2025-03-15 18:01:10,261 - INFO - Reading connectivity matrix from gPDC_10Hz_L-R_wilcoxon.csv
+2025-03-15 18:01:10,262 - ERROR - Error creating visualizations: [Errno 2] No such file or directory: 'Data\\DataSet5_Align_cue_626_to_938_unc\\Wilcoxon_03102025-1305\\Cue_gPDC_10Hz\\gPDC_10Hz_L-R_wilcoxon_connectivity_report_20250315_180110.txt\\gPDC_10Hz_L-R_wilcoxon_connectivity_report.txt'
+2025-03-15 18:01:10,263 - ERROR - Traceback (most recent call last):
+  File "c:\Users\dgane\Apps\MEG\Scripts\meg_visualization_v1.py", line 1139, in create_visualizations
+    self.circular_viz.generate_connectivity_report(
+  File "c:\Users\dgane\Apps\MEG\Scripts\meg_visualization_v1.py", line 770, in generate_connectivity_report
+    with open(report_path, 'w') as f:
+         ^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'Data\\DataSet5_Align_cue_626_to_938_unc\\Wilcoxon_03102025-1305\\Cue_gPDC_10Hz\\gPDC_10Hz_L-R_wilcoxon_connectivity_report_20250315_180110.txt\\gPDC_10Hz_L-R_wilcoxon_connectivity_report.txt'
+
+2025-03-15 18:01:10,263 - INFO - Progress: 5/9 folders completed
+2025-03-15 18:01:10,263 - INFO - Processing folder 6/9: Cue_gPDC_20Hz
+2025-03-15 18:01:10,264 - INFO - Reading connectivity matrix from gPDC_20Hz_L-R_wilcoxon.csv
+2025-03-15 18:01:10,265 - ERROR - Error creating visualizations: [Errno 2] No such file or directory: 'Data\\DataSet5_Align_cue_626_to_938_unc\\Wilcoxon_03102025-1305\\Cue_gPDC_20Hz\\gPDC_20Hz_L-R_wilcoxon_connectivity_report_20250315_180110.txt\\gPDC_20Hz_L-R_wilcoxon_connectivity_report.txt'
+2025-03-15 18:01:10,266 - ERROR - Traceback (most recent call last):
+  File "c:\Users\dgane\Apps\MEG\Scripts\meg_visualization_v1.py", line 1139, in create_visualizations
+    self.circular_viz.generate_connectivity_report(
+  File "c:\Users\dgane\Apps\MEG\Scripts\meg_visualization_v1.py", line 770, in generate_connectivity_report
+    with open(report_path, 'w') as f:
+         ^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'Data\\DataSet5_Align_cue_626_to_938_unc\\Wilcoxon_03102025-1305\\Cue_gPDC_20Hz\\gPDC_20Hz_L-R_wilcoxon_connectivity_report_20250315_180110.txt\\gPDC_20Hz_L-R_wilcoxon_connectivity_report.txt'
+
+2025-03-15 18:01:10,266 - INFO - Progress: 6/9 folders completed
+2025-03-15 18:01:10,266 - INFO - Processing folder 7/9: Cue_iPDC_100Hz
+2025-03-15 18:01:10,266 - INFO - Reading connectivity matrix from iPDC_100Hz_L-R_wilcoxon.csv
+2025-03-15 18:01:10,268 - ERROR - Error creating visualizations: [Errno 2] No such file or directory: 'Data\\DataSet5_Align_cue_626_to_938_unc\\Wilcoxon_03102025-1305\\Cue_iPDC_100Hz\\iPDC_100Hz_L-R_wilcoxon_connectivity_report_20250315_180110.txt\\iPDC_100Hz_L-R_wilcoxon_connectivity_report.txt'
+2025-03-15 18:01:10,268 - ERROR - Traceback (most recent call last):
+  File "c:\Users\dgane\Apps\MEG\Scripts\meg_visualization_v1.py", line 1139, in create_visualizations
+    self.circular_viz.generate_connectivity_report(
+  File "c:\Users\dgane\Apps\MEG\Scripts\meg_visualization_v1.py", line 770, in generate_connectivity_report
+    with open(report_path, 'w') as f:
+         ^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'Data\\DataSet5_Align_cue_626_to_938_unc\\Wilcoxon_03102025-1305\\Cue_iPDC_100Hz\\iPDC_100Hz_L-R_wilcoxon_connectivity_report_20250315_180110.txt\\iPDC_100Hz_L-R_wilcoxon_connectivity_report.txt'
+
+2025-03-15 18:01:10,269 - INFO - Progress: 7/9 folders completed
+2025-03-15 18:01:10,269 - INFO - Processing folder 8/9: Cue_iPDC_10Hz
+2025-03-15 18:01:10,269 - INFO - Reading connectivity matrix from iPDC_10Hz_L-R_wilcoxon.csv
+2025-03-15 18:01:10,270 - ERROR - Error creating visualizations: [Errno 2] No such file or directory: 'Data\\DataSet5_Align_cue_626_to_938_unc\\Wilcoxon_03102025-1305\\Cue_iPDC_10Hz\\iPDC_10Hz_L-R_wilcoxon_connectivity_report_20250315_180110.txt\\iPDC_10Hz_L-R_wilcoxon_connectivity_report.txt'
+2025-03-15 18:01:10,272 - ERROR - Traceback (most recent call last):
+  File "c:\Users\dgane\Apps\MEG\Scripts\meg_visualization_v1.py", line 1139, in create_visualizations
+    self.circular_viz.generate_connectivity_report(
+  File "c:\Users\dgane\Apps\MEG\Scripts\meg_visualization_v1.py", line 770, in generate_connectivity_report
+    with open(report_path, 'w') as f:
+         ^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'Data\\DataSet5_Align_cue_626_to_938_unc\\Wilcoxon_03102025-1305\\Cue_iPDC_10Hz\\iPDC_10Hz_L-R_wilcoxon_connectivity_report_20250315_180110.txt\\iPDC_10Hz_L-R_wilcoxon_connectivity_report.txt'
+
+2025-03-15 18:01:10,272 - INFO - Progress: 8/9 folders completed
+2025-03-15 18:01:10,272 - INFO - Processing folder 9/9: Cue_iPDC_20Hz
+2025-03-15 18:01:10,273 - INFO - Reading connectivity matrix from iPDC_20Hz_L-R_wilcoxon.csv
+2025-03-15 18:01:10,274 - ERROR - Error creating visualizations: [Errno 2] No such file or directory: 'Data\\DataSet5_Align_cue_626_to_938_unc\\Wilcoxon_03102025-1305\\Cue_iPDC_20Hz\\iPDC_20Hz_L-R_wilcoxon_connectivity_report_20250315_180110.txt\\iPDC_20Hz_L-R_wilcoxon_connectivity_report.txt'
+2025-03-15 18:01:10,274 - ERROR - Traceback (most recent call last):
+  File "c:\Users\dgane\Apps\MEG\Scripts\meg_visualization_v1.py", line 1139, in create_visualizations
+    self.circular_viz.generate_connectivity_report(
+  File "c:\Users\dgane\Apps\MEG\Scripts\meg_visualization_v1.py", line 770, in generate_connectivity_report
+    with open(report_path, 'w') as f:
+         ^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'Data\\DataSet5_Align_cue_626_to_938_unc\\Wilcoxon_03102025-1305\\Cue_iPDC_20Hz\\iPDC_20Hz_L-R_wilcoxon_connectivity_report_20250315_180110.txt\\iPDC_20Hz_L-R_wilcoxon_connectivity_report.txt'
+
+2025-03-15 18:01:10,275 - INFO - Progress: 9/9 folders completed
+2025-03-15 18:01:10,275 - INFO - 
+=== Processing Summary ===
+2025-03-15 18:01:10,275 - INFO - Folders processed: 9
+2025-03-15 18:01:10,275 - INFO - Visualizations created: 0
+2025-03-15 18:01:10,275 - INFO - Errors encountered: 9
+2025-03-15 18:01:10,275 - INFO - Process completed at: 2025-03-15 18:01:10

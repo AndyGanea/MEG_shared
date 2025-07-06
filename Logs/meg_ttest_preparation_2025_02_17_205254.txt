@@ -1,0 +1,226 @@
+MEG T-test Data Preparation
+==========================
+Selected dataset: DataSet6_Align_mov_626_to_1250_unc
+Excluding iDTF: True
+Process started at: 2025-02-17 20:52:54
+---------------------
+
+Starting T-test data preparation...
+Found 9 valid combinations
+
+Processing: mov_gDTF_100Hz
+Created overall L-R difference: Data\DataSet6_Align_mov_626_to_1250_unc\T_Test\mov_gDTF_100Hz\mov_gDTF_100Hz_L-R_overall.csv
+Processing subject: BG
+Created subject L-R difference: Data\DataSet6_Align_mov_626_to_1250_unc\T_Test\mov_gDTF_100Hz\mov_gDTF_100Hz_L-R_BG.csv
+Processing subject: DOC
+Created subject L-R difference: Data\DataSet6_Align_mov_626_to_1250_unc\T_Test\mov_gDTF_100Hz\mov_gDTF_100Hz_L-R_DOC.csv
+Processing subject: GB
+Created subject L-R difference: Data\DataSet6_Align_mov_626_to_1250_unc\T_Test\mov_gDTF_100Hz\mov_gDTF_100Hz_L-R_GB.csv
+Processing subject: JDC
+Created subject L-R difference: Data\DataSet6_Align_mov_626_to_1250_unc\T_Test\mov_gDTF_100Hz\mov_gDTF_100Hz_L-R_JDC.csv
+Processing subject: JFXD
+Created subject L-R difference: Data\DataSet6_Align_mov_626_to_1250_unc\T_Test\mov_gDTF_100Hz\mov_gDTF_100Hz_L-R_JFXD.csv
+Processing subject: JZ
+Created subject L-R difference: Data\DataSet6_Align_mov_626_to_1250_unc\T_Test\mov_gDTF_100Hz\mov_gDTF_100Hz_L-R_JZ.csv
+Processing subject: LT
+Created subject L-R difference: Data\DataSet6_Align_mov_626_to_1250_unc\T_Test\mov_gDTF_100Hz\mov_gDTF_100Hz_L-R_LT.csv
+Processing subject: NvA
+Created subject L-R difference: Data\DataSet6_Align_mov_626_to_1250_unc\T_Test\mov_gDTF_100Hz\mov_gDTF_100Hz_L-R_NvA.csv
+Processing subject: RR
+Created subject L-R difference: Data\DataSet6_Align_mov_626_to_1250_unc\T_Test\mov_gDTF_100Hz\mov_gDTF_100Hz_L-R_RR.csv
+Processing subject: SJB
+Created subject L-R difference: Data\DataSet6_Align_mov_626_to_1250_unc\T_Test\mov_gDTF_100Hz\mov_gDTF_100Hz_L-R_SJB.csv
+
+Processing: mov_gDTF_10Hz
+Created overall L-R difference: Data\DataSet6_Align_mov_626_to_1250_unc\T_Test\mov_gDTF_10Hz\mov_gDTF_10Hz_L-R_overall.csv
+Processing subject: BG
+Created subject L-R difference: Data\DataSet6_Align_mov_626_to_1250_unc\T_Test\mov_gDTF_10Hz\mov_gDTF_10Hz_L-R_BG.csv
+Processing subject: DOC
+Created subject L-R difference: Data\DataSet6_Align_mov_626_to_1250_unc\T_Test\mov_gDTF_10Hz\mov_gDTF_10Hz_L-R_DOC.csv
+Processing subject: GB
+Created subject L-R difference: Data\DataSet6_Align_mov_626_to_1250_unc\T_Test\mov_gDTF_10Hz\mov_gDTF_10Hz_L-R_GB.csv
+Processing subject: JDC
+Created subject L-R difference: Data\DataSet6_Align_mov_626_to_1250_unc\T_Test\mov_gDTF_10Hz\mov_gDTF_10Hz_L-R_JDC.csv
+Processing subject: JFXD
+Created subject L-R difference: Data\DataSet6_Align_mov_626_to_1250_unc\T_Test\mov_gDTF_10Hz\mov_gDTF_10Hz_L-R_JFXD.csv
+Processing subject: JZ
+Created subject L-R difference: Data\DataSet6_Align_mov_626_to_1250_unc\T_Test\mov_gDTF_10Hz\mov_gDTF_10Hz_L-R_JZ.csv
+Processing subject: LT
+Created subject L-R difference: Data\DataSet6_Align_mov_626_to_1250_unc\T_Test\mov_gDTF_10Hz\mov_gDTF_10Hz_L-R_LT.csv
+Processing subject: NvA
+Created subject L-R difference: Data\DataSet6_Align_mov_626_to_1250_unc\T_Test\mov_gDTF_10Hz\mov_gDTF_10Hz_L-R_NvA.csv
+Processing subject: RR
+Created subject L-R difference: Data\DataSet6_Align_mov_626_to_1250_unc\T_Test\mov_gDTF_10Hz\mov_gDTF_10Hz_L-R_RR.csv
+Processing subject: SJB
+Created subject L-R difference: Data\DataSet6_Align_mov_626_to_1250_unc\T_Test\mov_gDTF_10Hz\mov_gDTF_10Hz_L-R_SJB.csv
+
+Processing: mov_gDTF_20Hz
+Created overall L-R difference: Data\DataSet6_Align_mov_626_to_1250_unc\T_Test\mov_gDTF_20Hz\mov_gDTF_20Hz_L-R_overall.csv
+Processing subject: BG
+Created subject L-R difference: Data\DataSet6_Align_mov_626_to_1250_unc\T_Test\mov_gDTF_20Hz\mov_gDTF_20Hz_L-R_BG.csv
+Processing subject: DOC
+Created subject L-R difference: Data\DataSet6_Align_mov_626_to_1250_unc\T_Test\mov_gDTF_20Hz\mov_gDTF_20Hz_L-R_DOC.csv
+Processing subject: GB
+Created subject L-R difference: Data\DataSet6_Align_mov_626_to_1250_unc\T_Test\mov_gDTF_20Hz\mov_gDTF_20Hz_L-R_GB.csv
+Processing subject: JDC
+Created subject L-R difference: Data\DataSet6_Align_mov_626_to_1250_unc\T_Test\mov_gDTF_20Hz\mov_gDTF_20Hz_L-R_JDC.csv
+Processing subject: JFXD
+Created subject L-R difference: Data\DataSet6_Align_mov_626_to_1250_unc\T_Test\mov_gDTF_20Hz\mov_gDTF_20Hz_L-R_JFXD.csv
+Processing subject: JZ
+Created subject L-R difference: Data\DataSet6_Align_mov_626_to_1250_unc\T_Test\mov_gDTF_20Hz\mov_gDTF_20Hz_L-R_JZ.csv
+Processing subject: LT
+Created subject L-R difference: Data\DataSet6_Align_mov_626_to_1250_unc\T_Test\mov_gDTF_20Hz\mov_gDTF_20Hz_L-R_LT.csv
+Processing subject: NvA
+Created subject L-R difference: Data\DataSet6_Align_mov_626_to_1250_unc\T_Test\mov_gDTF_20Hz\mov_gDTF_20Hz_L-R_NvA.csv
+Processing subject: RR
+Created subject L-R difference: Data\DataSet6_Align_mov_626_to_1250_unc\T_Test\mov_gDTF_20Hz\mov_gDTF_20Hz_L-R_RR.csv
+Processing subject: SJB
+Created subject L-R difference: Data\DataSet6_Align_mov_626_to_1250_unc\T_Test\mov_gDTF_20Hz\mov_gDTF_20Hz_L-R_SJB.csv
+
+Processing: mov_gPDC_100Hz
+Created overall L-R difference: Data\DataSet6_Align_mov_626_to_1250_unc\T_Test\mov_gPDC_100Hz\mov_gPDC_100Hz_L-R_overall.csv
+Processing subject: BG
+Created subject L-R difference: Data\DataSet6_Align_mov_626_to_1250_unc\T_Test\mov_gPDC_100Hz\mov_gPDC_100Hz_L-R_BG.csv
+Processing subject: DOC
+Created subject L-R difference: Data\DataSet6_Align_mov_626_to_1250_unc\T_Test\mov_gPDC_100Hz\mov_gPDC_100Hz_L-R_DOC.csv
+Processing subject: GB
+Created subject L-R difference: Data\DataSet6_Align_mov_626_to_1250_unc\T_Test\mov_gPDC_100Hz\mov_gPDC_100Hz_L-R_GB.csv
+Processing subject: JDC
+Created subject L-R difference: Data\DataSet6_Align_mov_626_to_1250_unc\T_Test\mov_gPDC_100Hz\mov_gPDC_100Hz_L-R_JDC.csv
+Processing subject: JFXD
+Created subject L-R difference: Data\DataSet6_Align_mov_626_to_1250_unc\T_Test\mov_gPDC_100Hz\mov_gPDC_100Hz_L-R_JFXD.csv
+Processing subject: JZ
+Created subject L-R difference: Data\DataSet6_Align_mov_626_to_1250_unc\T_Test\mov_gPDC_100Hz\mov_gPDC_100Hz_L-R_JZ.csv
+Processing subject: LT
+Created subject L-R difference: Data\DataSet6_Align_mov_626_to_1250_unc\T_Test\mov_gPDC_100Hz\mov_gPDC_100Hz_L-R_LT.csv
+Processing subject: NvA
+Created subject L-R difference: Data\DataSet6_Align_mov_626_to_1250_unc\T_Test\mov_gPDC_100Hz\mov_gPDC_100Hz_L-R_NvA.csv
+Processing subject: RR
+Created subject L-R difference: Data\DataSet6_Align_mov_626_to_1250_unc\T_Test\mov_gPDC_100Hz\mov_gPDC_100Hz_L-R_RR.csv
+Processing subject: SJB
+Created subject L-R difference: Data\DataSet6_Align_mov_626_to_1250_unc\T_Test\mov_gPDC_100Hz\mov_gPDC_100Hz_L-R_SJB.csv
+
+Processing: mov_gPDC_10Hz
+Created overall L-R difference: Data\DataSet6_Align_mov_626_to_1250_unc\T_Test\mov_gPDC_10Hz\mov_gPDC_10Hz_L-R_overall.csv
+Processing subject: BG
+Created subject L-R difference: Data\DataSet6_Align_mov_626_to_1250_unc\T_Test\mov_gPDC_10Hz\mov_gPDC_10Hz_L-R_BG.csv
+Processing subject: DOC
+Created subject L-R difference: Data\DataSet6_Align_mov_626_to_1250_unc\T_Test\mov_gPDC_10Hz\mov_gPDC_10Hz_L-R_DOC.csv
+Processing subject: GB
+Created subject L-R difference: Data\DataSet6_Align_mov_626_to_1250_unc\T_Test\mov_gPDC_10Hz\mov_gPDC_10Hz_L-R_GB.csv
+Processing subject: JDC
+Created subject L-R difference: Data\DataSet6_Align_mov_626_to_1250_unc\T_Test\mov_gPDC_10Hz\mov_gPDC_10Hz_L-R_JDC.csv
+Processing subject: JFXD
+Created subject L-R difference: Data\DataSet6_Align_mov_626_to_1250_unc\T_Test\mov_gPDC_10Hz\mov_gPDC_10Hz_L-R_JFXD.csv
+Processing subject: JZ
+Created subject L-R difference: Data\DataSet6_Align_mov_626_to_1250_unc\T_Test\mov_gPDC_10Hz\mov_gPDC_10Hz_L-R_JZ.csv
+Processing subject: LT
+Created subject L-R difference: Data\DataSet6_Align_mov_626_to_1250_unc\T_Test\mov_gPDC_10Hz\mov_gPDC_10Hz_L-R_LT.csv
+Processing subject: NvA
+Created subject L-R difference: Data\DataSet6_Align_mov_626_to_1250_unc\T_Test\mov_gPDC_10Hz\mov_gPDC_10Hz_L-R_NvA.csv
+Processing subject: RR
+Created subject L-R difference: Data\DataSet6_Align_mov_626_to_1250_unc\T_Test\mov_gPDC_10Hz\mov_gPDC_10Hz_L-R_RR.csv
+Processing subject: SJB
+Created subject L-R difference: Data\DataSet6_Align_mov_626_to_1250_unc\T_Test\mov_gPDC_10Hz\mov_gPDC_10Hz_L-R_SJB.csv
+
+Processing: mov_gPDC_20Hz
+Created overall L-R difference: Data\DataSet6_Align_mov_626_to_1250_unc\T_Test\mov_gPDC_20Hz\mov_gPDC_20Hz_L-R_overall.csv
+Processing subject: BG
+Created subject L-R difference: Data\DataSet6_Align_mov_626_to_1250_unc\T_Test\mov_gPDC_20Hz\mov_gPDC_20Hz_L-R_BG.csv
+Processing subject: DOC
+Created subject L-R difference: Data\DataSet6_Align_mov_626_to_1250_unc\T_Test\mov_gPDC_20Hz\mov_gPDC_20Hz_L-R_DOC.csv
+Processing subject: GB
+Created subject L-R difference: Data\DataSet6_Align_mov_626_to_1250_unc\T_Test\mov_gPDC_20Hz\mov_gPDC_20Hz_L-R_GB.csv
+Processing subject: JDC
+Created subject L-R difference: Data\DataSet6_Align_mov_626_to_1250_unc\T_Test\mov_gPDC_20Hz\mov_gPDC_20Hz_L-R_JDC.csv
+Processing subject: JFXD
+Created subject L-R difference: Data\DataSet6_Align_mov_626_to_1250_unc\T_Test\mov_gPDC_20Hz\mov_gPDC_20Hz_L-R_JFXD.csv
+Processing subject: JZ
+Created subject L-R difference: Data\DataSet6_Align_mov_626_to_1250_unc\T_Test\mov_gPDC_20Hz\mov_gPDC_20Hz_L-R_JZ.csv
+Processing subject: LT
+Created subject L-R difference: Data\DataSet6_Align_mov_626_to_1250_unc\T_Test\mov_gPDC_20Hz\mov_gPDC_20Hz_L-R_LT.csv
+Processing subject: NvA
+Created subject L-R difference: Data\DataSet6_Align_mov_626_to_1250_unc\T_Test\mov_gPDC_20Hz\mov_gPDC_20Hz_L-R_NvA.csv
+Processing subject: RR
+Created subject L-R difference: Data\DataSet6_Align_mov_626_to_1250_unc\T_Test\mov_gPDC_20Hz\mov_gPDC_20Hz_L-R_RR.csv
+Processing subject: SJB
+Created subject L-R difference: Data\DataSet6_Align_mov_626_to_1250_unc\T_Test\mov_gPDC_20Hz\mov_gPDC_20Hz_L-R_SJB.csv
+
+Processing: mov_iPDC_100Hz
+Created overall L-R difference: Data\DataSet6_Align_mov_626_to_1250_unc\T_Test\mov_iPDC_100Hz\mov_iPDC_100Hz_L-R_overall.csv
+Processing subject: BG
+Created subject L-R difference: Data\DataSet6_Align_mov_626_to_1250_unc\T_Test\mov_iPDC_100Hz\mov_iPDC_100Hz_L-R_BG.csv
+Processing subject: DOC
+Created subject L-R difference: Data\DataSet6_Align_mov_626_to_1250_unc\T_Test\mov_iPDC_100Hz\mov_iPDC_100Hz_L-R_DOC.csv
+Processing subject: GB
+Created subject L-R difference: Data\DataSet6_Align_mov_626_to_1250_unc\T_Test\mov_iPDC_100Hz\mov_iPDC_100Hz_L-R_GB.csv
+Processing subject: JDC
+Created subject L-R difference: Data\DataSet6_Align_mov_626_to_1250_unc\T_Test\mov_iPDC_100Hz\mov_iPDC_100Hz_L-R_JDC.csv
+Processing subject: JFXD
+Created subject L-R difference: Data\DataSet6_Align_mov_626_to_1250_unc\T_Test\mov_iPDC_100Hz\mov_iPDC_100Hz_L-R_JFXD.csv
+Processing subject: JZ
+Created subject L-R difference: Data\DataSet6_Align_mov_626_to_1250_unc\T_Test\mov_iPDC_100Hz\mov_iPDC_100Hz_L-R_JZ.csv
+Processing subject: LT
+Created subject L-R difference: Data\DataSet6_Align_mov_626_to_1250_unc\T_Test\mov_iPDC_100Hz\mov_iPDC_100Hz_L-R_LT.csv
+Processing subject: NvA
+Created subject L-R difference: Data\DataSet6_Align_mov_626_to_1250_unc\T_Test\mov_iPDC_100Hz\mov_iPDC_100Hz_L-R_NvA.csv
+Processing subject: RR
+Created subject L-R difference: Data\DataSet6_Align_mov_626_to_1250_unc\T_Test\mov_iPDC_100Hz\mov_iPDC_100Hz_L-R_RR.csv
+Processing subject: SJB
+Created subject L-R difference: Data\DataSet6_Align_mov_626_to_1250_unc\T_Test\mov_iPDC_100Hz\mov_iPDC_100Hz_L-R_SJB.csv
+
+Processing: mov_iPDC_10Hz
+Created overall L-R difference: Data\DataSet6_Align_mov_626_to_1250_unc\T_Test\mov_iPDC_10Hz\mov_iPDC_10Hz_L-R_overall.csv
+Processing subject: BG
+Created subject L-R difference: Data\DataSet6_Align_mov_626_to_1250_unc\T_Test\mov_iPDC_10Hz\mov_iPDC_10Hz_L-R_BG.csv
+Processing subject: DOC
+Created subject L-R difference: Data\DataSet6_Align_mov_626_to_1250_unc\T_Test\mov_iPDC_10Hz\mov_iPDC_10Hz_L-R_DOC.csv
+Processing subject: GB
+Created subject L-R difference: Data\DataSet6_Align_mov_626_to_1250_unc\T_Test\mov_iPDC_10Hz\mov_iPDC_10Hz_L-R_GB.csv
+Processing subject: JDC
+Created subject L-R difference: Data\DataSet6_Align_mov_626_to_1250_unc\T_Test\mov_iPDC_10Hz\mov_iPDC_10Hz_L-R_JDC.csv
+Processing subject: JFXD
+Created subject L-R difference: Data\DataSet6_Align_mov_626_to_1250_unc\T_Test\mov_iPDC_10Hz\mov_iPDC_10Hz_L-R_JFXD.csv
+Processing subject: JZ
+Created subject L-R difference: Data\DataSet6_Align_mov_626_to_1250_unc\T_Test\mov_iPDC_10Hz\mov_iPDC_10Hz_L-R_JZ.csv
+Processing subject: LT
+Created subject L-R difference: Data\DataSet6_Align_mov_626_to_1250_unc\T_Test\mov_iPDC_10Hz\mov_iPDC_10Hz_L-R_LT.csv
+Processing subject: NvA
+Created subject L-R difference: Data\DataSet6_Align_mov_626_to_1250_unc\T_Test\mov_iPDC_10Hz\mov_iPDC_10Hz_L-R_NvA.csv
+Processing subject: RR
+Created subject L-R difference: Data\DataSet6_Align_mov_626_to_1250_unc\T_Test\mov_iPDC_10Hz\mov_iPDC_10Hz_L-R_RR.csv
+Processing subject: SJB
+Created subject L-R difference: Data\DataSet6_Align_mov_626_to_1250_unc\T_Test\mov_iPDC_10Hz\mov_iPDC_10Hz_L-R_SJB.csv
+
+Processing: mov_iPDC_20Hz
+Created overall L-R difference: Data\DataSet6_Align_mov_626_to_1250_unc\T_Test\mov_iPDC_20Hz\mov_iPDC_20Hz_L-R_overall.csv
+Processing subject: BG
+Created subject L-R difference: Data\DataSet6_Align_mov_626_to_1250_unc\T_Test\mov_iPDC_20Hz\mov_iPDC_20Hz_L-R_BG.csv
+Processing subject: DOC
+Created subject L-R difference: Data\DataSet6_Align_mov_626_to_1250_unc\T_Test\mov_iPDC_20Hz\mov_iPDC_20Hz_L-R_DOC.csv
+Processing subject: GB
+Created subject L-R difference: Data\DataSet6_Align_mov_626_to_1250_unc\T_Test\mov_iPDC_20Hz\mov_iPDC_20Hz_L-R_GB.csv
+Processing subject: JDC
+Created subject L-R difference: Data\DataSet6_Align_mov_626_to_1250_unc\T_Test\mov_iPDC_20Hz\mov_iPDC_20Hz_L-R_JDC.csv
+Processing subject: JFXD
+Created subject L-R difference: Data\DataSet6_Align_mov_626_to_1250_unc\T_Test\mov_iPDC_20Hz\mov_iPDC_20Hz_L-R_JFXD.csv
+Processing subject: JZ
+Created subject L-R difference: Data\DataSet6_Align_mov_626_to_1250_unc\T_Test\mov_iPDC_20Hz\mov_iPDC_20Hz_L-R_JZ.csv
+Processing subject: LT
+Created subject L-R difference: Data\DataSet6_Align_mov_626_to_1250_unc\T_Test\mov_iPDC_20Hz\mov_iPDC_20Hz_L-R_LT.csv
+Processing subject: NvA
+Created subject L-R difference: Data\DataSet6_Align_mov_626_to_1250_unc\T_Test\mov_iPDC_20Hz\mov_iPDC_20Hz_L-R_NvA.csv
+Processing subject: RR
+Created subject L-R difference: Data\DataSet6_Align_mov_626_to_1250_unc\T_Test\mov_iPDC_20Hz\mov_iPDC_20Hz_L-R_RR.csv
+Processing subject: SJB
+Created subject L-R difference: Data\DataSet6_Align_mov_626_to_1250_unc\T_Test\mov_iPDC_20Hz\mov_iPDC_20Hz_L-R_SJB.csv
+
+Preparation complete!
+
+Operation Summary
+================
+Combinations processed: 9
+Difference matrices created: 99
+Errors encountered: 0
+
+Process completed at: 2025-02-17 20:52:55

@@ -1,0 +1,247 @@
+2025-03-14 17:33:03,047 - INFO - Starting MEG Connectogram Visualization V2
+2025-03-14 17:33:03,047 - INFO - Selected dataset: DataSet5_Align_cue_626_to_938_unc
+2025-03-14 17:33:03,047 - INFO - Selected analysis type: Wilcoxon
+2025-03-14 17:33:03,047 - INFO - Selected analysis folder: Wilcoxon_03102025-1305
+2025-03-14 17:33:03,047 - INFO - Log file: Logs\connectogram_20250314-173303.log
+2025-03-14 17:33:03,048 - INFO - Processing all folders in Wilcoxon_03102025-1305...
+2025-03-14 17:33:03,048 - INFO - Processing Cue_gDTF_100Hz...
+2025-03-14 17:33:03,048 - INFO - Processing folder: Cue_gDTF_100Hz
+2025-03-14 17:33:03,049 - INFO - Found 1 statistical test files
+2025-03-14 17:33:03,049 - INFO - Processing gDTF_100Hz_L-R (wilcoxon)
+2025-03-14 17:33:03,049 - INFO - Reading connectivity matrix from gDTF_100Hz_L-R_wilcoxon.csv
+2025-03-14 17:33:03,509 - ERROR - Error processing gDTF_100Hz_L-R_wilcoxon.csv: 'c' argument has 32 elements, which is inconsistent with 'x' and 'y' with size 0.
+2025-03-14 17:33:03,512 - ERROR - Traceback (most recent call last):
+  File "c:\Users\dgane\Apps\MEG\Scripts\meg_circular_connectogram_brain.py", line 800, in process_folder
+    fig = self.create_brain_visualization(matrix, output_path, title, conn_type)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\dgane\Apps\MEG\Scripts\meg_circular_connectogram_brain.py", line 1045, in create_brain_visualization
+    display.add_markers(
+  File "C:\Users\dgane\AppData\Local\Programs\Python\Python311\Lib\site-packages\nilearn\plotting\displays\_slicers.py", line 692, in add_markers
+    display_ax.ax.scatter(
+  File "C:\Users\dgane\AppData\Local\Programs\Python\Python311\Lib\site-packages\matplotlib\_api\deprecation.py", line 453, in wrapper
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dgane\AppData\Local\Programs\Python\Python311\Lib\site-packages\matplotlib\__init__.py", line 1521, in inner
+    return func(
+           ^^^^^
+  File "C:\Users\dgane\AppData\Local\Programs\Python\Python311\Lib\site-packages\matplotlib\axes\_axes.py", line 4918, in scatter
+    self._parse_scatter_color_args(
+  File "C:\Users\dgane\AppData\Local\Programs\Python\Python311\Lib\site-packages\matplotlib\axes\_axes.py", line 4741, in _parse_scatter_color_args
+    raise invalid_shape_exception(len(colors), xsize)
+ValueError: 'c' argument has 32 elements, which is inconsistent with 'x' and 'y' with size 0.
+
+2025-03-14 17:33:03,513 - INFO - Processing Cue_gDTF_10Hz...
+2025-03-14 17:33:03,513 - INFO - Processing folder: Cue_gDTF_10Hz
+2025-03-14 17:33:03,514 - INFO - Found 1 statistical test files
+2025-03-14 17:33:03,514 - INFO - Processing gDTF_10Hz_L-R (wilcoxon)
+2025-03-14 17:33:03,514 - INFO - Reading connectivity matrix from gDTF_10Hz_L-R_wilcoxon.csv
+2025-03-14 17:33:03,887 - ERROR - Error processing gDTF_10Hz_L-R_wilcoxon.csv: 'c' argument has 32 elements, which is inconsistent with 'x' and 'y' with size 0.
+2025-03-14 17:33:03,888 - ERROR - Traceback (most recent call last):
+  File "c:\Users\dgane\Apps\MEG\Scripts\meg_circular_connectogram_brain.py", line 800, in process_folder
+    fig = self.create_brain_visualization(matrix, output_path, title, conn_type)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\dgane\Apps\MEG\Scripts\meg_circular_connectogram_brain.py", line 1045, in create_brain_visualization
+    display.add_markers(
+  File "C:\Users\dgane\AppData\Local\Programs\Python\Python311\Lib\site-packages\nilearn\plotting\displays\_slicers.py", line 692, in add_markers
+    display_ax.ax.scatter(
+  File "C:\Users\dgane\AppData\Local\Programs\Python\Python311\Lib\site-packages\matplotlib\_api\deprecation.py", line 453, in wrapper
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dgane\AppData\Local\Programs\Python\Python311\Lib\site-packages\matplotlib\__init__.py", line 1521, in inner
+    return func(
+           ^^^^^
+  File "C:\Users\dgane\AppData\Local\Programs\Python\Python311\Lib\site-packages\matplotlib\axes\_axes.py", line 4918, in scatter
+    self._parse_scatter_color_args(
+  File "C:\Users\dgane\AppData\Local\Programs\Python\Python311\Lib\site-packages\matplotlib\axes\_axes.py", line 4741, in _parse_scatter_color_args
+    raise invalid_shape_exception(len(colors), xsize)
+ValueError: 'c' argument has 32 elements, which is inconsistent with 'x' and 'y' with size 0.
+
+2025-03-14 17:33:03,888 - INFO - Processing Cue_gDTF_20Hz...
+2025-03-14 17:33:03,888 - INFO - Processing folder: Cue_gDTF_20Hz
+2025-03-14 17:33:03,889 - INFO - Found 1 statistical test files
+2025-03-14 17:33:03,889 - INFO - Processing gDTF_20Hz_L-R (wilcoxon)
+2025-03-14 17:33:03,889 - INFO - Reading connectivity matrix from gDTF_20Hz_L-R_wilcoxon.csv
+2025-03-14 17:33:04,251 - ERROR - Error processing gDTF_20Hz_L-R_wilcoxon.csv: 'c' argument has 32 elements, which is inconsistent with 'x' and 'y' with size 0.
+2025-03-14 17:33:04,252 - ERROR - Traceback (most recent call last):
+  File "c:\Users\dgane\Apps\MEG\Scripts\meg_circular_connectogram_brain.py", line 800, in process_folder
+    fig = self.create_brain_visualization(matrix, output_path, title, conn_type)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\dgane\Apps\MEG\Scripts\meg_circular_connectogram_brain.py", line 1045, in create_brain_visualization
+    display.add_markers(
+  File "C:\Users\dgane\AppData\Local\Programs\Python\Python311\Lib\site-packages\nilearn\plotting\displays\_slicers.py", line 692, in add_markers
+    display_ax.ax.scatter(
+  File "C:\Users\dgane\AppData\Local\Programs\Python\Python311\Lib\site-packages\matplotlib\_api\deprecation.py", line 453, in wrapper
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dgane\AppData\Local\Programs\Python\Python311\Lib\site-packages\matplotlib\__init__.py", line 1521, in inner
+    return func(
+           ^^^^^
+  File "C:\Users\dgane\AppData\Local\Programs\Python\Python311\Lib\site-packages\matplotlib\axes\_axes.py", line 4918, in scatter
+    self._parse_scatter_color_args(
+  File "C:\Users\dgane\AppData\Local\Programs\Python\Python311\Lib\site-packages\matplotlib\axes\_axes.py", line 4741, in _parse_scatter_color_args
+    raise invalid_shape_exception(len(colors), xsize)
+ValueError: 'c' argument has 32 elements, which is inconsistent with 'x' and 'y' with size 0.
+
+2025-03-14 17:33:04,252 - INFO - Processing Cue_gPDC_100Hz...
+2025-03-14 17:33:04,252 - INFO - Processing folder: Cue_gPDC_100Hz
+2025-03-14 17:33:04,253 - INFO - Found 1 statistical test files
+2025-03-14 17:33:04,253 - INFO - Processing gPDC_100Hz_L-R (wilcoxon)
+2025-03-14 17:33:04,253 - INFO - Reading connectivity matrix from gPDC_100Hz_L-R_wilcoxon.csv
+2025-03-14 17:33:04,617 - ERROR - Error processing gPDC_100Hz_L-R_wilcoxon.csv: 'c' argument has 32 elements, which is inconsistent with 'x' and 'y' with size 0.
+2025-03-14 17:33:04,618 - ERROR - Traceback (most recent call last):
+  File "c:\Users\dgane\Apps\MEG\Scripts\meg_circular_connectogram_brain.py", line 800, in process_folder
+    fig = self.create_brain_visualization(matrix, output_path, title, conn_type)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\dgane\Apps\MEG\Scripts\meg_circular_connectogram_brain.py", line 1045, in create_brain_visualization
+    display.add_markers(
+  File "C:\Users\dgane\AppData\Local\Programs\Python\Python311\Lib\site-packages\nilearn\plotting\displays\_slicers.py", line 692, in add_markers
+    display_ax.ax.scatter(
+  File "C:\Users\dgane\AppData\Local\Programs\Python\Python311\Lib\site-packages\matplotlib\_api\deprecation.py", line 453, in wrapper
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dgane\AppData\Local\Programs\Python\Python311\Lib\site-packages\matplotlib\__init__.py", line 1521, in inner
+    return func(
+           ^^^^^
+  File "C:\Users\dgane\AppData\Local\Programs\Python\Python311\Lib\site-packages\matplotlib\axes\_axes.py", line 4918, in scatter
+    self._parse_scatter_color_args(
+  File "C:\Users\dgane\AppData\Local\Programs\Python\Python311\Lib\site-packages\matplotlib\axes\_axes.py", line 4741, in _parse_scatter_color_args
+    raise invalid_shape_exception(len(colors), xsize)
+ValueError: 'c' argument has 32 elements, which is inconsistent with 'x' and 'y' with size 0.
+
+2025-03-14 17:33:04,619 - INFO - Processing Cue_gPDC_10Hz...
+2025-03-14 17:33:04,619 - INFO - Processing folder: Cue_gPDC_10Hz
+2025-03-14 17:33:04,619 - INFO - Found 1 statistical test files
+2025-03-14 17:33:04,620 - INFO - Processing gPDC_10Hz_L-R (wilcoxon)
+2025-03-14 17:33:04,620 - INFO - Reading connectivity matrix from gPDC_10Hz_L-R_wilcoxon.csv
+2025-03-14 17:33:04,992 - ERROR - Error processing gPDC_10Hz_L-R_wilcoxon.csv: 'c' argument has 32 elements, which is inconsistent with 'x' and 'y' with size 0.
+2025-03-14 17:33:04,994 - ERROR - Traceback (most recent call last):
+  File "c:\Users\dgane\Apps\MEG\Scripts\meg_circular_connectogram_brain.py", line 800, in process_folder
+    fig = self.create_brain_visualization(matrix, output_path, title, conn_type)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\dgane\Apps\MEG\Scripts\meg_circular_connectogram_brain.py", line 1045, in create_brain_visualization
+    display.add_markers(
+  File "C:\Users\dgane\AppData\Local\Programs\Python\Python311\Lib\site-packages\nilearn\plotting\displays\_slicers.py", line 692, in add_markers
+    display_ax.ax.scatter(
+  File "C:\Users\dgane\AppData\Local\Programs\Python\Python311\Lib\site-packages\matplotlib\_api\deprecation.py", line 453, in wrapper
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dgane\AppData\Local\Programs\Python\Python311\Lib\site-packages\matplotlib\__init__.py", line 1521, in inner
+    return func(
+           ^^^^^
+  File "C:\Users\dgane\AppData\Local\Programs\Python\Python311\Lib\site-packages\matplotlib\axes\_axes.py", line 4918, in scatter
+    self._parse_scatter_color_args(
+  File "C:\Users\dgane\AppData\Local\Programs\Python\Python311\Lib\site-packages\matplotlib\axes\_axes.py", line 4741, in _parse_scatter_color_args
+    raise invalid_shape_exception(len(colors), xsize)
+ValueError: 'c' argument has 32 elements, which is inconsistent with 'x' and 'y' with size 0.
+
+2025-03-14 17:33:04,994 - INFO - Processing Cue_gPDC_20Hz...
+2025-03-14 17:33:04,994 - INFO - Processing folder: Cue_gPDC_20Hz
+2025-03-14 17:33:04,995 - INFO - Found 1 statistical test files
+2025-03-14 17:33:04,995 - INFO - Processing gPDC_20Hz_L-R (wilcoxon)
+2025-03-14 17:33:04,995 - INFO - Reading connectivity matrix from gPDC_20Hz_L-R_wilcoxon.csv
+2025-03-14 17:33:05,372 - ERROR - Error processing gPDC_20Hz_L-R_wilcoxon.csv: 'c' argument has 32 elements, which is inconsistent with 'x' and 'y' with size 0.
+2025-03-14 17:33:05,373 - ERROR - Traceback (most recent call last):
+  File "c:\Users\dgane\Apps\MEG\Scripts\meg_circular_connectogram_brain.py", line 800, in process_folder
+    fig = self.create_brain_visualization(matrix, output_path, title, conn_type)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\dgane\Apps\MEG\Scripts\meg_circular_connectogram_brain.py", line 1045, in create_brain_visualization
+    display.add_markers(
+  File "C:\Users\dgane\AppData\Local\Programs\Python\Python311\Lib\site-packages\nilearn\plotting\displays\_slicers.py", line 692, in add_markers
+    display_ax.ax.scatter(
+  File "C:\Users\dgane\AppData\Local\Programs\Python\Python311\Lib\site-packages\matplotlib\_api\deprecation.py", line 453, in wrapper
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dgane\AppData\Local\Programs\Python\Python311\Lib\site-packages\matplotlib\__init__.py", line 1521, in inner
+    return func(
+           ^^^^^
+  File "C:\Users\dgane\AppData\Local\Programs\Python\Python311\Lib\site-packages\matplotlib\axes\_axes.py", line 4918, in scatter
+    self._parse_scatter_color_args(
+  File "C:\Users\dgane\AppData\Local\Programs\Python\Python311\Lib\site-packages\matplotlib\axes\_axes.py", line 4741, in _parse_scatter_color_args
+    raise invalid_shape_exception(len(colors), xsize)
+ValueError: 'c' argument has 32 elements, which is inconsistent with 'x' and 'y' with size 0.
+
+2025-03-14 17:33:05,374 - INFO - Processing Cue_iPDC_100Hz...
+2025-03-14 17:33:05,374 - INFO - Processing folder: Cue_iPDC_100Hz
+2025-03-14 17:33:05,374 - INFO - Found 1 statistical test files
+2025-03-14 17:33:05,374 - INFO - Processing iPDC_100Hz_L-R (wilcoxon)
+2025-03-14 17:33:05,374 - INFO - Reading connectivity matrix from iPDC_100Hz_L-R_wilcoxon.csv
+2025-03-14 17:33:05,766 - ERROR - Error processing iPDC_100Hz_L-R_wilcoxon.csv: 'c' argument has 32 elements, which is inconsistent with 'x' and 'y' with size 0.
+2025-03-14 17:33:05,767 - ERROR - Traceback (most recent call last):
+  File "c:\Users\dgane\Apps\MEG\Scripts\meg_circular_connectogram_brain.py", line 800, in process_folder
+    fig = self.create_brain_visualization(matrix, output_path, title, conn_type)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\dgane\Apps\MEG\Scripts\meg_circular_connectogram_brain.py", line 1045, in create_brain_visualization
+    display.add_markers(
+  File "C:\Users\dgane\AppData\Local\Programs\Python\Python311\Lib\site-packages\nilearn\plotting\displays\_slicers.py", line 692, in add_markers
+    display_ax.ax.scatter(
+  File "C:\Users\dgane\AppData\Local\Programs\Python\Python311\Lib\site-packages\matplotlib\_api\deprecation.py", line 453, in wrapper
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dgane\AppData\Local\Programs\Python\Python311\Lib\site-packages\matplotlib\__init__.py", line 1521, in inner
+    return func(
+           ^^^^^
+  File "C:\Users\dgane\AppData\Local\Programs\Python\Python311\Lib\site-packages\matplotlib\axes\_axes.py", line 4918, in scatter
+    self._parse_scatter_color_args(
+  File "C:\Users\dgane\AppData\Local\Programs\Python\Python311\Lib\site-packages\matplotlib\axes\_axes.py", line 4741, in _parse_scatter_color_args
+    raise invalid_shape_exception(len(colors), xsize)
+ValueError: 'c' argument has 32 elements, which is inconsistent with 'x' and 'y' with size 0.
+
+2025-03-14 17:33:05,768 - INFO - Processing Cue_iPDC_10Hz...
+2025-03-14 17:33:05,768 - INFO - Processing folder: Cue_iPDC_10Hz
+2025-03-14 17:33:05,768 - INFO - Found 1 statistical test files
+2025-03-14 17:33:05,769 - INFO - Processing iPDC_10Hz_L-R (wilcoxon)
+2025-03-14 17:33:05,769 - INFO - Reading connectivity matrix from iPDC_10Hz_L-R_wilcoxon.csv
+2025-03-14 17:33:06,159 - ERROR - Error processing iPDC_10Hz_L-R_wilcoxon.csv: 'c' argument has 32 elements, which is inconsistent with 'x' and 'y' with size 0.
+2025-03-14 17:33:06,160 - ERROR - Traceback (most recent call last):
+  File "c:\Users\dgane\Apps\MEG\Scripts\meg_circular_connectogram_brain.py", line 800, in process_folder
+    fig = self.create_brain_visualization(matrix, output_path, title, conn_type)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\dgane\Apps\MEG\Scripts\meg_circular_connectogram_brain.py", line 1045, in create_brain_visualization
+    display.add_markers(
+  File "C:\Users\dgane\AppData\Local\Programs\Python\Python311\Lib\site-packages\nilearn\plotting\displays\_slicers.py", line 692, in add_markers
+    display_ax.ax.scatter(
+  File "C:\Users\dgane\AppData\Local\Programs\Python\Python311\Lib\site-packages\matplotlib\_api\deprecation.py", line 453, in wrapper
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dgane\AppData\Local\Programs\Python\Python311\Lib\site-packages\matplotlib\__init__.py", line 1521, in inner
+    return func(
+           ^^^^^
+  File "C:\Users\dgane\AppData\Local\Programs\Python\Python311\Lib\site-packages\matplotlib\axes\_axes.py", line 4918, in scatter
+    self._parse_scatter_color_args(
+  File "C:\Users\dgane\AppData\Local\Programs\Python\Python311\Lib\site-packages\matplotlib\axes\_axes.py", line 4741, in _parse_scatter_color_args
+    raise invalid_shape_exception(len(colors), xsize)
+ValueError: 'c' argument has 32 elements, which is inconsistent with 'x' and 'y' with size 0.
+
+2025-03-14 17:33:06,161 - INFO - Processing Cue_iPDC_20Hz...
+2025-03-14 17:33:06,161 - INFO - Processing folder: Cue_iPDC_20Hz
+2025-03-14 17:33:06,162 - INFO - Found 1 statistical test files
+2025-03-14 17:33:06,162 - INFO - Processing iPDC_20Hz_L-R (wilcoxon)
+2025-03-14 17:33:06,162 - INFO - Reading connectivity matrix from iPDC_20Hz_L-R_wilcoxon.csv
+2025-03-14 17:33:06,549 - ERROR - Error processing iPDC_20Hz_L-R_wilcoxon.csv: 'c' argument has 32 elements, which is inconsistent with 'x' and 'y' with size 0.
+2025-03-14 17:33:06,550 - ERROR - Traceback (most recent call last):
+  File "c:\Users\dgane\Apps\MEG\Scripts\meg_circular_connectogram_brain.py", line 800, in process_folder
+    fig = self.create_brain_visualization(matrix, output_path, title, conn_type)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\dgane\Apps\MEG\Scripts\meg_circular_connectogram_brain.py", line 1045, in create_brain_visualization
+    display.add_markers(
+  File "C:\Users\dgane\AppData\Local\Programs\Python\Python311\Lib\site-packages\nilearn\plotting\displays\_slicers.py", line 692, in add_markers
+    display_ax.ax.scatter(
+  File "C:\Users\dgane\AppData\Local\Programs\Python\Python311\Lib\site-packages\matplotlib\_api\deprecation.py", line 453, in wrapper
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dgane\AppData\Local\Programs\Python\Python311\Lib\site-packages\matplotlib\__init__.py", line 1521, in inner
+    return func(
+           ^^^^^
+  File "C:\Users\dgane\AppData\Local\Programs\Python\Python311\Lib\site-packages\matplotlib\axes\_axes.py", line 4918, in scatter
+    self._parse_scatter_color_args(
+  File "C:\Users\dgane\AppData\Local\Programs\Python\Python311\Lib\site-packages\matplotlib\axes\_axes.py", line 4741, in _parse_scatter_color_args
+    raise invalid_shape_exception(len(colors), xsize)
+ValueError: 'c' argument has 32 elements, which is inconsistent with 'x' and 'y' with size 0.
+
+2025-03-14 17:33:06,550 - INFO - 
+---------------------
+2025-03-14 17:33:06,551 - INFO - Processing complete!
+2025-03-14 17:33:06,551 - INFO - Folders processed: 9
+2025-03-14 17:33:06,551 - INFO - Visualizations created: 0
+2025-03-14 17:33:06,551 - INFO - Errors encountered: 9
+2025-03-14 17:33:06,551 - INFO - Process completed at: 2025-03-14 17:33:06

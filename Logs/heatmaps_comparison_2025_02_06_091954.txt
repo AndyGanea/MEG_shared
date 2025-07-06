@@ -1,0 +1,55 @@
+MEG Signal Analysis - Enhanced Heatmaps Comparison
+===============================================
+Selected dataset: DataSet2_unc
+Output directory: Heatmaps\DataSet2_unc\Heatmaps_Comparison_normalized
+Process started at: 2025-02-06 09:19:54
+-----------------------------------------------
+
+
+Processing alignment: cue
+Created heatmap: Heatmaps\DataSet2_unc\Heatmaps_Comparison_normalized\heatmap_comparison_DataSet2_gDTF_100Hz.png
+Created heatmap: Heatmaps\DataSet2_unc\Heatmaps_Comparison_normalized\heatmap_comparison_DataSet2_gDTF_10Hz.png
+Created heatmap: Heatmaps\DataSet2_unc\Heatmaps_Comparison_normalized\heatmap_comparison_DataSet2_gDTF_20Hz.png
+Created heatmap: Heatmaps\DataSet2_unc\Heatmaps_Comparison_normalized\heatmap_comparison_DataSet2_gPDC_100Hz.png
+Created heatmap: Heatmaps\DataSet2_unc\Heatmaps_Comparison_normalized\heatmap_comparison_DataSet2_gPDC_10Hz.png
+Created heatmap: Heatmaps\DataSet2_unc\Heatmaps_Comparison_normalized\heatmap_comparison_DataSet2_gPDC_20Hz.png
+Created heatmap: Heatmaps\DataSet2_unc\Heatmaps_Comparison_normalized\heatmap_comparison_DataSet2_iPDC_100Hz.png
+Created heatmap: Heatmaps\DataSet2_unc\Heatmaps_Comparison_normalized\heatmap_comparison_DataSet2_iPDC_10Hz.png
+Created heatmap: Heatmaps\DataSet2_unc\Heatmaps_Comparison_normalized\heatmap_comparison_DataSet2_iPDC_20Hz.png
+Created heatmap: Heatmaps\DataSet2_unc\Heatmaps_Comparison_normalized\heatmap_comparison_DataSet2_gDTF_100Hz.png
+Created heatmap: Heatmaps\DataSet2_unc\Heatmaps_Comparison_normalized\heatmap_comparison_DataSet2_gDTF_10Hz.png
+Created heatmap: Heatmaps\DataSet2_unc\Heatmaps_Comparison_normalized\heatmap_comparison_DataSet2_gDTF_20Hz.png
+Created heatmap: Heatmaps\DataSet2_unc\Heatmaps_Comparison_normalized\heatmap_comparison_DataSet2_gPDC_100Hz.png
+Created heatmap: Heatmaps\DataSet2_unc\Heatmaps_Comparison_normalized\heatmap_comparison_DataSet2_gPDC_10Hz.png
+Created heatmap: Heatmaps\DataSet2_unc\Heatmaps_Comparison_normalized\heatmap_comparison_DataSet2_gPDC_20Hz.png
+Created heatmap: Heatmaps\DataSet2_unc\Heatmaps_Comparison_normalized\heatmap_comparison_DataSet2_iPDC_100Hz.png
+Created heatmap: Heatmaps\DataSet2_unc\Heatmaps_Comparison_normalized\heatmap_comparison_DataSet2_iPDC_10Hz.png
+Created heatmap: Heatmaps\DataSet2_unc\Heatmaps_Comparison_normalized\heatmap_comparison_DataSet2_iPDC_20Hz.png
+
+Processing alignment: mov
+Created heatmap: Heatmaps\DataSet2_unc\Heatmaps_Comparison_normalized\heatmap_comparison_DataSet2_gDTF_100Hz.png
+Created heatmap: Heatmaps\DataSet2_unc\Heatmaps_Comparison_normalized\heatmap_comparison_DataSet2_gDTF_10Hz.png
+Created heatmap: Heatmaps\DataSet2_unc\Heatmaps_Comparison_normalized\heatmap_comparison_DataSet2_gDTF_20Hz.png
+Created heatmap: Heatmaps\DataSet2_unc\Heatmaps_Comparison_normalized\heatmap_comparison_DataSet2_gPDC_100Hz.png
+Created heatmap: Heatmaps\DataSet2_unc\Heatmaps_Comparison_normalized\heatmap_comparison_DataSet2_gPDC_10Hz.png
+Created heatmap: Heatmaps\DataSet2_unc\Heatmaps_Comparison_normalized\heatmap_comparison_DataSet2_gPDC_20Hz.png
+Created heatmap: Heatmaps\DataSet2_unc\Heatmaps_Comparison_normalized\heatmap_comparison_DataSet2_iPDC_100Hz.png
+Created heatmap: Heatmaps\DataSet2_unc\Heatmaps_Comparison_normalized\heatmap_comparison_DataSet2_iPDC_10Hz.png
+Created heatmap: Heatmaps\DataSet2_unc\Heatmaps_Comparison_normalized\heatmap_comparison_DataSet2_iPDC_20Hz.png
+Created heatmap: Heatmaps\DataSet2_unc\Heatmaps_Comparison_normalized\heatmap_comparison_DataSet2_gDTF_100Hz.png
+Created heatmap: Heatmaps\DataSet2_unc\Heatmaps_Comparison_normalized\heatmap_comparison_DataSet2_gDTF_10Hz.png
+Created heatmap: Heatmaps\DataSet2_unc\Heatmaps_Comparison_normalized\heatmap_comparison_DataSet2_gDTF_20Hz.png
+Created heatmap: Heatmaps\DataSet2_unc\Heatmaps_Comparison_normalized\heatmap_comparison_DataSet2_gPDC_100Hz.png
+Created heatmap: Heatmaps\DataSet2_unc\Heatmaps_Comparison_normalized\heatmap_comparison_DataSet2_gPDC_10Hz.png
+Created heatmap: Heatmaps\DataSet2_unc\Heatmaps_Comparison_normalized\heatmap_comparison_DataSet2_gPDC_20Hz.png
+Created heatmap: Heatmaps\DataSet2_unc\Heatmaps_Comparison_normalized\heatmap_comparison_DataSet2_iPDC_100Hz.png
+Created heatmap: Heatmaps\DataSet2_unc\Heatmaps_Comparison_normalized\heatmap_comparison_DataSet2_iPDC_10Hz.png
+Created heatmap: Heatmaps\DataSet2_unc\Heatmaps_Comparison_normalized\heatmap_comparison_DataSet2_iPDC_20Hz.png
+
+Operation Summary
+================
+Total comparisons created: 36
+Errors encountered: 0
+
+Output directory: Heatmaps\DataSet2_unc\Heatmaps_Comparison_normalized
+Process completed at: 2025-02-06 09:20:25

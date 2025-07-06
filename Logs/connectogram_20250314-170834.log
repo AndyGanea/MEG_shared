@@ -1,0 +1,364 @@
+2025-03-14 17:08:34,599 - INFO - Starting MEG Connectogram Visualization V2
+2025-03-14 17:08:34,600 - INFO - Selected dataset: DataSet5_Align_cue_626_to_938_unc
+2025-03-14 17:08:34,600 - INFO - Selected analysis type: Wilcoxon
+2025-03-14 17:08:34,600 - INFO - Selected analysis folder: Wilcoxon_03102025-1305
+2025-03-14 17:08:34,600 - INFO - Log file: Logs\connectogram_20250314-170834.log
+2025-03-14 17:08:34,600 - INFO - Processing all folders in Wilcoxon_03102025-1305...
+2025-03-14 17:08:34,601 - INFO - Processing Cue_gDTF_100Hz...
+2025-03-14 17:08:34,601 - INFO - Processing folder: Cue_gDTF_100Hz
+2025-03-14 17:08:34,601 - INFO - Found 12 CSV files
+2025-03-14 17:08:34,602 - INFO - Processing gDTF 100Hz_L-R_BG
+2025-03-14 17:08:34,602 - INFO - Reading connectivity matrix from gDTF_100Hz_L-R_BG.csv
+2025-03-14 17:08:34,868 - ERROR - Error processing gDTF_100Hz_L-R_BG.csv: sagittal is not a valid display_mode. Valid options are ['mosaic', 'ortho', 'tiled', 'x', 'xz', 'y', 'yx', 'yz', 'z']
+2025-03-14 17:08:34,868 - INFO - Processing gDTF 100Hz_L-R_DOC
+2025-03-14 17:08:34,868 - INFO - Reading connectivity matrix from gDTF_100Hz_L-R_DOC.csv
+2025-03-14 17:08:35,030 - ERROR - Error processing gDTF_100Hz_L-R_DOC.csv: sagittal is not a valid display_mode. Valid options are ['mosaic', 'ortho', 'tiled', 'x', 'xz', 'y', 'yx', 'yz', 'z']
+2025-03-14 17:08:35,030 - INFO - Processing gDTF 100Hz_L-R_GB
+2025-03-14 17:08:35,030 - INFO - Reading connectivity matrix from gDTF_100Hz_L-R_GB.csv
+2025-03-14 17:08:35,195 - ERROR - Error processing gDTF_100Hz_L-R_GB.csv: sagittal is not a valid display_mode. Valid options are ['mosaic', 'ortho', 'tiled', 'x', 'xz', 'y', 'yx', 'yz', 'z']
+2025-03-14 17:08:35,196 - INFO - Processing gDTF 100Hz_L-R_JDC
+2025-03-14 17:08:35,196 - INFO - Reading connectivity matrix from gDTF_100Hz_L-R_JDC.csv
+2025-03-14 17:08:35,375 - ERROR - Error processing gDTF_100Hz_L-R_JDC.csv: sagittal is not a valid display_mode. Valid options are ['mosaic', 'ortho', 'tiled', 'x', 'xz', 'y', 'yx', 'yz', 'z']
+2025-03-14 17:08:35,375 - INFO - Processing gDTF 100Hz_L-R_JFXD
+2025-03-14 17:08:35,375 - INFO - Reading connectivity matrix from gDTF_100Hz_L-R_JFXD.csv
+2025-03-14 17:08:35,543 - ERROR - Error processing gDTF_100Hz_L-R_JFXD.csv: sagittal is not a valid display_mode. Valid options are ['mosaic', 'ortho', 'tiled', 'x', 'xz', 'y', 'yx', 'yz', 'z']
+2025-03-14 17:08:35,544 - INFO - Processing gDTF 100Hz_L-R_JZ
+2025-03-14 17:08:35,544 - INFO - Reading connectivity matrix from gDTF_100Hz_L-R_JZ.csv
+2025-03-14 17:08:35,710 - ERROR - Error processing gDTF_100Hz_L-R_JZ.csv: sagittal is not a valid display_mode. Valid options are ['mosaic', 'ortho', 'tiled', 'x', 'xz', 'y', 'yx', 'yz', 'z']
+2025-03-14 17:08:35,711 - INFO - Processing gDTF 100Hz_L-R_LT
+2025-03-14 17:08:35,711 - INFO - Reading connectivity matrix from gDTF_100Hz_L-R_LT.csv
+2025-03-14 17:08:35,882 - ERROR - Error processing gDTF_100Hz_L-R_LT.csv: sagittal is not a valid display_mode. Valid options are ['mosaic', 'ortho', 'tiled', 'x', 'xz', 'y', 'yx', 'yz', 'z']
+2025-03-14 17:08:35,882 - INFO - Processing gDTF 100Hz_L-R_NvA
+2025-03-14 17:08:35,882 - INFO - Reading connectivity matrix from gDTF_100Hz_L-R_NvA.csv
+2025-03-14 17:08:36,054 - ERROR - Error processing gDTF_100Hz_L-R_NvA.csv: sagittal is not a valid display_mode. Valid options are ['mosaic', 'ortho', 'tiled', 'x', 'xz', 'y', 'yx', 'yz', 'z']
+2025-03-14 17:08:36,055 - INFO - Processing gDTF 100Hz_L-R_overall
+2025-03-14 17:08:36,055 - INFO - Reading connectivity matrix from gDTF_100Hz_L-R_overall.csv
+2025-03-14 17:08:36,226 - ERROR - Error processing gDTF_100Hz_L-R_overall.csv: sagittal is not a valid display_mode. Valid options are ['mosaic', 'ortho', 'tiled', 'x', 'xz', 'y', 'yx', 'yz', 'z']
+2025-03-14 17:08:36,226 - INFO - Processing gDTF 100Hz_L-R_RR
+2025-03-14 17:08:36,226 - INFO - Reading connectivity matrix from gDTF_100Hz_L-R_RR.csv
+2025-03-14 17:08:36,400 - ERROR - Error processing gDTF_100Hz_L-R_RR.csv: sagittal is not a valid display_mode. Valid options are ['mosaic', 'ortho', 'tiled', 'x', 'xz', 'y', 'yx', 'yz', 'z']
+2025-03-14 17:08:36,400 - INFO - Processing gDTF 100Hz_L-R_SJB
+2025-03-14 17:08:36,400 - INFO - Reading connectivity matrix from gDTF_100Hz_L-R_SJB.csv
+2025-03-14 17:08:36,580 - ERROR - Error processing gDTF_100Hz_L-R_SJB.csv: sagittal is not a valid display_mode. Valid options are ['mosaic', 'ortho', 'tiled', 'x', 'xz', 'y', 'yx', 'yz', 'z']
+2025-03-14 17:08:36,581 - INFO - Processing gDTF 100Hz_L-R_wilcoxon
+2025-03-14 17:08:36,581 - INFO - Reading connectivity matrix from gDTF_100Hz_L-R_wilcoxon.csv
+2025-03-14 17:08:36,743 - ERROR - Error processing gDTF_100Hz_L-R_wilcoxon.csv: sagittal is not a valid display_mode. Valid options are ['mosaic', 'ortho', 'tiled', 'x', 'xz', 'y', 'yx', 'yz', 'z']
+2025-03-14 17:08:36,743 - INFO - Processing Cue_gDTF_10Hz...
+2025-03-14 17:08:36,743 - INFO - Processing folder: Cue_gDTF_10Hz
+2025-03-14 17:08:36,744 - INFO - Found 12 CSV files
+2025-03-14 17:08:36,744 - INFO - Processing gDTF 10Hz_L-R_BG
+2025-03-14 17:08:36,744 - INFO - Reading connectivity matrix from gDTF_10Hz_L-R_BG.csv
+2025-03-14 17:08:36,932 - ERROR - Error processing gDTF_10Hz_L-R_BG.csv: sagittal is not a valid display_mode. Valid options are ['mosaic', 'ortho', 'tiled', 'x', 'xz', 'y', 'yx', 'yz', 'z']
+2025-03-14 17:08:36,932 - INFO - Processing gDTF 10Hz_L-R_DOC
+2025-03-14 17:08:36,932 - INFO - Reading connectivity matrix from gDTF_10Hz_L-R_DOC.csv
+2025-03-14 17:08:37,116 - ERROR - Error processing gDTF_10Hz_L-R_DOC.csv: sagittal is not a valid display_mode. Valid options are ['mosaic', 'ortho', 'tiled', 'x', 'xz', 'y', 'yx', 'yz', 'z']
+2025-03-14 17:08:37,117 - INFO - Processing gDTF 10Hz_L-R_GB
+2025-03-14 17:08:37,117 - INFO - Reading connectivity matrix from gDTF_10Hz_L-R_GB.csv
+2025-03-14 17:08:37,296 - ERROR - Error processing gDTF_10Hz_L-R_GB.csv: sagittal is not a valid display_mode. Valid options are ['mosaic', 'ortho', 'tiled', 'x', 'xz', 'y', 'yx', 'yz', 'z']
+2025-03-14 17:08:37,297 - INFO - Processing gDTF 10Hz_L-R_JDC
+2025-03-14 17:08:37,297 - INFO - Reading connectivity matrix from gDTF_10Hz_L-R_JDC.csv
+2025-03-14 17:08:37,484 - ERROR - Error processing gDTF_10Hz_L-R_JDC.csv: sagittal is not a valid display_mode. Valid options are ['mosaic', 'ortho', 'tiled', 'x', 'xz', 'y', 'yx', 'yz', 'z']
+2025-03-14 17:08:37,484 - INFO - Processing gDTF 10Hz_L-R_JFXD
+2025-03-14 17:08:37,484 - INFO - Reading connectivity matrix from gDTF_10Hz_L-R_JFXD.csv
+2025-03-14 17:08:37,681 - ERROR - Error processing gDTF_10Hz_L-R_JFXD.csv: sagittal is not a valid display_mode. Valid options are ['mosaic', 'ortho', 'tiled', 'x', 'xz', 'y', 'yx', 'yz', 'z']
+2025-03-14 17:08:37,681 - INFO - Processing gDTF 10Hz_L-R_JZ
+2025-03-14 17:08:37,681 - INFO - Reading connectivity matrix from gDTF_10Hz_L-R_JZ.csv
+2025-03-14 17:08:37,879 - ERROR - Error processing gDTF_10Hz_L-R_JZ.csv: sagittal is not a valid display_mode. Valid options are ['mosaic', 'ortho', 'tiled', 'x', 'xz', 'y', 'yx', 'yz', 'z']
+2025-03-14 17:08:37,880 - INFO - Processing gDTF 10Hz_L-R_LT
+2025-03-14 17:08:37,880 - INFO - Reading connectivity matrix from gDTF_10Hz_L-R_LT.csv
+2025-03-14 17:08:38,081 - ERROR - Error processing gDTF_10Hz_L-R_LT.csv: sagittal is not a valid display_mode. Valid options are ['mosaic', 'ortho', 'tiled', 'x', 'xz', 'y', 'yx', 'yz', 'z']
+2025-03-14 17:08:38,081 - INFO - Processing gDTF 10Hz_L-R_NvA
+2025-03-14 17:08:38,081 - INFO - Reading connectivity matrix from gDTF_10Hz_L-R_NvA.csv
+2025-03-14 17:08:38,281 - ERROR - Error processing gDTF_10Hz_L-R_NvA.csv: sagittal is not a valid display_mode. Valid options are ['mosaic', 'ortho', 'tiled', 'x', 'xz', 'y', 'yx', 'yz', 'z']
+2025-03-14 17:08:38,282 - INFO - Processing gDTF 10Hz_L-R_overall
+2025-03-14 17:08:38,282 - INFO - Reading connectivity matrix from gDTF_10Hz_L-R_overall.csv
+2025-03-14 17:08:38,489 - ERROR - Error processing gDTF_10Hz_L-R_overall.csv: sagittal is not a valid display_mode. Valid options are ['mosaic', 'ortho', 'tiled', 'x', 'xz', 'y', 'yx', 'yz', 'z']
+2025-03-14 17:08:38,490 - INFO - Processing gDTF 10Hz_L-R_RR
+2025-03-14 17:08:38,490 - INFO - Reading connectivity matrix from gDTF_10Hz_L-R_RR.csv
+2025-03-14 17:08:38,692 - ERROR - Error processing gDTF_10Hz_L-R_RR.csv: sagittal is not a valid display_mode. Valid options are ['mosaic', 'ortho', 'tiled', 'x', 'xz', 'y', 'yx', 'yz', 'z']
+2025-03-14 17:08:38,692 - INFO - Processing gDTF 10Hz_L-R_SJB
+2025-03-14 17:08:38,692 - INFO - Reading connectivity matrix from gDTF_10Hz_L-R_SJB.csv
+2025-03-14 17:08:38,895 - ERROR - Error processing gDTF_10Hz_L-R_SJB.csv: sagittal is not a valid display_mode. Valid options are ['mosaic', 'ortho', 'tiled', 'x', 'xz', 'y', 'yx', 'yz', 'z']
+2025-03-14 17:08:38,896 - INFO - Processing gDTF 10Hz_L-R_wilcoxon
+2025-03-14 17:08:38,896 - INFO - Reading connectivity matrix from gDTF_10Hz_L-R_wilcoxon.csv
+2025-03-14 17:08:39,087 - ERROR - Error processing gDTF_10Hz_L-R_wilcoxon.csv: sagittal is not a valid display_mode. Valid options are ['mosaic', 'ortho', 'tiled', 'x', 'xz', 'y', 'yx', 'yz', 'z']
+2025-03-14 17:08:39,087 - INFO - Processing Cue_gDTF_20Hz...
+2025-03-14 17:08:39,088 - INFO - Processing folder: Cue_gDTF_20Hz
+2025-03-14 17:08:39,088 - INFO - Found 12 CSV files
+2025-03-14 17:08:39,088 - INFO - Processing gDTF 20Hz_L-R_BG
+2025-03-14 17:08:39,088 - INFO - Reading connectivity matrix from gDTF_20Hz_L-R_BG.csv
+2025-03-14 17:08:39,296 - ERROR - Error processing gDTF_20Hz_L-R_BG.csv: sagittal is not a valid display_mode. Valid options are ['mosaic', 'ortho', 'tiled', 'x', 'xz', 'y', 'yx', 'yz', 'z']
+2025-03-14 17:08:39,296 - INFO - Processing gDTF 20Hz_L-R_DOC
+2025-03-14 17:08:39,296 - INFO - Reading connectivity matrix from gDTF_20Hz_L-R_DOC.csv
+2025-03-14 17:08:39,503 - ERROR - Error processing gDTF_20Hz_L-R_DOC.csv: sagittal is not a valid display_mode. Valid options are ['mosaic', 'ortho', 'tiled', 'x', 'xz', 'y', 'yx', 'yz', 'z']
+2025-03-14 17:08:39,504 - INFO - Processing gDTF 20Hz_L-R_GB
+2025-03-14 17:08:39,504 - INFO - Reading connectivity matrix from gDTF_20Hz_L-R_GB.csv
+2025-03-14 17:08:39,713 - ERROR - Error processing gDTF_20Hz_L-R_GB.csv: sagittal is not a valid display_mode. Valid options are ['mosaic', 'ortho', 'tiled', 'x', 'xz', 'y', 'yx', 'yz', 'z']
+2025-03-14 17:08:39,713 - INFO - Processing gDTF 20Hz_L-R_JDC
+2025-03-14 17:08:39,714 - INFO - Reading connectivity matrix from gDTF_20Hz_L-R_JDC.csv
+2025-03-14 17:08:39,925 - ERROR - Error processing gDTF_20Hz_L-R_JDC.csv: sagittal is not a valid display_mode. Valid options are ['mosaic', 'ortho', 'tiled', 'x', 'xz', 'y', 'yx', 'yz', 'z']
+2025-03-14 17:08:39,926 - INFO - Processing gDTF 20Hz_L-R_JFXD
+2025-03-14 17:08:39,926 - INFO - Reading connectivity matrix from gDTF_20Hz_L-R_JFXD.csv
+2025-03-14 17:08:40,140 - ERROR - Error processing gDTF_20Hz_L-R_JFXD.csv: sagittal is not a valid display_mode. Valid options are ['mosaic', 'ortho', 'tiled', 'x', 'xz', 'y', 'yx', 'yz', 'z']
+2025-03-14 17:08:40,141 - INFO - Processing gDTF 20Hz_L-R_JZ
+2025-03-14 17:08:40,141 - INFO - Reading connectivity matrix from gDTF_20Hz_L-R_JZ.csv
+2025-03-14 17:08:40,351 - ERROR - Error processing gDTF_20Hz_L-R_JZ.csv: sagittal is not a valid display_mode. Valid options are ['mosaic', 'ortho', 'tiled', 'x', 'xz', 'y', 'yx', 'yz', 'z']
+2025-03-14 17:08:40,352 - INFO - Processing gDTF 20Hz_L-R_LT
+2025-03-14 17:08:40,352 - INFO - Reading connectivity matrix from gDTF_20Hz_L-R_LT.csv
+2025-03-14 17:08:40,571 - ERROR - Error processing gDTF_20Hz_L-R_LT.csv: sagittal is not a valid display_mode. Valid options are ['mosaic', 'ortho', 'tiled', 'x', 'xz', 'y', 'yx', 'yz', 'z']
+2025-03-14 17:08:40,571 - INFO - Processing gDTF 20Hz_L-R_NvA
+2025-03-14 17:08:40,571 - INFO - Reading connectivity matrix from gDTF_20Hz_L-R_NvA.csv
+2025-03-14 17:08:40,788 - ERROR - Error processing gDTF_20Hz_L-R_NvA.csv: sagittal is not a valid display_mode. Valid options are ['mosaic', 'ortho', 'tiled', 'x', 'xz', 'y', 'yx', 'yz', 'z']
+2025-03-14 17:08:40,788 - INFO - Processing gDTF 20Hz_L-R_overall
+2025-03-14 17:08:40,788 - INFO - Reading connectivity matrix from gDTF_20Hz_L-R_overall.csv
+2025-03-14 17:08:41,009 - ERROR - Error processing gDTF_20Hz_L-R_overall.csv: sagittal is not a valid display_mode. Valid options are ['mosaic', 'ortho', 'tiled', 'x', 'xz', 'y', 'yx', 'yz', 'z']
+2025-03-14 17:08:41,009 - INFO - Processing gDTF 20Hz_L-R_RR
+2025-03-14 17:08:41,009 - INFO - Reading connectivity matrix from gDTF_20Hz_L-R_RR.csv
+2025-03-14 17:08:41,229 - ERROR - Error processing gDTF_20Hz_L-R_RR.csv: sagittal is not a valid display_mode. Valid options are ['mosaic', 'ortho', 'tiled', 'x', 'xz', 'y', 'yx', 'yz', 'z']
+2025-03-14 17:08:41,229 - INFO - Processing gDTF 20Hz_L-R_SJB
+2025-03-14 17:08:41,229 - INFO - Reading connectivity matrix from gDTF_20Hz_L-R_SJB.csv
+2025-03-14 17:08:41,460 - ERROR - Error processing gDTF_20Hz_L-R_SJB.csv: sagittal is not a valid display_mode. Valid options are ['mosaic', 'ortho', 'tiled', 'x', 'xz', 'y', 'yx', 'yz', 'z']
+2025-03-14 17:08:41,461 - INFO - Processing gDTF 20Hz_L-R_wilcoxon
+2025-03-14 17:08:41,461 - INFO - Reading connectivity matrix from gDTF_20Hz_L-R_wilcoxon.csv
+2025-03-14 17:08:41,667 - ERROR - Error processing gDTF_20Hz_L-R_wilcoxon.csv: sagittal is not a valid display_mode. Valid options are ['mosaic', 'ortho', 'tiled', 'x', 'xz', 'y', 'yx', 'yz', 'z']
+2025-03-14 17:08:41,668 - INFO - Processing Cue_gPDC_100Hz...
+2025-03-14 17:08:41,668 - INFO - Processing folder: Cue_gPDC_100Hz
+2025-03-14 17:08:41,668 - INFO - Found 12 CSV files
+2025-03-14 17:08:41,668 - INFO - Processing gPDC 100Hz_L-R_BG
+2025-03-14 17:08:41,669 - INFO - Reading connectivity matrix from gPDC_100Hz_L-R_BG.csv
+2025-03-14 17:08:41,892 - ERROR - Error processing gPDC_100Hz_L-R_BG.csv: sagittal is not a valid display_mode. Valid options are ['mosaic', 'ortho', 'tiled', 'x', 'xz', 'y', 'yx', 'yz', 'z']
+2025-03-14 17:08:41,892 - INFO - Processing gPDC 100Hz_L-R_DOC
+2025-03-14 17:08:41,892 - INFO - Reading connectivity matrix from gPDC_100Hz_L-R_DOC.csv
+2025-03-14 17:08:42,118 - ERROR - Error processing gPDC_100Hz_L-R_DOC.csv: sagittal is not a valid display_mode. Valid options are ['mosaic', 'ortho', 'tiled', 'x', 'xz', 'y', 'yx', 'yz', 'z']
+2025-03-14 17:08:42,118 - INFO - Processing gPDC 100Hz_L-R_GB
+2025-03-14 17:08:42,119 - INFO - Reading connectivity matrix from gPDC_100Hz_L-R_GB.csv
+2025-03-14 17:08:42,342 - ERROR - Error processing gPDC_100Hz_L-R_GB.csv: sagittal is not a valid display_mode. Valid options are ['mosaic', 'ortho', 'tiled', 'x', 'xz', 'y', 'yx', 'yz', 'z']
+2025-03-14 17:08:42,343 - INFO - Processing gPDC 100Hz_L-R_JDC
+2025-03-14 17:08:42,343 - INFO - Reading connectivity matrix from gPDC_100Hz_L-R_JDC.csv
+2025-03-14 17:08:42,569 - ERROR - Error processing gPDC_100Hz_L-R_JDC.csv: sagittal is not a valid display_mode. Valid options are ['mosaic', 'ortho', 'tiled', 'x', 'xz', 'y', 'yx', 'yz', 'z']
+2025-03-14 17:08:42,569 - INFO - Processing gPDC 100Hz_L-R_JFXD
+2025-03-14 17:08:42,569 - INFO - Reading connectivity matrix from gPDC_100Hz_L-R_JFXD.csv
+2025-03-14 17:08:42,798 - ERROR - Error processing gPDC_100Hz_L-R_JFXD.csv: sagittal is not a valid display_mode. Valid options are ['mosaic', 'ortho', 'tiled', 'x', 'xz', 'y', 'yx', 'yz', 'z']
+2025-03-14 17:08:42,798 - INFO - Processing gPDC 100Hz_L-R_JZ
+2025-03-14 17:08:42,798 - INFO - Reading connectivity matrix from gPDC_100Hz_L-R_JZ.csv
+2025-03-14 17:08:43,031 - ERROR - Error processing gPDC_100Hz_L-R_JZ.csv: sagittal is not a valid display_mode. Valid options are ['mosaic', 'ortho', 'tiled', 'x', 'xz', 'y', 'yx', 'yz', 'z']
+2025-03-14 17:08:43,031 - INFO - Processing gPDC 100Hz_L-R_LT
+2025-03-14 17:08:43,031 - INFO - Reading connectivity matrix from gPDC_100Hz_L-R_LT.csv
+2025-03-14 17:08:43,263 - ERROR - Error processing gPDC_100Hz_L-R_LT.csv: sagittal is not a valid display_mode. Valid options are ['mosaic', 'ortho', 'tiled', 'x', 'xz', 'y', 'yx', 'yz', 'z']
+2025-03-14 17:08:43,264 - INFO - Processing gPDC 100Hz_L-R_NvA
+2025-03-14 17:08:43,264 - INFO - Reading connectivity matrix from gPDC_100Hz_L-R_NvA.csv
+2025-03-14 17:08:43,515 - ERROR - Error processing gPDC_100Hz_L-R_NvA.csv: sagittal is not a valid display_mode. Valid options are ['mosaic', 'ortho', 'tiled', 'x', 'xz', 'y', 'yx', 'yz', 'z']
+2025-03-14 17:08:43,515 - INFO - Processing gPDC 100Hz_L-R_overall
+2025-03-14 17:08:43,516 - INFO - Reading connectivity matrix from gPDC_100Hz_L-R_overall.csv
+2025-03-14 17:08:43,754 - ERROR - Error processing gPDC_100Hz_L-R_overall.csv: sagittal is not a valid display_mode. Valid options are ['mosaic', 'ortho', 'tiled', 'x', 'xz', 'y', 'yx', 'yz', 'z']
+2025-03-14 17:08:43,754 - INFO - Processing gPDC 100Hz_L-R_RR
+2025-03-14 17:08:43,754 - INFO - Reading connectivity matrix from gPDC_100Hz_L-R_RR.csv
+2025-03-14 17:08:43,998 - ERROR - Error processing gPDC_100Hz_L-R_RR.csv: sagittal is not a valid display_mode. Valid options are ['mosaic', 'ortho', 'tiled', 'x', 'xz', 'y', 'yx', 'yz', 'z']
+2025-03-14 17:08:43,998 - INFO - Processing gPDC 100Hz_L-R_SJB
+2025-03-14 17:08:43,998 - INFO - Reading connectivity matrix from gPDC_100Hz_L-R_SJB.csv
+2025-03-14 17:08:44,240 - ERROR - Error processing gPDC_100Hz_L-R_SJB.csv: sagittal is not a valid display_mode. Valid options are ['mosaic', 'ortho', 'tiled', 'x', 'xz', 'y', 'yx', 'yz', 'z']
+2025-03-14 17:08:44,241 - INFO - Processing gPDC 100Hz_L-R_wilcoxon
+2025-03-14 17:08:44,241 - INFO - Reading connectivity matrix from gPDC_100Hz_L-R_wilcoxon.csv
+2025-03-14 17:08:44,461 - ERROR - Error processing gPDC_100Hz_L-R_wilcoxon.csv: sagittal is not a valid display_mode. Valid options are ['mosaic', 'ortho', 'tiled', 'x', 'xz', 'y', 'yx', 'yz', 'z']
+2025-03-14 17:08:44,461 - INFO - Processing Cue_gPDC_10Hz...
+2025-03-14 17:08:44,461 - INFO - Processing folder: Cue_gPDC_10Hz
+2025-03-14 17:08:44,462 - INFO - Found 12 CSV files
+2025-03-14 17:08:44,462 - INFO - Processing gPDC 10Hz_L-R_BG
+2025-03-14 17:08:44,462 - INFO - Reading connectivity matrix from gPDC_10Hz_L-R_BG.csv
+2025-03-14 17:08:44,709 - ERROR - Error processing gPDC_10Hz_L-R_BG.csv: sagittal is not a valid display_mode. Valid options are ['mosaic', 'ortho', 'tiled', 'x', 'xz', 'y', 'yx', 'yz', 'z']
+2025-03-14 17:08:44,710 - INFO - Processing gPDC 10Hz_L-R_DOC
+2025-03-14 17:08:44,710 - INFO - Reading connectivity matrix from gPDC_10Hz_L-R_DOC.csv
+2025-03-14 17:08:44,958 - ERROR - Error processing gPDC_10Hz_L-R_DOC.csv: sagittal is not a valid display_mode. Valid options are ['mosaic', 'ortho', 'tiled', 'x', 'xz', 'y', 'yx', 'yz', 'z']
+2025-03-14 17:08:44,958 - INFO - Processing gPDC 10Hz_L-R_GB
+2025-03-14 17:08:44,958 - INFO - Reading connectivity matrix from gPDC_10Hz_L-R_GB.csv
+2025-03-14 17:08:45,210 - ERROR - Error processing gPDC_10Hz_L-R_GB.csv: sagittal is not a valid display_mode. Valid options are ['mosaic', 'ortho', 'tiled', 'x', 'xz', 'y', 'yx', 'yz', 'z']
+2025-03-14 17:08:45,210 - INFO - Processing gPDC 10Hz_L-R_JDC
+2025-03-14 17:08:45,210 - INFO - Reading connectivity matrix from gPDC_10Hz_L-R_JDC.csv
+2025-03-14 17:08:45,498 - ERROR - Error processing gPDC_10Hz_L-R_JDC.csv: sagittal is not a valid display_mode. Valid options are ['mosaic', 'ortho', 'tiled', 'x', 'xz', 'y', 'yx', 'yz', 'z']
+2025-03-14 17:08:45,499 - INFO - Processing gPDC 10Hz_L-R_JFXD
+2025-03-14 17:08:45,499 - INFO - Reading connectivity matrix from gPDC_10Hz_L-R_JFXD.csv
+2025-03-14 17:08:45,781 - ERROR - Error processing gPDC_10Hz_L-R_JFXD.csv: sagittal is not a valid display_mode. Valid options are ['mosaic', 'ortho', 'tiled', 'x', 'xz', 'y', 'yx', 'yz', 'z']
+2025-03-14 17:08:45,781 - INFO - Processing gPDC 10Hz_L-R_JZ
+2025-03-14 17:08:45,781 - INFO - Reading connectivity matrix from gPDC_10Hz_L-R_JZ.csv
+2025-03-14 17:08:46,039 - ERROR - Error processing gPDC_10Hz_L-R_JZ.csv: sagittal is not a valid display_mode. Valid options are ['mosaic', 'ortho', 'tiled', 'x', 'xz', 'y', 'yx', 'yz', 'z']
+2025-03-14 17:08:46,039 - INFO - Processing gPDC 10Hz_L-R_LT
+2025-03-14 17:08:46,040 - INFO - Reading connectivity matrix from gPDC_10Hz_L-R_LT.csv
+2025-03-14 17:08:46,304 - ERROR - Error processing gPDC_10Hz_L-R_LT.csv: sagittal is not a valid display_mode. Valid options are ['mosaic', 'ortho', 'tiled', 'x', 'xz', 'y', 'yx', 'yz', 'z']
+2025-03-14 17:08:46,305 - INFO - Processing gPDC 10Hz_L-R_NvA
+2025-03-14 17:08:46,305 - INFO - Reading connectivity matrix from gPDC_10Hz_L-R_NvA.csv
+2025-03-14 17:08:46,584 - ERROR - Error processing gPDC_10Hz_L-R_NvA.csv: sagittal is not a valid display_mode. Valid options are ['mosaic', 'ortho', 'tiled', 'x', 'xz', 'y', 'yx', 'yz', 'z']
+2025-03-14 17:08:46,585 - INFO - Processing gPDC 10Hz_L-R_overall
+2025-03-14 17:08:46,585 - INFO - Reading connectivity matrix from gPDC_10Hz_L-R_overall.csv
+2025-03-14 17:08:46,842 - ERROR - Error processing gPDC_10Hz_L-R_overall.csv: sagittal is not a valid display_mode. Valid options are ['mosaic', 'ortho', 'tiled', 'x', 'xz', 'y', 'yx', 'yz', 'z']
+2025-03-14 17:08:46,842 - INFO - Processing gPDC 10Hz_L-R_RR
+2025-03-14 17:08:46,842 - INFO - Reading connectivity matrix from gPDC_10Hz_L-R_RR.csv
+2025-03-14 17:08:47,104 - ERROR - Error processing gPDC_10Hz_L-R_RR.csv: sagittal is not a valid display_mode. Valid options are ['mosaic', 'ortho', 'tiled', 'x', 'xz', 'y', 'yx', 'yz', 'z']
+2025-03-14 17:08:47,104 - INFO - Processing gPDC 10Hz_L-R_SJB
+2025-03-14 17:08:47,105 - INFO - Reading connectivity matrix from gPDC_10Hz_L-R_SJB.csv
+2025-03-14 17:08:47,361 - ERROR - Error processing gPDC_10Hz_L-R_SJB.csv: sagittal is not a valid display_mode. Valid options are ['mosaic', 'ortho', 'tiled', 'x', 'xz', 'y', 'yx', 'yz', 'z']
+2025-03-14 17:08:47,361 - INFO - Processing gPDC 10Hz_L-R_wilcoxon
+2025-03-14 17:08:47,361 - INFO - Reading connectivity matrix from gPDC_10Hz_L-R_wilcoxon.csv
+2025-03-14 17:08:47,607 - ERROR - Error processing gPDC_10Hz_L-R_wilcoxon.csv: sagittal is not a valid display_mode. Valid options are ['mosaic', 'ortho', 'tiled', 'x', 'xz', 'y', 'yx', 'yz', 'z']
+2025-03-14 17:08:47,608 - INFO - Processing Cue_gPDC_20Hz...
+2025-03-14 17:08:47,608 - INFO - Processing folder: Cue_gPDC_20Hz
+2025-03-14 17:08:47,609 - INFO - Found 12 CSV files
+2025-03-14 17:08:47,609 - INFO - Processing gPDC 20Hz_L-R_BG
+2025-03-14 17:08:47,609 - INFO - Reading connectivity matrix from gPDC_20Hz_L-R_BG.csv
+2025-03-14 17:08:47,878 - ERROR - Error processing gPDC_20Hz_L-R_BG.csv: sagittal is not a valid display_mode. Valid options are ['mosaic', 'ortho', 'tiled', 'x', 'xz', 'y', 'yx', 'yz', 'z']
+2025-03-14 17:08:47,879 - INFO - Processing gPDC 20Hz_L-R_DOC
+2025-03-14 17:08:47,879 - INFO - Reading connectivity matrix from gPDC_20Hz_L-R_DOC.csv
+2025-03-14 17:08:48,152 - ERROR - Error processing gPDC_20Hz_L-R_DOC.csv: sagittal is not a valid display_mode. Valid options are ['mosaic', 'ortho', 'tiled', 'x', 'xz', 'y', 'yx', 'yz', 'z']
+2025-03-14 17:08:48,152 - INFO - Processing gPDC 20Hz_L-R_GB
+2025-03-14 17:08:48,152 - INFO - Reading connectivity matrix from gPDC_20Hz_L-R_GB.csv
+2025-03-14 17:08:48,421 - ERROR - Error processing gPDC_20Hz_L-R_GB.csv: sagittal is not a valid display_mode. Valid options are ['mosaic', 'ortho', 'tiled', 'x', 'xz', 'y', 'yx', 'yz', 'z']
+2025-03-14 17:08:48,421 - INFO - Processing gPDC 20Hz_L-R_JDC
+2025-03-14 17:08:48,421 - INFO - Reading connectivity matrix from gPDC_20Hz_L-R_JDC.csv
+2025-03-14 17:08:48,695 - ERROR - Error processing gPDC_20Hz_L-R_JDC.csv: sagittal is not a valid display_mode. Valid options are ['mosaic', 'ortho', 'tiled', 'x', 'xz', 'y', 'yx', 'yz', 'z']
+2025-03-14 17:08:48,695 - INFO - Processing gPDC 20Hz_L-R_JFXD
+2025-03-14 17:08:48,695 - INFO - Reading connectivity matrix from gPDC_20Hz_L-R_JFXD.csv
+2025-03-14 17:08:48,960 - ERROR - Error processing gPDC_20Hz_L-R_JFXD.csv: sagittal is not a valid display_mode. Valid options are ['mosaic', 'ortho', 'tiled', 'x', 'xz', 'y', 'yx', 'yz', 'z']
+2025-03-14 17:08:48,961 - INFO - Processing gPDC 20Hz_L-R_JZ
+2025-03-14 17:08:48,961 - INFO - Reading connectivity matrix from gPDC_20Hz_L-R_JZ.csv
+2025-03-14 17:08:49,234 - ERROR - Error processing gPDC_20Hz_L-R_JZ.csv: sagittal is not a valid display_mode. Valid options are ['mosaic', 'ortho', 'tiled', 'x', 'xz', 'y', 'yx', 'yz', 'z']
+2025-03-14 17:08:49,234 - INFO - Processing gPDC 20Hz_L-R_LT
+2025-03-14 17:08:49,234 - INFO - Reading connectivity matrix from gPDC_20Hz_L-R_LT.csv
+2025-03-14 17:08:49,517 - ERROR - Error processing gPDC_20Hz_L-R_LT.csv: sagittal is not a valid display_mode. Valid options are ['mosaic', 'ortho', 'tiled', 'x', 'xz', 'y', 'yx', 'yz', 'z']
+2025-03-14 17:08:49,517 - INFO - Processing gPDC 20Hz_L-R_NvA
+2025-03-14 17:08:49,518 - INFO - Reading connectivity matrix from gPDC_20Hz_L-R_NvA.csv
+2025-03-14 17:08:49,796 - ERROR - Error processing gPDC_20Hz_L-R_NvA.csv: sagittal is not a valid display_mode. Valid options are ['mosaic', 'ortho', 'tiled', 'x', 'xz', 'y', 'yx', 'yz', 'z']
+2025-03-14 17:08:49,796 - INFO - Processing gPDC 20Hz_L-R_overall
+2025-03-14 17:08:49,796 - INFO - Reading connectivity matrix from gPDC_20Hz_L-R_overall.csv
+2025-03-14 17:08:50,101 - ERROR - Error processing gPDC_20Hz_L-R_overall.csv: sagittal is not a valid display_mode. Valid options are ['mosaic', 'ortho', 'tiled', 'x', 'xz', 'y', 'yx', 'yz', 'z']
+2025-03-14 17:08:50,102 - INFO - Processing gPDC 20Hz_L-R_RR
+2025-03-14 17:08:50,102 - INFO - Reading connectivity matrix from gPDC_20Hz_L-R_RR.csv
+2025-03-14 17:08:50,389 - ERROR - Error processing gPDC_20Hz_L-R_RR.csv: sagittal is not a valid display_mode. Valid options are ['mosaic', 'ortho', 'tiled', 'x', 'xz', 'y', 'yx', 'yz', 'z']
+2025-03-14 17:08:50,389 - INFO - Processing gPDC 20Hz_L-R_SJB
+2025-03-14 17:08:50,390 - INFO - Reading connectivity matrix from gPDC_20Hz_L-R_SJB.csv
+2025-03-14 17:08:50,671 - ERROR - Error processing gPDC_20Hz_L-R_SJB.csv: sagittal is not a valid display_mode. Valid options are ['mosaic', 'ortho', 'tiled', 'x', 'xz', 'y', 'yx', 'yz', 'z']
+2025-03-14 17:08:50,671 - INFO - Processing gPDC 20Hz_L-R_wilcoxon
+2025-03-14 17:08:50,671 - INFO - Reading connectivity matrix from gPDC_20Hz_L-R_wilcoxon.csv
+2025-03-14 17:08:50,951 - ERROR - Error processing gPDC_20Hz_L-R_wilcoxon.csv: sagittal is not a valid display_mode. Valid options are ['mosaic', 'ortho', 'tiled', 'x', 'xz', 'y', 'yx', 'yz', 'z']
+2025-03-14 17:08:50,951 - INFO - Processing Cue_iPDC_100Hz...
+2025-03-14 17:08:50,951 - INFO - Processing folder: Cue_iPDC_100Hz
+2025-03-14 17:08:50,952 - INFO - Found 12 CSV files
+2025-03-14 17:08:50,952 - INFO - Processing iPDC 100Hz_L-R_BG
+2025-03-14 17:08:50,952 - INFO - Reading connectivity matrix from iPDC_100Hz_L-R_BG.csv
+2025-03-14 17:08:51,245 - ERROR - Error processing iPDC_100Hz_L-R_BG.csv: sagittal is not a valid display_mode. Valid options are ['mosaic', 'ortho', 'tiled', 'x', 'xz', 'y', 'yx', 'yz', 'z']
+2025-03-14 17:08:51,245 - INFO - Processing iPDC 100Hz_L-R_DOC
+2025-03-14 17:08:51,245 - INFO - Reading connectivity matrix from iPDC_100Hz_L-R_DOC.csv
+2025-03-14 17:08:51,563 - ERROR - Error processing iPDC_100Hz_L-R_DOC.csv: sagittal is not a valid display_mode. Valid options are ['mosaic', 'ortho', 'tiled', 'x', 'xz', 'y', 'yx', 'yz', 'z']
+2025-03-14 17:08:51,564 - INFO - Processing iPDC 100Hz_L-R_GB
+2025-03-14 17:08:51,564 - INFO - Reading connectivity matrix from iPDC_100Hz_L-R_GB.csv
+2025-03-14 17:08:51,867 - ERROR - Error processing iPDC_100Hz_L-R_GB.csv: sagittal is not a valid display_mode. Valid options are ['mosaic', 'ortho', 'tiled', 'x', 'xz', 'y', 'yx', 'yz', 'z']
+2025-03-14 17:08:51,867 - INFO - Processing iPDC 100Hz_L-R_JDC
+2025-03-14 17:08:51,867 - INFO - Reading connectivity matrix from iPDC_100Hz_L-R_JDC.csv
+2025-03-14 17:08:52,169 - ERROR - Error processing iPDC_100Hz_L-R_JDC.csv: sagittal is not a valid display_mode. Valid options are ['mosaic', 'ortho', 'tiled', 'x', 'xz', 'y', 'yx', 'yz', 'z']
+2025-03-14 17:08:52,170 - INFO - Processing iPDC 100Hz_L-R_JFXD
+2025-03-14 17:08:52,170 - INFO - Reading connectivity matrix from iPDC_100Hz_L-R_JFXD.csv
+2025-03-14 17:08:52,470 - ERROR - Error processing iPDC_100Hz_L-R_JFXD.csv: sagittal is not a valid display_mode. Valid options are ['mosaic', 'ortho', 'tiled', 'x', 'xz', 'y', 'yx', 'yz', 'z']
+2025-03-14 17:08:52,470 - INFO - Processing iPDC 100Hz_L-R_JZ
+2025-03-14 17:08:52,470 - INFO - Reading connectivity matrix from iPDC_100Hz_L-R_JZ.csv
+2025-03-14 17:08:52,776 - ERROR - Error processing iPDC_100Hz_L-R_JZ.csv: sagittal is not a valid display_mode. Valid options are ['mosaic', 'ortho', 'tiled', 'x', 'xz', 'y', 'yx', 'yz', 'z']
+2025-03-14 17:08:52,777 - INFO - Processing iPDC 100Hz_L-R_LT
+2025-03-14 17:08:52,777 - INFO - Reading connectivity matrix from iPDC_100Hz_L-R_LT.csv
+2025-03-14 17:08:53,077 - ERROR - Error processing iPDC_100Hz_L-R_LT.csv: sagittal is not a valid display_mode. Valid options are ['mosaic', 'ortho', 'tiled', 'x', 'xz', 'y', 'yx', 'yz', 'z']
+2025-03-14 17:08:53,077 - INFO - Processing iPDC 100Hz_L-R_NvA
+2025-03-14 17:08:53,078 - INFO - Reading connectivity matrix from iPDC_100Hz_L-R_NvA.csv
+2025-03-14 17:08:53,381 - ERROR - Error processing iPDC_100Hz_L-R_NvA.csv: sagittal is not a valid display_mode. Valid options are ['mosaic', 'ortho', 'tiled', 'x', 'xz', 'y', 'yx', 'yz', 'z']
+2025-03-14 17:08:53,382 - INFO - Processing iPDC 100Hz_L-R_overall
+2025-03-14 17:08:53,382 - INFO - Reading connectivity matrix from iPDC_100Hz_L-R_overall.csv
+2025-03-14 17:08:53,690 - ERROR - Error processing iPDC_100Hz_L-R_overall.csv: sagittal is not a valid display_mode. Valid options are ['mosaic', 'ortho', 'tiled', 'x', 'xz', 'y', 'yx', 'yz', 'z']
+2025-03-14 17:08:53,690 - INFO - Processing iPDC 100Hz_L-R_RR
+2025-03-14 17:08:53,690 - INFO - Reading connectivity matrix from iPDC_100Hz_L-R_RR.csv
+2025-03-14 17:08:53,997 - ERROR - Error processing iPDC_100Hz_L-R_RR.csv: sagittal is not a valid display_mode. Valid options are ['mosaic', 'ortho', 'tiled', 'x', 'xz', 'y', 'yx', 'yz', 'z']
+2025-03-14 17:08:53,997 - INFO - Processing iPDC 100Hz_L-R_SJB
+2025-03-14 17:08:53,997 - INFO - Reading connectivity matrix from iPDC_100Hz_L-R_SJB.csv
+2025-03-14 17:08:54,316 - ERROR - Error processing iPDC_100Hz_L-R_SJB.csv: sagittal is not a valid display_mode. Valid options are ['mosaic', 'ortho', 'tiled', 'x', 'xz', 'y', 'yx', 'yz', 'z']
+2025-03-14 17:08:54,317 - INFO - Processing iPDC 100Hz_L-R_wilcoxon
+2025-03-14 17:08:54,317 - INFO - Reading connectivity matrix from iPDC_100Hz_L-R_wilcoxon.csv
+2025-03-14 17:08:54,618 - ERROR - Error processing iPDC_100Hz_L-R_wilcoxon.csv: sagittal is not a valid display_mode. Valid options are ['mosaic', 'ortho', 'tiled', 'x', 'xz', 'y', 'yx', 'yz', 'z']
+2025-03-14 17:08:54,618 - INFO - Processing Cue_iPDC_10Hz...
+2025-03-14 17:08:54,618 - INFO - Processing folder: Cue_iPDC_10Hz
+2025-03-14 17:08:54,619 - INFO - Found 12 CSV files
+2025-03-14 17:08:54,619 - INFO - Processing iPDC 10Hz_L-R_BG
+2025-03-14 17:08:54,619 - INFO - Reading connectivity matrix from iPDC_10Hz_L-R_BG.csv
+2025-03-14 17:08:54,919 - ERROR - Error processing iPDC_10Hz_L-R_BG.csv: sagittal is not a valid display_mode. Valid options are ['mosaic', 'ortho', 'tiled', 'x', 'xz', 'y', 'yx', 'yz', 'z']
+2025-03-14 17:08:54,919 - INFO - Processing iPDC 10Hz_L-R_DOC
+2025-03-14 17:08:54,919 - INFO - Reading connectivity matrix from iPDC_10Hz_L-R_DOC.csv
+2025-03-14 17:08:55,237 - ERROR - Error processing iPDC_10Hz_L-R_DOC.csv: sagittal is not a valid display_mode. Valid options are ['mosaic', 'ortho', 'tiled', 'x', 'xz', 'y', 'yx', 'yz', 'z']
+2025-03-14 17:08:55,238 - INFO - Processing iPDC 10Hz_L-R_GB
+2025-03-14 17:08:55,238 - INFO - Reading connectivity matrix from iPDC_10Hz_L-R_GB.csv
+2025-03-14 17:08:55,575 - ERROR - Error processing iPDC_10Hz_L-R_GB.csv: sagittal is not a valid display_mode. Valid options are ['mosaic', 'ortho', 'tiled', 'x', 'xz', 'y', 'yx', 'yz', 'z']
+2025-03-14 17:08:55,575 - INFO - Processing iPDC 10Hz_L-R_JDC
+2025-03-14 17:08:55,576 - INFO - Reading connectivity matrix from iPDC_10Hz_L-R_JDC.csv
+2025-03-14 17:08:55,890 - ERROR - Error processing iPDC_10Hz_L-R_JDC.csv: sagittal is not a valid display_mode. Valid options are ['mosaic', 'ortho', 'tiled', 'x', 'xz', 'y', 'yx', 'yz', 'z']
+2025-03-14 17:08:55,890 - INFO - Processing iPDC 10Hz_L-R_JFXD
+2025-03-14 17:08:55,890 - INFO - Reading connectivity matrix from iPDC_10Hz_L-R_JFXD.csv
+2025-03-14 17:08:56,216 - ERROR - Error processing iPDC_10Hz_L-R_JFXD.csv: sagittal is not a valid display_mode. Valid options are ['mosaic', 'ortho', 'tiled', 'x', 'xz', 'y', 'yx', 'yz', 'z']
+2025-03-14 17:08:56,217 - INFO - Processing iPDC 10Hz_L-R_JZ
+2025-03-14 17:08:56,217 - INFO - Reading connectivity matrix from iPDC_10Hz_L-R_JZ.csv
+2025-03-14 17:08:56,546 - ERROR - Error processing iPDC_10Hz_L-R_JZ.csv: sagittal is not a valid display_mode. Valid options are ['mosaic', 'ortho', 'tiled', 'x', 'xz', 'y', 'yx', 'yz', 'z']
+2025-03-14 17:08:56,546 - INFO - Processing iPDC 10Hz_L-R_LT
+2025-03-14 17:08:56,547 - INFO - Reading connectivity matrix from iPDC_10Hz_L-R_LT.csv
+2025-03-14 17:08:56,875 - ERROR - Error processing iPDC_10Hz_L-R_LT.csv: sagittal is not a valid display_mode. Valid options are ['mosaic', 'ortho', 'tiled', 'x', 'xz', 'y', 'yx', 'yz', 'z']
+2025-03-14 17:08:56,875 - INFO - Processing iPDC 10Hz_L-R_NvA
+2025-03-14 17:08:56,876 - INFO - Reading connectivity matrix from iPDC_10Hz_L-R_NvA.csv
+2025-03-14 17:08:57,210 - ERROR - Error processing iPDC_10Hz_L-R_NvA.csv: sagittal is not a valid display_mode. Valid options are ['mosaic', 'ortho', 'tiled', 'x', 'xz', 'y', 'yx', 'yz', 'z']
+2025-03-14 17:08:57,210 - INFO - Processing iPDC 10Hz_L-R_overall
+2025-03-14 17:08:57,211 - INFO - Reading connectivity matrix from iPDC_10Hz_L-R_overall.csv
+2025-03-14 17:08:57,541 - ERROR - Error processing iPDC_10Hz_L-R_overall.csv: sagittal is not a valid display_mode. Valid options are ['mosaic', 'ortho', 'tiled', 'x', 'xz', 'y', 'yx', 'yz', 'z']
+2025-03-14 17:08:57,541 - INFO - Processing iPDC 10Hz_L-R_RR
+2025-03-14 17:08:57,542 - INFO - Reading connectivity matrix from iPDC_10Hz_L-R_RR.csv
+2025-03-14 17:08:57,874 - ERROR - Error processing iPDC_10Hz_L-R_RR.csv: sagittal is not a valid display_mode. Valid options are ['mosaic', 'ortho', 'tiled', 'x', 'xz', 'y', 'yx', 'yz', 'z']
+2025-03-14 17:08:57,875 - INFO - Processing iPDC 10Hz_L-R_SJB
+2025-03-14 17:08:57,875 - INFO - Reading connectivity matrix from iPDC_10Hz_L-R_SJB.csv
+2025-03-14 17:08:58,220 - ERROR - Error processing iPDC_10Hz_L-R_SJB.csv: sagittal is not a valid display_mode. Valid options are ['mosaic', 'ortho', 'tiled', 'x', 'xz', 'y', 'yx', 'yz', 'z']
+2025-03-14 17:08:58,221 - INFO - Processing iPDC 10Hz_L-R_wilcoxon
+2025-03-14 17:08:58,221 - INFO - Reading connectivity matrix from iPDC_10Hz_L-R_wilcoxon.csv
+2025-03-14 17:08:58,533 - ERROR - Error processing iPDC_10Hz_L-R_wilcoxon.csv: sagittal is not a valid display_mode. Valid options are ['mosaic', 'ortho', 'tiled', 'x', 'xz', 'y', 'yx', 'yz', 'z']
+2025-03-14 17:08:58,533 - INFO - Processing Cue_iPDC_20Hz...
+2025-03-14 17:08:58,533 - INFO - Processing folder: Cue_iPDC_20Hz
+2025-03-14 17:08:58,534 - INFO - Found 12 CSV files
+2025-03-14 17:08:58,534 - INFO - Processing iPDC 20Hz_L-R_BG
+2025-03-14 17:08:58,534 - INFO - Reading connectivity matrix from iPDC_20Hz_L-R_BG.csv
+2025-03-14 17:08:58,882 - ERROR - Error processing iPDC_20Hz_L-R_BG.csv: sagittal is not a valid display_mode. Valid options are ['mosaic', 'ortho', 'tiled', 'x', 'xz', 'y', 'yx', 'yz', 'z']
+2025-03-14 17:08:58,882 - INFO - Processing iPDC 20Hz_L-R_DOC
+2025-03-14 17:08:58,882 - INFO - Reading connectivity matrix from iPDC_20Hz_L-R_DOC.csv
+2025-03-14 17:08:59,230 - ERROR - Error processing iPDC_20Hz_L-R_DOC.csv: sagittal is not a valid display_mode. Valid options are ['mosaic', 'ortho', 'tiled', 'x', 'xz', 'y', 'yx', 'yz', 'z']
+2025-03-14 17:08:59,231 - INFO - Processing iPDC 20Hz_L-R_GB
+2025-03-14 17:08:59,231 - INFO - Reading connectivity matrix from iPDC_20Hz_L-R_GB.csv
+2025-03-14 17:08:59,576 - ERROR - Error processing iPDC_20Hz_L-R_GB.csv: sagittal is not a valid display_mode. Valid options are ['mosaic', 'ortho', 'tiled', 'x', 'xz', 'y', 'yx', 'yz', 'z']
+2025-03-14 17:08:59,576 - INFO - Processing iPDC 20Hz_L-R_JDC
+2025-03-14 17:08:59,576 - INFO - Reading connectivity matrix from iPDC_20Hz_L-R_JDC.csv
+2025-03-14 17:08:59,929 - ERROR - Error processing iPDC_20Hz_L-R_JDC.csv: sagittal is not a valid display_mode. Valid options are ['mosaic', 'ortho', 'tiled', 'x', 'xz', 'y', 'yx', 'yz', 'z']
+2025-03-14 17:08:59,929 - INFO - Processing iPDC 20Hz_L-R_JFXD
+2025-03-14 17:08:59,929 - INFO - Reading connectivity matrix from iPDC_20Hz_L-R_JFXD.csv
+2025-03-14 17:09:00,296 - ERROR - Error processing iPDC_20Hz_L-R_JFXD.csv: sagittal is not a valid display_mode. Valid options are ['mosaic', 'ortho', 'tiled', 'x', 'xz', 'y', 'yx', 'yz', 'z']
+2025-03-14 17:09:00,296 - INFO - Processing iPDC 20Hz_L-R_JZ
+2025-03-14 17:09:00,297 - INFO - Reading connectivity matrix from iPDC_20Hz_L-R_JZ.csv
+2025-03-14 17:09:00,665 - ERROR - Error processing iPDC_20Hz_L-R_JZ.csv: sagittal is not a valid display_mode. Valid options are ['mosaic', 'ortho', 'tiled', 'x', 'xz', 'y', 'yx', 'yz', 'z']
+2025-03-14 17:09:00,666 - INFO - Processing iPDC 20Hz_L-R_LT
+2025-03-14 17:09:00,666 - INFO - Reading connectivity matrix from iPDC_20Hz_L-R_LT.csv
+2025-03-14 17:09:01,042 - ERROR - Error processing iPDC_20Hz_L-R_LT.csv: sagittal is not a valid display_mode. Valid options are ['mosaic', 'ortho', 'tiled', 'x', 'xz', 'y', 'yx', 'yz', 'z']
+2025-03-14 17:09:01,043 - INFO - Processing iPDC 20Hz_L-R_NvA
+2025-03-14 17:09:01,043 - INFO - Reading connectivity matrix from iPDC_20Hz_L-R_NvA.csv
+2025-03-14 17:09:01,403 - ERROR - Error processing iPDC_20Hz_L-R_NvA.csv: sagittal is not a valid display_mode. Valid options are ['mosaic', 'ortho', 'tiled', 'x', 'xz', 'y', 'yx', 'yz', 'z']
+2025-03-14 17:09:01,404 - INFO - Processing iPDC 20Hz_L-R_overall
+2025-03-14 17:09:01,404 - INFO - Reading connectivity matrix from iPDC_20Hz_L-R_overall.csv
+2025-03-14 17:09:01,765 - ERROR - Error processing iPDC_20Hz_L-R_overall.csv: sagittal is not a valid display_mode. Valid options are ['mosaic', 'ortho', 'tiled', 'x', 'xz', 'y', 'yx', 'yz', 'z']
+2025-03-14 17:09:01,765 - INFO - Processing iPDC 20Hz_L-R_RR
+2025-03-14 17:09:01,765 - INFO - Reading connectivity matrix from iPDC_20Hz_L-R_RR.csv
+2025-03-14 17:09:02,124 - ERROR - Error processing iPDC_20Hz_L-R_RR.csv: sagittal is not a valid display_mode. Valid options are ['mosaic', 'ortho', 'tiled', 'x', 'xz', 'y', 'yx', 'yz', 'z']
+2025-03-14 17:09:02,125 - INFO - Processing iPDC 20Hz_L-R_SJB
+2025-03-14 17:09:02,125 - INFO - Reading connectivity matrix from iPDC_20Hz_L-R_SJB.csv
+2025-03-14 17:09:02,491 - ERROR - Error processing iPDC_20Hz_L-R_SJB.csv: sagittal is not a valid display_mode. Valid options are ['mosaic', 'ortho', 'tiled', 'x', 'xz', 'y', 'yx', 'yz', 'z']
+2025-03-14 17:09:02,492 - INFO - Processing iPDC 20Hz_L-R_wilcoxon
+2025-03-14 17:09:02,492 - INFO - Reading connectivity matrix from iPDC_20Hz_L-R_wilcoxon.csv
+2025-03-14 17:09:02,838 - ERROR - Error processing iPDC_20Hz_L-R_wilcoxon.csv: sagittal is not a valid display_mode. Valid options are ['mosaic', 'ortho', 'tiled', 'x', 'xz', 'y', 'yx', 'yz', 'z']
+2025-03-14 17:09:02,838 - INFO - 
+---------------------
+2025-03-14 17:09:02,838 - INFO - Processing complete!
+2025-03-14 17:09:02,839 - INFO - Folders processed: 9
+2025-03-14 17:09:02,839 - INFO - Visualizations created: 0
+2025-03-14 17:09:02,839 - INFO - Errors encountered: 108
+2025-03-14 17:09:02,839 - INFO - Process completed at: 2025-03-14 17:09:02

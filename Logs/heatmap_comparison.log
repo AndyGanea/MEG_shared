@@ -1,0 +1,1662 @@
+2025-02-01 16:26:22,184 - INFO - Output directory set to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison
+2025-02-01 16:26:22,184 - INFO - Script initialized successfully
+2025-02-01 16:44:02,105 - INFO - Output directory set to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison
+2025-02-01 16:44:02,105 - INFO - Output directory created/verified at: C:\Users\dgane\Apps\MEG\Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison
+2025-02-01 16:44:02,105 - INFO - Output directory set to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison
+2025-02-01 16:44:02,105 - INFO - Processing: cue/iDTF_10Hz
+2025-02-01 16:44:06,161 - INFO - Saved comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\cue_iDTF_10Hz_comparison.png
+2025-02-01 16:44:06,161 - INFO - Processing: cue/iDTF_20Hz
+2025-02-01 16:44:07,633 - INFO - Saved comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\cue_iDTF_20Hz_comparison.png
+2025-02-01 16:44:07,633 - INFO - Processing: cue/iDTF_100Hz
+2025-02-01 16:44:09,112 - INFO - Saved comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\cue_iDTF_100Hz_comparison.png
+2025-02-01 16:44:09,112 - INFO - Processing: cue/gDTF_10Hz
+2025-02-01 16:44:10,523 - INFO - Saved comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\cue_gDTF_10Hz_comparison.png
+2025-02-01 16:44:10,523 - INFO - Processing: cue/gDTF_20Hz
+2025-02-01 16:44:11,993 - INFO - Saved comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\cue_gDTF_20Hz_comparison.png
+2025-02-01 16:44:11,993 - INFO - Processing: cue/gDTF_100Hz
+2025-02-01 16:44:13,413 - INFO - Saved comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\cue_gDTF_100Hz_comparison.png
+2025-02-01 16:44:13,413 - INFO - Processing: cue/iPDC_10Hz
+2025-02-01 16:44:14,826 - INFO - Saved comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\cue_iPDC_10Hz_comparison.png
+2025-02-01 16:44:14,826 - INFO - Processing: cue/iPDC_20Hz
+2025-02-01 16:44:16,303 - INFO - Saved comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\cue_iPDC_20Hz_comparison.png
+2025-02-01 16:44:16,304 - INFO - Processing: cue/iPDC_100Hz
+2025-02-01 16:44:17,726 - INFO - Saved comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\cue_iPDC_100Hz_comparison.png
+2025-02-01 16:44:17,726 - INFO - Processing: cue/gPDC_10Hz
+2025-02-01 16:44:19,183 - INFO - Saved comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\cue_gPDC_10Hz_comparison.png
+2025-02-01 16:44:19,183 - INFO - Processing: cue/gPDC_20Hz
+2025-02-01 16:44:20,579 - INFO - Saved comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\cue_gPDC_20Hz_comparison.png
+2025-02-01 16:44:20,579 - INFO - Processing: cue/gPDC_100Hz
+2025-02-01 16:44:22,026 - INFO - Saved comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\cue_gPDC_100Hz_comparison.png
+2025-02-01 16:44:22,026 - INFO - Processing: mov/iDTF_10Hz
+2025-02-01 16:44:23,513 - INFO - Saved comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\mov_iDTF_10Hz_comparison.png
+2025-02-01 16:44:23,513 - INFO - Processing: mov/iDTF_20Hz
+2025-02-01 16:44:24,926 - INFO - Saved comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\mov_iDTF_20Hz_comparison.png
+2025-02-01 16:44:24,926 - INFO - Processing: mov/iDTF_100Hz
+2025-02-01 16:44:26,343 - INFO - Saved comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\mov_iDTF_100Hz_comparison.png
+2025-02-01 16:44:26,344 - INFO - Processing: mov/gDTF_10Hz
+2025-02-01 16:44:27,733 - INFO - Saved comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\mov_gDTF_10Hz_comparison.png
+2025-02-01 16:44:27,742 - INFO - Processing: mov/gDTF_20Hz
+2025-02-01 16:44:29,182 - INFO - Saved comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\mov_gDTF_20Hz_comparison.png
+2025-02-01 16:44:29,182 - INFO - Processing: mov/gDTF_100Hz
+2025-02-01 16:44:30,633 - INFO - Saved comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\mov_gDTF_100Hz_comparison.png
+2025-02-01 16:44:30,633 - INFO - Processing: mov/iPDC_10Hz
+2025-02-01 16:44:32,042 - INFO - Saved comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\mov_iPDC_10Hz_comparison.png
+2025-02-01 16:44:32,043 - INFO - Processing: mov/iPDC_20Hz
+2025-02-01 16:44:33,584 - INFO - Saved comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\mov_iPDC_20Hz_comparison.png
+2025-02-01 16:44:33,584 - INFO - Processing: mov/iPDC_100Hz
+2025-02-01 16:44:35,033 - INFO - Saved comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\mov_iPDC_100Hz_comparison.png
+2025-02-01 16:44:35,033 - INFO - Processing: mov/gPDC_10Hz
+2025-02-01 16:44:36,445 - INFO - Saved comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\mov_gPDC_10Hz_comparison.png
+2025-02-01 16:44:36,445 - INFO - Processing: mov/gPDC_20Hz
+2025-02-01 16:44:37,933 - INFO - Saved comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\mov_gPDC_20Hz_comparison.png
+2025-02-01 16:44:37,933 - INFO - Processing: mov/gPDC_100Hz
+2025-02-01 16:44:39,364 - INFO - Saved comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\mov_gPDC_100Hz_comparison.png
+2025-02-01 16:44:39,364 - INFO - Generated 24 comparison heatmaps
+2025-02-01 16:44:39,364 - INFO - Comparison heatmaps generation completed
+2025-02-01 16:54:03,552 - INFO - Output directory set to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison
+2025-02-01 16:54:03,552 - INFO - Output directory created/verified at: C:\Users\dgane\Apps\MEG\Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison
+2025-02-01 16:54:03,552 - INFO - Output directory set to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison
+2025-02-01 16:54:03,553 - INFO - Creating overall comparison heatmaps...
+2025-02-01 16:54:03,554 - INFO - Processing: cue/iDTF_10Hz
+2025-02-01 16:54:05,170 - INFO - Saved comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\cue_iDTF_10Hz_comparison.png
+2025-02-01 16:54:05,170 - INFO - Processing: cue/iDTF_20Hz
+2025-02-01 16:54:06,600 - INFO - Saved comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\cue_iDTF_20Hz_comparison.png
+2025-02-01 16:54:06,601 - INFO - Processing: cue/iDTF_100Hz
+2025-02-01 16:54:08,088 - INFO - Saved comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\cue_iDTF_100Hz_comparison.png
+2025-02-01 16:54:08,088 - INFO - Processing: cue/gDTF_10Hz
+2025-02-01 16:54:09,488 - INFO - Saved comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\cue_gDTF_10Hz_comparison.png
+2025-02-01 16:54:09,488 - INFO - Processing: cue/gDTF_20Hz
+2025-02-01 16:54:10,889 - INFO - Saved comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\cue_gDTF_20Hz_comparison.png
+2025-02-01 16:54:10,889 - INFO - Processing: cue/gDTF_100Hz
+2025-02-01 16:54:12,353 - INFO - Saved comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\cue_gDTF_100Hz_comparison.png
+2025-02-01 16:54:12,353 - INFO - Processing: cue/iPDC_10Hz
+2025-02-01 16:54:13,753 - INFO - Saved comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\cue_iPDC_10Hz_comparison.png
+2025-02-01 16:54:13,758 - INFO - Processing: cue/iPDC_20Hz
+2025-02-01 16:54:15,201 - INFO - Saved comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\cue_iPDC_20Hz_comparison.png
+2025-02-01 16:54:15,202 - INFO - Processing: cue/iPDC_100Hz
+2025-02-01 16:54:16,609 - INFO - Saved comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\cue_iPDC_100Hz_comparison.png
+2025-02-01 16:54:16,609 - INFO - Processing: cue/gPDC_10Hz
+2025-02-01 16:54:18,022 - INFO - Saved comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\cue_gPDC_10Hz_comparison.png
+2025-02-01 16:54:18,022 - INFO - Processing: cue/gPDC_20Hz
+2025-02-01 16:54:19,433 - INFO - Saved comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\cue_gPDC_20Hz_comparison.png
+2025-02-01 16:54:19,433 - INFO - Processing: cue/gPDC_100Hz
+2025-02-01 16:54:20,794 - INFO - Saved comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\cue_gPDC_100Hz_comparison.png
+2025-02-01 16:54:20,794 - INFO - Processing: mov/iDTF_10Hz
+2025-02-01 16:54:22,227 - INFO - Saved comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\mov_iDTF_10Hz_comparison.png
+2025-02-01 16:54:22,227 - INFO - Processing: mov/iDTF_20Hz
+2025-02-01 16:54:23,654 - INFO - Saved comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\mov_iDTF_20Hz_comparison.png
+2025-02-01 16:54:23,654 - INFO - Processing: mov/iDTF_100Hz
+2025-02-01 16:54:25,024 - INFO - Saved comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\mov_iDTF_100Hz_comparison.png
+2025-02-01 16:54:25,024 - INFO - Processing: mov/gDTF_10Hz
+2025-02-01 16:54:26,446 - INFO - Saved comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\mov_gDTF_10Hz_comparison.png
+2025-02-01 16:54:26,447 - INFO - Processing: mov/gDTF_20Hz
+2025-02-01 16:54:27,883 - INFO - Saved comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\mov_gDTF_20Hz_comparison.png
+2025-02-01 16:54:27,883 - INFO - Processing: mov/gDTF_100Hz
+2025-02-01 16:54:29,323 - INFO - Saved comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\mov_gDTF_100Hz_comparison.png
+2025-02-01 16:54:29,332 - INFO - Processing: mov/iPDC_10Hz
+2025-02-01 16:54:30,718 - INFO - Saved comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\mov_iPDC_10Hz_comparison.png
+2025-02-01 16:54:30,719 - INFO - Processing: mov/iPDC_20Hz
+2025-02-01 16:54:32,137 - INFO - Saved comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\mov_iPDC_20Hz_comparison.png
+2025-02-01 16:54:32,142 - INFO - Processing: mov/iPDC_100Hz
+2025-02-01 16:54:33,633 - INFO - Saved comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\mov_iPDC_100Hz_comparison.png
+2025-02-01 16:54:33,633 - INFO - Processing: mov/gPDC_10Hz
+2025-02-01 16:54:35,019 - INFO - Saved comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\mov_gPDC_10Hz_comparison.png
+2025-02-01 16:54:35,020 - INFO - Processing: mov/gPDC_20Hz
+2025-02-01 16:54:36,442 - INFO - Saved comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\mov_gPDC_20Hz_comparison.png
+2025-02-01 16:54:36,443 - INFO - Processing: mov/gPDC_100Hz
+2025-02-01 16:54:37,842 - INFO - Saved comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\mov_gPDC_100Hz_comparison.png
+2025-02-01 16:54:37,843 - INFO - Creating subject-specific comparison heatmaps...
+2025-02-01 16:54:37,843 - INFO - Processing subject DOC: cue/iDTF_10Hz
+2025-02-01 16:54:39,275 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\cue_iDTF_10Hz_DOC_comparison.png
+2025-02-01 16:54:39,275 - INFO - Processing subject GB: cue/iDTF_10Hz
+2025-02-01 16:54:40,744 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\cue_iDTF_10Hz_GB_comparison.png
+2025-02-01 16:54:40,744 - INFO - Processing subject JDC: cue/iDTF_10Hz
+2025-02-01 16:54:42,164 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\cue_iDTF_10Hz_JDC_comparison.png
+2025-02-01 16:54:42,164 - INFO - Processing subject JFXD: cue/iDTF_10Hz
+2025-02-01 16:54:43,644 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\cue_iDTF_10Hz_JFXD_comparison.png
+2025-02-01 16:54:43,644 - INFO - Processing subject JZ: cue/iDTF_10Hz
+2025-02-01 16:54:45,067 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\cue_iDTF_10Hz_JZ_comparison.png
+2025-02-01 16:54:45,067 - INFO - Processing subject LT: cue/iDTF_10Hz
+2025-02-01 16:54:46,493 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\cue_iDTF_10Hz_LT_comparison.png
+2025-02-01 16:54:46,493 - INFO - Processing subject NvA: cue/iDTF_10Hz
+2025-02-01 16:54:47,991 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\cue_iDTF_10Hz_NvA_comparison.png
+2025-02-01 16:54:47,992 - INFO - Processing subject RR: cue/iDTF_10Hz
+2025-02-01 16:54:49,463 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\cue_iDTF_10Hz_RR_comparison.png
+2025-02-01 16:54:49,463 - INFO - Processing subject SJB: cue/iDTF_10Hz
+2025-02-01 16:54:50,841 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\cue_iDTF_10Hz_SJB_comparison.png
+2025-02-01 16:54:50,842 - INFO - Processing subject BG: cue/iDTF_10Hz
+2025-02-01 16:54:52,284 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\cue_iDTF_10Hz_BG_comparison.png
+2025-02-01 16:54:52,284 - INFO - Processing subject DOC: cue/iDTF_20Hz
+2025-02-01 16:54:53,708 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\cue_iDTF_20Hz_DOC_comparison.png
+2025-02-01 16:54:53,709 - INFO - Processing subject GB: cue/iDTF_20Hz
+2025-02-01 16:54:55,133 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\cue_iDTF_20Hz_GB_comparison.png
+2025-02-01 16:54:55,133 - INFO - Processing subject JDC: cue/iDTF_20Hz
+2025-02-01 16:54:56,533 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\cue_iDTF_20Hz_JDC_comparison.png
+2025-02-01 16:54:56,533 - INFO - Processing subject JFXD: cue/iDTF_20Hz
+2025-02-01 16:54:57,944 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\cue_iDTF_20Hz_JFXD_comparison.png
+2025-02-01 16:54:57,944 - INFO - Processing subject JZ: cue/iDTF_20Hz
+2025-02-01 16:54:59,417 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\cue_iDTF_20Hz_JZ_comparison.png
+2025-02-01 16:54:59,422 - INFO - Processing subject LT: cue/iDTF_20Hz
+2025-02-01 16:55:00,833 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\cue_iDTF_20Hz_LT_comparison.png
+2025-02-01 16:55:00,834 - INFO - Processing subject NvA: cue/iDTF_20Hz
+2025-02-01 16:55:02,323 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\cue_iDTF_20Hz_NvA_comparison.png
+2025-02-01 16:55:02,323 - INFO - Processing subject RR: cue/iDTF_20Hz
+2025-02-01 16:55:03,764 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\cue_iDTF_20Hz_RR_comparison.png
+2025-02-01 16:55:03,764 - INFO - Processing subject SJB: cue/iDTF_20Hz
+2025-02-01 16:55:05,199 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\cue_iDTF_20Hz_SJB_comparison.png
+2025-02-01 16:55:05,200 - INFO - Processing subject BG: cue/iDTF_20Hz
+2025-02-01 16:55:06,643 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\cue_iDTF_20Hz_BG_comparison.png
+2025-02-01 16:55:06,643 - INFO - Processing subject DOC: cue/iDTF_100Hz
+2025-02-01 16:55:08,054 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\cue_iDTF_100Hz_DOC_comparison.png
+2025-02-01 16:55:08,054 - INFO - Processing subject GB: cue/iDTF_100Hz
+2025-02-01 16:55:09,505 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\cue_iDTF_100Hz_GB_comparison.png
+2025-02-01 16:55:09,505 - INFO - Processing subject JDC: cue/iDTF_100Hz
+2025-02-01 16:55:10,913 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\cue_iDTF_100Hz_JDC_comparison.png
+2025-02-01 16:55:10,913 - INFO - Processing subject JFXD: cue/iDTF_100Hz
+2025-02-01 16:55:12,326 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\cue_iDTF_100Hz_JFXD_comparison.png
+2025-02-01 16:55:12,326 - INFO - Processing subject JZ: cue/iDTF_100Hz
+2025-02-01 16:55:13,803 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\cue_iDTF_100Hz_JZ_comparison.png
+2025-02-01 16:55:13,803 - INFO - Processing subject LT: cue/iDTF_100Hz
+2025-02-01 16:55:15,223 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\cue_iDTF_100Hz_LT_comparison.png
+2025-02-01 16:55:15,223 - INFO - Processing subject NvA: cue/iDTF_100Hz
+2025-02-01 16:55:16,664 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\cue_iDTF_100Hz_NvA_comparison.png
+2025-02-01 16:55:16,664 - INFO - Processing subject RR: cue/iDTF_100Hz
+2025-02-01 16:55:18,173 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\cue_iDTF_100Hz_RR_comparison.png
+2025-02-01 16:55:18,173 - INFO - Processing subject SJB: cue/iDTF_100Hz
+2025-02-01 16:55:19,621 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\cue_iDTF_100Hz_SJB_comparison.png
+2025-02-01 16:55:19,621 - INFO - Processing subject BG: cue/iDTF_100Hz
+2025-02-01 16:55:21,072 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\cue_iDTF_100Hz_BG_comparison.png
+2025-02-01 16:55:21,072 - INFO - Processing subject DOC: cue/gDTF_10Hz
+2025-02-01 16:55:22,484 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\cue_gDTF_10Hz_DOC_comparison.png
+2025-02-01 16:55:22,484 - INFO - Processing subject GB: cue/gDTF_10Hz
+2025-02-01 16:55:23,933 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\cue_gDTF_10Hz_GB_comparison.png
+2025-02-01 16:55:23,933 - INFO - Processing subject JDC: cue/gDTF_10Hz
+2025-02-01 16:55:25,393 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\cue_gDTF_10Hz_JDC_comparison.png
+2025-02-01 16:55:25,393 - INFO - Processing subject JFXD: cue/gDTF_10Hz
+2025-02-01 16:55:26,826 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\cue_gDTF_10Hz_JFXD_comparison.png
+2025-02-01 16:55:26,826 - INFO - Processing subject JZ: cue/gDTF_10Hz
+2025-02-01 16:55:28,326 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\cue_gDTF_10Hz_JZ_comparison.png
+2025-02-01 16:55:28,326 - INFO - Processing subject LT: cue/gDTF_10Hz
+2025-02-01 16:55:29,713 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\cue_gDTF_10Hz_LT_comparison.png
+2025-02-01 16:55:29,713 - INFO - Processing subject NvA: cue/gDTF_10Hz
+2025-02-01 16:55:31,113 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\cue_gDTF_10Hz_NvA_comparison.png
+2025-02-01 16:55:31,113 - INFO - Processing subject RR: cue/gDTF_10Hz
+2025-02-01 16:55:32,574 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\cue_gDTF_10Hz_RR_comparison.png
+2025-02-01 16:55:32,574 - INFO - Processing subject SJB: cue/gDTF_10Hz
+2025-02-01 16:55:33,983 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\cue_gDTF_10Hz_SJB_comparison.png
+2025-02-01 16:55:33,983 - INFO - Processing subject BG: cue/gDTF_10Hz
+2025-02-01 16:55:35,413 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\cue_gDTF_10Hz_BG_comparison.png
+2025-02-01 16:55:35,413 - INFO - Processing subject DOC: cue/gDTF_20Hz
+2025-02-01 16:55:36,894 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\cue_gDTF_20Hz_DOC_comparison.png
+2025-02-01 16:55:36,894 - INFO - Processing subject GB: cue/gDTF_20Hz
+2025-02-01 16:55:38,319 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\cue_gDTF_20Hz_GB_comparison.png
+2025-02-01 16:55:38,319 - INFO - Processing subject JDC: cue/gDTF_20Hz
+2025-02-01 16:55:39,803 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\cue_gDTF_20Hz_JDC_comparison.png
+2025-02-01 16:55:39,803 - INFO - Processing subject JFXD: cue/gDTF_20Hz
+2025-02-01 16:55:41,214 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\cue_gDTF_20Hz_JFXD_comparison.png
+2025-02-01 16:55:41,214 - INFO - Processing subject JZ: cue/gDTF_20Hz
+2025-02-01 16:55:42,614 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\cue_gDTF_20Hz_JZ_comparison.png
+2025-02-01 16:55:42,614 - INFO - Processing subject LT: cue/gDTF_20Hz
+2025-02-01 16:55:44,082 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\cue_gDTF_20Hz_LT_comparison.png
+2025-02-01 16:55:44,083 - INFO - Processing subject NvA: cue/gDTF_20Hz
+2025-02-01 16:55:45,463 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\cue_gDTF_20Hz_NvA_comparison.png
+2025-02-01 16:55:45,463 - INFO - Processing subject RR: cue/gDTF_20Hz
+2025-02-01 16:55:46,943 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\cue_gDTF_20Hz_RR_comparison.png
+2025-02-01 16:55:46,943 - INFO - Processing subject SJB: cue/gDTF_20Hz
+2025-02-01 16:55:48,413 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\cue_gDTF_20Hz_SJB_comparison.png
+2025-02-01 16:55:48,414 - INFO - Processing subject BG: cue/gDTF_20Hz
+2025-02-01 16:55:49,798 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\cue_gDTF_20Hz_BG_comparison.png
+2025-02-01 16:55:49,798 - INFO - Processing subject DOC: cue/gDTF_100Hz
+2025-02-01 16:55:51,274 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\cue_gDTF_100Hz_DOC_comparison.png
+2025-02-01 16:55:51,274 - INFO - Processing subject GB: cue/gDTF_100Hz
+2025-02-01 16:55:52,683 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\cue_gDTF_100Hz_GB_comparison.png
+2025-02-01 16:55:52,683 - INFO - Processing subject JDC: cue/gDTF_100Hz
+2025-02-01 16:55:54,104 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\cue_gDTF_100Hz_JDC_comparison.png
+2025-02-01 16:55:54,104 - INFO - Processing subject JFXD: cue/gDTF_100Hz
+2025-02-01 16:55:55,493 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\cue_gDTF_100Hz_JFXD_comparison.png
+2025-02-01 16:55:55,493 - INFO - Processing subject JZ: cue/gDTF_100Hz
+2025-02-01 16:55:56,954 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\cue_gDTF_100Hz_JZ_comparison.png
+2025-02-01 16:55:56,954 - INFO - Processing subject LT: cue/gDTF_100Hz
+2025-02-01 16:55:58,426 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\cue_gDTF_100Hz_LT_comparison.png
+2025-02-01 16:55:58,426 - INFO - Processing subject NvA: cue/gDTF_100Hz
+2025-02-01 16:55:59,843 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\cue_gDTF_100Hz_NvA_comparison.png
+2025-02-01 16:55:59,843 - INFO - Processing subject RR: cue/gDTF_100Hz
+2025-02-01 16:56:01,273 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\cue_gDTF_100Hz_RR_comparison.png
+2025-02-01 16:56:01,275 - INFO - Processing subject SJB: cue/gDTF_100Hz
+2025-02-01 16:56:02,693 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\cue_gDTF_100Hz_SJB_comparison.png
+2025-02-01 16:56:02,693 - INFO - Processing subject BG: cue/gDTF_100Hz
+2025-02-01 16:56:04,093 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\cue_gDTF_100Hz_BG_comparison.png
+2025-02-01 16:56:04,093 - INFO - Processing subject DOC: cue/iPDC_10Hz
+2025-02-01 16:56:05,576 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\cue_iPDC_10Hz_DOC_comparison.png
+2025-02-01 16:56:05,576 - INFO - Processing subject GB: cue/iPDC_10Hz
+2025-02-01 16:56:07,033 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\cue_iPDC_10Hz_GB_comparison.png
+2025-02-01 16:56:07,033 - INFO - Processing subject JDC: cue/iPDC_10Hz
+2025-02-01 16:56:08,453 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\cue_iPDC_10Hz_JDC_comparison.png
+2025-02-01 16:56:08,453 - INFO - Processing subject JFXD: cue/iPDC_10Hz
+2025-02-01 16:56:09,903 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\cue_iPDC_10Hz_JFXD_comparison.png
+2025-02-01 16:56:09,903 - INFO - Processing subject JZ: cue/iPDC_10Hz
+2025-02-01 16:56:11,283 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\cue_iPDC_10Hz_JZ_comparison.png
+2025-02-01 16:56:11,283 - INFO - Processing subject LT: cue/iPDC_10Hz
+2025-02-01 16:56:12,794 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\cue_iPDC_10Hz_LT_comparison.png
+2025-02-01 16:56:12,794 - INFO - Processing subject NvA: cue/iPDC_10Hz
+2025-02-01 16:56:14,247 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\cue_iPDC_10Hz_NvA_comparison.png
+2025-02-01 16:56:14,248 - INFO - Processing subject RR: cue/iPDC_10Hz
+2025-02-01 16:56:15,725 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\cue_iPDC_10Hz_RR_comparison.png
+2025-02-01 16:56:15,726 - INFO - Processing subject SJB: cue/iPDC_10Hz
+2025-02-01 16:56:17,213 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\cue_iPDC_10Hz_SJB_comparison.png
+2025-02-01 16:56:17,213 - INFO - Processing subject BG: cue/iPDC_10Hz
+2025-02-01 16:56:18,659 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\cue_iPDC_10Hz_BG_comparison.png
+2025-02-01 16:56:18,662 - INFO - Processing subject DOC: cue/iPDC_20Hz
+2025-02-01 16:56:20,141 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\cue_iPDC_20Hz_DOC_comparison.png
+2025-02-01 16:56:20,142 - INFO - Processing subject GB: cue/iPDC_20Hz
+2025-02-01 16:56:21,534 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\cue_iPDC_20Hz_GB_comparison.png
+2025-02-01 16:56:21,534 - INFO - Processing subject JDC: cue/iPDC_20Hz
+2025-02-01 16:56:22,972 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\cue_iPDC_20Hz_JDC_comparison.png
+2025-02-01 16:56:22,972 - INFO - Processing subject JFXD: cue/iPDC_20Hz
+2025-02-01 16:56:24,476 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\cue_iPDC_20Hz_JFXD_comparison.png
+2025-02-01 16:56:24,476 - INFO - Processing subject JZ: cue/iPDC_20Hz
+2025-02-01 16:56:25,914 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\cue_iPDC_20Hz_JZ_comparison.png
+2025-02-01 16:56:25,914 - INFO - Processing subject LT: cue/iPDC_20Hz
+2025-02-01 16:56:27,394 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\cue_iPDC_20Hz_LT_comparison.png
+2025-02-01 16:56:27,394 - INFO - Processing subject NvA: cue/iPDC_20Hz
+2025-02-01 16:56:28,844 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\cue_iPDC_20Hz_NvA_comparison.png
+2025-02-01 16:56:28,844 - INFO - Processing subject RR: cue/iPDC_20Hz
+2025-02-01 16:56:30,264 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\cue_iPDC_20Hz_RR_comparison.png
+2025-02-01 16:56:30,264 - INFO - Processing subject SJB: cue/iPDC_20Hz
+2025-02-01 16:56:31,732 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\cue_iPDC_20Hz_SJB_comparison.png
+2025-02-01 16:56:31,732 - INFO - Processing subject BG: cue/iPDC_20Hz
+2025-02-01 16:56:33,125 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\cue_iPDC_20Hz_BG_comparison.png
+2025-02-01 16:56:33,125 - INFO - Processing subject DOC: cue/iPDC_100Hz
+2025-02-01 16:56:34,603 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\cue_iPDC_100Hz_DOC_comparison.png
+2025-02-01 16:56:34,603 - INFO - Processing subject GB: cue/iPDC_100Hz
+2025-02-01 16:56:35,993 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\cue_iPDC_100Hz_GB_comparison.png
+2025-02-01 16:56:35,993 - INFO - Processing subject JDC: cue/iPDC_100Hz
+2025-02-01 16:56:37,404 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\cue_iPDC_100Hz_JDC_comparison.png
+2025-02-01 16:56:37,404 - INFO - Processing subject JFXD: cue/iPDC_100Hz
+2025-02-01 16:56:38,875 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\cue_iPDC_100Hz_JFXD_comparison.png
+2025-02-01 16:56:38,882 - INFO - Processing subject JZ: cue/iPDC_100Hz
+2025-02-01 16:56:40,312 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\cue_iPDC_100Hz_JZ_comparison.png
+2025-02-01 16:56:40,314 - INFO - Processing subject LT: cue/iPDC_100Hz
+2025-02-01 16:56:41,733 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\cue_iPDC_100Hz_LT_comparison.png
+2025-02-01 16:56:41,733 - INFO - Processing subject NvA: cue/iPDC_100Hz
+2025-02-01 16:56:43,265 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\cue_iPDC_100Hz_NvA_comparison.png
+2025-02-01 16:56:43,266 - INFO - Processing subject RR: cue/iPDC_100Hz
+2025-02-01 16:56:44,703 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\cue_iPDC_100Hz_RR_comparison.png
+2025-02-01 16:56:44,703 - INFO - Processing subject SJB: cue/iPDC_100Hz
+2025-02-01 16:56:46,163 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\cue_iPDC_100Hz_SJB_comparison.png
+2025-02-01 16:56:46,163 - INFO - Processing subject BG: cue/iPDC_100Hz
+2025-02-01 16:56:47,603 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\cue_iPDC_100Hz_BG_comparison.png
+2025-02-01 16:56:47,603 - INFO - Processing subject DOC: cue/gPDC_10Hz
+2025-02-01 16:56:49,023 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\cue_gPDC_10Hz_DOC_comparison.png
+2025-02-01 16:56:49,023 - INFO - Processing subject GB: cue/gPDC_10Hz
+2025-02-01 16:56:50,467 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\cue_gPDC_10Hz_GB_comparison.png
+2025-02-01 16:56:50,467 - INFO - Processing subject JDC: cue/gPDC_10Hz
+2025-02-01 16:56:51,848 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\cue_gPDC_10Hz_JDC_comparison.png
+2025-02-01 16:56:51,848 - INFO - Processing subject JFXD: cue/gPDC_10Hz
+2025-02-01 16:56:53,287 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\cue_gPDC_10Hz_JFXD_comparison.png
+2025-02-01 16:56:53,287 - INFO - Processing subject JZ: cue/gPDC_10Hz
+2025-02-01 16:56:54,682 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\cue_gPDC_10Hz_JZ_comparison.png
+2025-02-01 16:56:54,683 - INFO - Processing subject LT: cue/gPDC_10Hz
+2025-02-01 16:56:56,074 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\cue_gPDC_10Hz_LT_comparison.png
+2025-02-01 16:56:56,074 - INFO - Processing subject NvA: cue/gPDC_10Hz
+2025-02-01 16:56:57,543 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\cue_gPDC_10Hz_NvA_comparison.png
+2025-02-01 16:56:57,543 - INFO - Processing subject RR: cue/gPDC_10Hz
+2025-02-01 16:56:58,934 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\cue_gPDC_10Hz_RR_comparison.png
+2025-02-01 16:56:58,934 - INFO - Processing subject SJB: cue/gPDC_10Hz
+2025-02-01 16:57:00,403 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\cue_gPDC_10Hz_SJB_comparison.png
+2025-02-01 16:57:00,403 - INFO - Processing subject BG: cue/gPDC_10Hz
+2025-02-01 16:57:01,824 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\cue_gPDC_10Hz_BG_comparison.png
+2025-02-01 16:57:01,824 - INFO - Processing subject DOC: cue/gPDC_20Hz
+2025-02-01 16:57:03,244 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\cue_gPDC_20Hz_DOC_comparison.png
+2025-02-01 16:57:03,244 - INFO - Processing subject GB: cue/gPDC_20Hz
+2025-02-01 16:57:04,693 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\cue_gPDC_20Hz_GB_comparison.png
+2025-02-01 16:57:04,697 - INFO - Processing subject JDC: cue/gPDC_20Hz
+2025-02-01 16:57:06,084 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\cue_gPDC_20Hz_JDC_comparison.png
+2025-02-01 16:57:06,084 - INFO - Processing subject JFXD: cue/gPDC_20Hz
+2025-02-01 16:57:07,485 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\cue_gPDC_20Hz_JFXD_comparison.png
+2025-02-01 16:57:07,485 - INFO - Processing subject JZ: cue/gPDC_20Hz
+2025-02-01 16:57:08,953 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\cue_gPDC_20Hz_JZ_comparison.png
+2025-02-01 16:57:08,953 - INFO - Processing subject LT: cue/gPDC_20Hz
+2025-02-01 16:57:10,373 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\cue_gPDC_20Hz_LT_comparison.png
+2025-02-01 16:57:10,373 - INFO - Processing subject NvA: cue/gPDC_20Hz
+2025-02-01 16:57:11,802 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\cue_gPDC_20Hz_NvA_comparison.png
+2025-02-01 16:57:11,803 - INFO - Processing subject RR: cue/gPDC_20Hz
+2025-02-01 16:57:13,204 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\cue_gPDC_20Hz_RR_comparison.png
+2025-02-01 16:57:13,204 - INFO - Processing subject SJB: cue/gPDC_20Hz
+2025-02-01 16:57:14,683 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\cue_gPDC_20Hz_SJB_comparison.png
+2025-02-01 16:57:14,683 - INFO - Processing subject BG: cue/gPDC_20Hz
+2025-02-01 16:57:16,164 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\cue_gPDC_20Hz_BG_comparison.png
+2025-02-01 16:57:16,164 - INFO - Processing subject DOC: cue/gPDC_100Hz
+2025-02-01 16:57:17,594 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\cue_gPDC_100Hz_DOC_comparison.png
+2025-02-01 16:57:17,594 - INFO - Processing subject GB: cue/gPDC_100Hz
+2025-02-01 16:57:19,076 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\cue_gPDC_100Hz_GB_comparison.png
+2025-02-01 16:57:19,076 - INFO - Processing subject JDC: cue/gPDC_100Hz
+2025-02-01 16:57:20,514 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\cue_gPDC_100Hz_JDC_comparison.png
+2025-02-01 16:57:20,514 - INFO - Processing subject JFXD: cue/gPDC_100Hz
+2025-02-01 16:57:21,918 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\cue_gPDC_100Hz_JFXD_comparison.png
+2025-02-01 16:57:21,918 - INFO - Processing subject JZ: cue/gPDC_100Hz
+2025-02-01 16:57:23,384 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\cue_gPDC_100Hz_JZ_comparison.png
+2025-02-01 16:57:23,384 - INFO - Processing subject LT: cue/gPDC_100Hz
+2025-02-01 16:57:24,844 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\cue_gPDC_100Hz_LT_comparison.png
+2025-02-01 16:57:24,844 - INFO - Processing subject NvA: cue/gPDC_100Hz
+2025-02-01 16:57:26,334 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\cue_gPDC_100Hz_NvA_comparison.png
+2025-02-01 16:57:26,334 - INFO - Processing subject RR: cue/gPDC_100Hz
+2025-02-01 16:57:27,744 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\cue_gPDC_100Hz_RR_comparison.png
+2025-02-01 16:57:27,744 - INFO - Processing subject SJB: cue/gPDC_100Hz
+2025-02-01 16:57:29,144 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\cue_gPDC_100Hz_SJB_comparison.png
+2025-02-01 16:57:29,144 - INFO - Processing subject BG: cue/gPDC_100Hz
+2025-02-01 16:57:30,644 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\cue_gPDC_100Hz_BG_comparison.png
+2025-02-01 16:57:30,644 - INFO - Processing subject DOC: mov/iDTF_10Hz
+2025-02-01 16:57:32,047 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\mov_iDTF_10Hz_DOC_comparison.png
+2025-02-01 16:57:32,047 - INFO - Processing subject GB: mov/iDTF_10Hz
+2025-02-01 16:57:33,493 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\mov_iDTF_10Hz_GB_comparison.png
+2025-02-01 16:57:33,493 - INFO - Processing subject JDC: mov/iDTF_10Hz
+2025-02-01 16:57:34,903 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\mov_iDTF_10Hz_JDC_comparison.png
+2025-02-01 16:57:34,903 - INFO - Processing subject JFXD: mov/iDTF_10Hz
+2025-02-01 16:57:36,304 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\mov_iDTF_10Hz_JFXD_comparison.png
+2025-02-01 16:57:36,304 - INFO - Processing subject JZ: mov/iDTF_10Hz
+2025-02-01 16:57:37,764 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\mov_iDTF_10Hz_JZ_comparison.png
+2025-02-01 16:57:37,764 - INFO - Processing subject LT: mov/iDTF_10Hz
+2025-02-01 16:57:39,194 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\mov_iDTF_10Hz_LT_comparison.png
+2025-02-01 16:57:39,194 - INFO - Processing subject NvA: mov/iDTF_10Hz
+2025-02-01 16:57:40,614 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\mov_iDTF_10Hz_NvA_comparison.png
+2025-02-01 16:57:40,614 - INFO - Processing subject RR: mov/iDTF_10Hz
+2025-02-01 16:57:42,109 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\mov_iDTF_10Hz_RR_comparison.png
+2025-02-01 16:57:42,109 - INFO - Processing subject SJB: mov/iDTF_10Hz
+2025-02-01 16:57:43,504 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\mov_iDTF_10Hz_SJB_comparison.png
+2025-02-01 16:57:43,504 - INFO - Processing subject BG: mov/iDTF_10Hz
+2025-02-01 16:57:44,925 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\mov_iDTF_10Hz_BG_comparison.png
+2025-02-01 16:57:44,933 - INFO - Processing subject DOC: mov/iDTF_20Hz
+2025-02-01 16:57:46,314 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\mov_iDTF_20Hz_DOC_comparison.png
+2025-02-01 16:57:46,314 - INFO - Processing subject GB: mov/iDTF_20Hz
+2025-02-01 16:57:47,733 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\mov_iDTF_20Hz_GB_comparison.png
+2025-02-01 16:57:47,733 - INFO - Processing subject JDC: mov/iDTF_20Hz
+2025-02-01 16:57:49,194 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\mov_iDTF_20Hz_JDC_comparison.png
+2025-02-01 16:57:49,194 - INFO - Processing subject JFXD: mov/iDTF_20Hz
+2025-02-01 16:57:50,582 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\mov_iDTF_20Hz_JFXD_comparison.png
+2025-02-01 16:57:50,582 - INFO - Processing subject JZ: mov/iDTF_20Hz
+2025-02-01 16:57:51,994 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\mov_iDTF_20Hz_JZ_comparison.png
+2025-02-01 16:57:51,994 - INFO - Processing subject LT: mov/iDTF_20Hz
+2025-02-01 16:57:53,432 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\mov_iDTF_20Hz_LT_comparison.png
+2025-02-01 16:57:53,433 - INFO - Processing subject NvA: mov/iDTF_20Hz
+2025-02-01 16:57:54,843 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\mov_iDTF_20Hz_NvA_comparison.png
+2025-02-01 16:57:54,843 - INFO - Processing subject RR: mov/iDTF_20Hz
+2025-02-01 16:57:56,313 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\mov_iDTF_20Hz_RR_comparison.png
+2025-02-01 16:57:56,313 - INFO - Processing subject SJB: mov/iDTF_20Hz
+2025-02-01 16:57:57,713 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\mov_iDTF_20Hz_SJB_comparison.png
+2025-02-01 16:57:57,713 - INFO - Processing subject BG: mov/iDTF_20Hz
+2025-02-01 16:57:59,133 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\mov_iDTF_20Hz_BG_comparison.png
+2025-02-01 16:57:59,133 - INFO - Processing subject DOC: mov/iDTF_100Hz
+2025-02-01 16:58:00,554 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\mov_iDTF_100Hz_DOC_comparison.png
+2025-02-01 16:58:00,554 - INFO - Processing subject GB: mov/iDTF_100Hz
+2025-02-01 16:58:01,933 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\mov_iDTF_100Hz_GB_comparison.png
+2025-02-01 16:58:01,933 - INFO - Processing subject JDC: mov/iDTF_100Hz
+2025-02-01 16:58:03,414 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\mov_iDTF_100Hz_JDC_comparison.png
+2025-02-01 16:58:03,414 - INFO - Processing subject JFXD: mov/iDTF_100Hz
+2025-02-01 16:58:04,843 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\mov_iDTF_100Hz_JFXD_comparison.png
+2025-02-01 16:58:04,843 - INFO - Processing subject JZ: mov/iDTF_100Hz
+2025-02-01 16:58:06,225 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\mov_iDTF_100Hz_JZ_comparison.png
+2025-02-01 16:58:06,225 - INFO - Processing subject LT: mov/iDTF_100Hz
+2025-02-01 16:58:07,713 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\mov_iDTF_100Hz_LT_comparison.png
+2025-02-01 16:58:07,713 - INFO - Processing subject NvA: mov/iDTF_100Hz
+2025-02-01 16:58:09,193 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\mov_iDTF_100Hz_NvA_comparison.png
+2025-02-01 16:58:09,193 - INFO - Processing subject RR: mov/iDTF_100Hz
+2025-02-01 16:58:10,654 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\mov_iDTF_100Hz_RR_comparison.png
+2025-02-01 16:58:10,654 - INFO - Processing subject SJB: mov/iDTF_100Hz
+2025-02-01 16:58:12,083 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\mov_iDTF_100Hz_SJB_comparison.png
+2025-02-01 16:58:12,083 - INFO - Processing subject BG: mov/iDTF_100Hz
+2025-02-01 16:58:13,475 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\mov_iDTF_100Hz_BG_comparison.png
+2025-02-01 16:58:13,475 - INFO - Processing subject DOC: mov/gDTF_10Hz
+2025-02-01 16:58:14,958 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\mov_gDTF_10Hz_DOC_comparison.png
+2025-02-01 16:58:14,958 - INFO - Processing subject GB: mov/gDTF_10Hz
+2025-02-01 16:58:16,354 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\mov_gDTF_10Hz_GB_comparison.png
+2025-02-01 16:58:16,354 - INFO - Processing subject JDC: mov/gDTF_10Hz
+2025-02-01 16:58:17,782 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\mov_gDTF_10Hz_JDC_comparison.png
+2025-02-01 16:58:17,783 - INFO - Processing subject JFXD: mov/gDTF_10Hz
+2025-02-01 16:58:19,197 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\mov_gDTF_10Hz_JFXD_comparison.png
+2025-02-01 16:58:19,197 - INFO - Processing subject JZ: mov/gDTF_10Hz
+2025-02-01 16:58:20,584 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\mov_gDTF_10Hz_JZ_comparison.png
+2025-02-01 16:58:20,584 - INFO - Processing subject LT: mov/gDTF_10Hz
+2025-02-01 16:58:22,033 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\mov_gDTF_10Hz_LT_comparison.png
+2025-02-01 16:58:22,041 - INFO - Processing subject NvA: mov/gDTF_10Hz
+2025-02-01 16:58:23,434 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\mov_gDTF_10Hz_NvA_comparison.png
+2025-02-01 16:58:23,434 - INFO - Processing subject RR: mov/gDTF_10Hz
+2025-02-01 16:58:24,893 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\mov_gDTF_10Hz_RR_comparison.png
+2025-02-01 16:58:24,893 - INFO - Processing subject SJB: mov/gDTF_10Hz
+2025-02-01 16:58:26,314 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\mov_gDTF_10Hz_SJB_comparison.png
+2025-02-01 16:58:26,314 - INFO - Processing subject BG: mov/gDTF_10Hz
+2025-02-01 16:58:27,694 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\mov_gDTF_10Hz_BG_comparison.png
+2025-02-01 16:58:27,694 - INFO - Processing subject DOC: mov/gDTF_20Hz
+2025-02-01 16:58:29,143 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\mov_gDTF_20Hz_DOC_comparison.png
+2025-02-01 16:58:29,143 - INFO - Processing subject GB: mov/gDTF_20Hz
+2025-02-01 16:58:30,562 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\mov_gDTF_20Hz_GB_comparison.png
+2025-02-01 16:58:30,564 - INFO - Processing subject JDC: mov/gDTF_20Hz
+2025-02-01 16:58:31,975 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\mov_gDTF_20Hz_JDC_comparison.png
+2025-02-01 16:58:31,975 - INFO - Processing subject JFXD: mov/gDTF_20Hz
+2025-02-01 16:58:33,453 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\mov_gDTF_20Hz_JFXD_comparison.png
+2025-02-01 16:58:33,453 - INFO - Processing subject JZ: mov/gDTF_20Hz
+2025-02-01 16:58:34,864 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\mov_gDTF_20Hz_JZ_comparison.png
+2025-02-01 16:58:34,864 - INFO - Processing subject LT: mov/gDTF_20Hz
+2025-02-01 16:58:36,378 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\mov_gDTF_20Hz_LT_comparison.png
+2025-02-01 16:58:36,378 - INFO - Processing subject NvA: mov/gDTF_20Hz
+2025-02-01 16:58:37,843 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\mov_gDTF_20Hz_NvA_comparison.png
+2025-02-01 16:58:37,852 - INFO - Processing subject RR: mov/gDTF_20Hz
+2025-02-01 16:58:39,243 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\mov_gDTF_20Hz_RR_comparison.png
+2025-02-01 16:58:39,243 - INFO - Processing subject SJB: mov/gDTF_20Hz
+2025-02-01 16:58:40,740 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\mov_gDTF_20Hz_SJB_comparison.png
+2025-02-01 16:58:40,740 - INFO - Processing subject BG: mov/gDTF_20Hz
+2025-02-01 16:58:42,113 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\mov_gDTF_20Hz_BG_comparison.png
+2025-02-01 16:58:42,113 - INFO - Processing subject DOC: mov/gDTF_100Hz
+2025-02-01 16:58:43,558 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\mov_gDTF_100Hz_DOC_comparison.png
+2025-02-01 16:58:43,558 - INFO - Processing subject GB: mov/gDTF_100Hz
+2025-02-01 16:58:44,943 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\mov_gDTF_100Hz_GB_comparison.png
+2025-02-01 16:58:44,943 - INFO - Processing subject JDC: mov/gDTF_100Hz
+2025-02-01 16:58:46,325 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\mov_gDTF_100Hz_JDC_comparison.png
+2025-02-01 16:58:46,325 - INFO - Processing subject JFXD: mov/gDTF_100Hz
+2025-02-01 16:58:47,758 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\mov_gDTF_100Hz_JFXD_comparison.png
+2025-02-01 16:58:47,758 - INFO - Processing subject JZ: mov/gDTF_100Hz
+2025-02-01 16:58:49,174 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\mov_gDTF_100Hz_JZ_comparison.png
+2025-02-01 16:58:49,175 - INFO - Processing subject LT: mov/gDTF_100Hz
+2025-02-01 16:58:50,613 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\mov_gDTF_100Hz_LT_comparison.png
+2025-02-01 16:58:50,613 - INFO - Processing subject NvA: mov/gDTF_100Hz
+2025-02-01 16:58:52,013 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\mov_gDTF_100Hz_NvA_comparison.png
+2025-02-01 16:58:52,013 - INFO - Processing subject RR: mov/gDTF_100Hz
+2025-02-01 16:58:53,404 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\mov_gDTF_100Hz_RR_comparison.png
+2025-02-01 16:58:53,404 - INFO - Processing subject SJB: mov/gDTF_100Hz
+2025-02-01 16:58:54,844 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\mov_gDTF_100Hz_SJB_comparison.png
+2025-02-01 16:58:54,844 - INFO - Processing subject BG: mov/gDTF_100Hz
+2025-02-01 16:58:56,234 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\mov_gDTF_100Hz_BG_comparison.png
+2025-02-01 16:58:56,234 - INFO - Processing subject DOC: mov/iPDC_10Hz
+2025-02-01 16:58:57,675 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\mov_iPDC_10Hz_DOC_comparison.png
+2025-02-01 16:58:57,675 - INFO - Processing subject GB: mov/iPDC_10Hz
+2025-02-01 16:58:59,125 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\mov_iPDC_10Hz_GB_comparison.png
+2025-02-01 16:58:59,125 - INFO - Processing subject JDC: mov/iPDC_10Hz
+2025-02-01 16:59:00,563 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\mov_iPDC_10Hz_JDC_comparison.png
+2025-02-01 16:59:00,563 - INFO - Processing subject JFXD: mov/iPDC_10Hz
+2025-02-01 16:59:01,983 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\mov_iPDC_10Hz_JFXD_comparison.png
+2025-02-01 16:59:01,983 - INFO - Processing subject JZ: mov/iPDC_10Hz
+2025-02-01 16:59:03,434 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\mov_iPDC_10Hz_JZ_comparison.png
+2025-02-01 16:59:03,434 - INFO - Processing subject LT: mov/iPDC_10Hz
+2025-02-01 16:59:04,858 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\mov_iPDC_10Hz_LT_comparison.png
+2025-02-01 16:59:04,858 - INFO - Processing subject NvA: mov/iPDC_10Hz
+2025-02-01 16:59:06,303 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\mov_iPDC_10Hz_NvA_comparison.png
+2025-02-01 16:59:06,303 - INFO - Processing subject RR: mov/iPDC_10Hz
+2025-02-01 16:59:07,734 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\mov_iPDC_10Hz_RR_comparison.png
+2025-02-01 16:59:07,734 - INFO - Processing subject SJB: mov/iPDC_10Hz
+2025-02-01 16:59:09,178 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\mov_iPDC_10Hz_SJB_comparison.png
+2025-02-01 16:59:09,178 - INFO - Processing subject BG: mov/iPDC_10Hz
+2025-02-01 16:59:10,565 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\mov_iPDC_10Hz_BG_comparison.png
+2025-02-01 16:59:10,565 - INFO - Processing subject DOC: mov/iPDC_20Hz
+2025-02-01 16:59:11,975 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\mov_iPDC_20Hz_DOC_comparison.png
+2025-02-01 16:59:11,975 - INFO - Processing subject GB: mov/iPDC_20Hz
+2025-02-01 16:59:13,463 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\mov_iPDC_20Hz_GB_comparison.png
+2025-02-01 16:59:13,463 - INFO - Processing subject JDC: mov/iPDC_20Hz
+2025-02-01 16:59:14,844 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\mov_iPDC_20Hz_JDC_comparison.png
+2025-02-01 16:59:14,844 - INFO - Processing subject JFXD: mov/iPDC_20Hz
+2025-02-01 16:59:16,275 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\mov_iPDC_20Hz_JFXD_comparison.png
+2025-02-01 16:59:16,275 - INFO - Processing subject JZ: mov/iPDC_20Hz
+2025-02-01 16:59:17,708 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\mov_iPDC_20Hz_JZ_comparison.png
+2025-02-01 16:59:17,708 - INFO - Processing subject LT: mov/iPDC_20Hz
+2025-02-01 16:59:19,125 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\mov_iPDC_20Hz_LT_comparison.png
+2025-02-01 16:59:19,125 - INFO - Processing subject NvA: mov/iPDC_20Hz
+2025-02-01 16:59:20,591 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\mov_iPDC_20Hz_NvA_comparison.png
+2025-02-01 16:59:20,591 - INFO - Processing subject RR: mov/iPDC_20Hz
+2025-02-01 16:59:22,008 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\mov_iPDC_20Hz_RR_comparison.png
+2025-02-01 16:59:22,008 - INFO - Processing subject SJB: mov/iPDC_20Hz
+2025-02-01 16:59:23,493 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\mov_iPDC_20Hz_SJB_comparison.png
+2025-02-01 16:59:23,493 - INFO - Processing subject BG: mov/iPDC_20Hz
+2025-02-01 16:59:24,904 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\mov_iPDC_20Hz_BG_comparison.png
+2025-02-01 16:59:24,904 - INFO - Processing subject DOC: mov/iPDC_100Hz
+2025-02-01 16:59:26,313 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\mov_iPDC_100Hz_DOC_comparison.png
+2025-02-01 16:59:26,313 - INFO - Processing subject GB: mov/iPDC_100Hz
+2025-02-01 16:59:27,743 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\mov_iPDC_100Hz_GB_comparison.png
+2025-02-01 16:59:27,753 - INFO - Processing subject JDC: mov/iPDC_100Hz
+2025-02-01 16:59:29,175 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\mov_iPDC_100Hz_JDC_comparison.png
+2025-02-01 16:59:29,175 - INFO - Processing subject JFXD: mov/iPDC_100Hz
+2025-02-01 16:59:30,625 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\mov_iPDC_100Hz_JFXD_comparison.png
+2025-02-01 16:59:30,625 - INFO - Processing subject JZ: mov/iPDC_100Hz
+2025-02-01 16:59:32,073 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\mov_iPDC_100Hz_JZ_comparison.png
+2025-02-01 16:59:32,073 - INFO - Processing subject LT: mov/iPDC_100Hz
+2025-02-01 16:59:33,482 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\mov_iPDC_100Hz_LT_comparison.png
+2025-02-01 16:59:33,483 - INFO - Processing subject NvA: mov/iPDC_100Hz
+2025-02-01 16:59:34,944 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\mov_iPDC_100Hz_NvA_comparison.png
+2025-02-01 16:59:34,944 - INFO - Processing subject RR: mov/iPDC_100Hz
+2025-02-01 16:59:36,347 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\mov_iPDC_100Hz_RR_comparison.png
+2025-02-01 16:59:36,347 - INFO - Processing subject SJB: mov/iPDC_100Hz
+2025-02-01 16:59:37,758 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\mov_iPDC_100Hz_SJB_comparison.png
+2025-02-01 16:59:37,758 - INFO - Processing subject BG: mov/iPDC_100Hz
+2025-02-01 16:59:39,228 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\mov_iPDC_100Hz_BG_comparison.png
+2025-02-01 16:59:39,228 - INFO - Processing subject DOC: mov/gPDC_10Hz
+2025-02-01 16:59:40,683 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\mov_gPDC_10Hz_DOC_comparison.png
+2025-02-01 16:59:40,683 - INFO - Processing subject GB: mov/gPDC_10Hz
+2025-02-01 16:59:42,103 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\mov_gPDC_10Hz_GB_comparison.png
+2025-02-01 16:59:42,103 - INFO - Processing subject JDC: mov/gPDC_10Hz
+2025-02-01 16:59:43,475 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\mov_gPDC_10Hz_JDC_comparison.png
+2025-02-01 16:59:43,475 - INFO - Processing subject JFXD: mov/gPDC_10Hz
+2025-02-01 16:59:44,894 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\mov_gPDC_10Hz_JFXD_comparison.png
+2025-02-01 16:59:44,894 - INFO - Processing subject JZ: mov/gPDC_10Hz
+2025-02-01 16:59:46,363 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\mov_gPDC_10Hz_JZ_comparison.png
+2025-02-01 16:59:46,363 - INFO - Processing subject LT: mov/gPDC_10Hz
+2025-02-01 16:59:47,744 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\mov_gPDC_10Hz_LT_comparison.png
+2025-02-01 16:59:47,744 - INFO - Processing subject NvA: mov/gPDC_10Hz
+2025-02-01 16:59:49,173 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\mov_gPDC_10Hz_NvA_comparison.png
+2025-02-01 16:59:49,174 - INFO - Processing subject RR: mov/gPDC_10Hz
+2025-02-01 16:59:50,592 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\mov_gPDC_10Hz_RR_comparison.png
+2025-02-01 16:59:50,592 - INFO - Processing subject SJB: mov/gPDC_10Hz
+2025-02-01 16:59:52,014 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\mov_gPDC_10Hz_SJB_comparison.png
+2025-02-01 16:59:52,014 - INFO - Processing subject BG: mov/gPDC_10Hz
+2025-02-01 16:59:53,475 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\mov_gPDC_10Hz_BG_comparison.png
+2025-02-01 16:59:53,475 - INFO - Processing subject DOC: mov/gPDC_20Hz
+2025-02-01 16:59:54,893 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\mov_gPDC_20Hz_DOC_comparison.png
+2025-02-01 16:59:54,893 - INFO - Processing subject GB: mov/gPDC_20Hz
+2025-02-01 16:59:56,373 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\mov_gPDC_20Hz_GB_comparison.png
+2025-02-01 16:59:56,374 - INFO - Processing subject JDC: mov/gPDC_20Hz
+2025-02-01 16:59:57,758 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\mov_gPDC_20Hz_JDC_comparison.png
+2025-02-01 16:59:57,758 - INFO - Processing subject JFXD: mov/gPDC_20Hz
+2025-02-01 16:59:59,164 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\mov_gPDC_20Hz_JFXD_comparison.png
+2025-02-01 16:59:59,164 - INFO - Processing subject JZ: mov/gPDC_20Hz
+2025-02-01 17:00:00,654 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\mov_gPDC_20Hz_JZ_comparison.png
+2025-02-01 17:00:00,654 - INFO - Processing subject LT: mov/gPDC_20Hz
+2025-02-01 17:00:02,043 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\mov_gPDC_20Hz_LT_comparison.png
+2025-02-01 17:00:02,043 - INFO - Processing subject NvA: mov/gPDC_20Hz
+2025-02-01 17:00:03,458 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\mov_gPDC_20Hz_NvA_comparison.png
+2025-02-01 17:00:03,458 - INFO - Processing subject RR: mov/gPDC_20Hz
+2025-02-01 17:00:04,953 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\mov_gPDC_20Hz_RR_comparison.png
+2025-02-01 17:00:04,953 - INFO - Processing subject SJB: mov/gPDC_20Hz
+2025-02-01 17:00:06,341 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\mov_gPDC_20Hz_SJB_comparison.png
+2025-02-01 17:00:06,343 - INFO - Processing subject BG: mov/gPDC_20Hz
+2025-02-01 17:00:07,793 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\mov_gPDC_20Hz_BG_comparison.png
+2025-02-01 17:00:07,793 - INFO - Processing subject DOC: mov/gPDC_100Hz
+2025-02-01 17:00:09,203 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\mov_gPDC_100Hz_DOC_comparison.png
+2025-02-01 17:00:09,204 - INFO - Processing subject GB: mov/gPDC_100Hz
+2025-02-01 17:00:10,644 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\mov_gPDC_100Hz_GB_comparison.png
+2025-02-01 17:00:10,644 - INFO - Processing subject JDC: mov/gPDC_100Hz
+2025-02-01 17:00:12,063 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\mov_gPDC_100Hz_JDC_comparison.png
+2025-02-01 17:00:12,063 - INFO - Processing subject JFXD: mov/gPDC_100Hz
+2025-02-01 17:00:13,463 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\mov_gPDC_100Hz_JFXD_comparison.png
+2025-02-01 17:00:13,463 - INFO - Processing subject JZ: mov/gPDC_100Hz
+2025-02-01 17:00:14,894 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\mov_gPDC_100Hz_JZ_comparison.png
+2025-02-01 17:00:14,894 - INFO - Processing subject LT: mov/gPDC_100Hz
+2025-02-01 17:00:16,353 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\mov_gPDC_100Hz_LT_comparison.png
+2025-02-01 17:00:16,353 - INFO - Processing subject NvA: mov/gPDC_100Hz
+2025-02-01 17:00:17,764 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\mov_gPDC_100Hz_NvA_comparison.png
+2025-02-01 17:00:17,764 - INFO - Processing subject RR: mov/gPDC_100Hz
+2025-02-01 17:00:19,233 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\mov_gPDC_100Hz_RR_comparison.png
+2025-02-01 17:00:19,233 - INFO - Processing subject SJB: mov/gPDC_100Hz
+2025-02-01 17:00:20,674 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\mov_gPDC_100Hz_SJB_comparison.png
+2025-02-01 17:00:20,674 - INFO - Processing subject BG: mov/gPDC_100Hz
+2025-02-01 17:00:22,124 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\mov_gPDC_100Hz_BG_comparison.png
+2025-02-01 17:00:22,124 - INFO - Generated 264 comparison heatmaps
+2025-02-01 17:00:22,124 - INFO - Comparison heatmaps generation completed
+2025-02-03 18:29:04,111 - INFO - Output directory set to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison
+2025-02-03 18:29:04,111 - INFO - Output directory created/verified at: C:\Users\dgane\Apps\MEG\Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison
+2025-02-03 18:29:04,111 - INFO - Output directory set to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison
+2025-02-03 18:29:04,111 - INFO - Normalized output directory set to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison_Normalized
+2025-02-03 18:29:04,111 - INFO - Creating overall comparison heatmaps...
+2025-02-03 18:29:04,111 - INFO - Processing: cue/iDTF_10Hz
+2025-02-03 18:29:06,518 - INFO - Created comparison heatmap: cue_iDTF_10Hz_comparison.png
+2025-02-03 18:29:06,529 - INFO - Processing: cue/iDTF_20Hz
+2025-02-03 18:29:07,933 - INFO - Created comparison heatmap: cue_iDTF_20Hz_comparison.png
+2025-02-03 18:29:07,933 - INFO - Processing: cue/iDTF_100Hz
+2025-02-03 18:29:09,388 - INFO - Created comparison heatmap: cue_iDTF_100Hz_comparison.png
+2025-02-03 18:29:09,388 - INFO - Processing: cue/gDTF_10Hz
+2025-02-03 18:29:10,807 - INFO - Created comparison heatmap: cue_gDTF_10Hz_comparison.png
+2025-02-03 18:29:10,807 - INFO - Processing: cue/gDTF_20Hz
+2025-02-03 18:29:12,234 - INFO - Created comparison heatmap: cue_gDTF_20Hz_comparison.png
+2025-02-03 18:29:12,234 - INFO - Processing: cue/gDTF_100Hz
+2025-02-03 18:29:13,701 - INFO - Created comparison heatmap: cue_gDTF_100Hz_comparison.png
+2025-02-03 18:29:13,701 - INFO - Processing: cue/iPDC_10Hz
+2025-02-03 18:29:15,129 - INFO - Created comparison heatmap: cue_iPDC_10Hz_comparison.png
+2025-02-03 18:29:15,129 - INFO - Processing: cue/iPDC_20Hz
+2025-02-03 18:29:16,633 - INFO - Created comparison heatmap: cue_iPDC_20Hz_comparison.png
+2025-02-03 18:29:16,633 - INFO - Processing: cue/iPDC_100Hz
+2025-02-03 18:29:18,087 - INFO - Created comparison heatmap: cue_iPDC_100Hz_comparison.png
+2025-02-03 18:29:18,087 - INFO - Processing: cue/gPDC_10Hz
+2025-02-03 18:29:19,498 - INFO - Created comparison heatmap: cue_gPDC_10Hz_comparison.png
+2025-02-03 18:29:19,498 - INFO - Processing: cue/gPDC_20Hz
+2025-02-03 18:29:20,991 - INFO - Created comparison heatmap: cue_gPDC_20Hz_comparison.png
+2025-02-03 18:29:20,991 - INFO - Processing: cue/gPDC_100Hz
+2025-02-03 18:29:22,404 - INFO - Created comparison heatmap: cue_gPDC_100Hz_comparison.png
+2025-02-03 18:29:22,404 - INFO - Processing: mov/iDTF_10Hz
+2025-02-03 18:29:23,895 - INFO - Created comparison heatmap: mov_iDTF_10Hz_comparison.png
+2025-02-03 18:29:23,895 - INFO - Processing: mov/iDTF_20Hz
+2025-02-03 18:29:25,343 - INFO - Created comparison heatmap: mov_iDTF_20Hz_comparison.png
+2025-02-03 18:29:25,344 - INFO - Processing: mov/iDTF_100Hz
+2025-02-03 18:29:26,819 - INFO - Created comparison heatmap: mov_iDTF_100Hz_comparison.png
+2025-02-03 18:29:26,819 - INFO - Processing: mov/gDTF_10Hz
+2025-02-03 18:29:28,289 - INFO - Created comparison heatmap: mov_gDTF_10Hz_comparison.png
+2025-02-03 18:29:28,289 - INFO - Processing: mov/gDTF_20Hz
+2025-02-03 18:29:29,732 - INFO - Created comparison heatmap: mov_gDTF_20Hz_comparison.png
+2025-02-03 18:29:29,732 - INFO - Processing: mov/gDTF_100Hz
+2025-02-03 18:29:31,194 - INFO - Created comparison heatmap: mov_gDTF_100Hz_comparison.png
+2025-02-03 18:29:31,194 - INFO - Processing: mov/iPDC_10Hz
+2025-02-03 18:29:32,588 - INFO - Created comparison heatmap: mov_iPDC_10Hz_comparison.png
+2025-02-03 18:29:32,588 - INFO - Processing: mov/iPDC_20Hz
+2025-02-03 18:29:34,005 - INFO - Created comparison heatmap: mov_iPDC_20Hz_comparison.png
+2025-02-03 18:29:34,005 - INFO - Processing: mov/iPDC_100Hz
+2025-02-03 18:29:35,468 - INFO - Created comparison heatmap: mov_iPDC_100Hz_comparison.png
+2025-02-03 18:29:35,468 - INFO - Processing: mov/gPDC_10Hz
+2025-02-03 18:29:36,888 - INFO - Created comparison heatmap: mov_gPDC_10Hz_comparison.png
+2025-02-03 18:29:36,888 - INFO - Processing: mov/gPDC_20Hz
+2025-02-03 18:29:38,304 - INFO - Created comparison heatmap: mov_gPDC_20Hz_comparison.png
+2025-02-03 18:29:38,304 - INFO - Processing: mov/gPDC_100Hz
+2025-02-03 18:29:39,705 - INFO - Created comparison heatmap: mov_gPDC_100Hz_comparison.png
+2025-02-03 18:29:39,705 - INFO - Creating subject-specific comparison heatmaps...
+2025-02-03 18:29:39,705 - INFO - Processing subject DOC: cue/iDTF_10Hz
+2025-02-03 18:29:41,088 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\cue_iDTF_10Hz_DOC_comparison.png
+2025-02-03 18:29:41,088 - INFO - Processing subject GB: cue/iDTF_10Hz
+2025-02-03 18:29:42,551 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\cue_iDTF_10Hz_GB_comparison.png
+2025-02-03 18:29:42,551 - INFO - Processing subject JDC: cue/iDTF_10Hz
+2025-02-03 18:29:43,972 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\cue_iDTF_10Hz_JDC_comparison.png
+2025-02-03 18:29:43,972 - INFO - Processing subject JFXD: cue/iDTF_10Hz
+2025-02-03 18:29:45,420 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\cue_iDTF_10Hz_JFXD_comparison.png
+2025-02-03 18:29:45,420 - INFO - Processing subject JZ: cue/iDTF_10Hz
+2025-02-03 18:29:46,837 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\cue_iDTF_10Hz_JZ_comparison.png
+2025-02-03 18:29:46,837 - INFO - Processing subject LT: cue/iDTF_10Hz
+2025-02-03 18:29:48,244 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\cue_iDTF_10Hz_LT_comparison.png
+2025-02-03 18:29:48,244 - INFO - Processing subject NvA: cue/iDTF_10Hz
+2025-02-03 18:29:49,701 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\cue_iDTF_10Hz_NvA_comparison.png
+2025-02-03 18:29:49,701 - INFO - Processing subject RR: cue/iDTF_10Hz
+2025-02-03 18:29:51,094 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\cue_iDTF_10Hz_RR_comparison.png
+2025-02-03 18:29:51,094 - INFO - Processing subject SJB: cue/iDTF_10Hz
+2025-02-03 18:29:52,459 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\cue_iDTF_10Hz_SJB_comparison.png
+2025-02-03 18:29:52,459 - INFO - Processing subject BG: cue/iDTF_10Hz
+2025-02-03 18:29:53,889 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\cue_iDTF_10Hz_BG_comparison.png
+2025-02-03 18:29:53,889 - INFO - Processing subject DOC: cue/iDTF_20Hz
+2025-02-03 18:29:55,276 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\cue_iDTF_20Hz_DOC_comparison.png
+2025-02-03 18:29:55,276 - INFO - Processing subject GB: cue/iDTF_20Hz
+2025-02-03 18:29:56,688 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\cue_iDTF_20Hz_GB_comparison.png
+2025-02-03 18:29:56,688 - INFO - Processing subject JDC: cue/iDTF_20Hz
+2025-02-03 18:29:58,068 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\cue_iDTF_20Hz_JDC_comparison.png
+2025-02-03 18:29:58,068 - INFO - Processing subject JFXD: cue/iDTF_20Hz
+2025-02-03 18:29:59,463 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\cue_iDTF_20Hz_JFXD_comparison.png
+2025-02-03 18:29:59,463 - INFO - Processing subject JZ: cue/iDTF_20Hz
+2025-02-03 18:30:00,919 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\cue_iDTF_20Hz_JZ_comparison.png
+2025-02-03 18:30:00,919 - INFO - Processing subject LT: cue/iDTF_20Hz
+2025-02-03 18:30:02,331 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\cue_iDTF_20Hz_LT_comparison.png
+2025-02-03 18:30:02,331 - INFO - Processing subject NvA: cue/iDTF_20Hz
+2025-02-03 18:30:03,755 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\cue_iDTF_20Hz_NvA_comparison.png
+2025-02-03 18:30:03,755 - INFO - Processing subject RR: cue/iDTF_20Hz
+2025-02-03 18:30:05,170 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\cue_iDTF_20Hz_RR_comparison.png
+2025-02-03 18:30:05,186 - INFO - Processing subject SJB: cue/iDTF_20Hz
+2025-02-03 18:30:06,588 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\cue_iDTF_20Hz_SJB_comparison.png
+2025-02-03 18:30:06,588 - INFO - Processing subject BG: cue/iDTF_20Hz
+2025-02-03 18:30:08,005 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\cue_iDTF_20Hz_BG_comparison.png
+2025-02-03 18:30:08,005 - INFO - Processing subject DOC: cue/iDTF_100Hz
+2025-02-03 18:30:09,388 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\cue_iDTF_100Hz_DOC_comparison.png
+2025-02-03 18:30:09,388 - INFO - Processing subject GB: cue/iDTF_100Hz
+2025-02-03 18:30:10,836 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\cue_iDTF_100Hz_GB_comparison.png
+2025-02-03 18:30:10,836 - INFO - Processing subject JDC: cue/iDTF_100Hz
+2025-02-03 18:30:12,222 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\cue_iDTF_100Hz_JDC_comparison.png
+2025-02-03 18:30:12,222 - INFO - Processing subject JFXD: cue/iDTF_100Hz
+2025-02-03 18:30:13,602 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\cue_iDTF_100Hz_JFXD_comparison.png
+2025-02-03 18:30:13,603 - INFO - Processing subject JZ: cue/iDTF_100Hz
+2025-02-03 18:30:15,035 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\cue_iDTF_100Hz_JZ_comparison.png
+2025-02-03 18:30:15,035 - INFO - Processing subject LT: cue/iDTF_100Hz
+2025-02-03 18:30:16,434 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\cue_iDTF_100Hz_LT_comparison.png
+2025-02-03 18:30:16,434 - INFO - Processing subject NvA: cue/iDTF_100Hz
+2025-02-03 18:30:17,822 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\cue_iDTF_100Hz_NvA_comparison.png
+2025-02-03 18:30:17,822 - INFO - Processing subject RR: cue/iDTF_100Hz
+2025-02-03 18:30:19,269 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\cue_iDTF_100Hz_RR_comparison.png
+2025-02-03 18:30:19,269 - INFO - Processing subject SJB: cue/iDTF_100Hz
+2025-02-03 18:30:20,672 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\cue_iDTF_100Hz_SJB_comparison.png
+2025-02-03 18:30:20,672 - INFO - Processing subject BG: cue/iDTF_100Hz
+2025-02-03 18:30:22,118 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\cue_iDTF_100Hz_BG_comparison.png
+2025-02-03 18:30:22,118 - INFO - Processing subject DOC: cue/gDTF_10Hz
+2025-02-03 18:30:23,521 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\cue_gDTF_10Hz_DOC_comparison.png
+2025-02-03 18:30:23,521 - INFO - Processing subject GB: cue/gDTF_10Hz
+2025-02-03 18:30:24,916 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\cue_gDTF_10Hz_GB_comparison.png
+2025-02-03 18:30:24,917 - INFO - Processing subject JDC: cue/gDTF_10Hz
+2025-02-03 18:30:26,368 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\cue_gDTF_10Hz_JDC_comparison.png
+2025-02-03 18:30:26,368 - INFO - Processing subject JFXD: cue/gDTF_10Hz
+2025-02-03 18:30:27,787 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\cue_gDTF_10Hz_JFXD_comparison.png
+2025-02-03 18:30:27,787 - INFO - Processing subject JZ: cue/gDTF_10Hz
+2025-02-03 18:30:29,219 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\cue_gDTF_10Hz_JZ_comparison.png
+2025-02-03 18:30:29,219 - INFO - Processing subject LT: cue/gDTF_10Hz
+2025-02-03 18:30:30,612 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\cue_gDTF_10Hz_LT_comparison.png
+2025-02-03 18:30:30,612 - INFO - Processing subject NvA: cue/gDTF_10Hz
+2025-02-03 18:30:32,012 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\cue_gDTF_10Hz_NvA_comparison.png
+2025-02-03 18:30:32,012 - INFO - Processing subject RR: cue/gDTF_10Hz
+2025-02-03 18:30:33,500 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\cue_gDTF_10Hz_RR_comparison.png
+2025-02-03 18:30:33,500 - INFO - Processing subject SJB: cue/gDTF_10Hz
+2025-02-03 18:30:34,905 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\cue_gDTF_10Hz_SJB_comparison.png
+2025-02-03 18:30:34,905 - INFO - Processing subject BG: cue/gDTF_10Hz
+2025-02-03 18:30:36,352 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\cue_gDTF_10Hz_BG_comparison.png
+2025-02-03 18:30:36,352 - INFO - Processing subject DOC: cue/gDTF_20Hz
+2025-02-03 18:30:37,754 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\cue_gDTF_20Hz_DOC_comparison.png
+2025-02-03 18:30:37,754 - INFO - Processing subject GB: cue/gDTF_20Hz
+2025-02-03 18:30:39,152 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\cue_gDTF_20Hz_GB_comparison.png
+2025-02-03 18:30:39,152 - INFO - Processing subject JDC: cue/gDTF_20Hz
+2025-02-03 18:30:40,620 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\cue_gDTF_20Hz_JDC_comparison.png
+2025-02-03 18:30:40,620 - INFO - Processing subject JFXD: cue/gDTF_20Hz
+2025-02-03 18:30:42,004 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\cue_gDTF_20Hz_JFXD_comparison.png
+2025-02-03 18:30:42,004 - INFO - Processing subject JZ: cue/gDTF_20Hz
+2025-02-03 18:30:43,396 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\cue_gDTF_20Hz_JZ_comparison.png
+2025-02-03 18:30:43,396 - INFO - Processing subject LT: cue/gDTF_20Hz
+2025-02-03 18:30:44,837 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\cue_gDTF_20Hz_LT_comparison.png
+2025-02-03 18:30:44,837 - INFO - Processing subject NvA: cue/gDTF_20Hz
+2025-02-03 18:30:46,209 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\cue_gDTF_20Hz_NvA_comparison.png
+2025-02-03 18:30:46,209 - INFO - Processing subject RR: cue/gDTF_20Hz
+2025-02-03 18:30:47,637 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\cue_gDTF_20Hz_RR_comparison.png
+2025-02-03 18:30:47,637 - INFO - Processing subject SJB: cue/gDTF_20Hz
+2025-02-03 18:30:49,070 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\cue_gDTF_20Hz_SJB_comparison.png
+2025-02-03 18:30:49,071 - INFO - Processing subject BG: cue/gDTF_20Hz
+2025-02-03 18:30:50,466 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\cue_gDTF_20Hz_BG_comparison.png
+2025-02-03 18:30:50,466 - INFO - Processing subject DOC: cue/gDTF_100Hz
+2025-02-03 18:30:51,927 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\cue_gDTF_100Hz_DOC_comparison.png
+2025-02-03 18:30:51,927 - INFO - Processing subject GB: cue/gDTF_100Hz
+2025-02-03 18:30:53,354 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\cue_gDTF_100Hz_GB_comparison.png
+2025-02-03 18:30:53,354 - INFO - Processing subject JDC: cue/gDTF_100Hz
+2025-02-03 18:30:54,815 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\cue_gDTF_100Hz_JDC_comparison.png
+2025-02-03 18:30:54,815 - INFO - Processing subject JFXD: cue/gDTF_100Hz
+2025-02-03 18:30:56,220 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\cue_gDTF_100Hz_JFXD_comparison.png
+2025-02-03 18:30:56,220 - INFO - Processing subject JZ: cue/gDTF_100Hz
+2025-02-03 18:30:57,638 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\cue_gDTF_100Hz_JZ_comparison.png
+2025-02-03 18:30:57,638 - INFO - Processing subject LT: cue/gDTF_100Hz
+2025-02-03 18:30:59,085 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\cue_gDTF_100Hz_LT_comparison.png
+2025-02-03 18:30:59,085 - INFO - Processing subject NvA: cue/gDTF_100Hz
+2025-02-03 18:31:00,491 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\cue_gDTF_100Hz_NvA_comparison.png
+2025-02-03 18:31:00,491 - INFO - Processing subject RR: cue/gDTF_100Hz
+2025-02-03 18:31:01,919 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\cue_gDTF_100Hz_RR_comparison.png
+2025-02-03 18:31:01,919 - INFO - Processing subject SJB: cue/gDTF_100Hz
+2025-02-03 18:31:03,292 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\cue_gDTF_100Hz_SJB_comparison.png
+2025-02-03 18:31:03,292 - INFO - Processing subject BG: cue/gDTF_100Hz
+2025-02-03 18:31:04,687 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\cue_gDTF_100Hz_BG_comparison.png
+2025-02-03 18:31:04,687 - INFO - Processing subject DOC: cue/iPDC_10Hz
+2025-02-03 18:31:06,153 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\cue_iPDC_10Hz_DOC_comparison.png
+2025-02-03 18:31:06,153 - INFO - Processing subject GB: cue/iPDC_10Hz
+2025-02-03 18:31:07,554 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\cue_iPDC_10Hz_GB_comparison.png
+2025-02-03 18:31:07,554 - INFO - Processing subject JDC: cue/iPDC_10Hz
+2025-02-03 18:31:08,996 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\cue_iPDC_10Hz_JDC_comparison.png
+2025-02-03 18:31:08,996 - INFO - Processing subject JFXD: cue/iPDC_10Hz
+2025-02-03 18:31:10,388 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\cue_iPDC_10Hz_JFXD_comparison.png
+2025-02-03 18:31:10,388 - INFO - Processing subject JZ: cue/iPDC_10Hz
+2025-02-03 18:31:11,788 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\cue_iPDC_10Hz_JZ_comparison.png
+2025-02-03 18:31:11,788 - INFO - Processing subject LT: cue/iPDC_10Hz
+2025-02-03 18:31:13,287 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\cue_iPDC_10Hz_LT_comparison.png
+2025-02-03 18:31:13,287 - INFO - Processing subject NvA: cue/iPDC_10Hz
+2025-02-03 18:31:14,677 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\cue_iPDC_10Hz_NvA_comparison.png
+2025-02-03 18:31:14,677 - INFO - Processing subject RR: cue/iPDC_10Hz
+2025-02-03 18:31:16,088 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\cue_iPDC_10Hz_RR_comparison.png
+2025-02-03 18:31:16,088 - INFO - Processing subject SJB: cue/iPDC_10Hz
+2025-02-03 18:31:17,565 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\cue_iPDC_10Hz_SJB_comparison.png
+2025-02-03 18:31:17,565 - INFO - Processing subject BG: cue/iPDC_10Hz
+2025-02-03 18:31:18,994 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\cue_iPDC_10Hz_BG_comparison.png
+2025-02-03 18:31:18,995 - INFO - Processing subject DOC: cue/iPDC_20Hz
+2025-02-03 18:31:20,476 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\cue_iPDC_20Hz_DOC_comparison.png
+2025-02-03 18:31:20,476 - INFO - Processing subject GB: cue/iPDC_20Hz
+2025-02-03 18:31:21,863 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\cue_iPDC_20Hz_GB_comparison.png
+2025-02-03 18:31:21,863 - INFO - Processing subject JDC: cue/iPDC_20Hz
+2025-02-03 18:31:23,242 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\cue_iPDC_20Hz_JDC_comparison.png
+2025-02-03 18:31:23,242 - INFO - Processing subject JFXD: cue/iPDC_20Hz
+2025-02-03 18:31:24,686 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\cue_iPDC_20Hz_JFXD_comparison.png
+2025-02-03 18:31:24,686 - INFO - Processing subject JZ: cue/iPDC_20Hz
+2025-02-03 18:31:26,103 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\cue_iPDC_20Hz_JZ_comparison.png
+2025-02-03 18:31:26,103 - INFO - Processing subject LT: cue/iPDC_20Hz
+2025-02-03 18:31:27,585 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\cue_iPDC_20Hz_LT_comparison.png
+2025-02-03 18:31:27,585 - INFO - Processing subject NvA: cue/iPDC_20Hz
+2025-02-03 18:31:28,993 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\cue_iPDC_20Hz_NvA_comparison.png
+2025-02-03 18:31:28,993 - INFO - Processing subject RR: cue/iPDC_20Hz
+2025-02-03 18:31:30,387 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\cue_iPDC_20Hz_RR_comparison.png
+2025-02-03 18:31:30,387 - INFO - Processing subject SJB: cue/iPDC_20Hz
+2025-02-03 18:31:31,855 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\cue_iPDC_20Hz_SJB_comparison.png
+2025-02-03 18:31:31,855 - INFO - Processing subject BG: cue/iPDC_20Hz
+2025-02-03 18:31:33,253 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\cue_iPDC_20Hz_BG_comparison.png
+2025-02-03 18:31:33,253 - INFO - Processing subject DOC: cue/iPDC_100Hz
+2025-02-03 18:31:34,684 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\cue_iPDC_100Hz_DOC_comparison.png
+2025-02-03 18:31:34,684 - INFO - Processing subject GB: cue/iPDC_100Hz
+2025-02-03 18:31:36,093 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\cue_iPDC_100Hz_GB_comparison.png
+2025-02-03 18:31:36,094 - INFO - Processing subject JDC: cue/iPDC_100Hz
+2025-02-03 18:31:37,499 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\cue_iPDC_100Hz_JDC_comparison.png
+2025-02-03 18:31:37,499 - INFO - Processing subject JFXD: cue/iPDC_100Hz
+2025-02-03 18:31:38,943 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\cue_iPDC_100Hz_JFXD_comparison.png
+2025-02-03 18:31:38,943 - INFO - Processing subject JZ: cue/iPDC_100Hz
+2025-02-03 18:31:40,351 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\cue_iPDC_100Hz_JZ_comparison.png
+2025-02-03 18:31:40,351 - INFO - Processing subject LT: cue/iPDC_100Hz
+2025-02-03 18:31:41,736 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\cue_iPDC_100Hz_LT_comparison.png
+2025-02-03 18:31:41,736 - INFO - Processing subject NvA: cue/iPDC_100Hz
+2025-02-03 18:31:43,202 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\cue_iPDC_100Hz_NvA_comparison.png
+2025-02-03 18:31:43,202 - INFO - Processing subject RR: cue/iPDC_100Hz
+2025-02-03 18:31:44,598 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\cue_iPDC_100Hz_RR_comparison.png
+2025-02-03 18:31:44,598 - INFO - Processing subject SJB: cue/iPDC_100Hz
+2025-02-03 18:31:46,019 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\cue_iPDC_100Hz_SJB_comparison.png
+2025-02-03 18:31:46,019 - INFO - Processing subject BG: cue/iPDC_100Hz
+2025-02-03 18:31:47,437 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\cue_iPDC_100Hz_BG_comparison.png
+2025-02-03 18:31:47,438 - INFO - Processing subject DOC: cue/gPDC_10Hz
+2025-02-03 18:31:48,838 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\cue_gPDC_10Hz_DOC_comparison.png
+2025-02-03 18:31:48,838 - INFO - Processing subject GB: cue/gPDC_10Hz
+2025-02-03 18:31:50,269 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\cue_gPDC_10Hz_GB_comparison.png
+2025-02-03 18:31:50,269 - INFO - Processing subject JDC: cue/gPDC_10Hz
+2025-02-03 18:31:51,637 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\cue_gPDC_10Hz_JDC_comparison.png
+2025-02-03 18:31:51,637 - INFO - Processing subject JFXD: cue/gPDC_10Hz
+2025-02-03 18:31:53,102 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\cue_gPDC_10Hz_JFXD_comparison.png
+2025-02-03 18:31:53,102 - INFO - Processing subject JZ: cue/gPDC_10Hz
+2025-02-03 18:31:54,480 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\cue_gPDC_10Hz_JZ_comparison.png
+2025-02-03 18:31:54,481 - INFO - Processing subject LT: cue/gPDC_10Hz
+2025-02-03 18:31:55,926 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\cue_gPDC_10Hz_LT_comparison.png
+2025-02-03 18:31:55,926 - INFO - Processing subject NvA: cue/gPDC_10Hz
+2025-02-03 18:31:57,348 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\cue_gPDC_10Hz_NvA_comparison.png
+2025-02-03 18:31:57,348 - INFO - Processing subject RR: cue/gPDC_10Hz
+2025-02-03 18:31:58,722 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\cue_gPDC_10Hz_RR_comparison.png
+2025-02-03 18:31:58,722 - INFO - Processing subject SJB: cue/gPDC_10Hz
+2025-02-03 18:32:00,150 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\cue_gPDC_10Hz_SJB_comparison.png
+2025-02-03 18:32:00,150 - INFO - Processing subject BG: cue/gPDC_10Hz
+2025-02-03 18:32:01,566 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\cue_gPDC_10Hz_BG_comparison.png
+2025-02-03 18:32:01,566 - INFO - Processing subject DOC: cue/gPDC_20Hz
+2025-02-03 18:32:02,933 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\cue_gPDC_20Hz_DOC_comparison.png
+2025-02-03 18:32:02,933 - INFO - Processing subject GB: cue/gPDC_20Hz
+2025-02-03 18:32:04,365 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\cue_gPDC_20Hz_GB_comparison.png
+2025-02-03 18:32:04,365 - INFO - Processing subject JDC: cue/gPDC_20Hz
+2025-02-03 18:32:05,750 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\cue_gPDC_20Hz_JDC_comparison.png
+2025-02-03 18:32:05,750 - INFO - Processing subject JFXD: cue/gPDC_20Hz
+2025-02-03 18:32:07,204 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\cue_gPDC_20Hz_JFXD_comparison.png
+2025-02-03 18:32:07,204 - INFO - Processing subject JZ: cue/gPDC_20Hz
+2025-02-03 18:32:08,621 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\cue_gPDC_20Hz_JZ_comparison.png
+2025-02-03 18:32:08,621 - INFO - Processing subject LT: cue/gPDC_20Hz
+2025-02-03 18:32:10,053 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\cue_gPDC_20Hz_LT_comparison.png
+2025-02-03 18:32:10,053 - INFO - Processing subject NvA: cue/gPDC_20Hz
+2025-02-03 18:32:11,611 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\cue_gPDC_20Hz_NvA_comparison.png
+2025-02-03 18:32:11,611 - INFO - Processing subject RR: cue/gPDC_20Hz
+2025-02-03 18:32:13,021 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\cue_gPDC_20Hz_RR_comparison.png
+2025-02-03 18:32:13,021 - INFO - Processing subject SJB: cue/gPDC_20Hz
+2025-02-03 18:32:14,547 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\cue_gPDC_20Hz_SJB_comparison.png
+2025-02-03 18:32:14,547 - INFO - Processing subject BG: cue/gPDC_20Hz
+2025-02-03 18:32:16,050 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\cue_gPDC_20Hz_BG_comparison.png
+2025-02-03 18:32:16,050 - INFO - Processing subject DOC: cue/gPDC_100Hz
+2025-02-03 18:32:17,516 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\cue_gPDC_100Hz_DOC_comparison.png
+2025-02-03 18:32:17,516 - INFO - Processing subject GB: cue/gPDC_100Hz
+2025-02-03 18:32:19,029 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\cue_gPDC_100Hz_GB_comparison.png
+2025-02-03 18:32:19,029 - INFO - Processing subject JDC: cue/gPDC_100Hz
+2025-02-03 18:32:20,454 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\cue_gPDC_100Hz_JDC_comparison.png
+2025-02-03 18:32:20,454 - INFO - Processing subject JFXD: cue/gPDC_100Hz
+2025-02-03 18:32:21,868 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\cue_gPDC_100Hz_JFXD_comparison.png
+2025-02-03 18:32:21,868 - INFO - Processing subject JZ: cue/gPDC_100Hz
+2025-02-03 18:32:23,333 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\cue_gPDC_100Hz_JZ_comparison.png
+2025-02-03 18:32:23,333 - INFO - Processing subject LT: cue/gPDC_100Hz
+2025-02-03 18:32:24,800 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\cue_gPDC_100Hz_LT_comparison.png
+2025-02-03 18:32:24,800 - INFO - Processing subject NvA: cue/gPDC_100Hz
+2025-02-03 18:32:26,282 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\cue_gPDC_100Hz_NvA_comparison.png
+2025-02-03 18:32:26,282 - INFO - Processing subject RR: cue/gPDC_100Hz
+2025-02-03 18:32:27,778 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\cue_gPDC_100Hz_RR_comparison.png
+2025-02-03 18:32:27,778 - INFO - Processing subject SJB: cue/gPDC_100Hz
+2025-02-03 18:32:29,219 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\cue_gPDC_100Hz_SJB_comparison.png
+2025-02-03 18:32:29,219 - INFO - Processing subject BG: cue/gPDC_100Hz
+2025-02-03 18:32:30,718 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\cue_gPDC_100Hz_BG_comparison.png
+2025-02-03 18:32:30,718 - INFO - Processing subject DOC: mov/iDTF_10Hz
+2025-02-03 18:32:32,216 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\mov_iDTF_10Hz_DOC_comparison.png
+2025-02-03 18:32:32,216 - INFO - Processing subject GB: mov/iDTF_10Hz
+2025-02-03 18:32:33,794 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\mov_iDTF_10Hz_GB_comparison.png
+2025-02-03 18:32:33,810 - INFO - Processing subject JDC: mov/iDTF_10Hz
+2025-02-03 18:32:35,269 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\mov_iDTF_10Hz_JDC_comparison.png
+2025-02-03 18:32:35,269 - INFO - Processing subject JFXD: mov/iDTF_10Hz
+2025-02-03 18:32:36,766 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\mov_iDTF_10Hz_JFXD_comparison.png
+2025-02-03 18:32:36,766 - INFO - Processing subject JZ: mov/iDTF_10Hz
+2025-02-03 18:32:38,366 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\mov_iDTF_10Hz_JZ_comparison.png
+2025-02-03 18:32:38,366 - INFO - Processing subject LT: mov/iDTF_10Hz
+2025-02-03 18:32:39,898 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\mov_iDTF_10Hz_LT_comparison.png
+2025-02-03 18:32:39,898 - INFO - Processing subject NvA: mov/iDTF_10Hz
+2025-02-03 18:32:41,383 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\mov_iDTF_10Hz_NvA_comparison.png
+2025-02-03 18:32:41,383 - INFO - Processing subject RR: mov/iDTF_10Hz
+2025-02-03 18:32:42,835 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\mov_iDTF_10Hz_RR_comparison.png
+2025-02-03 18:32:42,835 - INFO - Processing subject SJB: mov/iDTF_10Hz
+2025-02-03 18:32:44,269 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\mov_iDTF_10Hz_SJB_comparison.png
+2025-02-03 18:32:44,269 - INFO - Processing subject BG: mov/iDTF_10Hz
+2025-02-03 18:32:45,718 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\mov_iDTF_10Hz_BG_comparison.png
+2025-02-03 18:32:45,718 - INFO - Processing subject DOC: mov/iDTF_20Hz
+2025-02-03 18:32:47,134 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\mov_iDTF_20Hz_DOC_comparison.png
+2025-02-03 18:32:47,134 - INFO - Processing subject GB: mov/iDTF_20Hz
+2025-02-03 18:32:48,601 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\mov_iDTF_20Hz_GB_comparison.png
+2025-02-03 18:32:48,601 - INFO - Processing subject JDC: mov/iDTF_20Hz
+2025-02-03 18:32:50,082 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\mov_iDTF_20Hz_JDC_comparison.png
+2025-02-03 18:32:50,082 - INFO - Processing subject JFXD: mov/iDTF_20Hz
+2025-02-03 18:32:51,490 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\mov_iDTF_20Hz_JFXD_comparison.png
+2025-02-03 18:32:51,490 - INFO - Processing subject JZ: mov/iDTF_20Hz
+2025-02-03 18:32:52,936 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\mov_iDTF_20Hz_JZ_comparison.png
+2025-02-03 18:32:52,936 - INFO - Processing subject LT: mov/iDTF_20Hz
+2025-02-03 18:32:54,354 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\mov_iDTF_20Hz_LT_comparison.png
+2025-02-03 18:32:54,354 - INFO - Processing subject NvA: mov/iDTF_20Hz
+2025-02-03 18:32:55,742 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\mov_iDTF_20Hz_NvA_comparison.png
+2025-02-03 18:32:55,742 - INFO - Processing subject RR: mov/iDTF_20Hz
+2025-02-03 18:32:57,188 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\mov_iDTF_20Hz_RR_comparison.png
+2025-02-03 18:32:57,188 - INFO - Processing subject SJB: mov/iDTF_20Hz
+2025-02-03 18:32:58,577 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\mov_iDTF_20Hz_SJB_comparison.png
+2025-02-03 18:32:58,577 - INFO - Processing subject BG: mov/iDTF_20Hz
+2025-02-03 18:33:00,006 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\mov_iDTF_20Hz_BG_comparison.png
+2025-02-03 18:33:00,006 - INFO - Processing subject DOC: mov/iDTF_100Hz
+2025-02-03 18:33:01,417 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\mov_iDTF_100Hz_DOC_comparison.png
+2025-02-03 18:33:01,417 - INFO - Processing subject GB: mov/iDTF_100Hz
+2025-02-03 18:33:02,791 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\mov_iDTF_100Hz_GB_comparison.png
+2025-02-03 18:33:02,791 - INFO - Processing subject JDC: mov/iDTF_100Hz
+2025-02-03 18:33:04,219 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\mov_iDTF_100Hz_JDC_comparison.png
+2025-02-03 18:33:04,219 - INFO - Processing subject JFXD: mov/iDTF_100Hz
+2025-02-03 18:33:05,608 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\mov_iDTF_100Hz_JFXD_comparison.png
+2025-02-03 18:33:05,608 - INFO - Processing subject JZ: mov/iDTF_100Hz
+2025-02-03 18:33:07,025 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\mov_iDTF_100Hz_JZ_comparison.png
+2025-02-03 18:33:07,025 - INFO - Processing subject LT: mov/iDTF_100Hz
+2025-02-03 18:33:08,437 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\mov_iDTF_100Hz_LT_comparison.png
+2025-02-03 18:33:08,437 - INFO - Processing subject NvA: mov/iDTF_100Hz
+2025-02-03 18:33:09,837 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\mov_iDTF_100Hz_NvA_comparison.png
+2025-02-03 18:33:09,837 - INFO - Processing subject RR: mov/iDTF_100Hz
+2025-02-03 18:33:11,302 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\mov_iDTF_100Hz_RR_comparison.png
+2025-02-03 18:33:11,302 - INFO - Processing subject SJB: mov/iDTF_100Hz
+2025-02-03 18:33:12,702 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\mov_iDTF_100Hz_SJB_comparison.png
+2025-02-03 18:33:12,702 - INFO - Processing subject BG: mov/iDTF_100Hz
+2025-02-03 18:33:14,110 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\mov_iDTF_100Hz_BG_comparison.png
+2025-02-03 18:33:14,110 - INFO - Processing subject DOC: mov/gDTF_10Hz
+2025-02-03 18:33:15,552 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\mov_gDTF_10Hz_DOC_comparison.png
+2025-02-03 18:33:15,552 - INFO - Processing subject GB: mov/gDTF_10Hz
+2025-02-03 18:33:16,938 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\mov_gDTF_10Hz_GB_comparison.png
+2025-02-03 18:33:16,939 - INFO - Processing subject JDC: mov/gDTF_10Hz
+2025-02-03 18:33:18,354 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\mov_gDTF_10Hz_JDC_comparison.png
+2025-02-03 18:33:18,354 - INFO - Processing subject JFXD: mov/gDTF_10Hz
+2025-02-03 18:33:19,785 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\mov_gDTF_10Hz_JFXD_comparison.png
+2025-02-03 18:33:19,785 - INFO - Processing subject JZ: mov/gDTF_10Hz
+2025-02-03 18:33:21,171 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\mov_gDTF_10Hz_JZ_comparison.png
+2025-02-03 18:33:21,172 - INFO - Processing subject LT: mov/gDTF_10Hz
+2025-02-03 18:33:22,618 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\mov_gDTF_10Hz_LT_comparison.png
+2025-02-03 18:33:22,618 - INFO - Processing subject NvA: mov/gDTF_10Hz
+2025-02-03 18:33:24,023 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\mov_gDTF_10Hz_NvA_comparison.png
+2025-02-03 18:33:24,023 - INFO - Processing subject RR: mov/gDTF_10Hz
+2025-02-03 18:33:25,484 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\mov_gDTF_10Hz_RR_comparison.png
+2025-02-03 18:33:25,484 - INFO - Processing subject SJB: mov/gDTF_10Hz
+2025-02-03 18:33:26,902 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\mov_gDTF_10Hz_SJB_comparison.png
+2025-02-03 18:33:26,902 - INFO - Processing subject BG: mov/gDTF_10Hz
+2025-02-03 18:33:28,278 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\mov_gDTF_10Hz_BG_comparison.png
+2025-02-03 18:33:28,279 - INFO - Processing subject DOC: mov/gDTF_20Hz
+2025-02-03 18:33:29,718 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\mov_gDTF_20Hz_DOC_comparison.png
+2025-02-03 18:33:29,718 - INFO - Processing subject GB: mov/gDTF_20Hz
+2025-02-03 18:33:31,121 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\mov_gDTF_20Hz_GB_comparison.png
+2025-02-03 18:33:31,121 - INFO - Processing subject JDC: mov/gDTF_20Hz
+2025-02-03 18:33:32,567 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\mov_gDTF_20Hz_JDC_comparison.png
+2025-02-03 18:33:32,567 - INFO - Processing subject JFXD: mov/gDTF_20Hz
+2025-02-03 18:33:33,983 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\mov_gDTF_20Hz_JFXD_comparison.png
+2025-02-03 18:33:33,983 - INFO - Processing subject JZ: mov/gDTF_20Hz
+2025-02-03 18:33:35,417 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\mov_gDTF_20Hz_JZ_comparison.png
+2025-02-03 18:33:35,417 - INFO - Processing subject LT: mov/gDTF_20Hz
+2025-02-03 18:33:36,869 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\mov_gDTF_20Hz_LT_comparison.png
+2025-02-03 18:33:36,869 - INFO - Processing subject NvA: mov/gDTF_20Hz
+2025-02-03 18:33:38,287 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\mov_gDTF_20Hz_NvA_comparison.png
+2025-02-03 18:33:38,287 - INFO - Processing subject RR: mov/gDTF_20Hz
+2025-02-03 18:33:39,656 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\mov_gDTF_20Hz_RR_comparison.png
+2025-02-03 18:33:39,656 - INFO - Processing subject SJB: mov/gDTF_20Hz
+2025-02-03 18:33:41,118 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\mov_gDTF_20Hz_SJB_comparison.png
+2025-02-03 18:33:41,118 - INFO - Processing subject BG: mov/gDTF_20Hz
+2025-02-03 18:33:42,506 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\mov_gDTF_20Hz_BG_comparison.png
+2025-02-03 18:33:42,506 - INFO - Processing subject DOC: mov/gDTF_100Hz
+2025-02-03 18:33:43,936 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\mov_gDTF_100Hz_DOC_comparison.png
+2025-02-03 18:33:43,936 - INFO - Processing subject GB: mov/gDTF_100Hz
+2025-02-03 18:33:45,336 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\mov_gDTF_100Hz_GB_comparison.png
+2025-02-03 18:33:45,336 - INFO - Processing subject JDC: mov/gDTF_100Hz
+2025-02-03 18:33:46,737 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\mov_gDTF_100Hz_JDC_comparison.png
+2025-02-03 18:33:46,737 - INFO - Processing subject JFXD: mov/gDTF_100Hz
+2025-02-03 18:33:48,185 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\mov_gDTF_100Hz_JFXD_comparison.png
+2025-02-03 18:33:48,185 - INFO - Processing subject JZ: mov/gDTF_100Hz
+2025-02-03 18:33:49,602 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\mov_gDTF_100Hz_JZ_comparison.png
+2025-02-03 18:33:49,602 - INFO - Processing subject LT: mov/gDTF_100Hz
+2025-02-03 18:33:51,051 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\mov_gDTF_100Hz_LT_comparison.png
+2025-02-03 18:33:51,051 - INFO - Processing subject NvA: mov/gDTF_100Hz
+2025-02-03 18:33:52,451 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\mov_gDTF_100Hz_NvA_comparison.png
+2025-02-03 18:33:52,451 - INFO - Processing subject RR: mov/gDTF_100Hz
+2025-02-03 18:33:53,854 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\mov_gDTF_100Hz_RR_comparison.png
+2025-02-03 18:33:53,854 - INFO - Processing subject SJB: mov/gDTF_100Hz
+2025-02-03 18:33:55,286 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\mov_gDTF_100Hz_SJB_comparison.png
+2025-02-03 18:33:55,286 - INFO - Processing subject BG: mov/gDTF_100Hz
+2025-02-03 18:33:56,719 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\mov_gDTF_100Hz_BG_comparison.png
+2025-02-03 18:33:56,719 - INFO - Processing subject DOC: mov/iPDC_10Hz
+2025-02-03 18:33:58,167 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\mov_iPDC_10Hz_DOC_comparison.png
+2025-02-03 18:33:58,167 - INFO - Processing subject GB: mov/iPDC_10Hz
+2025-02-03 18:33:59,570 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\mov_iPDC_10Hz_GB_comparison.png
+2025-02-03 18:33:59,570 - INFO - Processing subject JDC: mov/iPDC_10Hz
+2025-02-03 18:34:01,003 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\mov_iPDC_10Hz_JDC_comparison.png
+2025-02-03 18:34:01,003 - INFO - Processing subject JFXD: mov/iPDC_10Hz
+2025-02-03 18:34:02,467 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\mov_iPDC_10Hz_JFXD_comparison.png
+2025-02-03 18:34:02,467 - INFO - Processing subject JZ: mov/iPDC_10Hz
+2025-02-03 18:34:03,885 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\mov_iPDC_10Hz_JZ_comparison.png
+2025-02-03 18:34:03,885 - INFO - Processing subject LT: mov/iPDC_10Hz
+2025-02-03 18:34:05,351 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\mov_iPDC_10Hz_LT_comparison.png
+2025-02-03 18:34:05,351 - INFO - Processing subject NvA: mov/iPDC_10Hz
+2025-02-03 18:34:06,738 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\mov_iPDC_10Hz_NvA_comparison.png
+2025-02-03 18:34:06,738 - INFO - Processing subject RR: mov/iPDC_10Hz
+2025-02-03 18:34:08,152 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\mov_iPDC_10Hz_RR_comparison.png
+2025-02-03 18:34:08,153 - INFO - Processing subject SJB: mov/iPDC_10Hz
+2025-02-03 18:34:09,586 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\mov_iPDC_10Hz_SJB_comparison.png
+2025-02-03 18:34:09,586 - INFO - Processing subject BG: mov/iPDC_10Hz
+2025-02-03 18:34:10,988 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\mov_iPDC_10Hz_BG_comparison.png
+2025-02-03 18:34:10,988 - INFO - Processing subject DOC: mov/iPDC_20Hz
+2025-02-03 18:34:12,419 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\mov_iPDC_20Hz_DOC_comparison.png
+2025-02-03 18:34:12,419 - INFO - Processing subject GB: mov/iPDC_20Hz
+2025-02-03 18:34:13,852 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\mov_iPDC_20Hz_GB_comparison.png
+2025-02-03 18:34:13,852 - INFO - Processing subject JDC: mov/iPDC_20Hz
+2025-02-03 18:34:15,240 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\mov_iPDC_20Hz_JDC_comparison.png
+2025-02-03 18:34:15,241 - INFO - Processing subject JFXD: mov/iPDC_20Hz
+2025-02-03 18:34:16,669 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\mov_iPDC_20Hz_JFXD_comparison.png
+2025-02-03 18:34:16,669 - INFO - Processing subject JZ: mov/iPDC_20Hz
+2025-02-03 18:34:18,088 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\mov_iPDC_20Hz_JZ_comparison.png
+2025-02-03 18:34:18,088 - INFO - Processing subject LT: mov/iPDC_20Hz
+2025-02-03 18:34:19,498 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\mov_iPDC_20Hz_LT_comparison.png
+2025-02-03 18:34:19,498 - INFO - Processing subject NvA: mov/iPDC_20Hz
+2025-02-03 18:34:20,951 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\mov_iPDC_20Hz_NvA_comparison.png
+2025-02-03 18:34:20,951 - INFO - Processing subject RR: mov/iPDC_20Hz
+2025-02-03 18:34:22,354 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\mov_iPDC_20Hz_RR_comparison.png
+2025-02-03 18:34:22,354 - INFO - Processing subject SJB: mov/iPDC_20Hz
+2025-02-03 18:34:23,834 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\mov_iPDC_20Hz_SJB_comparison.png
+2025-02-03 18:34:23,834 - INFO - Processing subject BG: mov/iPDC_20Hz
+2025-02-03 18:34:25,222 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\mov_iPDC_20Hz_BG_comparison.png
+2025-02-03 18:34:25,222 - INFO - Processing subject DOC: mov/iPDC_100Hz
+2025-02-03 18:34:26,626 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\mov_iPDC_100Hz_DOC_comparison.png
+2025-02-03 18:34:26,626 - INFO - Processing subject GB: mov/iPDC_100Hz
+2025-02-03 18:34:28,036 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\mov_iPDC_100Hz_GB_comparison.png
+2025-02-03 18:34:28,036 - INFO - Processing subject JDC: mov/iPDC_100Hz
+2025-02-03 18:34:29,452 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\mov_iPDC_100Hz_JDC_comparison.png
+2025-02-03 18:34:29,452 - INFO - Processing subject JFXD: mov/iPDC_100Hz
+2025-02-03 18:34:30,888 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\mov_iPDC_100Hz_JFXD_comparison.png
+2025-02-03 18:34:30,901 - INFO - Processing subject JZ: mov/iPDC_100Hz
+2025-02-03 18:34:32,314 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\mov_iPDC_100Hz_JZ_comparison.png
+2025-02-03 18:34:32,315 - INFO - Processing subject LT: mov/iPDC_100Hz
+2025-02-03 18:34:33,720 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\mov_iPDC_100Hz_LT_comparison.png
+2025-02-03 18:34:33,720 - INFO - Processing subject NvA: mov/iPDC_100Hz
+2025-02-03 18:34:35,183 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\mov_iPDC_100Hz_NvA_comparison.png
+2025-02-03 18:34:35,183 - INFO - Processing subject RR: mov/iPDC_100Hz
+2025-02-03 18:34:36,573 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\mov_iPDC_100Hz_RR_comparison.png
+2025-02-03 18:34:36,573 - INFO - Processing subject SJB: mov/iPDC_100Hz
+2025-02-03 18:34:37,979 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\mov_iPDC_100Hz_SJB_comparison.png
+2025-02-03 18:34:37,979 - INFO - Processing subject BG: mov/iPDC_100Hz
+2025-02-03 18:34:39,434 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\mov_iPDC_100Hz_BG_comparison.png
+2025-02-03 18:34:39,434 - INFO - Processing subject DOC: mov/gPDC_10Hz
+2025-02-03 18:34:40,837 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\mov_gPDC_10Hz_DOC_comparison.png
+2025-02-03 18:34:40,837 - INFO - Processing subject GB: mov/gPDC_10Hz
+2025-02-03 18:34:42,252 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\mov_gPDC_10Hz_GB_comparison.png
+2025-02-03 18:34:42,252 - INFO - Processing subject JDC: mov/gPDC_10Hz
+2025-02-03 18:34:43,627 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\mov_gPDC_10Hz_JDC_comparison.png
+2025-02-03 18:34:43,627 - INFO - Processing subject JFXD: mov/gPDC_10Hz
+2025-02-03 18:34:45,103 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\mov_gPDC_10Hz_JFXD_comparison.png
+2025-02-03 18:34:45,103 - INFO - Processing subject JZ: mov/gPDC_10Hz
+2025-02-03 18:34:46,504 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\mov_gPDC_10Hz_JZ_comparison.png
+2025-02-03 18:34:46,504 - INFO - Processing subject LT: mov/gPDC_10Hz
+2025-02-03 18:34:47,891 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\mov_gPDC_10Hz_LT_comparison.png
+2025-02-03 18:34:47,891 - INFO - Processing subject NvA: mov/gPDC_10Hz
+2025-02-03 18:34:49,318 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\mov_gPDC_10Hz_NvA_comparison.png
+2025-02-03 18:34:49,318 - INFO - Processing subject RR: mov/gPDC_10Hz
+2025-02-03 18:34:50,742 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\mov_gPDC_10Hz_RR_comparison.png
+2025-02-03 18:34:50,742 - INFO - Processing subject SJB: mov/gPDC_10Hz
+2025-02-03 18:34:52,124 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\mov_gPDC_10Hz_SJB_comparison.png
+2025-02-03 18:34:52,124 - INFO - Processing subject BG: mov/gPDC_10Hz
+2025-02-03 18:34:53,571 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\mov_gPDC_10Hz_BG_comparison.png
+2025-02-03 18:34:53,571 - INFO - Processing subject DOC: mov/gPDC_20Hz
+2025-02-03 18:34:55,003 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\mov_gPDC_20Hz_DOC_comparison.png
+2025-02-03 18:34:55,003 - INFO - Processing subject GB: mov/gPDC_20Hz
+2025-02-03 18:34:56,484 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\mov_gPDC_20Hz_GB_comparison.png
+2025-02-03 18:34:56,484 - INFO - Processing subject JDC: mov/gPDC_20Hz
+2025-02-03 18:34:57,858 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\mov_gPDC_20Hz_JDC_comparison.png
+2025-02-03 18:34:57,858 - INFO - Processing subject JFXD: mov/gPDC_20Hz
+2025-02-03 18:34:59,255 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\mov_gPDC_20Hz_JFXD_comparison.png
+2025-02-03 18:34:59,256 - INFO - Processing subject JZ: mov/gPDC_20Hz
+2025-02-03 18:35:00,719 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\mov_gPDC_20Hz_JZ_comparison.png
+2025-02-03 18:35:00,719 - INFO - Processing subject LT: mov/gPDC_20Hz
+2025-02-03 18:35:02,102 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\mov_gPDC_20Hz_LT_comparison.png
+2025-02-03 18:35:02,102 - INFO - Processing subject NvA: mov/gPDC_20Hz
+2025-02-03 18:35:03,552 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\mov_gPDC_20Hz_NvA_comparison.png
+2025-02-03 18:35:03,552 - INFO - Processing subject RR: mov/gPDC_20Hz
+2025-02-03 18:35:04,955 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\mov_gPDC_20Hz_RR_comparison.png
+2025-02-03 18:35:04,955 - INFO - Processing subject SJB: mov/gPDC_20Hz
+2025-02-03 18:35:06,355 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\mov_gPDC_20Hz_SJB_comparison.png
+2025-02-03 18:35:06,355 - INFO - Processing subject BG: mov/gPDC_20Hz
+2025-02-03 18:35:07,800 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\mov_gPDC_20Hz_BG_comparison.png
+2025-02-03 18:35:07,800 - INFO - Processing subject DOC: mov/gPDC_100Hz
+2025-02-03 18:35:09,204 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\mov_gPDC_100Hz_DOC_comparison.png
+2025-02-03 18:35:09,204 - INFO - Processing subject GB: mov/gPDC_100Hz
+2025-02-03 18:35:10,574 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\mov_gPDC_100Hz_GB_comparison.png
+2025-02-03 18:35:10,574 - INFO - Processing subject JDC: mov/gPDC_100Hz
+2025-02-03 18:35:12,013 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\mov_gPDC_100Hz_JDC_comparison.png
+2025-02-03 18:35:12,015 - INFO - Processing subject JFXD: mov/gPDC_100Hz
+2025-02-03 18:35:13,403 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\mov_gPDC_100Hz_JFXD_comparison.png
+2025-02-03 18:35:13,403 - INFO - Processing subject JZ: mov/gPDC_100Hz
+2025-02-03 18:35:14,820 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\mov_gPDC_100Hz_JZ_comparison.png
+2025-02-03 18:35:14,820 - INFO - Processing subject LT: mov/gPDC_100Hz
+2025-02-03 18:35:16,229 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\mov_gPDC_100Hz_LT_comparison.png
+2025-02-03 18:35:16,229 - INFO - Processing subject NvA: mov/gPDC_100Hz
+2025-02-03 18:35:17,636 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\mov_gPDC_100Hz_NvA_comparison.png
+2025-02-03 18:35:17,636 - INFO - Processing subject RR: mov/gPDC_100Hz
+2025-02-03 18:35:19,086 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\mov_gPDC_100Hz_RR_comparison.png
+2025-02-03 18:35:19,086 - INFO - Processing subject SJB: mov/gPDC_100Hz
+2025-02-03 18:35:20,468 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\mov_gPDC_100Hz_SJB_comparison.png
+2025-02-03 18:35:20,468 - INFO - Processing subject BG: mov/gPDC_100Hz
+2025-02-03 18:35:21,901 - INFO - Saved subject comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison\mov_gPDC_100Hz_BG_comparison.png
+2025-02-03 18:35:21,902 - INFO - Generated 264 comparison heatmaps
+2025-02-03 18:35:21,903 - INFO - Comparison heatmaps generation completed
+2025-02-03 18:35:21,903 - INFO - Creating normalized comparison heatmaps...
+2025-02-03 18:35:21,903 - INFO - Calculating global maximum values...
+2025-02-03 18:35:22,520 - INFO - Global maximum value for L/R matrices: 2.9372
+2025-02-03 18:35:22,536 - INFO - Global maximum absolute difference: 1.1332
+2025-02-03 18:35:22,536 - INFO - Creating normalized overall comparison heatmaps...
+2025-02-03 18:35:22,536 - INFO - Processing normalized: cue/iDTF_10Hz
+2025-02-03 18:35:23,905 - INFO - Saved normalized comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison_Normalized\cue_iDTF_10Hz_comparison_normalized.png
+2025-02-03 18:35:23,906 - INFO - Processing normalized: cue/iDTF_20Hz
+2025-02-03 18:35:25,257 - INFO - Saved normalized comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison_Normalized\cue_iDTF_20Hz_comparison_normalized.png
+2025-02-03 18:35:25,257 - INFO - Processing normalized: cue/iDTF_100Hz
+2025-02-03 18:35:26,669 - INFO - Saved normalized comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison_Normalized\cue_iDTF_100Hz_comparison_normalized.png
+2025-02-03 18:35:26,669 - INFO - Processing normalized: cue/gDTF_10Hz
+2025-02-03 18:35:28,046 - INFO - Saved normalized comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison_Normalized\cue_gDTF_10Hz_comparison_normalized.png
+2025-02-03 18:35:28,046 - INFO - Processing normalized: cue/gDTF_20Hz
+2025-02-03 18:35:29,436 - INFO - Saved normalized comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison_Normalized\cue_gDTF_20Hz_comparison_normalized.png
+2025-02-03 18:35:29,436 - INFO - Processing normalized: cue/gDTF_100Hz
+2025-02-03 18:35:30,815 - INFO - Saved normalized comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison_Normalized\cue_gDTF_100Hz_comparison_normalized.png
+2025-02-03 18:35:30,815 - INFO - Processing normalized: cue/iPDC_10Hz
+2025-02-03 18:35:32,174 - INFO - Saved normalized comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison_Normalized\cue_iPDC_10Hz_comparison_normalized.png
+2025-02-03 18:35:32,174 - INFO - Processing normalized: cue/iPDC_20Hz
+2025-02-03 18:35:33,617 - INFO - Saved normalized comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison_Normalized\cue_iPDC_20Hz_comparison_normalized.png
+2025-02-03 18:35:33,617 - INFO - Processing normalized: cue/iPDC_100Hz
+2025-02-03 18:35:34,975 - INFO - Saved normalized comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison_Normalized\cue_iPDC_100Hz_comparison_normalized.png
+2025-02-03 18:35:34,975 - INFO - Processing normalized: cue/gPDC_10Hz
+2025-02-03 18:35:36,341 - INFO - Saved normalized comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison_Normalized\cue_gPDC_10Hz_comparison_normalized.png
+2025-02-03 18:35:36,341 - INFO - Processing normalized: cue/gPDC_20Hz
+2025-02-03 18:35:37,737 - INFO - Saved normalized comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison_Normalized\cue_gPDC_20Hz_comparison_normalized.png
+2025-02-03 18:35:37,737 - INFO - Processing normalized: cue/gPDC_100Hz
+2025-02-03 18:35:39,134 - INFO - Saved normalized comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison_Normalized\cue_gPDC_100Hz_comparison_normalized.png
+2025-02-03 18:35:39,134 - INFO - Processing normalized: mov/iDTF_10Hz
+2025-02-03 18:35:40,536 - INFO - Saved normalized comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison_Normalized\mov_iDTF_10Hz_comparison_normalized.png
+2025-02-03 18:35:40,536 - INFO - Processing normalized: mov/iDTF_20Hz
+2025-02-03 18:35:41,891 - INFO - Saved normalized comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison_Normalized\mov_iDTF_20Hz_comparison_normalized.png
+2025-02-03 18:35:41,891 - INFO - Processing normalized: mov/iDTF_100Hz
+2025-02-03 18:35:43,277 - INFO - Saved normalized comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison_Normalized\mov_iDTF_100Hz_comparison_normalized.png
+2025-02-03 18:35:43,277 - INFO - Processing normalized: mov/gDTF_10Hz
+2025-02-03 18:35:44,733 - INFO - Saved normalized comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison_Normalized\mov_gDTF_10Hz_comparison_normalized.png
+2025-02-03 18:35:44,733 - INFO - Processing normalized: mov/gDTF_20Hz
+2025-02-03 18:35:46,092 - INFO - Saved normalized comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison_Normalized\mov_gDTF_20Hz_comparison_normalized.png
+2025-02-03 18:35:46,092 - INFO - Processing normalized: mov/gDTF_100Hz
+2025-02-03 18:35:47,503 - INFO - Saved normalized comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison_Normalized\mov_gDTF_100Hz_comparison_normalized.png
+2025-02-03 18:35:47,503 - INFO - Processing normalized: mov/iPDC_10Hz
+2025-02-03 18:35:48,863 - INFO - Saved normalized comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison_Normalized\mov_iPDC_10Hz_comparison_normalized.png
+2025-02-03 18:35:48,864 - INFO - Processing normalized: mov/iPDC_20Hz
+2025-02-03 18:35:50,250 - INFO - Saved normalized comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison_Normalized\mov_iPDC_20Hz_comparison_normalized.png
+2025-02-03 18:35:50,251 - INFO - Processing normalized: mov/iPDC_100Hz
+2025-02-03 18:35:51,652 - INFO - Saved normalized comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison_Normalized\mov_iPDC_100Hz_comparison_normalized.png
+2025-02-03 18:35:51,652 - INFO - Processing normalized: mov/gPDC_10Hz
+2025-02-03 18:35:53,037 - INFO - Saved normalized comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison_Normalized\mov_gPDC_10Hz_comparison_normalized.png
+2025-02-03 18:35:53,037 - INFO - Processing normalized: mov/gPDC_20Hz
+2025-02-03 18:35:54,414 - INFO - Saved normalized comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison_Normalized\mov_gPDC_20Hz_comparison_normalized.png
+2025-02-03 18:35:54,415 - INFO - Processing normalized: mov/gPDC_100Hz
+2025-02-03 18:35:55,834 - INFO - Saved normalized comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison_Normalized\mov_gPDC_100Hz_comparison_normalized.png
+2025-02-03 18:35:55,834 - INFO - Creating normalized subject-specific comparison heatmaps...
+2025-02-03 18:35:55,834 - INFO - Processing normalized subject DOC: cue/iDTF_10Hz
+2025-02-03 18:35:57,191 - INFO - Saved normalized comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison_Normalized\cue_iDTF_10Hz_DOC_comparison_normalized.png
+2025-02-03 18:35:57,203 - INFO - Processing normalized subject GB: cue/iDTF_10Hz
+2025-02-03 18:35:58,617 - INFO - Saved normalized comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison_Normalized\cue_iDTF_10Hz_GB_comparison_normalized.png
+2025-02-03 18:35:58,617 - INFO - Processing normalized subject JDC: cue/iDTF_10Hz
+2025-02-03 18:35:59,979 - INFO - Saved normalized comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison_Normalized\cue_iDTF_10Hz_JDC_comparison_normalized.png
+2025-02-03 18:35:59,980 - INFO - Processing normalized subject JFXD: cue/iDTF_10Hz
+2025-02-03 18:36:01,357 - INFO - Saved normalized comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison_Normalized\cue_iDTF_10Hz_JFXD_comparison_normalized.png
+2025-02-03 18:36:01,358 - INFO - Processing normalized subject JZ: cue/iDTF_10Hz
+2025-02-03 18:36:02,769 - INFO - Saved normalized comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison_Normalized\cue_iDTF_10Hz_JZ_comparison_normalized.png
+2025-02-03 18:36:02,769 - INFO - Processing normalized subject LT: cue/iDTF_10Hz
+2025-02-03 18:36:04,142 - INFO - Saved normalized comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison_Normalized\cue_iDTF_10Hz_LT_comparison_normalized.png
+2025-02-03 18:36:04,142 - INFO - Processing normalized subject NvA: cue/iDTF_10Hz
+2025-02-03 18:36:05,552 - INFO - Saved normalized comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison_Normalized\cue_iDTF_10Hz_NvA_comparison_normalized.png
+2025-02-03 18:36:05,552 - INFO - Processing normalized subject RR: cue/iDTF_10Hz
+2025-02-03 18:36:06,928 - INFO - Saved normalized comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison_Normalized\cue_iDTF_10Hz_RR_comparison_normalized.png
+2025-02-03 18:36:06,928 - INFO - Processing normalized subject SJB: cue/iDTF_10Hz
+2025-02-03 18:36:08,300 - INFO - Saved normalized comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison_Normalized\cue_iDTF_10Hz_SJB_comparison_normalized.png
+2025-02-03 18:36:08,300 - INFO - Processing normalized subject BG: cue/iDTF_10Hz
+2025-02-03 18:36:09,718 - INFO - Saved normalized comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison_Normalized\cue_iDTF_10Hz_BG_comparison_normalized.png
+2025-02-03 18:36:09,718 - INFO - Processing normalized subject DOC: cue/iDTF_20Hz
+2025-02-03 18:36:11,098 - INFO - Saved normalized comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison_Normalized\cue_iDTF_20Hz_DOC_comparison_normalized.png
+2025-02-03 18:36:11,099 - INFO - Processing normalized subject GB: cue/iDTF_20Hz
+2025-02-03 18:36:12,461 - INFO - Saved normalized comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison_Normalized\cue_iDTF_20Hz_GB_comparison_normalized.png
+2025-02-03 18:36:12,462 - INFO - Processing normalized subject JDC: cue/iDTF_20Hz
+2025-02-03 18:36:13,853 - INFO - Saved normalized comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison_Normalized\cue_iDTF_20Hz_JDC_comparison_normalized.png
+2025-02-03 18:36:13,853 - INFO - Processing normalized subject JFXD: cue/iDTF_20Hz
+2025-02-03 18:36:15,245 - INFO - Saved normalized comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison_Normalized\cue_iDTF_20Hz_JFXD_comparison_normalized.png
+2025-02-03 18:36:15,245 - INFO - Processing normalized subject JZ: cue/iDTF_20Hz
+2025-02-03 18:36:16,669 - INFO - Saved normalized comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison_Normalized\cue_iDTF_20Hz_JZ_comparison_normalized.png
+2025-02-03 18:36:16,669 - INFO - Processing normalized subject LT: cue/iDTF_20Hz
+2025-02-03 18:36:18,050 - INFO - Saved normalized comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison_Normalized\cue_iDTF_20Hz_LT_comparison_normalized.png
+2025-02-03 18:36:18,051 - INFO - Processing normalized subject NvA: cue/iDTF_20Hz
+2025-02-03 18:36:19,437 - INFO - Saved normalized comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison_Normalized\cue_iDTF_20Hz_NvA_comparison_normalized.png
+2025-02-03 18:36:19,437 - INFO - Processing normalized subject RR: cue/iDTF_20Hz
+2025-02-03 18:36:20,836 - INFO - Saved normalized comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison_Normalized\cue_iDTF_20Hz_RR_comparison_normalized.png
+2025-02-03 18:36:20,836 - INFO - Processing normalized subject SJB: cue/iDTF_20Hz
+2025-02-03 18:36:22,230 - INFO - Saved normalized comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison_Normalized\cue_iDTF_20Hz_SJB_comparison_normalized.png
+2025-02-03 18:36:22,230 - INFO - Processing normalized subject BG: cue/iDTF_20Hz
+2025-02-03 18:36:23,620 - INFO - Saved normalized comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison_Normalized\cue_iDTF_20Hz_BG_comparison_normalized.png
+2025-02-03 18:36:23,620 - INFO - Processing normalized subject DOC: cue/iDTF_100Hz
+2025-02-03 18:36:24,986 - INFO - Saved normalized comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison_Normalized\cue_iDTF_100Hz_DOC_comparison_normalized.png
+2025-02-03 18:36:24,986 - INFO - Processing normalized subject GB: cue/iDTF_100Hz
+2025-02-03 18:36:26,364 - INFO - Saved normalized comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison_Normalized\cue_iDTF_100Hz_GB_comparison_normalized.png
+2025-02-03 18:36:26,365 - INFO - Processing normalized subject JDC: cue/iDTF_100Hz
+2025-02-03 18:36:27,799 - INFO - Saved normalized comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison_Normalized\cue_iDTF_100Hz_JDC_comparison_normalized.png
+2025-02-03 18:36:27,799 - INFO - Processing normalized subject JFXD: cue/iDTF_100Hz
+2025-02-03 18:36:29,172 - INFO - Saved normalized comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison_Normalized\cue_iDTF_100Hz_JFXD_comparison_normalized.png
+2025-02-03 18:36:29,172 - INFO - Processing normalized subject JZ: cue/iDTF_100Hz
+2025-02-03 18:36:30,538 - INFO - Saved normalized comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison_Normalized\cue_iDTF_100Hz_JZ_comparison_normalized.png
+2025-02-03 18:36:30,539 - INFO - Processing normalized subject LT: cue/iDTF_100Hz
+2025-02-03 18:36:31,935 - INFO - Saved normalized comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison_Normalized\cue_iDTF_100Hz_LT_comparison_normalized.png
+2025-02-03 18:36:31,935 - INFO - Processing normalized subject NvA: cue/iDTF_100Hz
+2025-02-03 18:36:33,335 - INFO - Saved normalized comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison_Normalized\cue_iDTF_100Hz_NvA_comparison_normalized.png
+2025-02-03 18:36:33,335 - INFO - Processing normalized subject RR: cue/iDTF_100Hz
+2025-02-03 18:36:34,751 - INFO - Saved normalized comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison_Normalized\cue_iDTF_100Hz_RR_comparison_normalized.png
+2025-02-03 18:36:34,751 - INFO - Processing normalized subject SJB: cue/iDTF_100Hz
+2025-02-03 18:36:36,108 - INFO - Saved normalized comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison_Normalized\cue_iDTF_100Hz_SJB_comparison_normalized.png
+2025-02-03 18:36:36,108 - INFO - Processing normalized subject BG: cue/iDTF_100Hz
+2025-02-03 18:36:37,479 - INFO - Saved normalized comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison_Normalized\cue_iDTF_100Hz_BG_comparison_normalized.png
+2025-02-03 18:36:37,480 - INFO - Processing normalized subject DOC: cue/gDTF_10Hz
+2025-02-03 18:36:38,933 - INFO - Saved normalized comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison_Normalized\cue_gDTF_10Hz_DOC_comparison_normalized.png
+2025-02-03 18:36:38,933 - INFO - Processing normalized subject GB: cue/gDTF_10Hz
+2025-02-03 18:36:40,351 - INFO - Saved normalized comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison_Normalized\cue_gDTF_10Hz_GB_comparison_normalized.png
+2025-02-03 18:36:40,351 - INFO - Processing normalized subject JDC: cue/gDTF_10Hz
+2025-02-03 18:36:41,751 - INFO - Saved normalized comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison_Normalized\cue_gDTF_10Hz_JDC_comparison_normalized.png
+2025-02-03 18:36:41,751 - INFO - Processing normalized subject JFXD: cue/gDTF_10Hz
+2025-02-03 18:36:43,214 - INFO - Saved normalized comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison_Normalized\cue_gDTF_10Hz_JFXD_comparison_normalized.png
+2025-02-03 18:36:43,214 - INFO - Processing normalized subject JZ: cue/gDTF_10Hz
+2025-02-03 18:36:44,633 - INFO - Saved normalized comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison_Normalized\cue_gDTF_10Hz_JZ_comparison_normalized.png
+2025-02-03 18:36:44,633 - INFO - Processing normalized subject LT: cue/gDTF_10Hz
+2025-02-03 18:36:46,049 - INFO - Saved normalized comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison_Normalized\cue_gDTF_10Hz_LT_comparison_normalized.png
+2025-02-03 18:36:46,049 - INFO - Processing normalized subject NvA: cue/gDTF_10Hz
+2025-02-03 18:36:47,414 - INFO - Saved normalized comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison_Normalized\cue_gDTF_10Hz_NvA_comparison_normalized.png
+2025-02-03 18:36:47,415 - INFO - Processing normalized subject RR: cue/gDTF_10Hz
+2025-02-03 18:36:48,789 - INFO - Saved normalized comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison_Normalized\cue_gDTF_10Hz_RR_comparison_normalized.png
+2025-02-03 18:36:48,789 - INFO - Processing normalized subject SJB: cue/gDTF_10Hz
+2025-02-03 18:36:50,186 - INFO - Saved normalized comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison_Normalized\cue_gDTF_10Hz_SJB_comparison_normalized.png
+2025-02-03 18:36:50,186 - INFO - Processing normalized subject BG: cue/gDTF_10Hz
+2025-02-03 18:36:51,556 - INFO - Saved normalized comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison_Normalized\cue_gDTF_10Hz_BG_comparison_normalized.png
+2025-02-03 18:36:51,556 - INFO - Processing normalized subject DOC: cue/gDTF_20Hz
+2025-02-03 18:36:52,984 - INFO - Saved normalized comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison_Normalized\cue_gDTF_20Hz_DOC_comparison_normalized.png
+2025-02-03 18:36:52,984 - INFO - Processing normalized subject GB: cue/gDTF_20Hz
+2025-02-03 18:36:54,376 - INFO - Saved normalized comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison_Normalized\cue_gDTF_20Hz_GB_comparison_normalized.png
+2025-02-03 18:36:54,376 - INFO - Processing normalized subject JDC: cue/gDTF_20Hz
+2025-02-03 18:36:55,724 - INFO - Saved normalized comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison_Normalized\cue_gDTF_20Hz_JDC_comparison_normalized.png
+2025-02-03 18:36:55,724 - INFO - Processing normalized subject JFXD: cue/gDTF_20Hz
+2025-02-03 18:36:57,152 - INFO - Saved normalized comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison_Normalized\cue_gDTF_20Hz_JFXD_comparison_normalized.png
+2025-02-03 18:36:57,152 - INFO - Processing normalized subject JZ: cue/gDTF_20Hz
+2025-02-03 18:36:58,536 - INFO - Saved normalized comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison_Normalized\cue_gDTF_20Hz_JZ_comparison_normalized.png
+2025-02-03 18:36:58,536 - INFO - Processing normalized subject LT: cue/gDTF_20Hz
+2025-02-03 18:36:59,935 - INFO - Saved normalized comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison_Normalized\cue_gDTF_20Hz_LT_comparison_normalized.png
+2025-02-03 18:36:59,935 - INFO - Processing normalized subject NvA: cue/gDTF_20Hz
+2025-02-03 18:37:01,307 - INFO - Saved normalized comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison_Normalized\cue_gDTF_20Hz_NvA_comparison_normalized.png
+2025-02-03 18:37:01,307 - INFO - Processing normalized subject RR: cue/gDTF_20Hz
+2025-02-03 18:37:02,671 - INFO - Saved normalized comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison_Normalized\cue_gDTF_20Hz_RR_comparison_normalized.png
+2025-02-03 18:37:02,671 - INFO - Processing normalized subject SJB: cue/gDTF_20Hz
+2025-02-03 18:37:04,331 - INFO - Saved normalized comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison_Normalized\cue_gDTF_20Hz_SJB_comparison_normalized.png
+2025-02-03 18:37:04,331 - INFO - Processing normalized subject BG: cue/gDTF_20Hz
+2025-02-03 18:37:05,766 - INFO - Saved normalized comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison_Normalized\cue_gDTF_20Hz_BG_comparison_normalized.png
+2025-02-03 18:37:05,766 - INFO - Processing normalized subject DOC: cue/gDTF_100Hz
+2025-02-03 18:37:07,975 - INFO - Saved normalized comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison_Normalized\cue_gDTF_100Hz_DOC_comparison_normalized.png
+2025-02-03 18:37:07,975 - INFO - Processing normalized subject GB: cue/gDTF_100Hz
+2025-02-03 18:37:09,543 - INFO - Saved normalized comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison_Normalized\cue_gDTF_100Hz_GB_comparison_normalized.png
+2025-02-03 18:37:09,543 - INFO - Processing normalized subject JDC: cue/gDTF_100Hz
+2025-02-03 18:37:11,773 - INFO - Saved normalized comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison_Normalized\cue_gDTF_100Hz_JDC_comparison_normalized.png
+2025-02-03 18:37:11,773 - INFO - Processing normalized subject JFXD: cue/gDTF_100Hz
+2025-02-03 18:37:13,251 - INFO - Saved normalized comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison_Normalized\cue_gDTF_100Hz_JFXD_comparison_normalized.png
+2025-02-03 18:37:13,251 - INFO - Processing normalized subject JZ: cue/gDTF_100Hz
+2025-02-03 18:37:14,680 - INFO - Saved normalized comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison_Normalized\cue_gDTF_100Hz_JZ_comparison_normalized.png
+2025-02-03 18:37:14,680 - INFO - Processing normalized subject LT: cue/gDTF_100Hz
+2025-02-03 18:37:16,142 - INFO - Saved normalized comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison_Normalized\cue_gDTF_100Hz_LT_comparison_normalized.png
+2025-02-03 18:37:16,142 - INFO - Processing normalized subject NvA: cue/gDTF_100Hz
+2025-02-03 18:37:17,629 - INFO - Saved normalized comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison_Normalized\cue_gDTF_100Hz_NvA_comparison_normalized.png
+2025-02-03 18:37:17,629 - INFO - Processing normalized subject RR: cue/gDTF_100Hz
+2025-02-03 18:37:19,063 - INFO - Saved normalized comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison_Normalized\cue_gDTF_100Hz_RR_comparison_normalized.png
+2025-02-03 18:37:19,063 - INFO - Processing normalized subject SJB: cue/gDTF_100Hz
+2025-02-03 18:37:18,306 - INFO - Saved normalized comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison_Normalized\cue_gDTF_100Hz_SJB_comparison_normalized.png
+2025-02-03 18:37:18,306 - INFO - Processing normalized subject BG: cue/gDTF_100Hz
+2025-02-03 18:37:19,733 - INFO - Saved normalized comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison_Normalized\cue_gDTF_100Hz_BG_comparison_normalized.png
+2025-02-03 18:37:19,733 - INFO - Processing normalized subject DOC: cue/iPDC_10Hz
+2025-02-03 18:37:21,189 - INFO - Saved normalized comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison_Normalized\cue_iPDC_10Hz_DOC_comparison_normalized.png
+2025-02-03 18:37:21,189 - INFO - Processing normalized subject GB: cue/iPDC_10Hz
+2025-02-03 18:37:22,696 - INFO - Saved normalized comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison_Normalized\cue_iPDC_10Hz_GB_comparison_normalized.png
+2025-02-03 18:37:22,696 - INFO - Processing normalized subject JDC: cue/iPDC_10Hz
+2025-02-03 18:37:24,129 - INFO - Saved normalized comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison_Normalized\cue_iPDC_10Hz_JDC_comparison_normalized.png
+2025-02-03 18:37:24,129 - INFO - Processing normalized subject JFXD: cue/iPDC_10Hz
+2025-02-03 18:37:25,556 - INFO - Saved normalized comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison_Normalized\cue_iPDC_10Hz_JFXD_comparison_normalized.png
+2025-02-03 18:37:25,556 - INFO - Processing normalized subject JZ: cue/iPDC_10Hz
+2025-02-03 18:37:27,006 - INFO - Saved normalized comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison_Normalized\cue_iPDC_10Hz_JZ_comparison_normalized.png
+2025-02-03 18:37:27,006 - INFO - Processing normalized subject LT: cue/iPDC_10Hz
+2025-02-03 18:37:28,401 - INFO - Saved normalized comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison_Normalized\cue_iPDC_10Hz_LT_comparison_normalized.png
+2025-02-03 18:37:28,401 - INFO - Processing normalized subject NvA: cue/iPDC_10Hz
+2025-02-03 18:37:29,890 - INFO - Saved normalized comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison_Normalized\cue_iPDC_10Hz_NvA_comparison_normalized.png
+2025-02-03 18:37:29,890 - INFO - Processing normalized subject RR: cue/iPDC_10Hz
+2025-02-03 18:37:31,289 - INFO - Saved normalized comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison_Normalized\cue_iPDC_10Hz_RR_comparison_normalized.png
+2025-02-03 18:37:31,290 - INFO - Processing normalized subject SJB: cue/iPDC_10Hz
+2025-02-03 18:37:32,688 - INFO - Saved normalized comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison_Normalized\cue_iPDC_10Hz_SJB_comparison_normalized.png
+2025-02-03 18:37:32,688 - INFO - Processing normalized subject BG: cue/iPDC_10Hz
+2025-02-03 18:37:34,159 - INFO - Saved normalized comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison_Normalized\cue_iPDC_10Hz_BG_comparison_normalized.png
+2025-02-03 18:37:34,159 - INFO - Processing normalized subject DOC: cue/iPDC_20Hz
+2025-02-03 18:37:35,549 - INFO - Saved normalized comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison_Normalized\cue_iPDC_20Hz_DOC_comparison_normalized.png
+2025-02-03 18:37:35,549 - INFO - Processing normalized subject GB: cue/iPDC_20Hz
+2025-02-03 18:37:37,003 - INFO - Saved normalized comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison_Normalized\cue_iPDC_20Hz_GB_comparison_normalized.png
+2025-02-03 18:37:37,003 - INFO - Processing normalized subject JDC: cue/iPDC_20Hz
+2025-02-03 18:37:38,413 - INFO - Saved normalized comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison_Normalized\cue_iPDC_20Hz_JDC_comparison_normalized.png
+2025-02-03 18:37:38,413 - INFO - Processing normalized subject JFXD: cue/iPDC_20Hz
+2025-02-03 18:37:39,853 - INFO - Saved normalized comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison_Normalized\cue_iPDC_20Hz_JFXD_comparison_normalized.png
+2025-02-03 18:37:39,853 - INFO - Processing normalized subject JZ: cue/iPDC_20Hz
+2025-02-03 18:37:41,381 - INFO - Saved normalized comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison_Normalized\cue_iPDC_20Hz_JZ_comparison_normalized.png
+2025-02-03 18:37:41,381 - INFO - Processing normalized subject LT: cue/iPDC_20Hz
+2025-02-03 18:37:42,830 - INFO - Saved normalized comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison_Normalized\cue_iPDC_20Hz_LT_comparison_normalized.png
+2025-02-03 18:37:42,830 - INFO - Processing normalized subject NvA: cue/iPDC_20Hz
+2025-02-03 18:37:44,253 - INFO - Saved normalized comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison_Normalized\cue_iPDC_20Hz_NvA_comparison_normalized.png
+2025-02-03 18:37:44,253 - INFO - Processing normalized subject RR: cue/iPDC_20Hz
+2025-02-03 18:37:45,722 - INFO - Saved normalized comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison_Normalized\cue_iPDC_20Hz_RR_comparison_normalized.png
+2025-02-03 18:37:45,722 - INFO - Processing normalized subject SJB: cue/iPDC_20Hz
+2025-02-03 18:37:47,143 - INFO - Saved normalized comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison_Normalized\cue_iPDC_20Hz_SJB_comparison_normalized.png
+2025-02-03 18:37:47,143 - INFO - Processing normalized subject BG: cue/iPDC_20Hz
+2025-02-03 18:37:48,615 - INFO - Saved normalized comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison_Normalized\cue_iPDC_20Hz_BG_comparison_normalized.png
+2025-02-03 18:37:48,615 - INFO - Processing normalized subject DOC: cue/iPDC_100Hz
+2025-02-03 18:37:50,029 - INFO - Saved normalized comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison_Normalized\cue_iPDC_100Hz_DOC_comparison_normalized.png
+2025-02-03 18:37:50,029 - INFO - Processing normalized subject GB: cue/iPDC_100Hz
+2025-02-03 18:37:51,458 - INFO - Saved normalized comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison_Normalized\cue_iPDC_100Hz_GB_comparison_normalized.png
+2025-02-03 18:37:51,458 - INFO - Processing normalized subject JDC: cue/iPDC_100Hz
+2025-02-03 18:37:52,981 - INFO - Saved normalized comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison_Normalized\cue_iPDC_100Hz_JDC_comparison_normalized.png
+2025-02-03 18:37:52,981 - INFO - Processing normalized subject JFXD: cue/iPDC_100Hz
+2025-02-03 18:37:54,437 - INFO - Saved normalized comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison_Normalized\cue_iPDC_100Hz_JFXD_comparison_normalized.png
+2025-02-03 18:37:54,437 - INFO - Processing normalized subject JZ: cue/iPDC_100Hz
+2025-02-03 18:37:55,912 - INFO - Saved normalized comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison_Normalized\cue_iPDC_100Hz_JZ_comparison_normalized.png
+2025-02-03 18:37:55,912 - INFO - Processing normalized subject LT: cue/iPDC_100Hz
+2025-02-03 18:37:57,371 - INFO - Saved normalized comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison_Normalized\cue_iPDC_100Hz_LT_comparison_normalized.png
+2025-02-03 18:37:57,371 - INFO - Processing normalized subject NvA: cue/iPDC_100Hz
+2025-02-03 18:37:58,803 - INFO - Saved normalized comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison_Normalized\cue_iPDC_100Hz_NvA_comparison_normalized.png
+2025-02-03 18:37:58,803 - INFO - Processing normalized subject RR: cue/iPDC_100Hz
+2025-02-03 18:38:00,266 - INFO - Saved normalized comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison_Normalized\cue_iPDC_100Hz_RR_comparison_normalized.png
+2025-02-03 18:38:00,266 - INFO - Processing normalized subject SJB: cue/iPDC_100Hz
+2025-02-03 18:38:01,674 - INFO - Saved normalized comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison_Normalized\cue_iPDC_100Hz_SJB_comparison_normalized.png
+2025-02-03 18:38:01,674 - INFO - Processing normalized subject BG: cue/iPDC_100Hz
+2025-02-03 18:38:03,064 - INFO - Saved normalized comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison_Normalized\cue_iPDC_100Hz_BG_comparison_normalized.png
+2025-02-03 18:38:03,064 - INFO - Processing normalized subject DOC: cue/gPDC_10Hz
+2025-02-03 18:38:04,534 - INFO - Saved normalized comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison_Normalized\cue_gPDC_10Hz_DOC_comparison_normalized.png
+2025-02-03 18:38:04,534 - INFO - Processing normalized subject GB: cue/gPDC_10Hz
+2025-02-03 18:38:05,940 - INFO - Saved normalized comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison_Normalized\cue_gPDC_10Hz_GB_comparison_normalized.png
+2025-02-03 18:38:05,940 - INFO - Processing normalized subject JDC: cue/gPDC_10Hz
+2025-02-03 18:38:07,398 - INFO - Saved normalized comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison_Normalized\cue_gPDC_10Hz_JDC_comparison_normalized.png
+2025-02-03 18:38:07,398 - INFO - Processing normalized subject JFXD: cue/gPDC_10Hz
+2025-02-03 18:38:08,845 - INFO - Saved normalized comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison_Normalized\cue_gPDC_10Hz_JFXD_comparison_normalized.png
+2025-02-03 18:38:08,845 - INFO - Processing normalized subject JZ: cue/gPDC_10Hz
+2025-02-03 18:38:10,301 - INFO - Saved normalized comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison_Normalized\cue_gPDC_10Hz_JZ_comparison_normalized.png
+2025-02-03 18:38:10,301 - INFO - Processing normalized subject LT: cue/gPDC_10Hz
+2025-02-03 18:38:11,787 - INFO - Saved normalized comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison_Normalized\cue_gPDC_10Hz_LT_comparison_normalized.png
+2025-02-03 18:38:11,787 - INFO - Processing normalized subject NvA: cue/gPDC_10Hz
+2025-02-03 18:38:13,210 - INFO - Saved normalized comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison_Normalized\cue_gPDC_10Hz_NvA_comparison_normalized.png
+2025-02-03 18:38:13,210 - INFO - Processing normalized subject RR: cue/gPDC_10Hz
+2025-02-03 18:38:14,696 - INFO - Saved normalized comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison_Normalized\cue_gPDC_10Hz_RR_comparison_normalized.png
+2025-02-03 18:38:14,696 - INFO - Processing normalized subject SJB: cue/gPDC_10Hz
+2025-02-03 18:38:16,104 - INFO - Saved normalized comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison_Normalized\cue_gPDC_10Hz_SJB_comparison_normalized.png
+2025-02-03 18:38:16,104 - INFO - Processing normalized subject BG: cue/gPDC_10Hz
+2025-02-03 18:38:17,524 - INFO - Saved normalized comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison_Normalized\cue_gPDC_10Hz_BG_comparison_normalized.png
+2025-02-03 18:38:17,524 - INFO - Processing normalized subject DOC: cue/gPDC_20Hz
+2025-02-03 18:38:19,017 - INFO - Saved normalized comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison_Normalized\cue_gPDC_20Hz_DOC_comparison_normalized.png
+2025-02-03 18:38:19,017 - INFO - Processing normalized subject GB: cue/gPDC_20Hz
+2025-02-03 18:38:20,461 - INFO - Saved normalized comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison_Normalized\cue_gPDC_20Hz_GB_comparison_normalized.png
+2025-02-03 18:38:20,461 - INFO - Processing normalized subject JDC: cue/gPDC_20Hz
+2025-02-03 18:38:21,946 - INFO - Saved normalized comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison_Normalized\cue_gPDC_20Hz_JDC_comparison_normalized.png
+2025-02-03 18:38:21,946 - INFO - Processing normalized subject JFXD: cue/gPDC_20Hz
+2025-02-03 18:38:23,476 - INFO - Saved normalized comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison_Normalized\cue_gPDC_20Hz_JFXD_comparison_normalized.png
+2025-02-03 18:38:23,476 - INFO - Processing normalized subject JZ: cue/gPDC_20Hz
+2025-02-03 18:38:24,900 - INFO - Saved normalized comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison_Normalized\cue_gPDC_20Hz_JZ_comparison_normalized.png
+2025-02-03 18:38:24,900 - INFO - Processing normalized subject LT: cue/gPDC_20Hz
+2025-02-03 18:38:26,391 - INFO - Saved normalized comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison_Normalized\cue_gPDC_20Hz_LT_comparison_normalized.png
+2025-02-03 18:38:26,397 - INFO - Processing normalized subject NvA: cue/gPDC_20Hz
+2025-02-03 18:38:27,819 - INFO - Saved normalized comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison_Normalized\cue_gPDC_20Hz_NvA_comparison_normalized.png
+2025-02-03 18:38:27,819 - INFO - Processing normalized subject RR: cue/gPDC_20Hz
+2025-02-03 18:38:29,216 - INFO - Saved normalized comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison_Normalized\cue_gPDC_20Hz_RR_comparison_normalized.png
+2025-02-03 18:38:29,216 - INFO - Processing normalized subject SJB: cue/gPDC_20Hz
+2025-02-03 18:38:30,722 - INFO - Saved normalized comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison_Normalized\cue_gPDC_20Hz_SJB_comparison_normalized.png
+2025-02-03 18:38:30,722 - INFO - Processing normalized subject BG: cue/gPDC_20Hz
+2025-02-03 18:38:32,184 - INFO - Saved normalized comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison_Normalized\cue_gPDC_20Hz_BG_comparison_normalized.png
+2025-02-03 18:38:32,184 - INFO - Processing normalized subject DOC: cue/gPDC_100Hz
+2025-02-03 18:38:33,729 - INFO - Saved normalized comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison_Normalized\cue_gPDC_100Hz_DOC_comparison_normalized.png
+2025-02-03 18:38:33,729 - INFO - Processing normalized subject GB: cue/gPDC_100Hz
+2025-02-03 18:38:35,163 - INFO - Saved normalized comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison_Normalized\cue_gPDC_100Hz_GB_comparison_normalized.png
+2025-02-03 18:38:35,163 - INFO - Processing normalized subject JDC: cue/gPDC_100Hz
+2025-02-03 18:38:36,602 - INFO - Saved normalized comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison_Normalized\cue_gPDC_100Hz_JDC_comparison_normalized.png
+2025-02-03 18:38:36,602 - INFO - Processing normalized subject JFXD: cue/gPDC_100Hz
+2025-02-03 18:38:38,095 - INFO - Saved normalized comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison_Normalized\cue_gPDC_100Hz_JFXD_comparison_normalized.png
+2025-02-03 18:38:38,095 - INFO - Processing normalized subject JZ: cue/gPDC_100Hz
+2025-02-03 18:38:39,604 - INFO - Saved normalized comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison_Normalized\cue_gPDC_100Hz_JZ_comparison_normalized.png
+2025-02-03 18:38:39,604 - INFO - Processing normalized subject LT: cue/gPDC_100Hz
+2025-02-03 18:38:41,029 - INFO - Saved normalized comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison_Normalized\cue_gPDC_100Hz_LT_comparison_normalized.png
+2025-02-03 18:38:41,029 - INFO - Processing normalized subject NvA: cue/gPDC_100Hz
+2025-02-03 18:38:42,641 - INFO - Saved normalized comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison_Normalized\cue_gPDC_100Hz_NvA_comparison_normalized.png
+2025-02-03 18:38:42,641 - INFO - Processing normalized subject RR: cue/gPDC_100Hz
+2025-02-03 18:38:44,062 - INFO - Saved normalized comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison_Normalized\cue_gPDC_100Hz_RR_comparison_normalized.png
+2025-02-03 18:38:44,062 - INFO - Processing normalized subject SJB: cue/gPDC_100Hz
+2025-02-03 18:38:45,568 - INFO - Saved normalized comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison_Normalized\cue_gPDC_100Hz_SJB_comparison_normalized.png
+2025-02-03 18:38:45,568 - INFO - Processing normalized subject BG: cue/gPDC_100Hz
+2025-02-03 18:38:47,114 - INFO - Saved normalized comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison_Normalized\cue_gPDC_100Hz_BG_comparison_normalized.png
+2025-02-03 18:38:47,114 - INFO - Processing normalized subject DOC: mov/iDTF_10Hz
+2025-02-03 18:38:48,540 - INFO - Saved normalized comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison_Normalized\mov_iDTF_10Hz_DOC_comparison_normalized.png
+2025-02-03 18:38:48,540 - INFO - Processing normalized subject GB: mov/iDTF_10Hz
+2025-02-03 18:38:49,965 - INFO - Saved normalized comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison_Normalized\mov_iDTF_10Hz_GB_comparison_normalized.png
+2025-02-03 18:38:49,965 - INFO - Processing normalized subject JDC: mov/iDTF_10Hz
+2025-02-03 18:38:51,340 - INFO - Saved normalized comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison_Normalized\mov_iDTF_10Hz_JDC_comparison_normalized.png
+2025-02-03 18:38:51,340 - INFO - Processing normalized subject JFXD: mov/iDTF_10Hz
+2025-02-03 18:38:52,795 - INFO - Saved normalized comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison_Normalized\mov_iDTF_10Hz_JFXD_comparison_normalized.png
+2025-02-03 18:38:52,795 - INFO - Processing normalized subject JZ: mov/iDTF_10Hz
+2025-02-03 18:38:54,230 - INFO - Saved normalized comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison_Normalized\mov_iDTF_10Hz_JZ_comparison_normalized.png
+2025-02-03 18:38:54,239 - INFO - Processing normalized subject LT: mov/iDTF_10Hz
+2025-02-03 18:38:55,616 - INFO - Saved normalized comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison_Normalized\mov_iDTF_10Hz_LT_comparison_normalized.png
+2025-02-03 18:38:55,616 - INFO - Processing normalized subject NvA: mov/iDTF_10Hz
+2025-02-03 18:38:57,072 - INFO - Saved normalized comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison_Normalized\mov_iDTF_10Hz_NvA_comparison_normalized.png
+2025-02-03 18:38:57,072 - INFO - Processing normalized subject RR: mov/iDTF_10Hz
+2025-02-03 18:38:58,477 - INFO - Saved normalized comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison_Normalized\mov_iDTF_10Hz_RR_comparison_normalized.png
+2025-02-03 18:38:58,477 - INFO - Processing normalized subject SJB: mov/iDTF_10Hz
+2025-02-03 18:38:59,877 - INFO - Saved normalized comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison_Normalized\mov_iDTF_10Hz_SJB_comparison_normalized.png
+2025-02-03 18:38:59,878 - INFO - Processing normalized subject BG: mov/iDTF_10Hz
+2025-02-03 18:39:01,299 - INFO - Saved normalized comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison_Normalized\mov_iDTF_10Hz_BG_comparison_normalized.png
+2025-02-03 18:39:01,299 - INFO - Processing normalized subject DOC: mov/iDTF_20Hz
+2025-02-03 18:39:02,702 - INFO - Saved normalized comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison_Normalized\mov_iDTF_20Hz_DOC_comparison_normalized.png
+2025-02-03 18:39:02,703 - INFO - Processing normalized subject GB: mov/iDTF_20Hz
+2025-02-03 18:39:04,136 - INFO - Saved normalized comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison_Normalized\mov_iDTF_20Hz_GB_comparison_normalized.png
+2025-02-03 18:39:04,136 - INFO - Processing normalized subject JDC: mov/iDTF_20Hz
+2025-02-03 18:39:05,512 - INFO - Saved normalized comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison_Normalized\mov_iDTF_20Hz_JDC_comparison_normalized.png
+2025-02-03 18:39:05,513 - INFO - Processing normalized subject JFXD: mov/iDTF_20Hz
+2025-02-03 18:39:06,896 - INFO - Saved normalized comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison_Normalized\mov_iDTF_20Hz_JFXD_comparison_normalized.png
+2025-02-03 18:39:06,896 - INFO - Processing normalized subject JZ: mov/iDTF_20Hz
+2025-02-03 18:39:08,332 - INFO - Saved normalized comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison_Normalized\mov_iDTF_20Hz_JZ_comparison_normalized.png
+2025-02-03 18:39:08,332 - INFO - Processing normalized subject LT: mov/iDTF_20Hz
+2025-02-03 18:39:09,731 - INFO - Saved normalized comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison_Normalized\mov_iDTF_20Hz_LT_comparison_normalized.png
+2025-02-03 18:39:09,731 - INFO - Processing normalized subject NvA: mov/iDTF_20Hz
+2025-02-03 18:39:11,156 - INFO - Saved normalized comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison_Normalized\mov_iDTF_20Hz_NvA_comparison_normalized.png
+2025-02-03 18:39:11,156 - INFO - Processing normalized subject RR: mov/iDTF_20Hz
+2025-02-03 18:39:12,543 - INFO - Saved normalized comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison_Normalized\mov_iDTF_20Hz_RR_comparison_normalized.png
+2025-02-03 18:39:12,543 - INFO - Processing normalized subject SJB: mov/iDTF_20Hz
+2025-02-03 18:39:13,915 - INFO - Saved normalized comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison_Normalized\mov_iDTF_20Hz_SJB_comparison_normalized.png
+2025-02-03 18:39:13,916 - INFO - Processing normalized subject BG: mov/iDTF_20Hz
+2025-02-03 18:39:15,398 - INFO - Saved normalized comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison_Normalized\mov_iDTF_20Hz_BG_comparison_normalized.png
+2025-02-03 18:39:15,398 - INFO - Processing normalized subject DOC: mov/iDTF_100Hz
+2025-02-03 18:39:16,767 - INFO - Saved normalized comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison_Normalized\mov_iDTF_100Hz_DOC_comparison_normalized.png
+2025-02-03 18:39:16,767 - INFO - Processing normalized subject GB: mov/iDTF_100Hz
+2025-02-03 18:39:18,145 - INFO - Saved normalized comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison_Normalized\mov_iDTF_100Hz_GB_comparison_normalized.png
+2025-02-03 18:39:18,145 - INFO - Processing normalized subject JDC: mov/iDTF_100Hz
+2025-02-03 18:39:19,560 - INFO - Saved normalized comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison_Normalized\mov_iDTF_100Hz_JDC_comparison_normalized.png
+2025-02-03 18:39:19,560 - INFO - Processing normalized subject JFXD: mov/iDTF_100Hz
+2025-02-03 18:39:20,977 - INFO - Saved normalized comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison_Normalized\mov_iDTF_100Hz_JFXD_comparison_normalized.png
+2025-02-03 18:39:20,977 - INFO - Processing normalized subject JZ: mov/iDTF_100Hz
+2025-02-03 18:39:22,404 - INFO - Saved normalized comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison_Normalized\mov_iDTF_100Hz_JZ_comparison_normalized.png
+2025-02-03 18:39:22,404 - INFO - Processing normalized subject LT: mov/iDTF_100Hz
+2025-02-03 18:39:23,790 - INFO - Saved normalized comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison_Normalized\mov_iDTF_100Hz_LT_comparison_normalized.png
+2025-02-03 18:39:23,790 - INFO - Processing normalized subject NvA: mov/iDTF_100Hz
+2025-02-03 18:39:25,179 - INFO - Saved normalized comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison_Normalized\mov_iDTF_100Hz_NvA_comparison_normalized.png
+2025-02-03 18:39:25,179 - INFO - Processing normalized subject RR: mov/iDTF_100Hz
+2025-02-03 18:39:26,605 - INFO - Saved normalized comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison_Normalized\mov_iDTF_100Hz_RR_comparison_normalized.png
+2025-02-03 18:39:26,605 - INFO - Processing normalized subject SJB: mov/iDTF_100Hz
+2025-02-03 18:39:27,996 - INFO - Saved normalized comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison_Normalized\mov_iDTF_100Hz_SJB_comparison_normalized.png
+2025-02-03 18:39:27,997 - INFO - Processing normalized subject BG: mov/iDTF_100Hz
+2025-02-03 18:39:29,442 - INFO - Saved normalized comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison_Normalized\mov_iDTF_100Hz_BG_comparison_normalized.png
+2025-02-03 18:39:29,442 - INFO - Processing normalized subject DOC: mov/gDTF_10Hz
+2025-02-03 18:39:30,865 - INFO - Saved normalized comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison_Normalized\mov_gDTF_10Hz_DOC_comparison_normalized.png
+2025-02-03 18:39:30,865 - INFO - Processing normalized subject GB: mov/gDTF_10Hz
+2025-02-03 18:39:32,303 - INFO - Saved normalized comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison_Normalized\mov_gDTF_10Hz_GB_comparison_normalized.png
+2025-02-03 18:39:32,304 - INFO - Processing normalized subject JDC: mov/gDTF_10Hz
+2025-02-03 18:39:33,852 - INFO - Saved normalized comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison_Normalized\mov_gDTF_10Hz_JDC_comparison_normalized.png
+2025-02-03 18:39:33,852 - INFO - Processing normalized subject JFXD: mov/gDTF_10Hz
+2025-02-03 18:39:35,274 - INFO - Saved normalized comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison_Normalized\mov_gDTF_10Hz_JFXD_comparison_normalized.png
+2025-02-03 18:39:35,274 - INFO - Processing normalized subject JZ: mov/gDTF_10Hz
+2025-02-03 18:39:36,816 - INFO - Saved normalized comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison_Normalized\mov_gDTF_10Hz_JZ_comparison_normalized.png
+2025-02-03 18:39:36,816 - INFO - Processing normalized subject LT: mov/gDTF_10Hz
+2025-02-03 18:39:38,347 - INFO - Saved normalized comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison_Normalized\mov_gDTF_10Hz_LT_comparison_normalized.png
+2025-02-03 18:39:38,347 - INFO - Processing normalized subject NvA: mov/gDTF_10Hz
+2025-02-03 18:39:39,824 - INFO - Saved normalized comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison_Normalized\mov_gDTF_10Hz_NvA_comparison_normalized.png
+2025-02-03 18:39:39,824 - INFO - Processing normalized subject RR: mov/gDTF_10Hz
+2025-02-03 18:39:41,350 - INFO - Saved normalized comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison_Normalized\mov_gDTF_10Hz_RR_comparison_normalized.png
+2025-02-03 18:39:41,350 - INFO - Processing normalized subject SJB: mov/gDTF_10Hz
+2025-02-03 18:39:42,915 - INFO - Saved normalized comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison_Normalized\mov_gDTF_10Hz_SJB_comparison_normalized.png
+2025-02-03 18:39:42,916 - INFO - Processing normalized subject BG: mov/gDTF_10Hz
+2025-02-03 18:39:44,364 - INFO - Saved normalized comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison_Normalized\mov_gDTF_10Hz_BG_comparison_normalized.png
+2025-02-03 18:39:44,364 - INFO - Processing normalized subject DOC: mov/gDTF_20Hz
+2025-02-03 18:39:45,889 - INFO - Saved normalized comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison_Normalized\mov_gDTF_20Hz_DOC_comparison_normalized.png
+2025-02-03 18:39:45,889 - INFO - Processing normalized subject GB: mov/gDTF_20Hz
+2025-02-03 18:39:47,397 - INFO - Saved normalized comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison_Normalized\mov_gDTF_20Hz_GB_comparison_normalized.png
+2025-02-03 18:39:47,397 - INFO - Processing normalized subject JDC: mov/gDTF_20Hz
+2025-02-03 18:39:48,904 - INFO - Saved normalized comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison_Normalized\mov_gDTF_20Hz_JDC_comparison_normalized.png
+2025-02-03 18:39:48,905 - INFO - Processing normalized subject JFXD: mov/gDTF_20Hz
+2025-02-03 18:39:50,377 - INFO - Saved normalized comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison_Normalized\mov_gDTF_20Hz_JFXD_comparison_normalized.png
+2025-02-03 18:39:50,377 - INFO - Processing normalized subject JZ: mov/gDTF_20Hz
+2025-02-03 18:39:51,869 - INFO - Saved normalized comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison_Normalized\mov_gDTF_20Hz_JZ_comparison_normalized.png
+2025-02-03 18:39:51,869 - INFO - Processing normalized subject LT: mov/gDTF_20Hz
+2025-02-03 18:39:53,387 - INFO - Saved normalized comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison_Normalized\mov_gDTF_20Hz_LT_comparison_normalized.png
+2025-02-03 18:39:53,387 - INFO - Processing normalized subject NvA: mov/gDTF_20Hz
+2025-02-03 18:39:54,867 - INFO - Saved normalized comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison_Normalized\mov_gDTF_20Hz_NvA_comparison_normalized.png
+2025-02-03 18:39:54,868 - INFO - Processing normalized subject RR: mov/gDTF_20Hz
+2025-02-03 18:39:56,344 - INFO - Saved normalized comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison_Normalized\mov_gDTF_20Hz_RR_comparison_normalized.png
+2025-02-03 18:39:56,344 - INFO - Processing normalized subject SJB: mov/gDTF_20Hz
+2025-02-03 18:39:57,874 - INFO - Saved normalized comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison_Normalized\mov_gDTF_20Hz_SJB_comparison_normalized.png
+2025-02-03 18:39:57,874 - INFO - Processing normalized subject BG: mov/gDTF_20Hz
+2025-02-03 18:39:59,390 - INFO - Saved normalized comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison_Normalized\mov_gDTF_20Hz_BG_comparison_normalized.png
+2025-02-03 18:39:59,390 - INFO - Processing normalized subject DOC: mov/gDTF_100Hz
+2025-02-03 18:40:00,905 - INFO - Saved normalized comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison_Normalized\mov_gDTF_100Hz_DOC_comparison_normalized.png
+2025-02-03 18:40:00,905 - INFO - Processing normalized subject GB: mov/gDTF_100Hz
+2025-02-03 18:40:02,385 - INFO - Saved normalized comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison_Normalized\mov_gDTF_100Hz_GB_comparison_normalized.png
+2025-02-03 18:40:02,385 - INFO - Processing normalized subject JDC: mov/gDTF_100Hz
+2025-02-03 18:40:03,852 - INFO - Saved normalized comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison_Normalized\mov_gDTF_100Hz_JDC_comparison_normalized.png
+2025-02-03 18:40:03,852 - INFO - Processing normalized subject JFXD: mov/gDTF_100Hz
+2025-02-03 18:40:05,392 - INFO - Saved normalized comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison_Normalized\mov_gDTF_100Hz_JFXD_comparison_normalized.png
+2025-02-03 18:40:05,392 - INFO - Processing normalized subject JZ: mov/gDTF_100Hz
+2025-02-03 18:40:06,847 - INFO - Saved normalized comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison_Normalized\mov_gDTF_100Hz_JZ_comparison_normalized.png
+2025-02-03 18:40:06,847 - INFO - Processing normalized subject LT: mov/gDTF_100Hz
+2025-02-03 18:40:08,388 - INFO - Saved normalized comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison_Normalized\mov_gDTF_100Hz_LT_comparison_normalized.png
+2025-02-03 18:40:08,388 - INFO - Processing normalized subject NvA: mov/gDTF_100Hz
+2025-02-03 18:40:09,814 - INFO - Saved normalized comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison_Normalized\mov_gDTF_100Hz_NvA_comparison_normalized.png
+2025-02-03 18:40:09,814 - INFO - Processing normalized subject RR: mov/gDTF_100Hz
+2025-02-03 18:40:11,263 - INFO - Saved normalized comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison_Normalized\mov_gDTF_100Hz_RR_comparison_normalized.png
+2025-02-03 18:40:11,263 - INFO - Processing normalized subject SJB: mov/gDTF_100Hz
+2025-02-03 18:40:12,792 - INFO - Saved normalized comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison_Normalized\mov_gDTF_100Hz_SJB_comparison_normalized.png
+2025-02-03 18:40:12,793 - INFO - Processing normalized subject BG: mov/gDTF_100Hz
+2025-02-03 18:40:14,212 - INFO - Saved normalized comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison_Normalized\mov_gDTF_100Hz_BG_comparison_normalized.png
+2025-02-03 18:40:14,213 - INFO - Processing normalized subject DOC: mov/iPDC_10Hz
+2025-02-03 18:40:15,676 - INFO - Saved normalized comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison_Normalized\mov_iPDC_10Hz_DOC_comparison_normalized.png
+2025-02-03 18:40:15,676 - INFO - Processing normalized subject GB: mov/iPDC_10Hz
+2025-02-03 18:40:17,153 - INFO - Saved normalized comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison_Normalized\mov_iPDC_10Hz_GB_comparison_normalized.png
+2025-02-03 18:40:17,153 - INFO - Processing normalized subject JDC: mov/iPDC_10Hz
+2025-02-03 18:40:18,601 - INFO - Saved normalized comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison_Normalized\mov_iPDC_10Hz_JDC_comparison_normalized.png
+2025-02-03 18:40:18,602 - INFO - Processing normalized subject JFXD: mov/iPDC_10Hz
+2025-02-03 18:40:20,087 - INFO - Saved normalized comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison_Normalized\mov_iPDC_10Hz_JFXD_comparison_normalized.png
+2025-02-03 18:40:20,087 - INFO - Processing normalized subject JZ: mov/iPDC_10Hz
+2025-02-03 18:40:21,592 - INFO - Saved normalized comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison_Normalized\mov_iPDC_10Hz_JZ_comparison_normalized.png
+2025-02-03 18:40:21,592 - INFO - Processing normalized subject LT: mov/iPDC_10Hz
+2025-02-03 18:40:23,054 - INFO - Saved normalized comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison_Normalized\mov_iPDC_10Hz_LT_comparison_normalized.png
+2025-02-03 18:40:23,055 - INFO - Processing normalized subject NvA: mov/iPDC_10Hz
+2025-02-03 18:40:24,597 - INFO - Saved normalized comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison_Normalized\mov_iPDC_10Hz_NvA_comparison_normalized.png
+2025-02-03 18:40:24,597 - INFO - Processing normalized subject RR: mov/iPDC_10Hz
+2025-02-03 18:40:26,081 - INFO - Saved normalized comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison_Normalized\mov_iPDC_10Hz_RR_comparison_normalized.png
+2025-02-03 18:40:26,082 - INFO - Processing normalized subject SJB: mov/iPDC_10Hz
+2025-02-03 18:40:27,675 - INFO - Saved normalized comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison_Normalized\mov_iPDC_10Hz_SJB_comparison_normalized.png
+2025-02-03 18:40:27,675 - INFO - Processing normalized subject BG: mov/iPDC_10Hz
+2025-02-03 18:40:29,150 - INFO - Saved normalized comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison_Normalized\mov_iPDC_10Hz_BG_comparison_normalized.png
+2025-02-03 18:40:29,151 - INFO - Processing normalized subject DOC: mov/iPDC_20Hz
+2025-02-03 18:40:30,619 - INFO - Saved normalized comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison_Normalized\mov_iPDC_20Hz_DOC_comparison_normalized.png
+2025-02-03 18:40:30,620 - INFO - Processing normalized subject GB: mov/iPDC_20Hz
+2025-02-03 18:40:32,154 - INFO - Saved normalized comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison_Normalized\mov_iPDC_20Hz_GB_comparison_normalized.png
+2025-02-03 18:40:32,154 - INFO - Processing normalized subject JDC: mov/iPDC_20Hz
+2025-02-03 18:40:33,621 - INFO - Saved normalized comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison_Normalized\mov_iPDC_20Hz_JDC_comparison_normalized.png
+2025-02-03 18:40:33,622 - INFO - Processing normalized subject JFXD: mov/iPDC_20Hz
+2025-02-03 18:40:35,103 - INFO - Saved normalized comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison_Normalized\mov_iPDC_20Hz_JFXD_comparison_normalized.png
+2025-02-03 18:40:35,104 - INFO - Processing normalized subject JZ: mov/iPDC_20Hz
+2025-02-03 18:40:36,586 - INFO - Saved normalized comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison_Normalized\mov_iPDC_20Hz_JZ_comparison_normalized.png
+2025-02-03 18:40:36,587 - INFO - Processing normalized subject LT: mov/iPDC_20Hz
+2025-02-03 18:40:38,023 - INFO - Saved normalized comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison_Normalized\mov_iPDC_20Hz_LT_comparison_normalized.png
+2025-02-03 18:40:38,024 - INFO - Processing normalized subject NvA: mov/iPDC_20Hz
+2025-02-03 18:40:39,526 - INFO - Saved normalized comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison_Normalized\mov_iPDC_20Hz_NvA_comparison_normalized.png
+2025-02-03 18:40:39,526 - INFO - Processing normalized subject RR: mov/iPDC_20Hz
+2025-02-03 18:40:41,011 - INFO - Saved normalized comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison_Normalized\mov_iPDC_20Hz_RR_comparison_normalized.png
+2025-02-03 18:40:41,011 - INFO - Processing normalized subject SJB: mov/iPDC_20Hz
+2025-02-03 18:40:42,487 - INFO - Saved normalized comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison_Normalized\mov_iPDC_20Hz_SJB_comparison_normalized.png
+2025-02-03 18:40:42,487 - INFO - Processing normalized subject BG: mov/iPDC_20Hz
+2025-02-03 18:40:44,024 - INFO - Saved normalized comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison_Normalized\mov_iPDC_20Hz_BG_comparison_normalized.png
+2025-02-03 18:40:44,024 - INFO - Processing normalized subject DOC: mov/iPDC_100Hz
+2025-02-03 18:40:45,516 - INFO - Saved normalized comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison_Normalized\mov_iPDC_100Hz_DOC_comparison_normalized.png
+2025-02-03 18:40:45,516 - INFO - Processing normalized subject GB: mov/iPDC_100Hz
+2025-02-03 18:40:47,049 - INFO - Saved normalized comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison_Normalized\mov_iPDC_100Hz_GB_comparison_normalized.png
+2025-02-03 18:40:47,049 - INFO - Processing normalized subject JDC: mov/iPDC_100Hz
+2025-02-03 18:40:48,494 - INFO - Saved normalized comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison_Normalized\mov_iPDC_100Hz_JDC_comparison_normalized.png
+2025-02-03 18:40:48,494 - INFO - Processing normalized subject JFXD: mov/iPDC_100Hz
+2025-02-03 18:40:49,935 - INFO - Saved normalized comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison_Normalized\mov_iPDC_100Hz_JFXD_comparison_normalized.png
+2025-02-03 18:40:49,935 - INFO - Processing normalized subject JZ: mov/iPDC_100Hz
+2025-02-03 18:40:51,453 - INFO - Saved normalized comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison_Normalized\mov_iPDC_100Hz_JZ_comparison_normalized.png
+2025-02-03 18:40:51,454 - INFO - Processing normalized subject LT: mov/iPDC_100Hz
+2025-02-03 18:40:52,899 - INFO - Saved normalized comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison_Normalized\mov_iPDC_100Hz_LT_comparison_normalized.png
+2025-02-03 18:40:52,899 - INFO - Processing normalized subject NvA: mov/iPDC_100Hz
+2025-02-03 18:40:54,366 - INFO - Saved normalized comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison_Normalized\mov_iPDC_100Hz_NvA_comparison_normalized.png
+2025-02-03 18:40:54,366 - INFO - Processing normalized subject RR: mov/iPDC_100Hz
+2025-02-03 18:40:55,875 - INFO - Saved normalized comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison_Normalized\mov_iPDC_100Hz_RR_comparison_normalized.png
+2025-02-03 18:40:55,875 - INFO - Processing normalized subject SJB: mov/iPDC_100Hz
+2025-02-03 18:40:57,364 - INFO - Saved normalized comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison_Normalized\mov_iPDC_100Hz_SJB_comparison_normalized.png
+2025-02-03 18:40:57,364 - INFO - Processing normalized subject BG: mov/iPDC_100Hz
+2025-02-03 18:40:58,881 - INFO - Saved normalized comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison_Normalized\mov_iPDC_100Hz_BG_comparison_normalized.png
+2025-02-03 18:40:58,881 - INFO - Processing normalized subject DOC: mov/gPDC_10Hz
+2025-02-03 18:41:00,363 - INFO - Saved normalized comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison_Normalized\mov_gPDC_10Hz_DOC_comparison_normalized.png
+2025-02-03 18:41:00,363 - INFO - Processing normalized subject GB: mov/gPDC_10Hz
+2025-02-03 18:41:01,835 - INFO - Saved normalized comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison_Normalized\mov_gPDC_10Hz_GB_comparison_normalized.png
+2025-02-03 18:41:01,835 - INFO - Processing normalized subject JDC: mov/gPDC_10Hz
+2025-02-03 18:41:03,335 - INFO - Saved normalized comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison_Normalized\mov_gPDC_10Hz_JDC_comparison_normalized.png
+2025-02-03 18:41:03,336 - INFO - Processing normalized subject JFXD: mov/gPDC_10Hz
+2025-02-03 18:41:04,771 - INFO - Saved normalized comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison_Normalized\mov_gPDC_10Hz_JFXD_comparison_normalized.png
+2025-02-03 18:41:04,772 - INFO - Processing normalized subject JZ: mov/gPDC_10Hz
+2025-02-03 18:41:06,250 - INFO - Saved normalized comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison_Normalized\mov_gPDC_10Hz_JZ_comparison_normalized.png
+2025-02-03 18:41:06,250 - INFO - Processing normalized subject LT: mov/gPDC_10Hz
+2025-02-03 18:41:07,718 - INFO - Saved normalized comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison_Normalized\mov_gPDC_10Hz_LT_comparison_normalized.png
+2025-02-03 18:41:07,718 - INFO - Processing normalized subject NvA: mov/gPDC_10Hz
+2025-02-03 18:41:09,177 - INFO - Saved normalized comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison_Normalized\mov_gPDC_10Hz_NvA_comparison_normalized.png
+2025-02-03 18:41:09,177 - INFO - Processing normalized subject RR: mov/gPDC_10Hz
+2025-02-03 18:41:10,664 - INFO - Saved normalized comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison_Normalized\mov_gPDC_10Hz_RR_comparison_normalized.png
+2025-02-03 18:41:10,664 - INFO - Processing normalized subject SJB: mov/gPDC_10Hz
+2025-02-03 18:41:12,139 - INFO - Saved normalized comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison_Normalized\mov_gPDC_10Hz_SJB_comparison_normalized.png
+2025-02-03 18:41:12,139 - INFO - Processing normalized subject BG: mov/gPDC_10Hz
+2025-02-03 18:41:13,593 - INFO - Saved normalized comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison_Normalized\mov_gPDC_10Hz_BG_comparison_normalized.png
+2025-02-03 18:41:13,594 - INFO - Processing normalized subject DOC: mov/gPDC_20Hz
+2025-02-03 18:41:15,074 - INFO - Saved normalized comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison_Normalized\mov_gPDC_20Hz_DOC_comparison_normalized.png
+2025-02-03 18:41:15,075 - INFO - Processing normalized subject GB: mov/gPDC_20Hz
+2025-02-03 18:41:16,520 - INFO - Saved normalized comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison_Normalized\mov_gPDC_20Hz_GB_comparison_normalized.png
+2025-02-03 18:41:16,521 - INFO - Processing normalized subject JDC: mov/gPDC_20Hz
+2025-02-03 18:41:17,995 - INFO - Saved normalized comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison_Normalized\mov_gPDC_20Hz_JDC_comparison_normalized.png
+2025-02-03 18:41:17,996 - INFO - Processing normalized subject JFXD: mov/gPDC_20Hz
+2025-02-03 18:41:19,433 - INFO - Saved normalized comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison_Normalized\mov_gPDC_20Hz_JFXD_comparison_normalized.png
+2025-02-03 18:41:19,433 - INFO - Processing normalized subject JZ: mov/gPDC_20Hz
+2025-02-03 18:41:20,894 - INFO - Saved normalized comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison_Normalized\mov_gPDC_20Hz_JZ_comparison_normalized.png
+2025-02-03 18:41:20,894 - INFO - Processing normalized subject LT: mov/gPDC_20Hz
+2025-02-03 18:41:22,430 - INFO - Saved normalized comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison_Normalized\mov_gPDC_20Hz_LT_comparison_normalized.png
+2025-02-03 18:41:22,430 - INFO - Processing normalized subject NvA: mov/gPDC_20Hz
+2025-02-03 18:41:23,856 - INFO - Saved normalized comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison_Normalized\mov_gPDC_20Hz_NvA_comparison_normalized.png
+2025-02-03 18:41:23,856 - INFO - Processing normalized subject RR: mov/gPDC_20Hz
+2025-02-03 18:41:25,346 - INFO - Saved normalized comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison_Normalized\mov_gPDC_20Hz_RR_comparison_normalized.png
+2025-02-03 18:41:25,346 - INFO - Processing normalized subject SJB: mov/gPDC_20Hz
+2025-02-03 18:41:26,802 - INFO - Saved normalized comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison_Normalized\mov_gPDC_20Hz_SJB_comparison_normalized.png
+2025-02-03 18:41:26,802 - INFO - Processing normalized subject BG: mov/gPDC_20Hz
+2025-02-03 18:41:28,222 - INFO - Saved normalized comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison_Normalized\mov_gPDC_20Hz_BG_comparison_normalized.png
+2025-02-03 18:41:28,223 - INFO - Processing normalized subject DOC: mov/gPDC_100Hz
+2025-02-03 18:41:29,735 - INFO - Saved normalized comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison_Normalized\mov_gPDC_100Hz_DOC_comparison_normalized.png
+2025-02-03 18:41:29,736 - INFO - Processing normalized subject GB: mov/gPDC_100Hz
+2025-02-03 18:41:31,217 - INFO - Saved normalized comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison_Normalized\mov_gPDC_100Hz_GB_comparison_normalized.png
+2025-02-03 18:41:31,218 - INFO - Processing normalized subject JDC: mov/gPDC_100Hz
+2025-02-03 18:41:32,672 - INFO - Saved normalized comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison_Normalized\mov_gPDC_100Hz_JDC_comparison_normalized.png
+2025-02-03 18:41:32,673 - INFO - Processing normalized subject JFXD: mov/gPDC_100Hz
+2025-02-03 18:41:34,191 - INFO - Saved normalized comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison_Normalized\mov_gPDC_100Hz_JFXD_comparison_normalized.png
+2025-02-03 18:41:34,192 - INFO - Processing normalized subject JZ: mov/gPDC_100Hz
+2025-02-03 18:41:35,646 - INFO - Saved normalized comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison_Normalized\mov_gPDC_100Hz_JZ_comparison_normalized.png
+2025-02-03 18:41:35,647 - INFO - Processing normalized subject LT: mov/gPDC_100Hz
+2025-02-03 18:41:37,185 - INFO - Saved normalized comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison_Normalized\mov_gPDC_100Hz_LT_comparison_normalized.png
+2025-02-03 18:41:37,186 - INFO - Processing normalized subject NvA: mov/gPDC_100Hz
+2025-02-03 18:41:38,631 - INFO - Saved normalized comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison_Normalized\mov_gPDC_100Hz_NvA_comparison_normalized.png
+2025-02-03 18:41:38,631 - INFO - Processing normalized subject RR: mov/gPDC_100Hz
+2025-02-03 18:41:40,050 - INFO - Saved normalized comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison_Normalized\mov_gPDC_100Hz_RR_comparison_normalized.png
+2025-02-03 18:41:40,051 - INFO - Processing normalized subject SJB: mov/gPDC_100Hz
+2025-02-03 18:41:41,532 - INFO - Saved normalized comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison_Normalized\mov_gPDC_100Hz_SJB_comparison_normalized.png
+2025-02-03 18:41:41,532 - INFO - Processing normalized subject BG: mov/gPDC_100Hz
+2025-02-03 18:41:42,985 - INFO - Saved normalized comparison heatmap to: Heatmaps_and_Plots\Heatmaps\Heatmaps_Comparison_Normalized\mov_gPDC_100Hz_BG_comparison_normalized.png
+2025-02-03 18:41:42,987 - INFO - Generated 264 original and 264 normalized comparison heatmaps
+2025-02-03 18:41:42,987 - INFO - Heatmap generation completed

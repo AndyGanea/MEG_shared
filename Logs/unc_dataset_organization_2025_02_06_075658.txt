@@ -1,0 +1,19 @@
+MEG Signal Analysis - UNC Dataset Organization
+============================================
+Organization started at: 2025-02-06 07:56:58
+--------------------------------------------
+
+Processing files...
+Creating folder structure...
+Folder structure created successfully
+
+
+Operation Summary
+================
+Total files processed: 7488
+Total files copied: 0
+Errors encountered: 0
+
+Target directory structure created at: Data\DataSet2_unc
+
+Operation completed at: 2025-02-06 07:56:58

@@ -1,0 +1,130 @@
+2025-03-13 19:13:05,582 - INFO - Starting MEG Connectogram Visualization V2
+2025-03-13 19:13:05,582 - INFO - Selected dataset: DataSet5_Align_cue_626_to_938_unc
+2025-03-13 19:13:05,582 - INFO - Selected analysis type: Wilcoxon
+2025-03-13 19:13:05,583 - INFO - Selected analysis folder: Wilcoxon_03102025-1305
+2025-03-13 19:13:05,583 - INFO - Log file: Logs\connectogram_20250313-191305.log
+2025-03-13 19:13:05,583 - INFO - Processing all folders in Wilcoxon_03102025-1305...
+2025-03-13 19:13:05,583 - INFO - Processing Cue_gDTF_100Hz...
+2025-03-13 19:13:05,585 - INFO - Processing Data\DataSet5_Align_cue_626_to_938_unc\Wilcoxon_03102025-1305\Cue_gDTF_100Hz\gDTF_100Hz_L-R_wilcoxon.csv
+2025-03-13 19:13:05,585 - INFO - Matrix shape: (32, 32)
+2025-03-13 19:13:05,585 - INFO - Found 45 connections out of 1024 possible connections
+2025-03-13 19:13:05,697 - ERROR - Error processing Data\DataSet5_Align_cue_626_to_938_unc\Wilcoxon_03102025-1305\Cue_gDTF_100Hz: draw_networkx_nodes() got an unexpected keyword argument 'zorder'
+2025-03-13 19:13:05,698 - ERROR - Traceback (most recent call last):
+  File "c:\Users\dgane\Apps\MEG\Scripts\meg_circular_connectogram_v2.py", line 601, in process_folder
+    pos_fig = self.create_connectogram(matrix, pos_output_path, pos_title, connection_type="positive")
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\dgane\Apps\MEG\Scripts\meg_circular_connectogram_v2.py", line 360, in create_connectogram
+    nx.draw_networkx_nodes(G, pos,
+TypeError: draw_networkx_nodes() got an unexpected keyword argument 'zorder'
+
+2025-03-13 19:13:05,699 - INFO - Processing Cue_gDTF_10Hz...
+2025-03-13 19:13:05,700 - INFO - Processing Data\DataSet5_Align_cue_626_to_938_unc\Wilcoxon_03102025-1305\Cue_gDTF_10Hz\gDTF_10Hz_L-R_wilcoxon.csv
+2025-03-13 19:13:05,700 - INFO - Matrix shape: (32, 32)
+2025-03-13 19:13:05,700 - INFO - Found 74 connections out of 1024 possible connections
+2025-03-13 19:13:05,762 - ERROR - Error processing Data\DataSet5_Align_cue_626_to_938_unc\Wilcoxon_03102025-1305\Cue_gDTF_10Hz: draw_networkx_nodes() got an unexpected keyword argument 'zorder'
+2025-03-13 19:13:05,763 - ERROR - Traceback (most recent call last):
+  File "c:\Users\dgane\Apps\MEG\Scripts\meg_circular_connectogram_v2.py", line 601, in process_folder
+    pos_fig = self.create_connectogram(matrix, pos_output_path, pos_title, connection_type="positive")
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\dgane\Apps\MEG\Scripts\meg_circular_connectogram_v2.py", line 360, in create_connectogram
+    nx.draw_networkx_nodes(G, pos,
+TypeError: draw_networkx_nodes() got an unexpected keyword argument 'zorder'
+
+2025-03-13 19:13:05,763 - INFO - Processing Cue_gDTF_20Hz...
+2025-03-13 19:13:05,764 - INFO - Processing Data\DataSet5_Align_cue_626_to_938_unc\Wilcoxon_03102025-1305\Cue_gDTF_20Hz\gDTF_20Hz_L-R_wilcoxon.csv
+2025-03-13 19:13:05,765 - INFO - Matrix shape: (32, 32)
+2025-03-13 19:13:05,765 - INFO - Found 59 connections out of 1024 possible connections
+2025-03-13 19:13:05,826 - ERROR - Error processing Data\DataSet5_Align_cue_626_to_938_unc\Wilcoxon_03102025-1305\Cue_gDTF_20Hz: draw_networkx_nodes() got an unexpected keyword argument 'zorder'
+2025-03-13 19:13:05,827 - ERROR - Traceback (most recent call last):
+  File "c:\Users\dgane\Apps\MEG\Scripts\meg_circular_connectogram_v2.py", line 601, in process_folder
+    pos_fig = self.create_connectogram(matrix, pos_output_path, pos_title, connection_type="positive")
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\dgane\Apps\MEG\Scripts\meg_circular_connectogram_v2.py", line 360, in create_connectogram
+    nx.draw_networkx_nodes(G, pos,
+TypeError: draw_networkx_nodes() got an unexpected keyword argument 'zorder'
+
+2025-03-13 19:13:05,827 - INFO - Processing Cue_gPDC_100Hz...
+2025-03-13 19:13:05,828 - INFO - Processing Data\DataSet5_Align_cue_626_to_938_unc\Wilcoxon_03102025-1305\Cue_gPDC_100Hz\gPDC_100Hz_L-R_wilcoxon.csv
+2025-03-13 19:13:05,829 - INFO - Matrix shape: (32, 32)
+2025-03-13 19:13:05,829 - INFO - Found 62 connections out of 1024 possible connections
+2025-03-13 19:13:05,890 - ERROR - Error processing Data\DataSet5_Align_cue_626_to_938_unc\Wilcoxon_03102025-1305\Cue_gPDC_100Hz: draw_networkx_nodes() got an unexpected keyword argument 'zorder'
+2025-03-13 19:13:05,891 - ERROR - Traceback (most recent call last):
+  File "c:\Users\dgane\Apps\MEG\Scripts\meg_circular_connectogram_v2.py", line 601, in process_folder
+    pos_fig = self.create_connectogram(matrix, pos_output_path, pos_title, connection_type="positive")
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\dgane\Apps\MEG\Scripts\meg_circular_connectogram_v2.py", line 360, in create_connectogram
+    nx.draw_networkx_nodes(G, pos,
+TypeError: draw_networkx_nodes() got an unexpected keyword argument 'zorder'
+
+2025-03-13 19:13:05,891 - INFO - Processing Cue_gPDC_10Hz...
+2025-03-13 19:13:05,892 - INFO - Processing Data\DataSet5_Align_cue_626_to_938_unc\Wilcoxon_03102025-1305\Cue_gPDC_10Hz\gPDC_10Hz_L-R_wilcoxon.csv
+2025-03-13 19:13:05,893 - INFO - Matrix shape: (32, 32)
+2025-03-13 19:13:05,893 - INFO - Found 67 connections out of 1024 possible connections
+2025-03-13 19:13:05,955 - ERROR - Error processing Data\DataSet5_Align_cue_626_to_938_unc\Wilcoxon_03102025-1305\Cue_gPDC_10Hz: draw_networkx_nodes() got an unexpected keyword argument 'zorder'
+2025-03-13 19:13:05,956 - ERROR - Traceback (most recent call last):
+  File "c:\Users\dgane\Apps\MEG\Scripts\meg_circular_connectogram_v2.py", line 601, in process_folder
+    pos_fig = self.create_connectogram(matrix, pos_output_path, pos_title, connection_type="positive")
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\dgane\Apps\MEG\Scripts\meg_circular_connectogram_v2.py", line 360, in create_connectogram
+    nx.draw_networkx_nodes(G, pos,
+TypeError: draw_networkx_nodes() got an unexpected keyword argument 'zorder'
+
+2025-03-13 19:13:05,956 - INFO - Processing Cue_gPDC_20Hz...
+2025-03-13 19:13:05,956 - INFO - Processing Data\DataSet5_Align_cue_626_to_938_unc\Wilcoxon_03102025-1305\Cue_gPDC_20Hz\gPDC_20Hz_L-R_wilcoxon.csv
+2025-03-13 19:13:05,957 - INFO - Matrix shape: (32, 32)
+2025-03-13 19:13:05,957 - INFO - Found 70 connections out of 1024 possible connections
+2025-03-13 19:13:06,018 - ERROR - Error processing Data\DataSet5_Align_cue_626_to_938_unc\Wilcoxon_03102025-1305\Cue_gPDC_20Hz: draw_networkx_nodes() got an unexpected keyword argument 'zorder'
+2025-03-13 19:13:06,019 - ERROR - Traceback (most recent call last):
+  File "c:\Users\dgane\Apps\MEG\Scripts\meg_circular_connectogram_v2.py", line 601, in process_folder
+    pos_fig = self.create_connectogram(matrix, pos_output_path, pos_title, connection_type="positive")
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\dgane\Apps\MEG\Scripts\meg_circular_connectogram_v2.py", line 360, in create_connectogram
+    nx.draw_networkx_nodes(G, pos,
+TypeError: draw_networkx_nodes() got an unexpected keyword argument 'zorder'
+
+2025-03-13 19:13:06,019 - INFO - Processing Cue_iPDC_100Hz...
+2025-03-13 19:13:06,020 - INFO - Processing Data\DataSet5_Align_cue_626_to_938_unc\Wilcoxon_03102025-1305\Cue_iPDC_100Hz\iPDC_100Hz_L-R_wilcoxon.csv
+2025-03-13 19:13:06,021 - INFO - Matrix shape: (32, 32)
+2025-03-13 19:13:06,021 - INFO - Found 59 connections out of 1024 possible connections
+2025-03-13 19:13:06,083 - ERROR - Error processing Data\DataSet5_Align_cue_626_to_938_unc\Wilcoxon_03102025-1305\Cue_iPDC_100Hz: draw_networkx_nodes() got an unexpected keyword argument 'zorder'
+2025-03-13 19:13:06,083 - ERROR - Traceback (most recent call last):
+  File "c:\Users\dgane\Apps\MEG\Scripts\meg_circular_connectogram_v2.py", line 601, in process_folder
+    pos_fig = self.create_connectogram(matrix, pos_output_path, pos_title, connection_type="positive")
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\dgane\Apps\MEG\Scripts\meg_circular_connectogram_v2.py", line 360, in create_connectogram
+    nx.draw_networkx_nodes(G, pos,
+TypeError: draw_networkx_nodes() got an unexpected keyword argument 'zorder'
+
+2025-03-13 19:13:06,083 - INFO - Processing Cue_iPDC_10Hz...
+2025-03-13 19:13:06,084 - INFO - Processing Data\DataSet5_Align_cue_626_to_938_unc\Wilcoxon_03102025-1305\Cue_iPDC_10Hz\iPDC_10Hz_L-R_wilcoxon.csv
+2025-03-13 19:13:06,085 - INFO - Matrix shape: (32, 32)
+2025-03-13 19:13:06,085 - INFO - Found 65 connections out of 1024 possible connections
+2025-03-13 19:13:06,149 - ERROR - Error processing Data\DataSet5_Align_cue_626_to_938_unc\Wilcoxon_03102025-1305\Cue_iPDC_10Hz: draw_networkx_nodes() got an unexpected keyword argument 'zorder'
+2025-03-13 19:13:06,150 - ERROR - Traceback (most recent call last):
+  File "c:\Users\dgane\Apps\MEG\Scripts\meg_circular_connectogram_v2.py", line 601, in process_folder
+    pos_fig = self.create_connectogram(matrix, pos_output_path, pos_title, connection_type="positive")
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\dgane\Apps\MEG\Scripts\meg_circular_connectogram_v2.py", line 360, in create_connectogram
+    nx.draw_networkx_nodes(G, pos,
+TypeError: draw_networkx_nodes() got an unexpected keyword argument 'zorder'
+
+2025-03-13 19:13:06,150 - INFO - Processing Cue_iPDC_20Hz...
+2025-03-13 19:13:06,151 - INFO - Processing Data\DataSet5_Align_cue_626_to_938_unc\Wilcoxon_03102025-1305\Cue_iPDC_20Hz\iPDC_20Hz_L-R_wilcoxon.csv
+2025-03-13 19:13:06,151 - INFO - Matrix shape: (32, 32)
+2025-03-13 19:13:06,152 - INFO - Found 62 connections out of 1024 possible connections
+2025-03-13 19:13:06,213 - ERROR - Error processing Data\DataSet5_Align_cue_626_to_938_unc\Wilcoxon_03102025-1305\Cue_iPDC_20Hz: draw_networkx_nodes() got an unexpected keyword argument 'zorder'
+2025-03-13 19:13:06,214 - ERROR - Traceback (most recent call last):
+  File "c:\Users\dgane\Apps\MEG\Scripts\meg_circular_connectogram_v2.py", line 601, in process_folder
+    pos_fig = self.create_connectogram(matrix, pos_output_path, pos_title, connection_type="positive")
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\dgane\Apps\MEG\Scripts\meg_circular_connectogram_v2.py", line 360, in create_connectogram
+    nx.draw_networkx_nodes(G, pos,
+TypeError: draw_networkx_nodes() got an unexpected keyword argument 'zorder'
+
+2025-03-13 19:13:06,214 - INFO - 
+---------------------
+2025-03-13 19:13:06,214 - INFO - Processing complete!
+2025-03-13 19:13:06,215 - INFO - Folders processed: 9
+2025-03-13 19:13:06,215 - INFO - Visualizations created: 0
+2025-03-13 19:13:06,215 - INFO - Errors encountered: 9
+2025-03-13 19:13:06,215 - INFO - Process completed at: 2025-03-13 19:13:06

@@ -1,0 +1,110 @@
+MEG Circular Connectogram Visualization
+=====================================
+Selected dataset: DataSet5_Align_cue_626_to_938_unc
+Analysis type: Wilcoxon
+Selected analysis folder: Wilcoxon_03102025-1305
+Process started at: 2025-03-11 16:20:29
+---------------------
+
+Starting connectogram visualization...
+Found 9 method/frequency folders to process.
+Processing folder: Cue_gDTF_100Hz
+Error processing Data\DataSet5_Align_cue_626_to_938_unc\Wilcoxon_03102025-1305\Cue_gDTF_100Hz: index 31 is out of bounds for axis 1 with size 31
+Traceback (most recent call last):
+  File "c:\Users\dgane\Apps\MEG\Scripts\meg_circular_connectogram.py", line 497, in process_folder
+    self.create_connectogram(matrix, output_path, title)
+  File "c:\Users\dgane\Apps\MEG\Scripts\meg_circular_connectogram.py", line 285, in create_connectogram
+    strength = matrix[orig_i, orig_j]
+               ~~~~~~^^^^^^^^^^^^^^^^
+IndexError: index 31 is out of bounds for axis 1 with size 31
+
+Processing folder: Cue_gDTF_10Hz
+Error processing Data\DataSet5_Align_cue_626_to_938_unc\Wilcoxon_03102025-1305\Cue_gDTF_10Hz: index 31 is out of bounds for axis 1 with size 31
+Traceback (most recent call last):
+  File "c:\Users\dgane\Apps\MEG\Scripts\meg_circular_connectogram.py", line 497, in process_folder
+    self.create_connectogram(matrix, output_path, title)
+  File "c:\Users\dgane\Apps\MEG\Scripts\meg_circular_connectogram.py", line 285, in create_connectogram
+    strength = matrix[orig_i, orig_j]
+               ~~~~~~^^^^^^^^^^^^^^^^
+IndexError: index 31 is out of bounds for axis 1 with size 31
+
+Processing folder: Cue_gDTF_20Hz
+Error processing Data\DataSet5_Align_cue_626_to_938_unc\Wilcoxon_03102025-1305\Cue_gDTF_20Hz: index 31 is out of bounds for axis 1 with size 31
+Traceback (most recent call last):
+  File "c:\Users\dgane\Apps\MEG\Scripts\meg_circular_connectogram.py", line 497, in process_folder
+    self.create_connectogram(matrix, output_path, title)
+  File "c:\Users\dgane\Apps\MEG\Scripts\meg_circular_connectogram.py", line 285, in create_connectogram
+    strength = matrix[orig_i, orig_j]
+               ~~~~~~^^^^^^^^^^^^^^^^
+IndexError: index 31 is out of bounds for axis 1 with size 31
+
+Processing folder: Cue_gPDC_100Hz
+Error processing Data\DataSet5_Align_cue_626_to_938_unc\Wilcoxon_03102025-1305\Cue_gPDC_100Hz: index 31 is out of bounds for axis 1 with size 31
+Traceback (most recent call last):
+  File "c:\Users\dgane\Apps\MEG\Scripts\meg_circular_connectogram.py", line 497, in process_folder
+    self.create_connectogram(matrix, output_path, title)
+  File "c:\Users\dgane\Apps\MEG\Scripts\meg_circular_connectogram.py", line 285, in create_connectogram
+    strength = matrix[orig_i, orig_j]
+               ~~~~~~^^^^^^^^^^^^^^^^
+IndexError: index 31 is out of bounds for axis 1 with size 31
+
+Processing folder: Cue_gPDC_10Hz
+Error processing Data\DataSet5_Align_cue_626_to_938_unc\Wilcoxon_03102025-1305\Cue_gPDC_10Hz: index 31 is out of bounds for axis 1 with size 31
+Traceback (most recent call last):
+  File "c:\Users\dgane\Apps\MEG\Scripts\meg_circular_connectogram.py", line 497, in process_folder
+    self.create_connectogram(matrix, output_path, title)
+  File "c:\Users\dgane\Apps\MEG\Scripts\meg_circular_connectogram.py", line 285, in create_connectogram
+    strength = matrix[orig_i, orig_j]
+               ~~~~~~^^^^^^^^^^^^^^^^
+IndexError: index 31 is out of bounds for axis 1 with size 31
+
+Processing folder: Cue_gPDC_20Hz
+Error processing Data\DataSet5_Align_cue_626_to_938_unc\Wilcoxon_03102025-1305\Cue_gPDC_20Hz: index 31 is out of bounds for axis 1 with size 31
+Traceback (most recent call last):
+  File "c:\Users\dgane\Apps\MEG\Scripts\meg_circular_connectogram.py", line 497, in process_folder
+    self.create_connectogram(matrix, output_path, title)
+  File "c:\Users\dgane\Apps\MEG\Scripts\meg_circular_connectogram.py", line 285, in create_connectogram
+    strength = matrix[orig_i, orig_j]
+               ~~~~~~^^^^^^^^^^^^^^^^
+IndexError: index 31 is out of bounds for axis 1 with size 31
+
+Processing folder: Cue_iPDC_100Hz
+Error processing Data\DataSet5_Align_cue_626_to_938_unc\Wilcoxon_03102025-1305\Cue_iPDC_100Hz: index 31 is out of bounds for axis 1 with size 31
+Traceback (most recent call last):
+  File "c:\Users\dgane\Apps\MEG\Scripts\meg_circular_connectogram.py", line 497, in process_folder
+    self.create_connectogram(matrix, output_path, title)
+  File "c:\Users\dgane\Apps\MEG\Scripts\meg_circular_connectogram.py", line 285, in create_connectogram
+    strength = matrix[orig_i, orig_j]
+               ~~~~~~^^^^^^^^^^^^^^^^
+IndexError: index 31 is out of bounds for axis 1 with size 31
+
+Processing folder: Cue_iPDC_10Hz
+Error processing Data\DataSet5_Align_cue_626_to_938_unc\Wilcoxon_03102025-1305\Cue_iPDC_10Hz: index 31 is out of bounds for axis 1 with size 31
+Traceback (most recent call last):
+  File "c:\Users\dgane\Apps\MEG\Scripts\meg_circular_connectogram.py", line 497, in process_folder
+    self.create_connectogram(matrix, output_path, title)
+  File "c:\Users\dgane\Apps\MEG\Scripts\meg_circular_connectogram.py", line 285, in create_connectogram
+    strength = matrix[orig_i, orig_j]
+               ~~~~~~^^^^^^^^^^^^^^^^
+IndexError: index 31 is out of bounds for axis 1 with size 31
+
+Processing folder: Cue_iPDC_20Hz
+Error processing Data\DataSet5_Align_cue_626_to_938_unc\Wilcoxon_03102025-1305\Cue_iPDC_20Hz: index 31 is out of bounds for axis 1 with size 31
+Traceback (most recent call last):
+  File "c:\Users\dgane\Apps\MEG\Scripts\meg_circular_connectogram.py", line 497, in process_folder
+    self.create_connectogram(matrix, output_path, title)
+  File "c:\Users\dgane\Apps\MEG\Scripts\meg_circular_connectogram.py", line 285, in create_connectogram
+    strength = matrix[orig_i, orig_j]
+               ~~~~~~^^^^^^^^^^^^^^^^
+IndexError: index 31 is out of bounds for axis 1 with size 31
+
+
+Visualization complete!
+
+Operation Summary
+================
+Folders processed: 9
+Visualizations created: 0
+Errors encountered: 9
+
+Process completed at: 2025-03-11 16:20:29

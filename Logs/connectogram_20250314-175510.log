@@ -1,0 +1,364 @@
+2025-03-14 17:55:10,633 - INFO - Starting MEG Connectogram Visualization V2
+2025-03-14 17:55:10,634 - INFO - Selected dataset: DataSet5_Align_cue_626_to_938_unc
+2025-03-14 17:55:10,634 - INFO - Selected analysis type: Wilcoxon
+2025-03-14 17:55:10,634 - INFO - Selected analysis folder: Wilcoxon_03102025-1305
+2025-03-14 17:55:10,634 - INFO - Log file: Logs\connectogram_20250314-175510.log
+2025-03-14 17:55:10,634 - INFO - Processing all folders in Wilcoxon_03102025-1305...
+2025-03-14 17:55:10,635 - INFO - Processing Cue_gDTF_100Hz...
+2025-03-14 17:55:10,635 - INFO - Processing folder: Cue_gDTF_100Hz
+2025-03-14 17:55:10,636 - INFO - Found 1 statistical test files
+2025-03-14 17:55:10,636 - INFO - Processing gDTF_100Hz_L-R (wilcoxon)
+2025-03-14 17:55:10,636 - INFO - Reading connectivity matrix from gDTF_100Hz_L-R_wilcoxon.csv
+2025-03-14 17:55:11,372 - ERROR - Error processing gDTF_100Hz_L-R_wilcoxon.csv: Data given cannot be loaded because it is not compatible with nibabel format:
+-20
+2025-03-14 17:55:11,375 - ERROR - Traceback (most recent call last):
+  File "c:\Users\dgane\Apps\MEG\Scripts\meg_circular_connectogram_brain.py", line 800, in process_folder
+    fig = self.create_brain_visualization(matrix, output_path, title, conn_type)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\dgane\Apps\MEG\Scripts\meg_circular_connectogram_brain.py", line 1046, in create_brain_visualization
+    display.add_edges([edge[0], edge[1]], color=color)
+  File "C:\Users\dgane\AppData\Local\Programs\Python\Python311\Lib\site-packages\nilearn\plotting\displays\_slicers.py", line 599, in add_edges
+    img = reorder_img(img, resample="continuous", copy_header=True)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dgane\AppData\Local\Programs\Python\Python311\Lib\site-packages\nilearn\image\resampling.py", line 849, in reorder_img
+    img = _utils.check_niimg(img)
+          ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dgane\AppData\Local\Programs\Python\Python311\Lib\site-packages\nilearn\_utils\niimg_conversions.py", line 312, in check_niimg
+    return ni.image.concat_imgs(
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dgane\AppData\Local\Programs\Python\Python311\Lib\site-packages\nilearn\image\image.py", line 1545, in concat_imgs
+    first_niimg = check_niimg(next(literator), ensure_ndim=ndim)
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dgane\AppData\Local\Programs\Python\Python311\Lib\site-packages\nilearn\_utils\niimg_conversions.py", line 312, in check_niimg
+    return ni.image.concat_imgs(
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dgane\AppData\Local\Programs\Python\Python311\Lib\site-packages\nilearn\image\image.py", line 1545, in concat_imgs
+    first_niimg = check_niimg(next(literator), ensure_ndim=ndim)
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dgane\AppData\Local\Programs\Python\Python311\Lib\site-packages\nilearn\_utils\niimg_conversions.py", line 317, in check_niimg
+    niimg = load_niimg(niimg, dtype=dtype)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dgane\AppData\Local\Programs\Python\Python311\Lib\site-packages\nilearn\_utils\niimg.py", line 126, in load_niimg
+    raise TypeError(
+TypeError: Data given cannot be loaded because it is not compatible with nibabel format:
+-20
+
+2025-03-14 17:55:11,375 - INFO - Processing Cue_gDTF_10Hz...
+2025-03-14 17:55:11,376 - INFO - Processing folder: Cue_gDTF_10Hz
+2025-03-14 17:55:11,376 - INFO - Found 1 statistical test files
+2025-03-14 17:55:11,376 - INFO - Processing gDTF_10Hz_L-R (wilcoxon)
+2025-03-14 17:55:11,376 - INFO - Reading connectivity matrix from gDTF_10Hz_L-R_wilcoxon.csv
+2025-03-14 17:55:12,033 - ERROR - Error processing gDTF_10Hz_L-R_wilcoxon.csv: Data given cannot be loaded because it is not compatible with nibabel format:
+-10
+2025-03-14 17:55:12,035 - ERROR - Traceback (most recent call last):
+  File "c:\Users\dgane\Apps\MEG\Scripts\meg_circular_connectogram_brain.py", line 800, in process_folder
+    fig = self.create_brain_visualization(matrix, output_path, title, conn_type)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\dgane\Apps\MEG\Scripts\meg_circular_connectogram_brain.py", line 1046, in create_brain_visualization
+    display.add_edges([edge[0], edge[1]], color=color)
+  File "C:\Users\dgane\AppData\Local\Programs\Python\Python311\Lib\site-packages\nilearn\plotting\displays\_slicers.py", line 599, in add_edges
+    img = reorder_img(img, resample="continuous", copy_header=True)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dgane\AppData\Local\Programs\Python\Python311\Lib\site-packages\nilearn\image\resampling.py", line 849, in reorder_img
+    img = _utils.check_niimg(img)
+          ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dgane\AppData\Local\Programs\Python\Python311\Lib\site-packages\nilearn\_utils\niimg_conversions.py", line 312, in check_niimg
+    return ni.image.concat_imgs(
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dgane\AppData\Local\Programs\Python\Python311\Lib\site-packages\nilearn\image\image.py", line 1545, in concat_imgs
+    first_niimg = check_niimg(next(literator), ensure_ndim=ndim)
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dgane\AppData\Local\Programs\Python\Python311\Lib\site-packages\nilearn\_utils\niimg_conversions.py", line 312, in check_niimg
+    return ni.image.concat_imgs(
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dgane\AppData\Local\Programs\Python\Python311\Lib\site-packages\nilearn\image\image.py", line 1545, in concat_imgs
+    first_niimg = check_niimg(next(literator), ensure_ndim=ndim)
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dgane\AppData\Local\Programs\Python\Python311\Lib\site-packages\nilearn\_utils\niimg_conversions.py", line 317, in check_niimg
+    niimg = load_niimg(niimg, dtype=dtype)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dgane\AppData\Local\Programs\Python\Python311\Lib\site-packages\nilearn\_utils\niimg.py", line 126, in load_niimg
+    raise TypeError(
+TypeError: Data given cannot be loaded because it is not compatible with nibabel format:
+-10
+
+2025-03-14 17:55:12,035 - INFO - Processing Cue_gDTF_20Hz...
+2025-03-14 17:55:12,035 - INFO - Processing folder: Cue_gDTF_20Hz
+2025-03-14 17:55:12,036 - INFO - Found 1 statistical test files
+2025-03-14 17:55:12,036 - INFO - Processing gDTF_20Hz_L-R (wilcoxon)
+2025-03-14 17:55:12,036 - INFO - Reading connectivity matrix from gDTF_20Hz_L-R_wilcoxon.csv
+2025-03-14 17:55:12,744 - ERROR - Error processing gDTF_20Hz_L-R_wilcoxon.csv: Data given cannot be loaded because it is not compatible with nibabel format:
+-10
+2025-03-14 17:55:12,745 - ERROR - Traceback (most recent call last):
+  File "c:\Users\dgane\Apps\MEG\Scripts\meg_circular_connectogram_brain.py", line 800, in process_folder
+    fig = self.create_brain_visualization(matrix, output_path, title, conn_type)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\dgane\Apps\MEG\Scripts\meg_circular_connectogram_brain.py", line 1046, in create_brain_visualization
+    display.add_edges([edge[0], edge[1]], color=color)
+  File "C:\Users\dgane\AppData\Local\Programs\Python\Python311\Lib\site-packages\nilearn\plotting\displays\_slicers.py", line 599, in add_edges
+    img = reorder_img(img, resample="continuous", copy_header=True)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dgane\AppData\Local\Programs\Python\Python311\Lib\site-packages\nilearn\image\resampling.py", line 849, in reorder_img
+    img = _utils.check_niimg(img)
+          ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dgane\AppData\Local\Programs\Python\Python311\Lib\site-packages\nilearn\_utils\niimg_conversions.py", line 312, in check_niimg
+    return ni.image.concat_imgs(
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dgane\AppData\Local\Programs\Python\Python311\Lib\site-packages\nilearn\image\image.py", line 1545, in concat_imgs
+    first_niimg = check_niimg(next(literator), ensure_ndim=ndim)
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dgane\AppData\Local\Programs\Python\Python311\Lib\site-packages\nilearn\_utils\niimg_conversions.py", line 312, in check_niimg
+    return ni.image.concat_imgs(
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dgane\AppData\Local\Programs\Python\Python311\Lib\site-packages\nilearn\image\image.py", line 1545, in concat_imgs
+    first_niimg = check_niimg(next(literator), ensure_ndim=ndim)
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dgane\AppData\Local\Programs\Python\Python311\Lib\site-packages\nilearn\_utils\niimg_conversions.py", line 317, in check_niimg
+    niimg = load_niimg(niimg, dtype=dtype)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dgane\AppData\Local\Programs\Python\Python311\Lib\site-packages\nilearn\_utils\niimg.py", line 126, in load_niimg
+    raise TypeError(
+TypeError: Data given cannot be loaded because it is not compatible with nibabel format:
+-10
+
+2025-03-14 17:55:12,745 - INFO - Processing Cue_gPDC_100Hz...
+2025-03-14 17:55:12,745 - INFO - Processing folder: Cue_gPDC_100Hz
+2025-03-14 17:55:12,746 - INFO - Found 1 statistical test files
+2025-03-14 17:55:12,746 - INFO - Processing gPDC_100Hz_L-R (wilcoxon)
+2025-03-14 17:55:12,746 - INFO - Reading connectivity matrix from gPDC_100Hz_L-R_wilcoxon.csv
+2025-03-14 17:55:13,420 - ERROR - Error processing gPDC_100Hz_L-R_wilcoxon.csv: Data given cannot be loaded because it is not compatible with nibabel format:
+-20
+2025-03-14 17:55:13,421 - ERROR - Traceback (most recent call last):
+  File "c:\Users\dgane\Apps\MEG\Scripts\meg_circular_connectogram_brain.py", line 800, in process_folder
+    fig = self.create_brain_visualization(matrix, output_path, title, conn_type)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\dgane\Apps\MEG\Scripts\meg_circular_connectogram_brain.py", line 1046, in create_brain_visualization
+    display.add_edges([edge[0], edge[1]], color=color)
+  File "C:\Users\dgane\AppData\Local\Programs\Python\Python311\Lib\site-packages\nilearn\plotting\displays\_slicers.py", line 599, in add_edges
+    img = reorder_img(img, resample="continuous", copy_header=True)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dgane\AppData\Local\Programs\Python\Python311\Lib\site-packages\nilearn\image\resampling.py", line 849, in reorder_img
+    img = _utils.check_niimg(img)
+          ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dgane\AppData\Local\Programs\Python\Python311\Lib\site-packages\nilearn\_utils\niimg_conversions.py", line 312, in check_niimg
+    return ni.image.concat_imgs(
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dgane\AppData\Local\Programs\Python\Python311\Lib\site-packages\nilearn\image\image.py", line 1545, in concat_imgs
+    first_niimg = check_niimg(next(literator), ensure_ndim=ndim)
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dgane\AppData\Local\Programs\Python\Python311\Lib\site-packages\nilearn\_utils\niimg_conversions.py", line 312, in check_niimg
+    return ni.image.concat_imgs(
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dgane\AppData\Local\Programs\Python\Python311\Lib\site-packages\nilearn\image\image.py", line 1545, in concat_imgs
+    first_niimg = check_niimg(next(literator), ensure_ndim=ndim)
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dgane\AppData\Local\Programs\Python\Python311\Lib\site-packages\nilearn\_utils\niimg_conversions.py", line 317, in check_niimg
+    niimg = load_niimg(niimg, dtype=dtype)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dgane\AppData\Local\Programs\Python\Python311\Lib\site-packages\nilearn\_utils\niimg.py", line 126, in load_niimg
+    raise TypeError(
+TypeError: Data given cannot be loaded because it is not compatible with nibabel format:
+-20
+
+2025-03-14 17:55:13,421 - INFO - Processing Cue_gPDC_10Hz...
+2025-03-14 17:55:13,421 - INFO - Processing folder: Cue_gPDC_10Hz
+2025-03-14 17:55:13,422 - INFO - Found 1 statistical test files
+2025-03-14 17:55:13,422 - INFO - Processing gPDC_10Hz_L-R (wilcoxon)
+2025-03-14 17:55:13,422 - INFO - Reading connectivity matrix from gPDC_10Hz_L-R_wilcoxon.csv
+2025-03-14 17:55:14,095 - ERROR - Error processing gPDC_10Hz_L-R_wilcoxon.csv: Data given cannot be loaded because it is not compatible with nibabel format:
+-10
+2025-03-14 17:55:14,096 - ERROR - Traceback (most recent call last):
+  File "c:\Users\dgane\Apps\MEG\Scripts\meg_circular_connectogram_brain.py", line 800, in process_folder
+    fig = self.create_brain_visualization(matrix, output_path, title, conn_type)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\dgane\Apps\MEG\Scripts\meg_circular_connectogram_brain.py", line 1046, in create_brain_visualization
+    display.add_edges([edge[0], edge[1]], color=color)
+  File "C:\Users\dgane\AppData\Local\Programs\Python\Python311\Lib\site-packages\nilearn\plotting\displays\_slicers.py", line 599, in add_edges
+    img = reorder_img(img, resample="continuous", copy_header=True)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dgane\AppData\Local\Programs\Python\Python311\Lib\site-packages\nilearn\image\resampling.py", line 849, in reorder_img
+    img = _utils.check_niimg(img)
+          ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dgane\AppData\Local\Programs\Python\Python311\Lib\site-packages\nilearn\_utils\niimg_conversions.py", line 312, in check_niimg
+    return ni.image.concat_imgs(
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dgane\AppData\Local\Programs\Python\Python311\Lib\site-packages\nilearn\image\image.py", line 1545, in concat_imgs
+    first_niimg = check_niimg(next(literator), ensure_ndim=ndim)
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dgane\AppData\Local\Programs\Python\Python311\Lib\site-packages\nilearn\_utils\niimg_conversions.py", line 312, in check_niimg
+    return ni.image.concat_imgs(
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dgane\AppData\Local\Programs\Python\Python311\Lib\site-packages\nilearn\image\image.py", line 1545, in concat_imgs
+    first_niimg = check_niimg(next(literator), ensure_ndim=ndim)
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dgane\AppData\Local\Programs\Python\Python311\Lib\site-packages\nilearn\_utils\niimg_conversions.py", line 317, in check_niimg
+    niimg = load_niimg(niimg, dtype=dtype)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dgane\AppData\Local\Programs\Python\Python311\Lib\site-packages\nilearn\_utils\niimg.py", line 126, in load_niimg
+    raise TypeError(
+TypeError: Data given cannot be loaded because it is not compatible with nibabel format:
+-10
+
+2025-03-14 17:55:14,097 - INFO - Processing Cue_gPDC_20Hz...
+2025-03-14 17:55:14,097 - INFO - Processing folder: Cue_gPDC_20Hz
+2025-03-14 17:55:14,098 - INFO - Found 1 statistical test files
+2025-03-14 17:55:14,098 - INFO - Processing gPDC_20Hz_L-R (wilcoxon)
+2025-03-14 17:55:14,098 - INFO - Reading connectivity matrix from gPDC_20Hz_L-R_wilcoxon.csv
+2025-03-14 17:55:14,798 - ERROR - Error processing gPDC_20Hz_L-R_wilcoxon.csv: Data given cannot be loaded because it is not compatible with nibabel format:
+-15
+2025-03-14 17:55:14,799 - ERROR - Traceback (most recent call last):
+  File "c:\Users\dgane\Apps\MEG\Scripts\meg_circular_connectogram_brain.py", line 800, in process_folder
+    fig = self.create_brain_visualization(matrix, output_path, title, conn_type)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\dgane\Apps\MEG\Scripts\meg_circular_connectogram_brain.py", line 1046, in create_brain_visualization
+    display.add_edges([edge[0], edge[1]], color=color)
+  File "C:\Users\dgane\AppData\Local\Programs\Python\Python311\Lib\site-packages\nilearn\plotting\displays\_slicers.py", line 599, in add_edges
+    img = reorder_img(img, resample="continuous", copy_header=True)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dgane\AppData\Local\Programs\Python\Python311\Lib\site-packages\nilearn\image\resampling.py", line 849, in reorder_img
+    img = _utils.check_niimg(img)
+          ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dgane\AppData\Local\Programs\Python\Python311\Lib\site-packages\nilearn\_utils\niimg_conversions.py", line 312, in check_niimg
+    return ni.image.concat_imgs(
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dgane\AppData\Local\Programs\Python\Python311\Lib\site-packages\nilearn\image\image.py", line 1545, in concat_imgs
+    first_niimg = check_niimg(next(literator), ensure_ndim=ndim)
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dgane\AppData\Local\Programs\Python\Python311\Lib\site-packages\nilearn\_utils\niimg_conversions.py", line 312, in check_niimg
+    return ni.image.concat_imgs(
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dgane\AppData\Local\Programs\Python\Python311\Lib\site-packages\nilearn\image\image.py", line 1545, in concat_imgs
+    first_niimg = check_niimg(next(literator), ensure_ndim=ndim)
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dgane\AppData\Local\Programs\Python\Python311\Lib\site-packages\nilearn\_utils\niimg_conversions.py", line 317, in check_niimg
+    niimg = load_niimg(niimg, dtype=dtype)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dgane\AppData\Local\Programs\Python\Python311\Lib\site-packages\nilearn\_utils\niimg.py", line 126, in load_niimg
+    raise TypeError(
+TypeError: Data given cannot be loaded because it is not compatible with nibabel format:
+-15
+
+2025-03-14 17:55:14,799 - INFO - Processing Cue_iPDC_100Hz...
+2025-03-14 17:55:14,800 - INFO - Processing folder: Cue_iPDC_100Hz
+2025-03-14 17:55:14,800 - INFO - Found 1 statistical test files
+2025-03-14 17:55:14,800 - INFO - Processing iPDC_100Hz_L-R (wilcoxon)
+2025-03-14 17:55:14,801 - INFO - Reading connectivity matrix from iPDC_100Hz_L-R_wilcoxon.csv
+2025-03-14 17:55:15,517 - ERROR - Error processing iPDC_100Hz_L-R_wilcoxon.csv: Data given cannot be loaded because it is not compatible with nibabel format:
+-20
+2025-03-14 17:55:15,518 - ERROR - Traceback (most recent call last):
+  File "c:\Users\dgane\Apps\MEG\Scripts\meg_circular_connectogram_brain.py", line 800, in process_folder
+    fig = self.create_brain_visualization(matrix, output_path, title, conn_type)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\dgane\Apps\MEG\Scripts\meg_circular_connectogram_brain.py", line 1046, in create_brain_visualization
+    display.add_edges([edge[0], edge[1]], color=color)
+  File "C:\Users\dgane\AppData\Local\Programs\Python\Python311\Lib\site-packages\nilearn\plotting\displays\_slicers.py", line 599, in add_edges
+    img = reorder_img(img, resample="continuous", copy_header=True)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dgane\AppData\Local\Programs\Python\Python311\Lib\site-packages\nilearn\image\resampling.py", line 849, in reorder_img
+    img = _utils.check_niimg(img)
+          ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dgane\AppData\Local\Programs\Python\Python311\Lib\site-packages\nilearn\_utils\niimg_conversions.py", line 312, in check_niimg
+    return ni.image.concat_imgs(
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dgane\AppData\Local\Programs\Python\Python311\Lib\site-packages\nilearn\image\image.py", line 1545, in concat_imgs
+    first_niimg = check_niimg(next(literator), ensure_ndim=ndim)
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dgane\AppData\Local\Programs\Python\Python311\Lib\site-packages\nilearn\_utils\niimg_conversions.py", line 312, in check_niimg
+    return ni.image.concat_imgs(
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dgane\AppData\Local\Programs\Python\Python311\Lib\site-packages\nilearn\image\image.py", line 1545, in concat_imgs
+    first_niimg = check_niimg(next(literator), ensure_ndim=ndim)
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dgane\AppData\Local\Programs\Python\Python311\Lib\site-packages\nilearn\_utils\niimg_conversions.py", line 317, in check_niimg
+    niimg = load_niimg(niimg, dtype=dtype)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dgane\AppData\Local\Programs\Python\Python311\Lib\site-packages\nilearn\_utils\niimg.py", line 126, in load_niimg
+    raise TypeError(
+TypeError: Data given cannot be loaded because it is not compatible with nibabel format:
+-20
+
+2025-03-14 17:55:15,519 - INFO - Processing Cue_iPDC_10Hz...
+2025-03-14 17:55:15,519 - INFO - Processing folder: Cue_iPDC_10Hz
+2025-03-14 17:55:15,519 - INFO - Found 1 statistical test files
+2025-03-14 17:55:15,520 - INFO - Processing iPDC_10Hz_L-R (wilcoxon)
+2025-03-14 17:55:15,520 - INFO - Reading connectivity matrix from iPDC_10Hz_L-R_wilcoxon.csv
+2025-03-14 17:55:16,323 - ERROR - Error processing iPDC_10Hz_L-R_wilcoxon.csv: Data given cannot be loaded because it is not compatible with nibabel format:
+-10
+2025-03-14 17:55:16,324 - ERROR - Traceback (most recent call last):
+  File "c:\Users\dgane\Apps\MEG\Scripts\meg_circular_connectogram_brain.py", line 800, in process_folder
+    fig = self.create_brain_visualization(matrix, output_path, title, conn_type)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\dgane\Apps\MEG\Scripts\meg_circular_connectogram_brain.py", line 1046, in create_brain_visualization
+    display.add_edges([edge[0], edge[1]], color=color)
+  File "C:\Users\dgane\AppData\Local\Programs\Python\Python311\Lib\site-packages\nilearn\plotting\displays\_slicers.py", line 599, in add_edges
+    img = reorder_img(img, resample="continuous", copy_header=True)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dgane\AppData\Local\Programs\Python\Python311\Lib\site-packages\nilearn\image\resampling.py", line 849, in reorder_img
+    img = _utils.check_niimg(img)
+          ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dgane\AppData\Local\Programs\Python\Python311\Lib\site-packages\nilearn\_utils\niimg_conversions.py", line 312, in check_niimg
+    return ni.image.concat_imgs(
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dgane\AppData\Local\Programs\Python\Python311\Lib\site-packages\nilearn\image\image.py", line 1545, in concat_imgs
+    first_niimg = check_niimg(next(literator), ensure_ndim=ndim)
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dgane\AppData\Local\Programs\Python\Python311\Lib\site-packages\nilearn\_utils\niimg_conversions.py", line 312, in check_niimg
+    return ni.image.concat_imgs(
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dgane\AppData\Local\Programs\Python\Python311\Lib\site-packages\nilearn\image\image.py", line 1545, in concat_imgs
+    first_niimg = check_niimg(next(literator), ensure_ndim=ndim)
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dgane\AppData\Local\Programs\Python\Python311\Lib\site-packages\nilearn\_utils\niimg_conversions.py", line 317, in check_niimg
+    niimg = load_niimg(niimg, dtype=dtype)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dgane\AppData\Local\Programs\Python\Python311\Lib\site-packages\nilearn\_utils\niimg.py", line 126, in load_niimg
+    raise TypeError(
+TypeError: Data given cannot be loaded because it is not compatible with nibabel format:
+-10
+
+2025-03-14 17:55:16,324 - INFO - Processing Cue_iPDC_20Hz...
+2025-03-14 17:55:16,325 - INFO - Processing folder: Cue_iPDC_20Hz
+2025-03-14 17:55:16,325 - INFO - Found 1 statistical test files
+2025-03-14 17:55:16,325 - INFO - Processing iPDC_20Hz_L-R (wilcoxon)
+2025-03-14 17:55:16,325 - INFO - Reading connectivity matrix from iPDC_20Hz_L-R_wilcoxon.csv
+2025-03-14 17:55:17,101 - ERROR - Error processing iPDC_20Hz_L-R_wilcoxon.csv: Data given cannot be loaded because it is not compatible with nibabel format:
+-15
+2025-03-14 17:55:17,102 - ERROR - Traceback (most recent call last):
+  File "c:\Users\dgane\Apps\MEG\Scripts\meg_circular_connectogram_brain.py", line 800, in process_folder
+    fig = self.create_brain_visualization(matrix, output_path, title, conn_type)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\dgane\Apps\MEG\Scripts\meg_circular_connectogram_brain.py", line 1046, in create_brain_visualization
+    display.add_edges([edge[0], edge[1]], color=color)
+  File "C:\Users\dgane\AppData\Local\Programs\Python\Python311\Lib\site-packages\nilearn\plotting\displays\_slicers.py", line 599, in add_edges
+    img = reorder_img(img, resample="continuous", copy_header=True)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dgane\AppData\Local\Programs\Python\Python311\Lib\site-packages\nilearn\image\resampling.py", line 849, in reorder_img
+    img = _utils.check_niimg(img)
+          ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dgane\AppData\Local\Programs\Python\Python311\Lib\site-packages\nilearn\_utils\niimg_conversions.py", line 312, in check_niimg
+    return ni.image.concat_imgs(
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dgane\AppData\Local\Programs\Python\Python311\Lib\site-packages\nilearn\image\image.py", line 1545, in concat_imgs
+    first_niimg = check_niimg(next(literator), ensure_ndim=ndim)
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dgane\AppData\Local\Programs\Python\Python311\Lib\site-packages\nilearn\_utils\niimg_conversions.py", line 312, in check_niimg
+    return ni.image.concat_imgs(
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dgane\AppData\Local\Programs\Python\Python311\Lib\site-packages\nilearn\image\image.py", line 1545, in concat_imgs
+    first_niimg = check_niimg(next(literator), ensure_ndim=ndim)
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dgane\AppData\Local\Programs\Python\Python311\Lib\site-packages\nilearn\_utils\niimg_conversions.py", line 317, in check_niimg
+    niimg = load_niimg(niimg, dtype=dtype)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dgane\AppData\Local\Programs\Python\Python311\Lib\site-packages\nilearn\_utils\niimg.py", line 126, in load_niimg
+    raise TypeError(
+TypeError: Data given cannot be loaded because it is not compatible with nibabel format:
+-15
+
+2025-03-14 17:55:17,102 - INFO - 
+---------------------
+2025-03-14 17:55:17,103 - INFO - Processing complete!
+2025-03-14 17:55:17,103 - INFO - Folders processed: 9
+2025-03-14 17:55:17,103 - INFO - Visualizations created: 0
+2025-03-14 17:55:17,103 - INFO - Errors encountered: 9
+2025-03-14 17:55:17,103 - INFO - Process completed at: 2025-03-14 17:55:17

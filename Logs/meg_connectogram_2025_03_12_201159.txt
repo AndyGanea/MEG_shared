@@ -1,0 +1,115 @@
+MEG Circular Connectogram Visualization
+=====================================
+Selected dataset: DataSet5_Align_cue_626_to_938_unc
+Analysis type: Wilcoxon
+Selected analysis folder: Wilcoxon_03102025-1305
+Process started at: 2025-03-12 20:11:59
+---------------------
+
+Processing all folders in Wilcoxon_03102025-1305...
+Processing Cue_gDTF_100Hz...
+Error processing Data\DataSet5_Align_cue_626_to_938_unc\Wilcoxon_03102025-1305\Cue_gDTF_100Hz: 'PMv-R'
+Traceback (most recent call last):
+  File "c:\Users\dgane\Apps\MEG\Scripts\meg_circular_connectogram.py", line 553, in process_folder
+    fig = self.create_connectogram(matrix, output_path, title)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\dgane\Apps\MEG\Scripts\meg_circular_connectogram.py", line 297, in create_connectogram
+    source_node = region_to_node[source_region]
+                  ~~~~~~~~~~~~~~^^^^^^^^^^^^^^^
+KeyError: 'PMv-R'
+
+Processing Cue_gDTF_10Hz...
+Error processing Data\DataSet5_Align_cue_626_to_938_unc\Wilcoxon_03102025-1305\Cue_gDTF_10Hz: 'PMv-R'
+Traceback (most recent call last):
+  File "c:\Users\dgane\Apps\MEG\Scripts\meg_circular_connectogram.py", line 553, in process_folder
+    fig = self.create_connectogram(matrix, output_path, title)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\dgane\Apps\MEG\Scripts\meg_circular_connectogram.py", line 297, in create_connectogram
+    source_node = region_to_node[source_region]
+                  ~~~~~~~~~~~~~~^^^^^^^^^^^^^^^
+KeyError: 'PMv-R'
+
+Processing Cue_gDTF_20Hz...
+Error processing Data\DataSet5_Align_cue_626_to_938_unc\Wilcoxon_03102025-1305\Cue_gDTF_20Hz: 'PMv-R'
+Traceback (most recent call last):
+  File "c:\Users\dgane\Apps\MEG\Scripts\meg_circular_connectogram.py", line 553, in process_folder
+    fig = self.create_connectogram(matrix, output_path, title)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\dgane\Apps\MEG\Scripts\meg_circular_connectogram.py", line 297, in create_connectogram
+    source_node = region_to_node[source_region]
+                  ~~~~~~~~~~~~~~^^^^^^^^^^^^^^^
+KeyError: 'PMv-R'
+
+Processing Cue_gPDC_100Hz...
+Error processing Data\DataSet5_Align_cue_626_to_938_unc\Wilcoxon_03102025-1305\Cue_gPDC_100Hz: 'PMv-R'
+Traceback (most recent call last):
+  File "c:\Users\dgane\Apps\MEG\Scripts\meg_circular_connectogram.py", line 553, in process_folder
+    fig = self.create_connectogram(matrix, output_path, title)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\dgane\Apps\MEG\Scripts\meg_circular_connectogram.py", line 297, in create_connectogram
+    source_node = region_to_node[source_region]
+                  ~~~~~~~~~~~~~~^^^^^^^^^^^^^^^
+KeyError: 'PMv-R'
+
+Processing Cue_gPDC_10Hz...
+Error processing Data\DataSet5_Align_cue_626_to_938_unc\Wilcoxon_03102025-1305\Cue_gPDC_10Hz: 'PMv-R'
+Traceback (most recent call last):
+  File "c:\Users\dgane\Apps\MEG\Scripts\meg_circular_connectogram.py", line 553, in process_folder
+    fig = self.create_connectogram(matrix, output_path, title)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\dgane\Apps\MEG\Scripts\meg_circular_connectogram.py", line 297, in create_connectogram
+    source_node = region_to_node[source_region]
+                  ~~~~~~~~~~~~~~^^^^^^^^^^^^^^^
+KeyError: 'PMv-R'
+
+Processing Cue_gPDC_20Hz...
+Error processing Data\DataSet5_Align_cue_626_to_938_unc\Wilcoxon_03102025-1305\Cue_gPDC_20Hz: 'PMv-R'
+Traceback (most recent call last):
+  File "c:\Users\dgane\Apps\MEG\Scripts\meg_circular_connectogram.py", line 553, in process_folder
+    fig = self.create_connectogram(matrix, output_path, title)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\dgane\Apps\MEG\Scripts\meg_circular_connectogram.py", line 297, in create_connectogram
+    source_node = region_to_node[source_region]
+                  ~~~~~~~~~~~~~~^^^^^^^^^^^^^^^
+KeyError: 'PMv-R'
+
+Processing Cue_iPDC_100Hz...
+Error processing Data\DataSet5_Align_cue_626_to_938_unc\Wilcoxon_03102025-1305\Cue_iPDC_100Hz: 'PMv-R'
+Traceback (most recent call last):
+  File "c:\Users\dgane\Apps\MEG\Scripts\meg_circular_connectogram.py", line 553, in process_folder
+    fig = self.create_connectogram(matrix, output_path, title)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\dgane\Apps\MEG\Scripts\meg_circular_connectogram.py", line 297, in create_connectogram
+    source_node = region_to_node[source_region]
+                  ~~~~~~~~~~~~~~^^^^^^^^^^^^^^^
+KeyError: 'PMv-R'
+
+Processing Cue_iPDC_10Hz...
+Error processing Data\DataSet5_Align_cue_626_to_938_unc\Wilcoxon_03102025-1305\Cue_iPDC_10Hz: 'PMv-R'
+Traceback (most recent call last):
+  File "c:\Users\dgane\Apps\MEG\Scripts\meg_circular_connectogram.py", line 553, in process_folder
+    fig = self.create_connectogram(matrix, output_path, title)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\dgane\Apps\MEG\Scripts\meg_circular_connectogram.py", line 297, in create_connectogram
+    source_node = region_to_node[source_region]
+                  ~~~~~~~~~~~~~~^^^^^^^^^^^^^^^
+KeyError: 'PMv-R'
+
+Processing Cue_iPDC_20Hz...
+Error processing Data\DataSet5_Align_cue_626_to_938_unc\Wilcoxon_03102025-1305\Cue_iPDC_20Hz: 'PMv-R'
+Traceback (most recent call last):
+  File "c:\Users\dgane\Apps\MEG\Scripts\meg_circular_connectogram.py", line 553, in process_folder
+    fig = self.create_connectogram(matrix, output_path, title)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\dgane\Apps\MEG\Scripts\meg_circular_connectogram.py", line 297, in create_connectogram
+    source_node = region_to_node[source_region]
+                  ~~~~~~~~~~~~~~^^^^^^^^^^^^^^^
+KeyError: 'PMv-R'
+
+
+---------------------
+Processing complete!
+Folders processed: 9
+Visualizations created: 0
+Errors encountered: 9
+Process completed at: 2025-03-12 20:11:59

@@ -1,0 +1,1250 @@
+2025-01-27 18:33:59,382 - INFO - Starting heatmap generation process
+2025-01-27 18:33:59,382 - INFO - 
+Processing: cue/L/iDTF_10Hz
+2025-01-27 18:34:00,217 - INFO - Created overall heatmap: heatmap_cue_L_iDTF_10Hz.png
+2025-01-27 18:34:00,610 - INFO - Created heatmap for subject DOC: heatmap_cue_L_iDTF_10Hz_DOC.png
+2025-01-27 18:34:01,000 - INFO - Created heatmap for subject GB: heatmap_cue_L_iDTF_10Hz_GB.png
+2025-01-27 18:34:01,435 - INFO - Created heatmap for subject JDC: heatmap_cue_L_iDTF_10Hz_JDC.png
+2025-01-27 18:34:01,829 - INFO - Created heatmap for subject JFXD: heatmap_cue_L_iDTF_10Hz_JFXD.png
+2025-01-27 18:34:02,234 - INFO - Created heatmap for subject JZ: heatmap_cue_L_iDTF_10Hz_JZ.png
+2025-01-27 18:34:02,650 - INFO - Created heatmap for subject LT: heatmap_cue_L_iDTF_10Hz_LT.png
+2025-01-27 18:34:03,044 - INFO - Created heatmap for subject NvA: heatmap_cue_L_iDTF_10Hz_NvA.png
+2025-01-27 18:34:03,468 - INFO - Created heatmap for subject RR: heatmap_cue_L_iDTF_10Hz_RR.png
+2025-01-27 18:34:03,959 - INFO - Created heatmap for subject SJB: heatmap_cue_L_iDTF_10Hz_SJB.png
+2025-01-27 18:34:04,384 - INFO - Created heatmap for subject BG: heatmap_cue_L_iDTF_10Hz_BG.png
+2025-01-27 18:34:04,390 - INFO - 
+Processing: cue/L/iDTF_20Hz
+2025-01-27 18:34:04,775 - INFO - Created overall heatmap: heatmap_cue_L_iDTF_20Hz.png
+2025-01-27 18:34:05,169 - INFO - Created heatmap for subject DOC: heatmap_cue_L_iDTF_20Hz_DOC.png
+2025-01-27 18:34:05,556 - INFO - Created heatmap for subject GB: heatmap_cue_L_iDTF_20Hz_GB.png
+2025-01-27 18:34:05,968 - INFO - Created heatmap for subject JDC: heatmap_cue_L_iDTF_20Hz_JDC.png
+2025-01-27 18:34:06,424 - INFO - Created heatmap for subject JFXD: heatmap_cue_L_iDTF_20Hz_JFXD.png
+2025-01-27 18:34:06,814 - INFO - Created heatmap for subject JZ: heatmap_cue_L_iDTF_20Hz_JZ.png
+2025-01-27 18:34:07,197 - INFO - Created heatmap for subject LT: heatmap_cue_L_iDTF_20Hz_LT.png
+2025-01-27 18:34:07,608 - INFO - Created heatmap for subject NvA: heatmap_cue_L_iDTF_20Hz_NvA.png
+2025-01-27 18:34:08,019 - INFO - Created heatmap for subject RR: heatmap_cue_L_iDTF_20Hz_RR.png
+2025-01-27 18:34:08,468 - INFO - Created heatmap for subject SJB: heatmap_cue_L_iDTF_20Hz_SJB.png
+2025-01-27 18:34:08,903 - INFO - Created heatmap for subject BG: heatmap_cue_L_iDTF_20Hz_BG.png
+2025-01-27 18:34:08,903 - INFO - 
+Processing: cue/L/iDTF_100Hz
+2025-01-27 18:34:09,294 - INFO - Created overall heatmap: heatmap_cue_L_iDTF_100Hz.png
+2025-01-27 18:34:09,686 - INFO - Created heatmap for subject DOC: heatmap_cue_L_iDTF_100Hz_DOC.png
+2025-01-27 18:34:10,094 - INFO - Created heatmap for subject GB: heatmap_cue_L_iDTF_100Hz_GB.png
+2025-01-27 18:34:10,486 - INFO - Created heatmap for subject JDC: heatmap_cue_L_iDTF_100Hz_JDC.png
+2025-01-27 18:34:10,886 - INFO - Created heatmap for subject JFXD: heatmap_cue_L_iDTF_100Hz_JFXD.png
+2025-01-27 18:34:11,285 - INFO - Created heatmap for subject JZ: heatmap_cue_L_iDTF_100Hz_JZ.png
+2025-01-27 18:34:11,726 - INFO - Created heatmap for subject LT: heatmap_cue_L_iDTF_100Hz_LT.png
+2025-01-27 18:34:12,125 - INFO - Created heatmap for subject NvA: heatmap_cue_L_iDTF_100Hz_NvA.png
+2025-01-27 18:34:12,525 - INFO - Created heatmap for subject RR: heatmap_cue_L_iDTF_100Hz_RR.png
+2025-01-27 18:34:12,915 - INFO - Created heatmap for subject SJB: heatmap_cue_L_iDTF_100Hz_SJB.png
+2025-01-27 18:34:13,312 - INFO - Created heatmap for subject BG: heatmap_cue_L_iDTF_100Hz_BG.png
+2025-01-27 18:34:13,313 - INFO - 
+Processing: cue/L/gDTF_10Hz
+2025-01-27 18:34:13,715 - INFO - Created overall heatmap: heatmap_cue_L_gDTF_10Hz.png
+2025-01-27 18:34:14,156 - INFO - Created heatmap for subject DOC: heatmap_cue_L_gDTF_10Hz_DOC.png
+2025-01-27 18:34:14,546 - INFO - Created heatmap for subject GB: heatmap_cue_L_gDTF_10Hz_GB.png
+2025-01-27 18:34:14,938 - INFO - Created heatmap for subject JDC: heatmap_cue_L_gDTF_10Hz_JDC.png
+2025-01-27 18:34:15,327 - INFO - Created heatmap for subject JFXD: heatmap_cue_L_gDTF_10Hz_JFXD.png
+2025-01-27 18:34:15,729 - INFO - Created heatmap for subject JZ: heatmap_cue_L_gDTF_10Hz_JZ.png
+2025-01-27 18:34:16,110 - INFO - Created heatmap for subject LT: heatmap_cue_L_gDTF_10Hz_LT.png
+2025-01-27 18:34:16,564 - INFO - Created heatmap for subject NvA: heatmap_cue_L_gDTF_10Hz_NvA.png
+2025-01-27 18:34:16,965 - INFO - Created heatmap for subject RR: heatmap_cue_L_gDTF_10Hz_RR.png
+2025-01-27 18:34:17,358 - INFO - Created heatmap for subject SJB: heatmap_cue_L_gDTF_10Hz_SJB.png
+2025-01-27 18:34:17,776 - INFO - Created heatmap for subject BG: heatmap_cue_L_gDTF_10Hz_BG.png
+2025-01-27 18:34:17,776 - INFO - 
+Processing: cue/L/gDTF_20Hz
+2025-01-27 18:34:18,170 - INFO - Created overall heatmap: heatmap_cue_L_gDTF_20Hz.png
+2025-01-27 18:34:18,591 - INFO - Created heatmap for subject DOC: heatmap_cue_L_gDTF_20Hz_DOC.png
+2025-01-27 18:34:18,993 - INFO - Created heatmap for subject GB: heatmap_cue_L_gDTF_20Hz_GB.png
+2025-01-27 18:34:19,447 - INFO - Created heatmap for subject JDC: heatmap_cue_L_gDTF_20Hz_JDC.png
+2025-01-27 18:34:19,842 - INFO - Created heatmap for subject JFXD: heatmap_cue_L_gDTF_20Hz_JFXD.png
+2025-01-27 18:34:20,220 - INFO - Created heatmap for subject JZ: heatmap_cue_L_gDTF_20Hz_JZ.png
+2025-01-27 18:34:20,629 - INFO - Created heatmap for subject LT: heatmap_cue_L_gDTF_20Hz_LT.png
+2025-01-27 18:34:21,026 - INFO - Created heatmap for subject NvA: heatmap_cue_L_gDTF_20Hz_NvA.png
+2025-01-27 18:34:21,437 - INFO - Created heatmap for subject RR: heatmap_cue_L_gDTF_20Hz_RR.png
+2025-01-27 18:34:21,885 - INFO - Created heatmap for subject SJB: heatmap_cue_L_gDTF_20Hz_SJB.png
+2025-01-27 18:34:22,281 - INFO - Created heatmap for subject BG: heatmap_cue_L_gDTF_20Hz_BG.png
+2025-01-27 18:34:22,281 - INFO - 
+Processing: cue/L/gDTF_100Hz
+2025-01-27 18:34:22,671 - INFO - Created overall heatmap: heatmap_cue_L_gDTF_100Hz.png
+2025-01-27 18:34:23,119 - INFO - Created heatmap for subject DOC: heatmap_cue_L_gDTF_100Hz_DOC.png
+2025-01-27 18:34:23,525 - INFO - Created heatmap for subject GB: heatmap_cue_L_gDTF_100Hz_GB.png
+2025-01-27 18:34:23,939 - INFO - Created heatmap for subject JDC: heatmap_cue_L_gDTF_100Hz_JDC.png
+2025-01-27 18:34:24,391 - INFO - Created heatmap for subject JFXD: heatmap_cue_L_gDTF_100Hz_JFXD.png
+2025-01-27 18:34:24,790 - INFO - Created heatmap for subject JZ: heatmap_cue_L_gDTF_100Hz_JZ.png
+2025-01-27 18:34:25,183 - INFO - Created heatmap for subject LT: heatmap_cue_L_gDTF_100Hz_LT.png
+2025-01-27 18:34:25,577 - INFO - Created heatmap for subject NvA: heatmap_cue_L_gDTF_100Hz_NvA.png
+2025-01-27 18:34:25,983 - INFO - Created heatmap for subject RR: heatmap_cue_L_gDTF_100Hz_RR.png
+2025-01-27 18:34:26,374 - INFO - Created heatmap for subject SJB: heatmap_cue_L_gDTF_100Hz_SJB.png
+2025-01-27 18:34:26,781 - INFO - Created heatmap for subject BG: heatmap_cue_L_gDTF_100Hz_BG.png
+2025-01-27 18:34:26,781 - INFO - 
+Processing: cue/L/iPDC_10Hz
+2025-01-27 18:34:27,235 - INFO - Created overall heatmap: heatmap_cue_L_iPDC_10Hz.png
+2025-01-27 18:34:27,655 - INFO - Created heatmap for subject DOC: heatmap_cue_L_iPDC_10Hz_DOC.png
+2025-01-27 18:34:28,056 - INFO - Created heatmap for subject GB: heatmap_cue_L_iPDC_10Hz_GB.png
+2025-01-27 18:34:28,462 - INFO - Created heatmap for subject JDC: heatmap_cue_L_iPDC_10Hz_JDC.png
+2025-01-27 18:34:28,870 - INFO - Created heatmap for subject JFXD: heatmap_cue_L_iPDC_10Hz_JFXD.png
+2025-01-27 18:34:29,281 - INFO - Created heatmap for subject JZ: heatmap_cue_L_iPDC_10Hz_JZ.png
+2025-01-27 18:34:29,738 - INFO - Created heatmap for subject LT: heatmap_cue_L_iPDC_10Hz_LT.png
+2025-01-27 18:34:30,129 - INFO - Created heatmap for subject NvA: heatmap_cue_L_iPDC_10Hz_NvA.png
+2025-01-27 18:34:30,525 - INFO - Created heatmap for subject RR: heatmap_cue_L_iPDC_10Hz_RR.png
+2025-01-27 18:34:30,928 - INFO - Created heatmap for subject SJB: heatmap_cue_L_iPDC_10Hz_SJB.png
+2025-01-27 18:34:31,322 - INFO - Created heatmap for subject BG: heatmap_cue_L_iPDC_10Hz_BG.png
+2025-01-27 18:34:31,322 - INFO - 
+Processing: cue/L/iPDC_20Hz
+2025-01-27 18:34:31,729 - INFO - Created overall heatmap: heatmap_cue_L_iPDC_20Hz.png
+2025-01-27 18:34:32,188 - INFO - Created heatmap for subject DOC: heatmap_cue_L_iPDC_20Hz_DOC.png
+2025-01-27 18:34:32,596 - INFO - Created heatmap for subject GB: heatmap_cue_L_iPDC_20Hz_GB.png
+2025-01-27 18:34:33,002 - INFO - Created heatmap for subject JDC: heatmap_cue_L_iPDC_20Hz_JDC.png
+2025-01-27 18:34:33,393 - INFO - Created heatmap for subject JFXD: heatmap_cue_L_iPDC_20Hz_JFXD.png
+2025-01-27 18:34:33,791 - INFO - Created heatmap for subject JZ: heatmap_cue_L_iPDC_20Hz_JZ.png
+2025-01-27 18:34:34,207 - INFO - Created heatmap for subject LT: heatmap_cue_L_iPDC_20Hz_LT.png
+2025-01-27 18:34:34,666 - INFO - Created heatmap for subject NvA: heatmap_cue_L_iPDC_20Hz_NvA.png
+2025-01-27 18:34:35,056 - INFO - Created heatmap for subject RR: heatmap_cue_L_iPDC_20Hz_RR.png
+2025-01-27 18:34:35,465 - INFO - Created heatmap for subject SJB: heatmap_cue_L_iPDC_20Hz_SJB.png
+2025-01-27 18:34:35,870 - INFO - Created heatmap for subject BG: heatmap_cue_L_iPDC_20Hz_BG.png
+2025-01-27 18:34:35,870 - INFO - 
+Processing: cue/L/iPDC_100Hz
+2025-01-27 18:34:36,278 - INFO - Created overall heatmap: heatmap_cue_L_iPDC_100Hz.png
+2025-01-27 18:34:36,685 - INFO - Created heatmap for subject DOC: heatmap_cue_L_iPDC_100Hz_DOC.png
+2025-01-27 18:34:37,095 - INFO - Created heatmap for subject GB: heatmap_cue_L_iPDC_100Hz_GB.png
+2025-01-27 18:34:37,561 - INFO - Created heatmap for subject JDC: heatmap_cue_L_iPDC_100Hz_JDC.png
+2025-01-27 18:34:37,980 - INFO - Created heatmap for subject JFXD: heatmap_cue_L_iPDC_100Hz_JFXD.png
+2025-01-27 18:34:38,376 - INFO - Created heatmap for subject JZ: heatmap_cue_L_iPDC_100Hz_JZ.png
+2025-01-27 18:34:38,781 - INFO - Created heatmap for subject LT: heatmap_cue_L_iPDC_100Hz_LT.png
+2025-01-27 18:34:39,198 - INFO - Created heatmap for subject NvA: heatmap_cue_L_iPDC_100Hz_NvA.png
+2025-01-27 18:34:39,619 - INFO - Created heatmap for subject RR: heatmap_cue_L_iPDC_100Hz_RR.png
+2025-01-27 18:34:40,103 - INFO - Created heatmap for subject SJB: heatmap_cue_L_iPDC_100Hz_SJB.png
+2025-01-27 18:34:40,526 - INFO - Created heatmap for subject BG: heatmap_cue_L_iPDC_100Hz_BG.png
+2025-01-27 18:34:40,526 - INFO - 
+Processing: cue/L/gPDC_10Hz
+2025-01-27 18:34:40,916 - INFO - Created overall heatmap: heatmap_cue_L_gPDC_10Hz.png
+2025-01-27 18:34:41,309 - INFO - Created heatmap for subject DOC: heatmap_cue_L_gPDC_10Hz_DOC.png
+2025-01-27 18:34:41,731 - INFO - Created heatmap for subject GB: heatmap_cue_L_gPDC_10Hz_GB.png
+2025-01-27 18:34:42,136 - INFO - Created heatmap for subject JDC: heatmap_cue_L_gPDC_10Hz_JDC.png
+2025-01-27 18:34:42,597 - INFO - Created heatmap for subject JFXD: heatmap_cue_L_gPDC_10Hz_JFXD.png
+2025-01-27 18:34:42,999 - INFO - Created heatmap for subject JZ: heatmap_cue_L_gPDC_10Hz_JZ.png
+2025-01-27 18:34:43,401 - INFO - Created heatmap for subject LT: heatmap_cue_L_gPDC_10Hz_LT.png
+2025-01-27 18:34:43,856 - INFO - Created heatmap for subject NvA: heatmap_cue_L_gPDC_10Hz_NvA.png
+2025-01-27 18:34:44,263 - INFO - Created heatmap for subject RR: heatmap_cue_L_gPDC_10Hz_RR.png
+2025-01-27 18:34:44,688 - INFO - Created heatmap for subject SJB: heatmap_cue_L_gPDC_10Hz_SJB.png
+2025-01-27 18:34:45,130 - INFO - Created heatmap for subject BG: heatmap_cue_L_gPDC_10Hz_BG.png
+2025-01-27 18:34:45,130 - INFO - 
+Processing: cue/L/gPDC_20Hz
+2025-01-27 18:34:45,594 - INFO - Created overall heatmap: heatmap_cue_L_gPDC_20Hz.png
+2025-01-27 18:34:46,065 - INFO - Created heatmap for subject DOC: heatmap_cue_L_gPDC_20Hz_DOC.png
+2025-01-27 18:34:46,473 - INFO - Created heatmap for subject GB: heatmap_cue_L_gPDC_20Hz_GB.png
+2025-01-27 18:34:46,881 - INFO - Created heatmap for subject JDC: heatmap_cue_L_gPDC_20Hz_JDC.png
+2025-01-27 18:34:47,326 - INFO - Created heatmap for subject JFXD: heatmap_cue_L_gPDC_20Hz_JFXD.png
+2025-01-27 18:34:47,750 - INFO - Created heatmap for subject JZ: heatmap_cue_L_gPDC_20Hz_JZ.png
+2025-01-27 18:34:48,233 - INFO - Created heatmap for subject LT: heatmap_cue_L_gPDC_20Hz_LT.png
+2025-01-27 18:34:48,637 - INFO - Created heatmap for subject NvA: heatmap_cue_L_gPDC_20Hz_NvA.png
+2025-01-27 18:34:49,025 - INFO - Created heatmap for subject RR: heatmap_cue_L_gPDC_20Hz_RR.png
+2025-01-27 18:34:49,448 - INFO - Created heatmap for subject SJB: heatmap_cue_L_gPDC_20Hz_SJB.png
+2025-01-27 18:34:49,892 - INFO - Created heatmap for subject BG: heatmap_cue_L_gPDC_20Hz_BG.png
+2025-01-27 18:34:49,892 - INFO - 
+Processing: cue/L/gPDC_100Hz
+2025-01-27 18:34:50,283 - INFO - Created overall heatmap: heatmap_cue_L_gPDC_100Hz.png
+2025-01-27 18:34:50,728 - INFO - Created heatmap for subject DOC: heatmap_cue_L_gPDC_100Hz_DOC.png
+2025-01-27 18:34:51,150 - INFO - Created heatmap for subject GB: heatmap_cue_L_gPDC_100Hz_GB.png
+2025-01-27 18:34:51,546 - INFO - Created heatmap for subject JDC: heatmap_cue_L_gPDC_100Hz_JDC.png
+2025-01-27 18:34:51,952 - INFO - Created heatmap for subject JFXD: heatmap_cue_L_gPDC_100Hz_JFXD.png
+2025-01-27 18:34:52,341 - INFO - Created heatmap for subject JZ: heatmap_cue_L_gPDC_100Hz_JZ.png
+2025-01-27 18:34:52,791 - INFO - Created heatmap for subject LT: heatmap_cue_L_gPDC_100Hz_LT.png
+2025-01-27 18:34:53,206 - INFO - Created heatmap for subject NvA: heatmap_cue_L_gPDC_100Hz_NvA.png
+2025-01-27 18:34:53,666 - INFO - Created heatmap for subject RR: heatmap_cue_L_gPDC_100Hz_RR.png
+2025-01-27 18:34:54,072 - INFO - Created heatmap for subject SJB: heatmap_cue_L_gPDC_100Hz_SJB.png
+2025-01-27 18:34:54,497 - INFO - Created heatmap for subject BG: heatmap_cue_L_gPDC_100Hz_BG.png
+2025-01-27 18:34:54,497 - INFO - 
+Processing: cue/R/iDTF_10Hz
+2025-01-27 18:34:54,905 - INFO - Created overall heatmap: heatmap_cue_R_iDTF_10Hz.png
+2025-01-27 18:34:55,357 - INFO - Created heatmap for subject DOC: heatmap_cue_R_iDTF_10Hz_DOC.png
+2025-01-27 18:34:55,763 - INFO - Created heatmap for subject GB: heatmap_cue_R_iDTF_10Hz_GB.png
+2025-01-27 18:34:56,213 - INFO - Created heatmap for subject JDC: heatmap_cue_R_iDTF_10Hz_JDC.png
+2025-01-27 18:34:56,607 - INFO - Created heatmap for subject JFXD: heatmap_cue_R_iDTF_10Hz_JFXD.png
+2025-01-27 18:34:57,013 - INFO - Created heatmap for subject JZ: heatmap_cue_R_iDTF_10Hz_JZ.png
+2025-01-27 18:34:57,404 - INFO - Created heatmap for subject LT: heatmap_cue_R_iDTF_10Hz_LT.png
+2025-01-27 18:34:57,829 - INFO - Created heatmap for subject NvA: heatmap_cue_R_iDTF_10Hz_NvA.png
+2025-01-27 18:34:58,217 - INFO - Created heatmap for subject RR: heatmap_cue_R_iDTF_10Hz_RR.png
+2025-01-27 18:34:58,668 - INFO - Created heatmap for subject SJB: heatmap_cue_R_iDTF_10Hz_SJB.png
+2025-01-27 18:34:59,064 - INFO - Created heatmap for subject BG: heatmap_cue_R_iDTF_10Hz_BG.png
+2025-01-27 18:34:59,064 - INFO - 
+Processing: cue/R/iDTF_20Hz
+2025-01-27 18:34:59,474 - INFO - Created overall heatmap: heatmap_cue_R_iDTF_20Hz.png
+2025-01-27 18:34:59,881 - INFO - Created heatmap for subject DOC: heatmap_cue_R_iDTF_20Hz_DOC.png
+2025-01-27 18:35:00,292 - INFO - Created heatmap for subject GB: heatmap_cue_R_iDTF_20Hz_GB.png
+2025-01-27 18:35:00,683 - INFO - Created heatmap for subject JDC: heatmap_cue_R_iDTF_20Hz_JDC.png
+2025-01-27 18:35:01,076 - INFO - Created heatmap for subject JFXD: heatmap_cue_R_iDTF_20Hz_JFXD.png
+2025-01-27 18:35:01,531 - INFO - Created heatmap for subject JZ: heatmap_cue_R_iDTF_20Hz_JZ.png
+2025-01-27 18:35:01,934 - INFO - Created heatmap for subject LT: heatmap_cue_R_iDTF_20Hz_LT.png
+2025-01-27 18:35:02,331 - INFO - Created heatmap for subject NvA: heatmap_cue_R_iDTF_20Hz_NvA.png
+2025-01-27 18:35:02,722 - INFO - Created heatmap for subject RR: heatmap_cue_R_iDTF_20Hz_RR.png
+2025-01-27 18:35:03,129 - INFO - Created heatmap for subject SJB: heatmap_cue_R_iDTF_20Hz_SJB.png
+2025-01-27 18:35:03,592 - INFO - Created heatmap for subject BG: heatmap_cue_R_iDTF_20Hz_BG.png
+2025-01-27 18:35:03,592 - INFO - 
+Processing: cue/R/iDTF_100Hz
+2025-01-27 18:35:04,045 - INFO - Created overall heatmap: heatmap_cue_R_iDTF_100Hz.png
+2025-01-27 18:35:04,438 - INFO - Created heatmap for subject DOC: heatmap_cue_R_iDTF_100Hz_DOC.png
+2025-01-27 18:35:04,845 - INFO - Created heatmap for subject GB: heatmap_cue_R_iDTF_100Hz_GB.png
+2025-01-27 18:35:05,249 - INFO - Created heatmap for subject JDC: heatmap_cue_R_iDTF_100Hz_JDC.png
+2025-01-27 18:35:05,639 - INFO - Created heatmap for subject JFXD: heatmap_cue_R_iDTF_100Hz_JFXD.png
+2025-01-27 18:35:06,027 - INFO - Created heatmap for subject JZ: heatmap_cue_R_iDTF_100Hz_JZ.png
+2025-01-27 18:35:06,476 - INFO - Created heatmap for subject LT: heatmap_cue_R_iDTF_100Hz_LT.png
+2025-01-27 18:35:06,869 - INFO - Created heatmap for subject NvA: heatmap_cue_R_iDTF_100Hz_NvA.png
+2025-01-27 18:35:07,262 - INFO - Created heatmap for subject RR: heatmap_cue_R_iDTF_100Hz_RR.png
+2025-01-27 18:35:07,667 - INFO - Created heatmap for subject SJB: heatmap_cue_R_iDTF_100Hz_SJB.png
+2025-01-27 18:35:08,075 - INFO - Created heatmap for subject BG: heatmap_cue_R_iDTF_100Hz_BG.png
+2025-01-27 18:35:08,075 - INFO - 
+Processing: cue/R/gDTF_10Hz
+2025-01-27 18:35:08,467 - INFO - Created overall heatmap: heatmap_cue_R_gDTF_10Hz.png
+2025-01-27 18:35:08,858 - INFO - Created heatmap for subject DOC: heatmap_cue_R_gDTF_10Hz_DOC.png
+2025-01-27 18:35:09,312 - INFO - Created heatmap for subject GB: heatmap_cue_R_gDTF_10Hz_GB.png
+2025-01-27 18:35:09,719 - INFO - Created heatmap for subject JDC: heatmap_cue_R_gDTF_10Hz_JDC.png
+2025-01-27 18:35:10,126 - INFO - Created heatmap for subject JFXD: heatmap_cue_R_gDTF_10Hz_JFXD.png
+2025-01-27 18:35:10,517 - INFO - Created heatmap for subject JZ: heatmap_cue_R_gDTF_10Hz_JZ.png
+2025-01-27 18:35:10,925 - INFO - Created heatmap for subject LT: heatmap_cue_R_gDTF_10Hz_LT.png
+2025-01-27 18:35:11,316 - INFO - Created heatmap for subject NvA: heatmap_cue_R_gDTF_10Hz_NvA.png
+2025-01-27 18:35:11,767 - INFO - Created heatmap for subject RR: heatmap_cue_R_gDTF_10Hz_RR.png
+2025-01-27 18:35:12,165 - INFO - Created heatmap for subject SJB: heatmap_cue_R_gDTF_10Hz_SJB.png
+2025-01-27 18:35:12,559 - INFO - Created heatmap for subject BG: heatmap_cue_R_gDTF_10Hz_BG.png
+2025-01-27 18:35:12,559 - INFO - 
+Processing: cue/R/gDTF_20Hz
+2025-01-27 18:35:12,949 - INFO - Created overall heatmap: heatmap_cue_R_gDTF_20Hz.png
+2025-01-27 18:35:13,388 - INFO - Created heatmap for subject DOC: heatmap_cue_R_gDTF_20Hz_DOC.png
+2025-01-27 18:35:13,826 - INFO - Created heatmap for subject GB: heatmap_cue_R_gDTF_20Hz_GB.png
+2025-01-27 18:35:14,391 - INFO - Created heatmap for subject JDC: heatmap_cue_R_gDTF_20Hz_JDC.png
+2025-01-27 18:35:14,949 - INFO - Created heatmap for subject JFXD: heatmap_cue_R_gDTF_20Hz_JFXD.png
+2025-01-27 18:35:15,417 - INFO - Created heatmap for subject JZ: heatmap_cue_R_gDTF_20Hz_JZ.png
+2025-01-27 18:35:15,826 - INFO - Created heatmap for subject LT: heatmap_cue_R_gDTF_20Hz_LT.png
+2025-01-27 18:35:16,229 - INFO - Created heatmap for subject NvA: heatmap_cue_R_gDTF_20Hz_NvA.png
+2025-01-27 18:35:16,650 - INFO - Created heatmap for subject RR: heatmap_cue_R_gDTF_20Hz_RR.png
+2025-01-27 18:35:17,064 - INFO - Created heatmap for subject SJB: heatmap_cue_R_gDTF_20Hz_SJB.png
+2025-01-27 18:35:17,533 - INFO - Created heatmap for subject BG: heatmap_cue_R_gDTF_20Hz_BG.png
+2025-01-27 18:35:17,533 - INFO - 
+Processing: cue/R/gDTF_100Hz
+2025-01-27 18:35:17,958 - INFO - Created overall heatmap: heatmap_cue_R_gDTF_100Hz.png
+2025-01-27 18:35:18,405 - INFO - Created heatmap for subject DOC: heatmap_cue_R_gDTF_100Hz_DOC.png
+2025-01-27 18:35:18,808 - INFO - Created heatmap for subject GB: heatmap_cue_R_gDTF_100Hz_GB.png
+2025-01-27 18:35:19,214 - INFO - Created heatmap for subject JDC: heatmap_cue_R_gDTF_100Hz_JDC.png
+2025-01-27 18:35:19,608 - INFO - Created heatmap for subject JFXD: heatmap_cue_R_gDTF_100Hz_JFXD.png
+2025-01-27 18:35:20,074 - INFO - Created heatmap for subject JZ: heatmap_cue_R_gDTF_100Hz_JZ.png
+2025-01-27 18:35:20,483 - INFO - Created heatmap for subject LT: heatmap_cue_R_gDTF_100Hz_LT.png
+2025-01-27 18:35:20,879 - INFO - Created heatmap for subject NvA: heatmap_cue_R_gDTF_100Hz_NvA.png
+2025-01-27 18:35:21,275 - INFO - Created heatmap for subject RR: heatmap_cue_R_gDTF_100Hz_RR.png
+2025-01-27 18:35:21,677 - INFO - Created heatmap for subject SJB: heatmap_cue_R_gDTF_100Hz_SJB.png
+2025-01-27 18:35:22,076 - INFO - Created heatmap for subject BG: heatmap_cue_R_gDTF_100Hz_BG.png
+2025-01-27 18:35:22,084 - INFO - 
+Processing: cue/R/iPDC_10Hz
+2025-01-27 18:35:22,482 - INFO - Created overall heatmap: heatmap_cue_R_iPDC_10Hz.png
+2025-01-27 18:35:22,951 - INFO - Created heatmap for subject DOC: heatmap_cue_R_iPDC_10Hz_DOC.png
+2025-01-27 18:35:23,360 - INFO - Created heatmap for subject GB: heatmap_cue_R_iPDC_10Hz_GB.png
+2025-01-27 18:35:23,765 - INFO - Created heatmap for subject JDC: heatmap_cue_R_iPDC_10Hz_JDC.png
+2025-01-27 18:35:24,166 - INFO - Created heatmap for subject JFXD: heatmap_cue_R_iPDC_10Hz_JFXD.png
+2025-01-27 18:35:24,556 - INFO - Created heatmap for subject JZ: heatmap_cue_R_iPDC_10Hz_JZ.png
+2025-01-27 18:35:24,968 - INFO - Created heatmap for subject LT: heatmap_cue_R_iPDC_10Hz_LT.png
+2025-01-27 18:35:25,435 - INFO - Created heatmap for subject NvA: heatmap_cue_R_iPDC_10Hz_NvA.png
+2025-01-27 18:35:25,844 - INFO - Created heatmap for subject RR: heatmap_cue_R_iPDC_10Hz_RR.png
+2025-01-27 18:35:26,245 - INFO - Created heatmap for subject SJB: heatmap_cue_R_iPDC_10Hz_SJB.png
+2025-01-27 18:35:26,645 - INFO - Created heatmap for subject BG: heatmap_cue_R_iPDC_10Hz_BG.png
+2025-01-27 18:35:26,646 - INFO - 
+Processing: cue/R/iPDC_20Hz
+2025-01-27 18:35:27,056 - INFO - Created overall heatmap: heatmap_cue_R_iPDC_20Hz.png
+2025-01-27 18:35:27,476 - INFO - Created heatmap for subject DOC: heatmap_cue_R_iPDC_20Hz_DOC.png
+2025-01-27 18:35:27,952 - INFO - Created heatmap for subject GB: heatmap_cue_R_iPDC_20Hz_GB.png
+2025-01-27 18:35:28,361 - INFO - Created heatmap for subject JDC: heatmap_cue_R_iPDC_20Hz_JDC.png
+2025-01-27 18:35:28,772 - INFO - Created heatmap for subject JFXD: heatmap_cue_R_iPDC_20Hz_JFXD.png
+2025-01-27 18:35:29,176 - INFO - Created heatmap for subject JZ: heatmap_cue_R_iPDC_20Hz_JZ.png
+2025-01-27 18:35:29,610 - INFO - Created heatmap for subject LT: heatmap_cue_R_iPDC_20Hz_LT.png
+2025-01-27 18:35:30,009 - INFO - Created heatmap for subject NvA: heatmap_cue_R_iPDC_20Hz_NvA.png
+2025-01-27 18:35:30,484 - INFO - Created heatmap for subject RR: heatmap_cue_R_iPDC_20Hz_RR.png
+2025-01-27 18:35:30,883 - INFO - Created heatmap for subject SJB: heatmap_cue_R_iPDC_20Hz_SJB.png
+2025-01-27 18:35:31,275 - INFO - Created heatmap for subject BG: heatmap_cue_R_iPDC_20Hz_BG.png
+2025-01-27 18:35:31,275 - INFO - 
+Processing: cue/R/iPDC_100Hz
+2025-01-27 18:35:31,681 - INFO - Created overall heatmap: heatmap_cue_R_iPDC_100Hz.png
+2025-01-27 18:35:32,083 - INFO - Created heatmap for subject DOC: heatmap_cue_R_iPDC_100Hz_DOC.png
+2025-01-27 18:35:32,482 - INFO - Created heatmap for subject GB: heatmap_cue_R_iPDC_100Hz_GB.png
+2025-01-27 18:35:32,871 - INFO - Created heatmap for subject JDC: heatmap_cue_R_iPDC_100Hz_JDC.png
+2025-01-27 18:35:33,337 - INFO - Created heatmap for subject JFXD: heatmap_cue_R_iPDC_100Hz_JFXD.png
+2025-01-27 18:35:33,732 - INFO - Created heatmap for subject JZ: heatmap_cue_R_iPDC_100Hz_JZ.png
+2025-01-27 18:35:34,138 - INFO - Created heatmap for subject LT: heatmap_cue_R_iPDC_100Hz_LT.png
+2025-01-27 18:35:34,549 - INFO - Created heatmap for subject NvA: heatmap_cue_R_iPDC_100Hz_NvA.png
+2025-01-27 18:35:34,962 - INFO - Created heatmap for subject RR: heatmap_cue_R_iPDC_100Hz_RR.png
+2025-01-27 18:35:35,371 - INFO - Created heatmap for subject SJB: heatmap_cue_R_iPDC_100Hz_SJB.png
+2025-01-27 18:35:35,843 - INFO - Created heatmap for subject BG: heatmap_cue_R_iPDC_100Hz_BG.png
+2025-01-27 18:35:35,843 - INFO - 
+Processing: cue/R/gPDC_10Hz
+2025-01-27 18:35:36,229 - INFO - Created overall heatmap: heatmap_cue_R_gPDC_10Hz.png
+2025-01-27 18:35:36,641 - INFO - Created heatmap for subject DOC: heatmap_cue_R_gPDC_10Hz_DOC.png
+2025-01-27 18:35:37,031 - INFO - Created heatmap for subject GB: heatmap_cue_R_gPDC_10Hz_GB.png
+2025-01-27 18:35:37,434 - INFO - Created heatmap for subject JDC: heatmap_cue_R_gPDC_10Hz_JDC.png
+2025-01-27 18:35:37,870 - INFO - Created heatmap for subject JFXD: heatmap_cue_R_gPDC_10Hz_JFXD.png
+2025-01-27 18:35:38,267 - INFO - Created heatmap for subject JZ: heatmap_cue_R_gPDC_10Hz_JZ.png
+2025-01-27 18:35:38,726 - INFO - Created heatmap for subject LT: heatmap_cue_R_gPDC_10Hz_LT.png
+2025-01-27 18:35:39,133 - INFO - Created heatmap for subject NvA: heatmap_cue_R_gPDC_10Hz_NvA.png
+2025-01-27 18:35:39,542 - INFO - Created heatmap for subject RR: heatmap_cue_R_gPDC_10Hz_RR.png
+2025-01-27 18:35:39,967 - INFO - Created heatmap for subject SJB: heatmap_cue_R_gPDC_10Hz_SJB.png
+2025-01-27 18:35:40,375 - INFO - Created heatmap for subject BG: heatmap_cue_R_gPDC_10Hz_BG.png
+2025-01-27 18:35:40,375 - INFO - 
+Processing: cue/R/gPDC_20Hz
+2025-01-27 18:35:40,818 - INFO - Created overall heatmap: heatmap_cue_R_gPDC_20Hz.png
+2025-01-27 18:35:41,283 - INFO - Created heatmap for subject DOC: heatmap_cue_R_gPDC_20Hz_DOC.png
+2025-01-27 18:35:41,687 - INFO - Created heatmap for subject GB: heatmap_cue_R_gPDC_20Hz_GB.png
+2025-01-27 18:35:42,092 - INFO - Created heatmap for subject JDC: heatmap_cue_R_gPDC_20Hz_JDC.png
+2025-01-27 18:35:42,513 - INFO - Created heatmap for subject JFXD: heatmap_cue_R_gPDC_20Hz_JFXD.png
+2025-01-27 18:35:42,920 - INFO - Created heatmap for subject JZ: heatmap_cue_R_gPDC_20Hz_JZ.png
+2025-01-27 18:35:43,318 - INFO - Created heatmap for subject LT: heatmap_cue_R_gPDC_20Hz_LT.png
+2025-01-27 18:35:43,779 - INFO - Created heatmap for subject NvA: heatmap_cue_R_gPDC_20Hz_NvA.png
+2025-01-27 18:35:44,183 - INFO - Created heatmap for subject RR: heatmap_cue_R_gPDC_20Hz_RR.png
+2025-01-27 18:35:44,593 - INFO - Created heatmap for subject SJB: heatmap_cue_R_gPDC_20Hz_SJB.png
+2025-01-27 18:35:45,000 - INFO - Created heatmap for subject BG: heatmap_cue_R_gPDC_20Hz_BG.png
+2025-01-27 18:35:45,000 - INFO - 
+Processing: cue/R/gPDC_100Hz
+2025-01-27 18:35:45,400 - INFO - Created overall heatmap: heatmap_cue_R_gPDC_100Hz.png
+2025-01-27 18:35:45,814 - INFO - Created heatmap for subject DOC: heatmap_cue_R_gPDC_100Hz_DOC.png
+2025-01-27 18:35:46,275 - INFO - Created heatmap for subject GB: heatmap_cue_R_gPDC_100Hz_GB.png
+2025-01-27 18:35:46,687 - INFO - Created heatmap for subject JDC: heatmap_cue_R_gPDC_100Hz_JDC.png
+2025-01-27 18:35:47,108 - INFO - Created heatmap for subject JFXD: heatmap_cue_R_gPDC_100Hz_JFXD.png
+2025-01-27 18:35:47,514 - INFO - Created heatmap for subject JZ: heatmap_cue_R_gPDC_100Hz_JZ.png
+2025-01-27 18:35:47,939 - INFO - Created heatmap for subject LT: heatmap_cue_R_gPDC_100Hz_LT.png
+2025-01-27 18:35:48,355 - INFO - Created heatmap for subject NvA: heatmap_cue_R_gPDC_100Hz_NvA.png
+2025-01-27 18:35:48,763 - INFO - Created heatmap for subject RR: heatmap_cue_R_gPDC_100Hz_RR.png
+2025-01-27 18:35:49,215 - INFO - Created heatmap for subject SJB: heatmap_cue_R_gPDC_100Hz_SJB.png
+2025-01-27 18:35:49,607 - INFO - Created heatmap for subject BG: heatmap_cue_R_gPDC_100Hz_BG.png
+2025-01-27 18:35:49,619 - INFO - 
+Processing: mov/L/iDTF_10Hz
+2025-01-27 18:35:50,016 - INFO - Created overall heatmap: heatmap_mov_L_iDTF_10Hz.png
+2025-01-27 18:35:50,425 - INFO - Created heatmap for subject DOC: heatmap_mov_L_iDTF_10Hz_DOC.png
+2025-01-27 18:35:50,806 - INFO - Created heatmap for subject GB: heatmap_mov_L_iDTF_10Hz_GB.png
+2025-01-27 18:35:51,226 - INFO - Created heatmap for subject JDC: heatmap_mov_L_iDTF_10Hz_JDC.png
+2025-01-27 18:35:51,682 - INFO - Created heatmap for subject JFXD: heatmap_mov_L_iDTF_10Hz_JFXD.png
+2025-01-27 18:35:52,089 - INFO - Created heatmap for subject JZ: heatmap_mov_L_iDTF_10Hz_JZ.png
+2025-01-27 18:35:52,498 - INFO - Created heatmap for subject LT: heatmap_mov_L_iDTF_10Hz_LT.png
+2025-01-27 18:35:52,900 - INFO - Created heatmap for subject NvA: heatmap_mov_L_iDTF_10Hz_NvA.png
+2025-01-27 18:35:53,313 - INFO - Created heatmap for subject RR: heatmap_mov_L_iDTF_10Hz_RR.png
+2025-01-27 18:35:53,780 - INFO - Created heatmap for subject SJB: heatmap_mov_L_iDTF_10Hz_SJB.png
+2025-01-27 18:35:54,194 - INFO - Created heatmap for subject BG: heatmap_mov_L_iDTF_10Hz_BG.png
+2025-01-27 18:35:54,194 - INFO - 
+Processing: mov/L/iDTF_20Hz
+2025-01-27 18:35:54,650 - INFO - Created overall heatmap: heatmap_mov_L_iDTF_20Hz.png
+2025-01-27 18:35:55,042 - INFO - Created heatmap for subject DOC: heatmap_mov_L_iDTF_20Hz_DOC.png
+2025-01-27 18:35:55,439 - INFO - Created heatmap for subject GB: heatmap_mov_L_iDTF_20Hz_GB.png
+2025-01-27 18:35:55,839 - INFO - Created heatmap for subject JDC: heatmap_mov_L_iDTF_20Hz_JDC.png
+2025-01-27 18:35:56,254 - INFO - Created heatmap for subject JFXD: heatmap_mov_L_iDTF_20Hz_JFXD.png
+2025-01-27 18:35:56,650 - INFO - Created heatmap for subject JZ: heatmap_mov_L_iDTF_20Hz_JZ.png
+2025-01-27 18:35:57,106 - INFO - Created heatmap for subject LT: heatmap_mov_L_iDTF_20Hz_LT.png
+2025-01-27 18:35:57,497 - INFO - Created heatmap for subject NvA: heatmap_mov_L_iDTF_20Hz_NvA.png
+2025-01-27 18:35:57,932 - INFO - Created heatmap for subject RR: heatmap_mov_L_iDTF_20Hz_RR.png
+2025-01-27 18:35:58,331 - INFO - Created heatmap for subject SJB: heatmap_mov_L_iDTF_20Hz_SJB.png
+2025-01-27 18:35:58,744 - INFO - Created heatmap for subject BG: heatmap_mov_L_iDTF_20Hz_BG.png
+2025-01-27 18:35:58,744 - INFO - 
+Processing: mov/L/iDTF_100Hz
+2025-01-27 18:35:59,137 - INFO - Created overall heatmap: heatmap_mov_L_iDTF_100Hz.png
+2025-01-27 18:35:59,653 - INFO - Created heatmap for subject DOC: heatmap_mov_L_iDTF_100Hz_DOC.png
+2025-01-27 18:36:00,061 - INFO - Created heatmap for subject GB: heatmap_mov_L_iDTF_100Hz_GB.png
+2025-01-27 18:36:00,463 - INFO - Created heatmap for subject JDC: heatmap_mov_L_iDTF_100Hz_JDC.png
+2025-01-27 18:36:00,869 - INFO - Created heatmap for subject JFXD: heatmap_mov_L_iDTF_100Hz_JFXD.png
+2025-01-27 18:36:01,278 - INFO - Created heatmap for subject JZ: heatmap_mov_L_iDTF_100Hz_JZ.png
+2025-01-27 18:36:01,682 - INFO - Created heatmap for subject LT: heatmap_mov_L_iDTF_100Hz_LT.png
+2025-01-27 18:36:02,138 - INFO - Created heatmap for subject NvA: heatmap_mov_L_iDTF_100Hz_NvA.png
+2025-01-27 18:36:02,530 - INFO - Created heatmap for subject RR: heatmap_mov_L_iDTF_100Hz_RR.png
+2025-01-27 18:36:02,948 - INFO - Created heatmap for subject SJB: heatmap_mov_L_iDTF_100Hz_SJB.png
+2025-01-27 18:36:03,342 - INFO - Created heatmap for subject BG: heatmap_mov_L_iDTF_100Hz_BG.png
+2025-01-27 18:36:03,342 - INFO - 
+Processing: mov/L/gDTF_10Hz
+2025-01-27 18:36:03,741 - INFO - Created overall heatmap: heatmap_mov_L_gDTF_10Hz.png
+2025-01-27 18:36:04,140 - INFO - Created heatmap for subject DOC: heatmap_mov_L_gDTF_10Hz_DOC.png
+2025-01-27 18:36:04,561 - INFO - Created heatmap for subject GB: heatmap_mov_L_gDTF_10Hz_GB.png
+2025-01-27 18:36:05,014 - INFO - Created heatmap for subject JDC: heatmap_mov_L_gDTF_10Hz_JDC.png
+2025-01-27 18:36:05,421 - INFO - Created heatmap for subject JFXD: heatmap_mov_L_gDTF_10Hz_JFXD.png
+2025-01-27 18:36:05,809 - INFO - Created heatmap for subject JZ: heatmap_mov_L_gDTF_10Hz_JZ.png
+2025-01-27 18:36:06,217 - INFO - Created heatmap for subject LT: heatmap_mov_L_gDTF_10Hz_LT.png
+2025-01-27 18:36:06,634 - INFO - Created heatmap for subject NvA: heatmap_mov_L_gDTF_10Hz_NvA.png
+2025-01-27 18:36:07,041 - INFO - Created heatmap for subject RR: heatmap_mov_L_gDTF_10Hz_RR.png
+2025-01-27 18:36:07,494 - INFO - Created heatmap for subject SJB: heatmap_mov_L_gDTF_10Hz_SJB.png
+2025-01-27 18:36:07,904 - INFO - Created heatmap for subject BG: heatmap_mov_L_gDTF_10Hz_BG.png
+2025-01-27 18:36:07,904 - INFO - 
+Processing: mov/L/gDTF_20Hz
+2025-01-27 18:36:08,308 - INFO - Created overall heatmap: heatmap_mov_L_gDTF_20Hz.png
+2025-01-27 18:36:08,717 - INFO - Created heatmap for subject DOC: heatmap_mov_L_gDTF_20Hz_DOC.png
+2025-01-27 18:36:09,111 - INFO - Created heatmap for subject GB: heatmap_mov_L_gDTF_20Hz_GB.png
+2025-01-27 18:36:09,514 - INFO - Created heatmap for subject JDC: heatmap_mov_L_gDTF_20Hz_JDC.png
+2025-01-27 18:36:09,922 - INFO - Created heatmap for subject JFXD: heatmap_mov_L_gDTF_20Hz_JFXD.png
+2025-01-27 18:36:10,389 - INFO - Created heatmap for subject JZ: heatmap_mov_L_gDTF_20Hz_JZ.png
+2025-01-27 18:36:10,778 - INFO - Created heatmap for subject LT: heatmap_mov_L_gDTF_20Hz_LT.png
+2025-01-27 18:36:11,199 - INFO - Created heatmap for subject NvA: heatmap_mov_L_gDTF_20Hz_NvA.png
+2025-01-27 18:36:11,593 - INFO - Created heatmap for subject RR: heatmap_mov_L_gDTF_20Hz_RR.png
+2025-01-27 18:36:12,001 - INFO - Created heatmap for subject SJB: heatmap_mov_L_gDTF_20Hz_SJB.png
+2025-01-27 18:36:12,406 - INFO - Created heatmap for subject BG: heatmap_mov_L_gDTF_20Hz_BG.png
+2025-01-27 18:36:12,406 - INFO - 
+Processing: mov/L/gDTF_100Hz
+2025-01-27 18:36:12,869 - INFO - Created overall heatmap: heatmap_mov_L_gDTF_100Hz.png
+2025-01-27 18:36:13,269 - INFO - Created heatmap for subject DOC: heatmap_mov_L_gDTF_100Hz_DOC.png
+2025-01-27 18:36:13,671 - INFO - Created heatmap for subject GB: heatmap_mov_L_gDTF_100Hz_GB.png
+2025-01-27 18:36:14,073 - INFO - Created heatmap for subject JDC: heatmap_mov_L_gDTF_100Hz_JDC.png
+2025-01-27 18:36:14,466 - INFO - Created heatmap for subject JFXD: heatmap_mov_L_gDTF_100Hz_JFXD.png
+2025-01-27 18:36:14,873 - INFO - Created heatmap for subject JZ: heatmap_mov_L_gDTF_100Hz_JZ.png
+2025-01-27 18:36:15,339 - INFO - Created heatmap for subject LT: heatmap_mov_L_gDTF_100Hz_LT.png
+2025-01-27 18:36:15,737 - INFO - Created heatmap for subject NvA: heatmap_mov_L_gDTF_100Hz_NvA.png
+2025-01-27 18:36:16,136 - INFO - Created heatmap for subject RR: heatmap_mov_L_gDTF_100Hz_RR.png
+2025-01-27 18:36:16,526 - INFO - Created heatmap for subject SJB: heatmap_mov_L_gDTF_100Hz_SJB.png
+2025-01-27 18:36:16,956 - INFO - Created heatmap for subject BG: heatmap_mov_L_gDTF_100Hz_BG.png
+2025-01-27 18:36:16,956 - INFO - 
+Processing: mov/L/iPDC_10Hz
+2025-01-27 18:36:17,362 - INFO - Created overall heatmap: heatmap_mov_L_iPDC_10Hz.png
+2025-01-27 18:36:17,780 - INFO - Created heatmap for subject DOC: heatmap_mov_L_iPDC_10Hz_DOC.png
+2025-01-27 18:36:18,249 - INFO - Created heatmap for subject GB: heatmap_mov_L_iPDC_10Hz_GB.png
+2025-01-27 18:36:18,653 - INFO - Created heatmap for subject JDC: heatmap_mov_L_iPDC_10Hz_JDC.png
+2025-01-27 18:36:19,058 - INFO - Created heatmap for subject JFXD: heatmap_mov_L_iPDC_10Hz_JFXD.png
+2025-01-27 18:36:19,468 - INFO - Created heatmap for subject JZ: heatmap_mov_L_iPDC_10Hz_JZ.png
+2025-01-27 18:36:19,874 - INFO - Created heatmap for subject LT: heatmap_mov_L_iPDC_10Hz_LT.png
+2025-01-27 18:36:20,283 - INFO - Created heatmap for subject NvA: heatmap_mov_L_iPDC_10Hz_NvA.png
+2025-01-27 18:36:20,745 - INFO - Created heatmap for subject RR: heatmap_mov_L_iPDC_10Hz_RR.png
+2025-01-27 18:36:21,140 - INFO - Created heatmap for subject SJB: heatmap_mov_L_iPDC_10Hz_SJB.png
+2025-01-27 18:36:21,536 - INFO - Created heatmap for subject BG: heatmap_mov_L_iPDC_10Hz_BG.png
+2025-01-27 18:36:21,536 - INFO - 
+Processing: mov/L/iPDC_20Hz
+2025-01-27 18:36:21,948 - INFO - Created overall heatmap: heatmap_mov_L_iPDC_20Hz.png
+2025-01-27 18:36:22,371 - INFO - Created heatmap for subject DOC: heatmap_mov_L_iPDC_20Hz_DOC.png
+2025-01-27 18:36:22,781 - INFO - Created heatmap for subject GB: heatmap_mov_L_iPDC_20Hz_GB.png
+2025-01-27 18:36:23,243 - INFO - Created heatmap for subject JDC: heatmap_mov_L_iPDC_20Hz_JDC.png
+2025-01-27 18:36:23,650 - INFO - Created heatmap for subject JFXD: heatmap_mov_L_iPDC_20Hz_JFXD.png
+2025-01-27 18:36:24,056 - INFO - Created heatmap for subject JZ: heatmap_mov_L_iPDC_20Hz_JZ.png
+2025-01-27 18:36:24,461 - INFO - Created heatmap for subject LT: heatmap_mov_L_iPDC_20Hz_LT.png
+2025-01-27 18:36:24,874 - INFO - Created heatmap for subject NvA: heatmap_mov_L_iPDC_20Hz_NvA.png
+2025-01-27 18:36:25,280 - INFO - Created heatmap for subject RR: heatmap_mov_L_iPDC_20Hz_RR.png
+2025-01-27 18:36:25,686 - INFO - Created heatmap for subject SJB: heatmap_mov_L_iPDC_20Hz_SJB.png
+2025-01-27 18:36:26,161 - INFO - Created heatmap for subject BG: heatmap_mov_L_iPDC_20Hz_BG.png
+2025-01-27 18:36:26,161 - INFO - 
+Processing: mov/L/iPDC_100Hz
+2025-01-27 18:36:26,572 - INFO - Created overall heatmap: heatmap_mov_L_iPDC_100Hz.png
+2025-01-27 18:36:27,080 - INFO - Created heatmap for subject DOC: heatmap_mov_L_iPDC_100Hz_DOC.png
+2025-01-27 18:36:27,485 - INFO - Created heatmap for subject GB: heatmap_mov_L_iPDC_100Hz_GB.png
+2025-01-27 18:36:27,900 - INFO - Created heatmap for subject JDC: heatmap_mov_L_iPDC_100Hz_JDC.png
+2025-01-27 18:36:28,317 - INFO - Created heatmap for subject JFXD: heatmap_mov_L_iPDC_100Hz_JFXD.png
+2025-01-27 18:36:28,775 - INFO - Created heatmap for subject JZ: heatmap_mov_L_iPDC_100Hz_JZ.png
+2025-01-27 18:36:29,172 - INFO - Created heatmap for subject LT: heatmap_mov_L_iPDC_100Hz_LT.png
+2025-01-27 18:36:29,577 - INFO - Created heatmap for subject NvA: heatmap_mov_L_iPDC_100Hz_NvA.png
+2025-01-27 18:36:29,982 - INFO - Created heatmap for subject RR: heatmap_mov_L_iPDC_100Hz_RR.png
+2025-01-27 18:36:30,373 - INFO - Created heatmap for subject SJB: heatmap_mov_L_iPDC_100Hz_SJB.png
+2025-01-27 18:36:30,799 - INFO - Created heatmap for subject BG: heatmap_mov_L_iPDC_100Hz_BG.png
+2025-01-27 18:36:30,799 - INFO - 
+Processing: mov/L/gPDC_10Hz
+2025-01-27 18:36:31,243 - INFO - Created overall heatmap: heatmap_mov_L_gPDC_10Hz.png
+2025-01-27 18:36:31,671 - INFO - Created heatmap for subject DOC: heatmap_mov_L_gPDC_10Hz_DOC.png
+2025-01-27 18:36:32,078 - INFO - Created heatmap for subject GB: heatmap_mov_L_gPDC_10Hz_GB.png
+2025-01-27 18:36:32,462 - INFO - Created heatmap for subject JDC: heatmap_mov_L_gPDC_10Hz_JDC.png
+2025-01-27 18:36:32,876 - INFO - Created heatmap for subject JFXD: heatmap_mov_L_gPDC_10Hz_JFXD.png
+2025-01-27 18:36:33,266 - INFO - Created heatmap for subject JZ: heatmap_mov_L_gPDC_10Hz_JZ.png
+2025-01-27 18:36:33,653 - INFO - Created heatmap for subject LT: heatmap_mov_L_gPDC_10Hz_LT.png
+2025-01-27 18:36:34,110 - INFO - Created heatmap for subject NvA: heatmap_mov_L_gPDC_10Hz_NvA.png
+2025-01-27 18:36:34,518 - INFO - Created heatmap for subject RR: heatmap_mov_L_gPDC_10Hz_RR.png
+2025-01-27 18:36:34,921 - INFO - Created heatmap for subject SJB: heatmap_mov_L_gPDC_10Hz_SJB.png
+2025-01-27 18:36:35,317 - INFO - Created heatmap for subject BG: heatmap_mov_L_gPDC_10Hz_BG.png
+2025-01-27 18:36:35,317 - INFO - 
+Processing: mov/L/gPDC_20Hz
+2025-01-27 18:36:35,729 - INFO - Created overall heatmap: heatmap_mov_L_gPDC_20Hz.png
+2025-01-27 18:36:36,205 - INFO - Created heatmap for subject DOC: heatmap_mov_L_gPDC_20Hz_DOC.png
+2025-01-27 18:36:36,667 - INFO - Created heatmap for subject GB: heatmap_mov_L_gPDC_20Hz_GB.png
+2025-01-27 18:36:37,073 - INFO - Created heatmap for subject JDC: heatmap_mov_L_gPDC_20Hz_JDC.png
+2025-01-27 18:36:37,482 - INFO - Created heatmap for subject JFXD: heatmap_mov_L_gPDC_20Hz_JFXD.png
+2025-01-27 18:36:37,908 - INFO - Created heatmap for subject JZ: heatmap_mov_L_gPDC_20Hz_JZ.png
+2025-01-27 18:36:38,337 - INFO - Created heatmap for subject LT: heatmap_mov_L_gPDC_20Hz_LT.png
+2025-01-27 18:36:38,775 - INFO - Created heatmap for subject NvA: heatmap_mov_L_gPDC_20Hz_NvA.png
+2025-01-27 18:36:39,307 - INFO - Created heatmap for subject RR: heatmap_mov_L_gPDC_20Hz_RR.png
+2025-01-27 18:36:39,839 - INFO - Created heatmap for subject SJB: heatmap_mov_L_gPDC_20Hz_SJB.png
+2025-01-27 18:36:40,307 - INFO - Created heatmap for subject BG: heatmap_mov_L_gPDC_20Hz_BG.png
+2025-01-27 18:36:40,307 - INFO - 
+Processing: mov/L/gPDC_100Hz
+2025-01-27 18:36:40,748 - INFO - Created overall heatmap: heatmap_mov_L_gPDC_100Hz.png
+2025-01-27 18:36:41,175 - INFO - Created heatmap for subject DOC: heatmap_mov_L_gPDC_100Hz_DOC.png
+2025-01-27 18:36:41,584 - INFO - Created heatmap for subject GB: heatmap_mov_L_gPDC_100Hz_GB.png
+2025-01-27 18:36:42,057 - INFO - Created heatmap for subject JDC: heatmap_mov_L_gPDC_100Hz_JDC.png
+2025-01-27 18:36:42,532 - INFO - Created heatmap for subject JFXD: heatmap_mov_L_gPDC_100Hz_JFXD.png
+2025-01-27 18:36:42,939 - INFO - Created heatmap for subject JZ: heatmap_mov_L_gPDC_100Hz_JZ.png
+2025-01-27 18:36:43,347 - INFO - Created heatmap for subject LT: heatmap_mov_L_gPDC_100Hz_LT.png
+2025-01-27 18:36:43,753 - INFO - Created heatmap for subject NvA: heatmap_mov_L_gPDC_100Hz_NvA.png
+2025-01-27 18:36:44,167 - INFO - Created heatmap for subject RR: heatmap_mov_L_gPDC_100Hz_RR.png
+2025-01-27 18:36:44,621 - INFO - Created heatmap for subject SJB: heatmap_mov_L_gPDC_100Hz_SJB.png
+2025-01-27 18:36:45,097 - INFO - Created heatmap for subject BG: heatmap_mov_L_gPDC_100Hz_BG.png
+2025-01-27 18:36:45,098 - INFO - 
+Processing: mov/R/iDTF_10Hz
+2025-01-27 18:36:45,511 - INFO - Created overall heatmap: heatmap_mov_R_iDTF_10Hz.png
+2025-01-27 18:36:45,909 - INFO - Created heatmap for subject DOC: heatmap_mov_R_iDTF_10Hz_DOC.png
+2025-01-27 18:36:46,310 - INFO - Created heatmap for subject GB: heatmap_mov_R_iDTF_10Hz_GB.png
+2025-01-27 18:36:46,706 - INFO - Created heatmap for subject JDC: heatmap_mov_R_iDTF_10Hz_JDC.png
+2025-01-27 18:36:47,096 - INFO - Created heatmap for subject JFXD: heatmap_mov_R_iDTF_10Hz_JFXD.png
+2025-01-27 18:36:47,580 - INFO - Created heatmap for subject JZ: heatmap_mov_R_iDTF_10Hz_JZ.png
+2025-01-27 18:36:48,001 - INFO - Created heatmap for subject LT: heatmap_mov_R_iDTF_10Hz_LT.png
+2025-01-27 18:36:48,406 - INFO - Created heatmap for subject NvA: heatmap_mov_R_iDTF_10Hz_NvA.png
+2025-01-27 18:36:48,796 - INFO - Created heatmap for subject RR: heatmap_mov_R_iDTF_10Hz_RR.png
+2025-01-27 18:36:49,204 - INFO - Created heatmap for subject SJB: heatmap_mov_R_iDTF_10Hz_SJB.png
+2025-01-27 18:36:49,594 - INFO - Created heatmap for subject BG: heatmap_mov_R_iDTF_10Hz_BG.png
+2025-01-27 18:36:49,607 - INFO - 
+Processing: mov/R/iDTF_20Hz
+2025-01-27 18:36:50,056 - INFO - Created overall heatmap: heatmap_mov_R_iDTF_20Hz.png
+2025-01-27 18:36:50,453 - INFO - Created heatmap for subject DOC: heatmap_mov_R_iDTF_20Hz_DOC.png
+2025-01-27 18:36:50,842 - INFO - Created heatmap for subject GB: heatmap_mov_R_iDTF_20Hz_GB.png
+2025-01-27 18:36:51,248 - INFO - Created heatmap for subject JDC: heatmap_mov_R_iDTF_20Hz_JDC.png
+2025-01-27 18:36:51,641 - INFO - Created heatmap for subject JFXD: heatmap_mov_R_iDTF_20Hz_JFXD.png
+2025-01-27 18:36:52,031 - INFO - Created heatmap for subject JZ: heatmap_mov_R_iDTF_20Hz_JZ.png
+2025-01-27 18:36:52,437 - INFO - Created heatmap for subject LT: heatmap_mov_R_iDTF_20Hz_LT.png
+2025-01-27 18:36:52,922 - INFO - Created heatmap for subject NvA: heatmap_mov_R_iDTF_20Hz_NvA.png
+2025-01-27 18:36:53,317 - INFO - Created heatmap for subject RR: heatmap_mov_R_iDTF_20Hz_RR.png
+2025-01-27 18:36:53,724 - INFO - Created heatmap for subject SJB: heatmap_mov_R_iDTF_20Hz_SJB.png
+2025-01-27 18:36:54,125 - INFO - Created heatmap for subject BG: heatmap_mov_R_iDTF_20Hz_BG.png
+2025-01-27 18:36:54,125 - INFO - 
+Processing: mov/R/iDTF_100Hz
+2025-01-27 18:36:54,527 - INFO - Created overall heatmap: heatmap_mov_R_iDTF_100Hz.png
+2025-01-27 18:36:54,937 - INFO - Created heatmap for subject DOC: heatmap_mov_R_iDTF_100Hz_DOC.png
+2025-01-27 18:36:55,377 - INFO - Created heatmap for subject GB: heatmap_mov_R_iDTF_100Hz_GB.png
+2025-01-27 18:36:55,775 - INFO - Created heatmap for subject JDC: heatmap_mov_R_iDTF_100Hz_JDC.png
+2025-01-27 18:36:56,186 - INFO - Created heatmap for subject JFXD: heatmap_mov_R_iDTF_100Hz_JFXD.png
+2025-01-27 18:36:56,577 - INFO - Created heatmap for subject JZ: heatmap_mov_R_iDTF_100Hz_JZ.png
+2025-01-27 18:36:56,981 - INFO - Created heatmap for subject LT: heatmap_mov_R_iDTF_100Hz_LT.png
+2025-01-27 18:36:57,390 - INFO - Created heatmap for subject NvA: heatmap_mov_R_iDTF_100Hz_NvA.png
+2025-01-27 18:36:57,869 - INFO - Created heatmap for subject RR: heatmap_mov_R_iDTF_100Hz_RR.png
+2025-01-27 18:36:58,281 - INFO - Created heatmap for subject SJB: heatmap_mov_R_iDTF_100Hz_SJB.png
+2025-01-27 18:36:58,688 - INFO - Created heatmap for subject BG: heatmap_mov_R_iDTF_100Hz_BG.png
+2025-01-27 18:36:58,688 - INFO - 
+Processing: mov/R/gDTF_10Hz
+2025-01-27 18:36:59,094 - INFO - Created overall heatmap: heatmap_mov_R_gDTF_10Hz.png
+2025-01-27 18:36:59,531 - INFO - Created heatmap for subject DOC: heatmap_mov_R_gDTF_10Hz_DOC.png
+2025-01-27 18:36:59,943 - INFO - Created heatmap for subject GB: heatmap_mov_R_gDTF_10Hz_GB.png
+2025-01-27 18:37:00,341 - INFO - Created heatmap for subject JDC: heatmap_mov_R_gDTF_10Hz_JDC.png
+2025-01-27 18:37:00,806 - INFO - Created heatmap for subject JFXD: heatmap_mov_R_gDTF_10Hz_JFXD.png
+2025-01-27 18:37:01,202 - INFO - Created heatmap for subject JZ: heatmap_mov_R_gDTF_10Hz_JZ.png
+2025-01-27 18:37:01,609 - INFO - Created heatmap for subject LT: heatmap_mov_R_gDTF_10Hz_LT.png
+2025-01-27 18:37:02,032 - INFO - Created heatmap for subject NvA: heatmap_mov_R_gDTF_10Hz_NvA.png
+2025-01-27 18:37:02,456 - INFO - Created heatmap for subject RR: heatmap_mov_R_gDTF_10Hz_RR.png
+2025-01-27 18:37:02,878 - INFO - Created heatmap for subject SJB: heatmap_mov_R_gDTF_10Hz_SJB.png
+2025-01-27 18:37:03,380 - INFO - Created heatmap for subject BG: heatmap_mov_R_gDTF_10Hz_BG.png
+2025-01-27 18:37:03,380 - INFO - 
+Processing: mov/R/gDTF_20Hz
+2025-01-27 18:37:03,800 - INFO - Created overall heatmap: heatmap_mov_R_gDTF_20Hz.png
+2025-01-27 18:37:04,249 - INFO - Created heatmap for subject DOC: heatmap_mov_R_gDTF_20Hz_DOC.png
+2025-01-27 18:37:04,688 - INFO - Created heatmap for subject GB: heatmap_mov_R_gDTF_20Hz_GB.png
+2025-01-27 18:37:05,108 - INFO - Created heatmap for subject JDC: heatmap_mov_R_gDTF_20Hz_JDC.png
+2025-01-27 18:37:05,519 - INFO - Created heatmap for subject JFXD: heatmap_mov_R_gDTF_20Hz_JFXD.png
+2025-01-27 18:37:05,984 - INFO - Created heatmap for subject JZ: heatmap_mov_R_gDTF_20Hz_JZ.png
+2025-01-27 18:37:06,380 - INFO - Created heatmap for subject LT: heatmap_mov_R_gDTF_20Hz_LT.png
+2025-01-27 18:37:06,806 - INFO - Created heatmap for subject NvA: heatmap_mov_R_gDTF_20Hz_NvA.png
+2025-01-27 18:37:07,282 - INFO - Created heatmap for subject RR: heatmap_mov_R_gDTF_20Hz_RR.png
+2025-01-27 18:37:07,687 - INFO - Created heatmap for subject SJB: heatmap_mov_R_gDTF_20Hz_SJB.png
+2025-01-27 18:37:08,141 - INFO - Created heatmap for subject BG: heatmap_mov_R_gDTF_20Hz_BG.png
+2025-01-27 18:37:08,141 - INFO - 
+Processing: mov/R/gDTF_100Hz
+2025-01-27 18:37:08,539 - INFO - Created overall heatmap: heatmap_mov_R_gDTF_100Hz.png
+2025-01-27 18:37:08,994 - INFO - Created heatmap for subject DOC: heatmap_mov_R_gDTF_100Hz_DOC.png
+2025-01-27 18:37:09,389 - INFO - Created heatmap for subject GB: heatmap_mov_R_gDTF_100Hz_GB.png
+2025-01-27 18:37:09,796 - INFO - Created heatmap for subject JDC: heatmap_mov_R_gDTF_100Hz_JDC.png
+2025-01-27 18:37:10,188 - INFO - Created heatmap for subject JFXD: heatmap_mov_R_gDTF_100Hz_JFXD.png
+2025-01-27 18:37:10,588 - INFO - Created heatmap for subject JZ: heatmap_mov_R_gDTF_100Hz_JZ.png
+2025-01-27 18:37:10,984 - INFO - Created heatmap for subject LT: heatmap_mov_R_gDTF_100Hz_LT.png
+2025-01-27 18:37:11,426 - INFO - Created heatmap for subject NvA: heatmap_mov_R_gDTF_100Hz_NvA.png
+2025-01-27 18:37:11,817 - INFO - Created heatmap for subject RR: heatmap_mov_R_gDTF_100Hz_RR.png
+2025-01-27 18:37:12,218 - INFO - Created heatmap for subject SJB: heatmap_mov_R_gDTF_100Hz_SJB.png
+2025-01-27 18:37:12,619 - INFO - Created heatmap for subject BG: heatmap_mov_R_gDTF_100Hz_BG.png
+2025-01-27 18:37:12,619 - INFO - 
+Processing: mov/R/iPDC_10Hz
+2025-01-27 18:37:13,015 - INFO - Created overall heatmap: heatmap_mov_R_iPDC_10Hz.png
+2025-01-27 18:37:13,436 - INFO - Created heatmap for subject DOC: heatmap_mov_R_iPDC_10Hz_DOC.png
+2025-01-27 18:37:13,900 - INFO - Created heatmap for subject GB: heatmap_mov_R_iPDC_10Hz_GB.png
+2025-01-27 18:37:14,301 - INFO - Created heatmap for subject JDC: heatmap_mov_R_iPDC_10Hz_JDC.png
+2025-01-27 18:37:14,693 - INFO - Created heatmap for subject JFXD: heatmap_mov_R_iPDC_10Hz_JFXD.png
+2025-01-27 18:37:15,107 - INFO - Created heatmap for subject JZ: heatmap_mov_R_iPDC_10Hz_JZ.png
+2025-01-27 18:37:15,529 - INFO - Created heatmap for subject LT: heatmap_mov_R_iPDC_10Hz_LT.png
+2025-01-27 18:37:15,946 - INFO - Created heatmap for subject NvA: heatmap_mov_R_iPDC_10Hz_NvA.png
+2025-01-27 18:37:16,358 - INFO - Created heatmap for subject RR: heatmap_mov_R_iPDC_10Hz_RR.png
+2025-01-27 18:37:16,817 - INFO - Created heatmap for subject SJB: heatmap_mov_R_iPDC_10Hz_SJB.png
+2025-01-27 18:37:17,260 - INFO - Created heatmap for subject BG: heatmap_mov_R_iPDC_10Hz_BG.png
+2025-01-27 18:37:17,261 - INFO - 
+Processing: mov/R/iPDC_20Hz
+2025-01-27 18:37:17,683 - INFO - Created overall heatmap: heatmap_mov_R_iPDC_20Hz.png
+2025-01-27 18:37:18,119 - INFO - Created heatmap for subject DOC: heatmap_mov_R_iPDC_20Hz_DOC.png
+2025-01-27 18:37:18,541 - INFO - Created heatmap for subject GB: heatmap_mov_R_iPDC_20Hz_GB.png
+2025-01-27 18:37:18,965 - INFO - Created heatmap for subject JDC: heatmap_mov_R_iPDC_20Hz_JDC.png
+2025-01-27 18:37:19,434 - INFO - Created heatmap for subject JFXD: heatmap_mov_R_iPDC_20Hz_JFXD.png
+2025-01-27 18:37:19,840 - INFO - Created heatmap for subject JZ: heatmap_mov_R_iPDC_20Hz_JZ.png
+2025-01-27 18:37:20,252 - INFO - Created heatmap for subject LT: heatmap_mov_R_iPDC_20Hz_LT.png
+2025-01-27 18:37:20,668 - INFO - Created heatmap for subject NvA: heatmap_mov_R_iPDC_20Hz_NvA.png
+2025-01-27 18:37:21,072 - INFO - Created heatmap for subject RR: heatmap_mov_R_iPDC_20Hz_RR.png
+2025-01-27 18:37:21,531 - INFO - Created heatmap for subject SJB: heatmap_mov_R_iPDC_20Hz_SJB.png
+2025-01-27 18:37:22,002 - INFO - Created heatmap for subject BG: heatmap_mov_R_iPDC_20Hz_BG.png
+2025-01-27 18:37:22,002 - INFO - 
+Processing: mov/R/iPDC_100Hz
+2025-01-27 18:37:22,427 - INFO - Created overall heatmap: heatmap_mov_R_iPDC_100Hz.png
+2025-01-27 18:37:22,825 - INFO - Created heatmap for subject DOC: heatmap_mov_R_iPDC_100Hz_DOC.png
+2025-01-27 18:37:23,230 - INFO - Created heatmap for subject GB: heatmap_mov_R_iPDC_100Hz_GB.png
+2025-01-27 18:37:23,652 - INFO - Created heatmap for subject JDC: heatmap_mov_R_iPDC_100Hz_JDC.png
+2025-01-27 18:37:24,056 - INFO - Created heatmap for subject JFXD: heatmap_mov_R_iPDC_100Hz_JFXD.png
+2025-01-27 18:37:24,468 - INFO - Created heatmap for subject JZ: heatmap_mov_R_iPDC_100Hz_JZ.png
+2025-01-27 18:37:24,922 - INFO - Created heatmap for subject LT: heatmap_mov_R_iPDC_100Hz_LT.png
+2025-01-27 18:37:25,343 - INFO - Created heatmap for subject NvA: heatmap_mov_R_iPDC_100Hz_NvA.png
+2025-01-27 18:37:25,753 - INFO - Created heatmap for subject RR: heatmap_mov_R_iPDC_100Hz_RR.png
+2025-01-27 18:37:26,172 - INFO - Created heatmap for subject SJB: heatmap_mov_R_iPDC_100Hz_SJB.png
+2025-01-27 18:37:26,588 - INFO - Created heatmap for subject BG: heatmap_mov_R_iPDC_100Hz_BG.png
+2025-01-27 18:37:26,588 - INFO - 
+Processing: mov/R/gPDC_10Hz
+2025-01-27 18:37:27,001 - INFO - Created overall heatmap: heatmap_mov_R_gPDC_10Hz.png
+2025-01-27 18:37:27,499 - INFO - Created heatmap for subject DOC: heatmap_mov_R_gPDC_10Hz_DOC.png
+2025-01-27 18:37:27,931 - INFO - Created heatmap for subject GB: heatmap_mov_R_gPDC_10Hz_GB.png
+2025-01-27 18:37:28,347 - INFO - Created heatmap for subject JDC: heatmap_mov_R_gPDC_10Hz_JDC.png
+2025-01-27 18:37:28,775 - INFO - Created heatmap for subject JFXD: heatmap_mov_R_gPDC_10Hz_JFXD.png
+2025-01-27 18:37:29,190 - INFO - Created heatmap for subject JZ: heatmap_mov_R_gPDC_10Hz_JZ.png
+2025-01-27 18:37:29,591 - INFO - Created heatmap for subject LT: heatmap_mov_R_gPDC_10Hz_LT.png
+2025-01-27 18:37:30,086 - INFO - Created heatmap for subject NvA: heatmap_mov_R_gPDC_10Hz_NvA.png
+2025-01-27 18:37:30,513 - INFO - Created heatmap for subject RR: heatmap_mov_R_gPDC_10Hz_RR.png
+2025-01-27 18:37:30,947 - INFO - Created heatmap for subject SJB: heatmap_mov_R_gPDC_10Hz_SJB.png
+2025-01-27 18:37:31,355 - INFO - Created heatmap for subject BG: heatmap_mov_R_gPDC_10Hz_BG.png
+2025-01-27 18:37:31,355 - INFO - 
+Processing: mov/R/gPDC_20Hz
+2025-01-27 18:37:31,776 - INFO - Created overall heatmap: heatmap_mov_R_gPDC_20Hz.png
+2025-01-27 18:37:32,219 - INFO - Created heatmap for subject DOC: heatmap_mov_R_gPDC_20Hz_DOC.png
+2025-01-27 18:37:32,643 - INFO - Created heatmap for subject GB: heatmap_mov_R_gPDC_20Hz_GB.png
+2025-01-27 18:37:33,104 - INFO - Created heatmap for subject JDC: heatmap_mov_R_gPDC_20Hz_JDC.png
+2025-01-27 18:37:33,531 - INFO - Created heatmap for subject JFXD: heatmap_mov_R_gPDC_20Hz_JFXD.png
+2025-01-27 18:37:33,970 - INFO - Created heatmap for subject JZ: heatmap_mov_R_gPDC_20Hz_JZ.png
+2025-01-27 18:37:34,389 - INFO - Created heatmap for subject LT: heatmap_mov_R_gPDC_20Hz_LT.png
+2025-01-27 18:37:34,796 - INFO - Created heatmap for subject NvA: heatmap_mov_R_gPDC_20Hz_NvA.png
+2025-01-27 18:37:35,213 - INFO - Created heatmap for subject RR: heatmap_mov_R_gPDC_20Hz_RR.png
+2025-01-27 18:37:35,682 - INFO - Created heatmap for subject SJB: heatmap_mov_R_gPDC_20Hz_SJB.png
+2025-01-27 18:37:36,146 - INFO - Created heatmap for subject BG: heatmap_mov_R_gPDC_20Hz_BG.png
+2025-01-27 18:37:36,147 - INFO - 
+Processing: mov/R/gPDC_100Hz
+2025-01-27 18:37:36,565 - INFO - Created overall heatmap: heatmap_mov_R_gPDC_100Hz.png
+2025-01-27 18:37:36,984 - INFO - Created heatmap for subject DOC: heatmap_mov_R_gPDC_100Hz_DOC.png
+2025-01-27 18:37:37,387 - INFO - Created heatmap for subject GB: heatmap_mov_R_gPDC_100Hz_GB.png
+2025-01-27 18:37:37,803 - INFO - Created heatmap for subject JDC: heatmap_mov_R_gPDC_100Hz_JDC.png
+2025-01-27 18:37:38,291 - INFO - Created heatmap for subject JFXD: heatmap_mov_R_gPDC_100Hz_JFXD.png
+2025-01-27 18:37:38,731 - INFO - Created heatmap for subject JZ: heatmap_mov_R_gPDC_100Hz_JZ.png
+2025-01-27 18:37:39,153 - INFO - Created heatmap for subject LT: heatmap_mov_R_gPDC_100Hz_LT.png
+2025-01-27 18:37:39,580 - INFO - Created heatmap for subject NvA: heatmap_mov_R_gPDC_100Hz_NvA.png
+2025-01-27 18:37:39,996 - INFO - Created heatmap for subject RR: heatmap_mov_R_gPDC_100Hz_RR.png
+2025-01-27 18:37:40,417 - INFO - Created heatmap for subject SJB: heatmap_mov_R_gPDC_100Hz_SJB.png
+2025-01-27 18:37:40,863 - INFO - Created heatmap for subject BG: heatmap_mov_R_gPDC_100Hz_BG.png
+2025-01-27 18:41:29,665 - INFO - Starting heatmap generation process
+2025-01-27 18:41:29,665 - INFO - 
+Processing: cue/L/iDTF_10Hz
+2025-01-27 18:41:30,110 - INFO - Created overall heatmap: cue_L_iDTF_10Hz_average_heatmap.png
+2025-01-27 18:41:30,498 - INFO - Created heatmap for subject DOC: heatmap_cue_L_iDTF_10Hz_DOC.png
+2025-01-27 18:41:30,918 - INFO - Created heatmap for subject GB: heatmap_cue_L_iDTF_10Hz_GB.png
+2025-01-27 18:41:31,446 - INFO - Created heatmap for subject JDC: heatmap_cue_L_iDTF_10Hz_JDC.png
+2025-01-27 18:41:31,854 - INFO - Created heatmap for subject JFXD: heatmap_cue_L_iDTF_10Hz_JFXD.png
+2025-01-27 18:41:32,248 - INFO - Created heatmap for subject JZ: heatmap_cue_L_iDTF_10Hz_JZ.png
+2025-01-27 18:41:32,620 - INFO - Created heatmap for subject LT: heatmap_cue_L_iDTF_10Hz_LT.png
+2025-01-27 18:41:33,013 - INFO - Created heatmap for subject NvA: heatmap_cue_L_iDTF_10Hz_NvA.png
+2025-01-27 18:41:33,390 - INFO - Created heatmap for subject RR: heatmap_cue_L_iDTF_10Hz_RR.png
+2025-01-27 18:41:33,825 - INFO - Created heatmap for subject SJB: heatmap_cue_L_iDTF_10Hz_SJB.png
+2025-01-27 18:41:34,212 - INFO - Created heatmap for subject BG: heatmap_cue_L_iDTF_10Hz_BG.png
+2025-01-27 18:41:34,215 - INFO - 
+Processing: cue/L/iDTF_20Hz
+2025-01-27 18:41:34,619 - INFO - Created overall heatmap: cue_L_iDTF_20Hz_average_heatmap.png
+2025-01-27 18:41:35,004 - INFO - Created heatmap for subject DOC: heatmap_cue_L_iDTF_20Hz_DOC.png
+2025-01-27 18:41:35,406 - INFO - Created heatmap for subject GB: heatmap_cue_L_iDTF_20Hz_GB.png
+2025-01-27 18:41:35,797 - INFO - Created heatmap for subject JDC: heatmap_cue_L_iDTF_20Hz_JDC.png
+2025-01-27 18:41:36,247 - INFO - Created heatmap for subject JFXD: heatmap_cue_L_iDTF_20Hz_JFXD.png
+2025-01-27 18:41:36,635 - INFO - Created heatmap for subject JZ: heatmap_cue_L_iDTF_20Hz_JZ.png
+2025-01-27 18:41:37,016 - INFO - Created heatmap for subject LT: heatmap_cue_L_iDTF_20Hz_LT.png
+2025-01-27 18:41:37,392 - INFO - Created heatmap for subject NvA: heatmap_cue_L_iDTF_20Hz_NvA.png
+2025-01-27 18:41:37,783 - INFO - Created heatmap for subject RR: heatmap_cue_L_iDTF_20Hz_RR.png
+2025-01-27 18:41:38,170 - INFO - Created heatmap for subject SJB: heatmap_cue_L_iDTF_20Hz_SJB.png
+2025-01-27 18:41:38,604 - INFO - Created heatmap for subject BG: heatmap_cue_L_iDTF_20Hz_BG.png
+2025-01-27 18:41:38,604 - INFO - 
+Processing: cue/L/iDTF_100Hz
+2025-01-27 18:41:38,984 - INFO - Created overall heatmap: cue_L_iDTF_100Hz_average_heatmap.png
+2025-01-27 18:41:39,369 - INFO - Created heatmap for subject DOC: heatmap_cue_L_iDTF_100Hz_DOC.png
+2025-01-27 18:41:39,782 - INFO - Created heatmap for subject GB: heatmap_cue_L_iDTF_100Hz_GB.png
+2025-01-27 18:41:40,160 - INFO - Created heatmap for subject JDC: heatmap_cue_L_iDTF_100Hz_JDC.png
+2025-01-27 18:41:40,556 - INFO - Created heatmap for subject JFXD: heatmap_cue_L_iDTF_100Hz_JFXD.png
+2025-01-27 18:41:40,933 - INFO - Created heatmap for subject JZ: heatmap_cue_L_iDTF_100Hz_JZ.png
+2025-01-27 18:41:41,385 - INFO - Created heatmap for subject LT: heatmap_cue_L_iDTF_100Hz_LT.png
+2025-01-27 18:41:41,765 - INFO - Created heatmap for subject NvA: heatmap_cue_L_iDTF_100Hz_NvA.png
+2025-01-27 18:41:42,150 - INFO - Created heatmap for subject RR: heatmap_cue_L_iDTF_100Hz_RR.png
+2025-01-27 18:41:42,539 - INFO - Created heatmap for subject SJB: heatmap_cue_L_iDTF_100Hz_SJB.png
+2025-01-27 18:41:42,923 - INFO - Created heatmap for subject BG: heatmap_cue_L_iDTF_100Hz_BG.png
+2025-01-27 18:41:42,923 - INFO - 
+Processing: cue/L/gDTF_10Hz
+2025-01-27 18:41:43,312 - INFO - Created overall heatmap: cue_L_gDTF_10Hz_average_heatmap.png
+2025-01-27 18:41:43,748 - INFO - Created heatmap for subject DOC: heatmap_cue_L_gDTF_10Hz_DOC.png
+2025-01-27 18:41:44,140 - INFO - Created heatmap for subject GB: heatmap_cue_L_gDTF_10Hz_GB.png
+2025-01-27 18:41:44,535 - INFO - Created heatmap for subject JDC: heatmap_cue_L_gDTF_10Hz_JDC.png
+2025-01-27 18:41:44,936 - INFO - Created heatmap for subject JFXD: heatmap_cue_L_gDTF_10Hz_JFXD.png
+2025-01-27 18:41:45,344 - INFO - Created heatmap for subject JZ: heatmap_cue_L_gDTF_10Hz_JZ.png
+2025-01-27 18:41:45,735 - INFO - Created heatmap for subject LT: heatmap_cue_L_gDTF_10Hz_LT.png
+2025-01-27 18:41:46,181 - INFO - Created heatmap for subject NvA: heatmap_cue_L_gDTF_10Hz_NvA.png
+2025-01-27 18:41:46,588 - INFO - Created heatmap for subject RR: heatmap_cue_L_gDTF_10Hz_RR.png
+2025-01-27 18:41:46,997 - INFO - Created heatmap for subject SJB: heatmap_cue_L_gDTF_10Hz_SJB.png
+2025-01-27 18:41:47,448 - INFO - Created heatmap for subject BG: heatmap_cue_L_gDTF_10Hz_BG.png
+2025-01-27 18:41:47,448 - INFO - 
+Processing: cue/L/gDTF_20Hz
+2025-01-27 18:41:47,873 - INFO - Created overall heatmap: cue_L_gDTF_20Hz_average_heatmap.png
+2025-01-27 18:41:48,260 - INFO - Created heatmap for subject DOC: heatmap_cue_L_gDTF_20Hz_DOC.png
+2025-01-27 18:41:48,655 - INFO - Created heatmap for subject GB: heatmap_cue_L_gDTF_20Hz_GB.png
+2025-01-27 18:41:49,110 - INFO - Created heatmap for subject JDC: heatmap_cue_L_gDTF_20Hz_JDC.png
+2025-01-27 18:41:49,488 - INFO - Created heatmap for subject JFXD: heatmap_cue_L_gDTF_20Hz_JFXD.png
+2025-01-27 18:41:49,884 - INFO - Created heatmap for subject JZ: heatmap_cue_L_gDTF_20Hz_JZ.png
+2025-01-27 18:41:50,262 - INFO - Created heatmap for subject LT: heatmap_cue_L_gDTF_20Hz_LT.png
+2025-01-27 18:41:50,655 - INFO - Created heatmap for subject NvA: heatmap_cue_L_gDTF_20Hz_NvA.png
+2025-01-27 18:41:51,052 - INFO - Created heatmap for subject RR: heatmap_cue_L_gDTF_20Hz_RR.png
+2025-01-27 18:41:51,495 - INFO - Created heatmap for subject SJB: heatmap_cue_L_gDTF_20Hz_SJB.png
+2025-01-27 18:41:51,900 - INFO - Created heatmap for subject BG: heatmap_cue_L_gDTF_20Hz_BG.png
+2025-01-27 18:41:51,901 - INFO - 
+Processing: cue/L/gDTF_100Hz
+2025-01-27 18:41:52,281 - INFO - Created overall heatmap: cue_L_gDTF_100Hz_average_heatmap.png
+2025-01-27 18:41:52,670 - INFO - Created heatmap for subject DOC: heatmap_cue_L_gDTF_100Hz_DOC.png
+2025-01-27 18:41:53,061 - INFO - Created heatmap for subject GB: heatmap_cue_L_gDTF_100Hz_GB.png
+2025-01-27 18:41:53,453 - INFO - Created heatmap for subject JDC: heatmap_cue_L_gDTF_100Hz_JDC.png
+2025-01-27 18:41:53,894 - INFO - Created heatmap for subject JFXD: heatmap_cue_L_gDTF_100Hz_JFXD.png
+2025-01-27 18:41:54,268 - INFO - Created heatmap for subject JZ: heatmap_cue_L_gDTF_100Hz_JZ.png
+2025-01-27 18:41:54,659 - INFO - Created heatmap for subject LT: heatmap_cue_L_gDTF_100Hz_LT.png
+2025-01-27 18:41:55,057 - INFO - Created heatmap for subject NvA: heatmap_cue_L_gDTF_100Hz_NvA.png
+2025-01-27 18:41:55,442 - INFO - Created heatmap for subject RR: heatmap_cue_L_gDTF_100Hz_RR.png
+2025-01-27 18:41:55,835 - INFO - Created heatmap for subject SJB: heatmap_cue_L_gDTF_100Hz_SJB.png
+2025-01-27 18:41:56,224 - INFO - Created heatmap for subject BG: heatmap_cue_L_gDTF_100Hz_BG.png
+2025-01-27 18:41:56,224 - INFO - 
+Processing: cue/L/iPDC_10Hz
+2025-01-27 18:41:56,665 - INFO - Created overall heatmap: cue_L_iPDC_10Hz_average_heatmap.png
+2025-01-27 18:41:57,056 - INFO - Created heatmap for subject DOC: heatmap_cue_L_iPDC_10Hz_DOC.png
+2025-01-27 18:41:57,451 - INFO - Created heatmap for subject GB: heatmap_cue_L_iPDC_10Hz_GB.png
+2025-01-27 18:41:57,843 - INFO - Created heatmap for subject JDC: heatmap_cue_L_iPDC_10Hz_JDC.png
+2025-01-27 18:41:58,232 - INFO - Created heatmap for subject JFXD: heatmap_cue_L_iPDC_10Hz_JFXD.png
+2025-01-27 18:41:58,638 - INFO - Created heatmap for subject JZ: heatmap_cue_L_iPDC_10Hz_JZ.png
+2025-01-27 18:41:59,092 - INFO - Created heatmap for subject LT: heatmap_cue_L_iPDC_10Hz_LT.png
+2025-01-27 18:41:59,471 - INFO - Created heatmap for subject NvA: heatmap_cue_L_iPDC_10Hz_NvA.png
+2025-01-27 18:41:59,869 - INFO - Created heatmap for subject RR: heatmap_cue_L_iPDC_10Hz_RR.png
+2025-01-27 18:42:00,275 - INFO - Created heatmap for subject SJB: heatmap_cue_L_iPDC_10Hz_SJB.png
+2025-01-27 18:42:00,712 - INFO - Created heatmap for subject BG: heatmap_cue_L_iPDC_10Hz_BG.png
+2025-01-27 18:42:00,712 - INFO - 
+Processing: cue/L/iPDC_20Hz
+2025-01-27 18:42:01,106 - INFO - Created overall heatmap: cue_L_iPDC_20Hz_average_heatmap.png
+2025-01-27 18:42:01,558 - INFO - Created heatmap for subject DOC: heatmap_cue_L_iPDC_20Hz_DOC.png
+2025-01-27 18:42:01,952 - INFO - Created heatmap for subject GB: heatmap_cue_L_iPDC_20Hz_GB.png
+2025-01-27 18:42:02,341 - INFO - Created heatmap for subject JDC: heatmap_cue_L_iPDC_20Hz_JDC.png
+2025-01-27 18:42:02,730 - INFO - Created heatmap for subject JFXD: heatmap_cue_L_iPDC_20Hz_JFXD.png
+2025-01-27 18:42:03,113 - INFO - Created heatmap for subject JZ: heatmap_cue_L_iPDC_20Hz_JZ.png
+2025-01-27 18:42:03,499 - INFO - Created heatmap for subject LT: heatmap_cue_L_iPDC_20Hz_LT.png
+2025-01-27 18:42:03,953 - INFO - Created heatmap for subject NvA: heatmap_cue_L_iPDC_20Hz_NvA.png
+2025-01-27 18:42:04,341 - INFO - Created heatmap for subject RR: heatmap_cue_L_iPDC_20Hz_RR.png
+2025-01-27 18:42:04,729 - INFO - Created heatmap for subject SJB: heatmap_cue_L_iPDC_20Hz_SJB.png
+2025-01-27 18:42:05,119 - INFO - Created heatmap for subject BG: heatmap_cue_L_iPDC_20Hz_BG.png
+2025-01-27 18:42:05,125 - INFO - 
+Processing: cue/L/iPDC_100Hz
+2025-01-27 18:42:05,525 - INFO - Created overall heatmap: cue_L_iPDC_100Hz_average_heatmap.png
+2025-01-27 18:42:05,911 - INFO - Created heatmap for subject DOC: heatmap_cue_L_iPDC_100Hz_DOC.png
+2025-01-27 18:42:06,308 - INFO - Created heatmap for subject GB: heatmap_cue_L_iPDC_100Hz_GB.png
+2025-01-27 18:42:06,749 - INFO - Created heatmap for subject JDC: heatmap_cue_L_iPDC_100Hz_JDC.png
+2025-01-27 18:42:07,131 - INFO - Created heatmap for subject JFXD: heatmap_cue_L_iPDC_100Hz_JFXD.png
+2025-01-27 18:42:07,528 - INFO - Created heatmap for subject JZ: heatmap_cue_L_iPDC_100Hz_JZ.png
+2025-01-27 18:42:07,919 - INFO - Created heatmap for subject LT: heatmap_cue_L_iPDC_100Hz_LT.png
+2025-01-27 18:42:08,306 - INFO - Created heatmap for subject NvA: heatmap_cue_L_iPDC_100Hz_NvA.png
+2025-01-27 18:42:08,717 - INFO - Created heatmap for subject RR: heatmap_cue_L_iPDC_100Hz_RR.png
+2025-01-27 18:42:09,150 - INFO - Created heatmap for subject SJB: heatmap_cue_L_iPDC_100Hz_SJB.png
+2025-01-27 18:42:09,542 - INFO - Created heatmap for subject BG: heatmap_cue_L_iPDC_100Hz_BG.png
+2025-01-27 18:42:09,542 - INFO - 
+Processing: cue/L/gPDC_10Hz
+2025-01-27 18:42:09,933 - INFO - Created overall heatmap: cue_L_gPDC_10Hz_average_heatmap.png
+2025-01-27 18:42:10,335 - INFO - Created heatmap for subject DOC: heatmap_cue_L_gPDC_10Hz_DOC.png
+2025-01-27 18:42:10,718 - INFO - Created heatmap for subject GB: heatmap_cue_L_gPDC_10Hz_GB.png
+2025-01-27 18:42:11,104 - INFO - Created heatmap for subject JDC: heatmap_cue_L_gPDC_10Hz_JDC.png
+2025-01-27 18:42:11,548 - INFO - Created heatmap for subject JFXD: heatmap_cue_L_gPDC_10Hz_JFXD.png
+2025-01-27 18:42:11,944 - INFO - Created heatmap for subject JZ: heatmap_cue_L_gPDC_10Hz_JZ.png
+2025-01-27 18:42:12,338 - INFO - Created heatmap for subject LT: heatmap_cue_L_gPDC_10Hz_LT.png
+2025-01-27 18:42:12,719 - INFO - Created heatmap for subject NvA: heatmap_cue_L_gPDC_10Hz_NvA.png
+2025-01-27 18:42:13,093 - INFO - Created heatmap for subject RR: heatmap_cue_L_gPDC_10Hz_RR.png
+2025-01-27 18:42:13,498 - INFO - Created heatmap for subject SJB: heatmap_cue_L_gPDC_10Hz_SJB.png
+2025-01-27 18:42:13,892 - INFO - Created heatmap for subject BG: heatmap_cue_L_gPDC_10Hz_BG.png
+2025-01-27 18:42:13,892 - INFO - 
+Processing: cue/L/gPDC_20Hz
+2025-01-27 18:42:14,322 - INFO - Created overall heatmap: cue_L_gPDC_20Hz_average_heatmap.png
+2025-01-27 18:42:14,713 - INFO - Created heatmap for subject DOC: heatmap_cue_L_gPDC_20Hz_DOC.png
+2025-01-27 18:42:15,108 - INFO - Created heatmap for subject GB: heatmap_cue_L_gPDC_20Hz_GB.png
+2025-01-27 18:42:15,498 - INFO - Created heatmap for subject JDC: heatmap_cue_L_gPDC_20Hz_JDC.png
+2025-01-27 18:42:15,885 - INFO - Created heatmap for subject JFXD: heatmap_cue_L_gPDC_20Hz_JFXD.png
+2025-01-27 18:42:16,280 - INFO - Created heatmap for subject JZ: heatmap_cue_L_gPDC_20Hz_JZ.png
+2025-01-27 18:42:16,713 - INFO - Created heatmap for subject LT: heatmap_cue_L_gPDC_20Hz_LT.png
+2025-01-27 18:42:17,090 - INFO - Created heatmap for subject NvA: heatmap_cue_L_gPDC_20Hz_NvA.png
+2025-01-27 18:42:17,478 - INFO - Created heatmap for subject RR: heatmap_cue_L_gPDC_20Hz_RR.png
+2025-01-27 18:42:17,874 - INFO - Created heatmap for subject SJB: heatmap_cue_L_gPDC_20Hz_SJB.png
+2025-01-27 18:42:18,281 - INFO - Created heatmap for subject BG: heatmap_cue_L_gPDC_20Hz_BG.png
+2025-01-27 18:42:18,281 - INFO - 
+Processing: cue/L/gPDC_100Hz
+2025-01-27 18:42:18,673 - INFO - Created overall heatmap: cue_L_gPDC_100Hz_average_heatmap.png
+2025-01-27 18:42:19,132 - INFO - Created heatmap for subject DOC: heatmap_cue_L_gPDC_100Hz_DOC.png
+2025-01-27 18:42:19,526 - INFO - Created heatmap for subject GB: heatmap_cue_L_gPDC_100Hz_GB.png
+2025-01-27 18:42:19,900 - INFO - Created heatmap for subject JDC: heatmap_cue_L_gPDC_100Hz_JDC.png
+2025-01-27 18:42:20,291 - INFO - Created heatmap for subject JFXD: heatmap_cue_L_gPDC_100Hz_JFXD.png
+2025-01-27 18:42:20,696 - INFO - Created heatmap for subject JZ: heatmap_cue_L_gPDC_100Hz_JZ.png
+2025-01-27 18:42:21,088 - INFO - Created heatmap for subject LT: heatmap_cue_L_gPDC_100Hz_LT.png
+2025-01-27 18:42:21,478 - INFO - Created heatmap for subject NvA: heatmap_cue_L_gPDC_100Hz_NvA.png
+2025-01-27 18:42:21,922 - INFO - Created heatmap for subject RR: heatmap_cue_L_gPDC_100Hz_RR.png
+2025-01-27 18:42:22,310 - INFO - Created heatmap for subject SJB: heatmap_cue_L_gPDC_100Hz_SJB.png
+2025-01-27 18:42:22,698 - INFO - Created heatmap for subject BG: heatmap_cue_L_gPDC_100Hz_BG.png
+2025-01-27 18:42:22,699 - INFO - 
+Processing: cue/R/iDTF_10Hz
+2025-01-27 18:42:23,077 - INFO - Created overall heatmap: cue_R_iDTF_10Hz_average_heatmap.png
+2025-01-27 18:42:23,468 - INFO - Created heatmap for subject DOC: heatmap_cue_R_iDTF_10Hz_DOC.png
+2025-01-27 18:42:23,876 - INFO - Created heatmap for subject GB: heatmap_cue_R_iDTF_10Hz_GB.png
+2025-01-27 18:42:24,303 - INFO - Created heatmap for subject JDC: heatmap_cue_R_iDTF_10Hz_JDC.png
+2025-01-27 18:42:24,676 - INFO - Created heatmap for subject JFXD: heatmap_cue_R_iDTF_10Hz_JFXD.png
+2025-01-27 18:42:25,065 - INFO - Created heatmap for subject JZ: heatmap_cue_R_iDTF_10Hz_JZ.png
+2025-01-27 18:42:25,450 - INFO - Created heatmap for subject LT: heatmap_cue_R_iDTF_10Hz_LT.png
+2025-01-27 18:42:25,859 - INFO - Created heatmap for subject NvA: heatmap_cue_R_iDTF_10Hz_NvA.png
+2025-01-27 18:42:26,250 - INFO - Created heatmap for subject RR: heatmap_cue_R_iDTF_10Hz_RR.png
+2025-01-27 18:42:26,683 - INFO - Created heatmap for subject SJB: heatmap_cue_R_iDTF_10Hz_SJB.png
+2025-01-27 18:42:27,068 - INFO - Created heatmap for subject BG: heatmap_cue_R_iDTF_10Hz_BG.png
+2025-01-27 18:42:27,075 - INFO - 
+Processing: cue/R/iDTF_20Hz
+2025-01-27 18:42:27,453 - INFO - Created overall heatmap: cue_R_iDTF_20Hz_average_heatmap.png
+2025-01-27 18:42:27,873 - INFO - Created heatmap for subject DOC: heatmap_cue_R_iDTF_20Hz_DOC.png
+2025-01-27 18:42:28,264 - INFO - Created heatmap for subject GB: heatmap_cue_R_iDTF_20Hz_GB.png
+2025-01-27 18:42:28,664 - INFO - Created heatmap for subject JDC: heatmap_cue_R_iDTF_20Hz_JDC.png
+2025-01-27 18:42:29,059 - INFO - Created heatmap for subject JFXD: heatmap_cue_R_iDTF_20Hz_JFXD.png
+2025-01-27 18:42:29,500 - INFO - Created heatmap for subject JZ: heatmap_cue_R_iDTF_20Hz_JZ.png
+2025-01-27 18:42:29,888 - INFO - Created heatmap for subject LT: heatmap_cue_R_iDTF_20Hz_LT.png
+2025-01-27 18:42:30,261 - INFO - Created heatmap for subject NvA: heatmap_cue_R_iDTF_20Hz_NvA.png
+2025-01-27 18:42:30,668 - INFO - Created heatmap for subject RR: heatmap_cue_R_iDTF_20Hz_RR.png
+2025-01-27 18:42:31,077 - INFO - Created heatmap for subject SJB: heatmap_cue_R_iDTF_20Hz_SJB.png
+2025-01-27 18:42:31,469 - INFO - Created heatmap for subject BG: heatmap_cue_R_iDTF_20Hz_BG.png
+2025-01-27 18:42:31,469 - INFO - 
+Processing: cue/R/iDTF_100Hz
+2025-01-27 18:42:31,981 - INFO - Created overall heatmap: cue_R_iDTF_100Hz_average_heatmap.png
+2025-01-27 18:42:32,483 - INFO - Created heatmap for subject DOC: heatmap_cue_R_iDTF_100Hz_DOC.png
+2025-01-27 18:42:32,870 - INFO - Created heatmap for subject GB: heatmap_cue_R_iDTF_100Hz_GB.png
+2025-01-27 18:42:33,254 - INFO - Created heatmap for subject JDC: heatmap_cue_R_iDTF_100Hz_JDC.png
+2025-01-27 18:42:33,639 - INFO - Created heatmap for subject JFXD: heatmap_cue_R_iDTF_100Hz_JFXD.png
+2025-01-27 18:42:34,032 - INFO - Created heatmap for subject JZ: heatmap_cue_R_iDTF_100Hz_JZ.png
+2025-01-27 18:42:34,466 - INFO - Created heatmap for subject LT: heatmap_cue_R_iDTF_100Hz_LT.png
+2025-01-27 18:42:34,852 - INFO - Created heatmap for subject NvA: heatmap_cue_R_iDTF_100Hz_NvA.png
+2025-01-27 18:42:35,238 - INFO - Created heatmap for subject RR: heatmap_cue_R_iDTF_100Hz_RR.png
+2025-01-27 18:42:35,621 - INFO - Created heatmap for subject SJB: heatmap_cue_R_iDTF_100Hz_SJB.png
+2025-01-27 18:42:36,035 - INFO - Created heatmap for subject BG: heatmap_cue_R_iDTF_100Hz_BG.png
+2025-01-27 18:42:36,035 - INFO - 
+Processing: cue/R/gDTF_10Hz
+2025-01-27 18:42:36,426 - INFO - Created overall heatmap: cue_R_gDTF_10Hz_average_heatmap.png
+2025-01-27 18:42:36,822 - INFO - Created heatmap for subject DOC: heatmap_cue_R_gDTF_10Hz_DOC.png
+2025-01-27 18:42:37,265 - INFO - Created heatmap for subject GB: heatmap_cue_R_gDTF_10Hz_GB.png
+2025-01-27 18:42:37,639 - INFO - Created heatmap for subject JDC: heatmap_cue_R_gDTF_10Hz_JDC.png
+2025-01-27 18:42:38,033 - INFO - Created heatmap for subject JFXD: heatmap_cue_R_gDTF_10Hz_JFXD.png
+2025-01-27 18:42:38,423 - INFO - Created heatmap for subject JZ: heatmap_cue_R_gDTF_10Hz_JZ.png
+2025-01-27 18:42:38,832 - INFO - Created heatmap for subject LT: heatmap_cue_R_gDTF_10Hz_LT.png
+2025-01-27 18:42:39,212 - INFO - Created heatmap for subject NvA: heatmap_cue_R_gDTF_10Hz_NvA.png
+2025-01-27 18:42:39,663 - INFO - Created heatmap for subject RR: heatmap_cue_R_gDTF_10Hz_RR.png
+2025-01-27 18:42:40,059 - INFO - Created heatmap for subject SJB: heatmap_cue_R_gDTF_10Hz_SJB.png
+2025-01-27 18:42:40,446 - INFO - Created heatmap for subject BG: heatmap_cue_R_gDTF_10Hz_BG.png
+2025-01-27 18:42:40,446 - INFO - 
+Processing: cue/R/gDTF_20Hz
+2025-01-27 18:42:40,854 - INFO - Created overall heatmap: cue_R_gDTF_20Hz_average_heatmap.png
+2025-01-27 18:42:41,303 - INFO - Created heatmap for subject DOC: heatmap_cue_R_gDTF_20Hz_DOC.png
+2025-01-27 18:42:41,751 - INFO - Created heatmap for subject GB: heatmap_cue_R_gDTF_20Hz_GB.png
+2025-01-27 18:42:42,326 - INFO - Created heatmap for subject JDC: heatmap_cue_R_gDTF_20Hz_JDC.png
+2025-01-27 18:42:42,745 - INFO - Created heatmap for subject JFXD: heatmap_cue_R_gDTF_20Hz_JFXD.png
+2025-01-27 18:42:43,199 - INFO - Created heatmap for subject JZ: heatmap_cue_R_gDTF_20Hz_JZ.png
+2025-01-27 18:42:43,590 - INFO - Created heatmap for subject LT: heatmap_cue_R_gDTF_20Hz_LT.png
+2025-01-27 18:42:43,980 - INFO - Created heatmap for subject NvA: heatmap_cue_R_gDTF_20Hz_NvA.png
+2025-01-27 18:42:44,378 - INFO - Created heatmap for subject RR: heatmap_cue_R_gDTF_20Hz_RR.png
+2025-01-27 18:42:44,766 - INFO - Created heatmap for subject SJB: heatmap_cue_R_gDTF_20Hz_SJB.png
+2025-01-27 18:42:45,212 - INFO - Created heatmap for subject BG: heatmap_cue_R_gDTF_20Hz_BG.png
+2025-01-27 18:42:45,212 - INFO - 
+Processing: cue/R/gDTF_100Hz
+2025-01-27 18:42:45,591 - INFO - Created overall heatmap: cue_R_gDTF_100Hz_average_heatmap.png
+2025-01-27 18:42:45,988 - INFO - Created heatmap for subject DOC: heatmap_cue_R_gDTF_100Hz_DOC.png
+2025-01-27 18:42:46,392 - INFO - Created heatmap for subject GB: heatmap_cue_R_gDTF_100Hz_GB.png
+2025-01-27 18:42:46,811 - INFO - Created heatmap for subject JDC: heatmap_cue_R_gDTF_100Hz_JDC.png
+2025-01-27 18:42:47,215 - INFO - Created heatmap for subject JFXD: heatmap_cue_R_gDTF_100Hz_JFXD.png
+2025-01-27 18:42:47,703 - INFO - Created heatmap for subject JZ: heatmap_cue_R_gDTF_100Hz_JZ.png
+2025-01-27 18:42:48,112 - INFO - Created heatmap for subject LT: heatmap_cue_R_gDTF_100Hz_LT.png
+2025-01-27 18:42:48,500 - INFO - Created heatmap for subject NvA: heatmap_cue_R_gDTF_100Hz_NvA.png
+2025-01-27 18:42:48,900 - INFO - Created heatmap for subject RR: heatmap_cue_R_gDTF_100Hz_RR.png
+2025-01-27 18:42:49,283 - INFO - Created heatmap for subject SJB: heatmap_cue_R_gDTF_100Hz_SJB.png
+2025-01-27 18:42:49,657 - INFO - Created heatmap for subject BG: heatmap_cue_R_gDTF_100Hz_BG.png
+2025-01-27 18:42:49,657 - INFO - 
+Processing: cue/R/iPDC_10Hz
+2025-01-27 18:42:50,056 - INFO - Created overall heatmap: cue_R_iPDC_10Hz_average_heatmap.png
+2025-01-27 18:42:50,513 - INFO - Created heatmap for subject DOC: heatmap_cue_R_iPDC_10Hz_DOC.png
+2025-01-27 18:42:50,906 - INFO - Created heatmap for subject GB: heatmap_cue_R_iPDC_10Hz_GB.png
+2025-01-27 18:42:51,323 - INFO - Created heatmap for subject JDC: heatmap_cue_R_iPDC_10Hz_JDC.png
+2025-01-27 18:42:51,718 - INFO - Created heatmap for subject JFXD: heatmap_cue_R_iPDC_10Hz_JFXD.png
+2025-01-27 18:42:52,105 - INFO - Created heatmap for subject JZ: heatmap_cue_R_iPDC_10Hz_JZ.png
+2025-01-27 18:42:52,503 - INFO - Created heatmap for subject LT: heatmap_cue_R_iPDC_10Hz_LT.png
+2025-01-27 18:42:52,947 - INFO - Created heatmap for subject NvA: heatmap_cue_R_iPDC_10Hz_NvA.png
+2025-01-27 18:42:53,346 - INFO - Created heatmap for subject RR: heatmap_cue_R_iPDC_10Hz_RR.png
+2025-01-27 18:42:53,732 - INFO - Created heatmap for subject SJB: heatmap_cue_R_iPDC_10Hz_SJB.png
+2025-01-27 18:42:54,122 - INFO - Created heatmap for subject BG: heatmap_cue_R_iPDC_10Hz_BG.png
+2025-01-27 18:42:54,122 - INFO - 
+Processing: cue/R/iPDC_20Hz
+2025-01-27 18:42:54,521 - INFO - Created overall heatmap: cue_R_iPDC_20Hz_average_heatmap.png
+2025-01-27 18:42:54,910 - INFO - Created heatmap for subject DOC: heatmap_cue_R_iPDC_20Hz_DOC.png
+2025-01-27 18:42:55,351 - INFO - Created heatmap for subject GB: heatmap_cue_R_iPDC_20Hz_GB.png
+2025-01-27 18:42:55,741 - INFO - Created heatmap for subject JDC: heatmap_cue_R_iPDC_20Hz_JDC.png
+2025-01-27 18:42:56,130 - INFO - Created heatmap for subject JFXD: heatmap_cue_R_iPDC_20Hz_JFXD.png
+2025-01-27 18:42:56,538 - INFO - Created heatmap for subject JZ: heatmap_cue_R_iPDC_20Hz_JZ.png
+2025-01-27 18:42:56,931 - INFO - Created heatmap for subject LT: heatmap_cue_R_iPDC_20Hz_LT.png
+2025-01-27 18:42:57,325 - INFO - Created heatmap for subject NvA: heatmap_cue_R_iPDC_20Hz_NvA.png
+2025-01-27 18:42:57,760 - INFO - Created heatmap for subject RR: heatmap_cue_R_iPDC_20Hz_RR.png
+2025-01-27 18:42:58,156 - INFO - Created heatmap for subject SJB: heatmap_cue_R_iPDC_20Hz_SJB.png
+2025-01-27 18:42:58,552 - INFO - Created heatmap for subject BG: heatmap_cue_R_iPDC_20Hz_BG.png
+2025-01-27 18:42:58,553 - INFO - 
+Processing: cue/R/iPDC_100Hz
+2025-01-27 18:42:58,952 - INFO - Created overall heatmap: cue_R_iPDC_100Hz_average_heatmap.png
+2025-01-27 18:42:59,339 - INFO - Created heatmap for subject DOC: heatmap_cue_R_iPDC_100Hz_DOC.png
+2025-01-27 18:42:59,716 - INFO - Created heatmap for subject GB: heatmap_cue_R_iPDC_100Hz_GB.png
+2025-01-27 18:43:00,107 - INFO - Created heatmap for subject JDC: heatmap_cue_R_iPDC_100Hz_JDC.png
+2025-01-27 18:43:00,564 - INFO - Created heatmap for subject JFXD: heatmap_cue_R_iPDC_100Hz_JFXD.png
+2025-01-27 18:43:00,970 - INFO - Created heatmap for subject JZ: heatmap_cue_R_iPDC_100Hz_JZ.png
+2025-01-27 18:43:01,373 - INFO - Created heatmap for subject LT: heatmap_cue_R_iPDC_100Hz_LT.png
+2025-01-27 18:43:01,776 - INFO - Created heatmap for subject NvA: heatmap_cue_R_iPDC_100Hz_NvA.png
+2025-01-27 18:43:02,166 - INFO - Created heatmap for subject RR: heatmap_cue_R_iPDC_100Hz_RR.png
+2025-01-27 18:43:02,572 - INFO - Created heatmap for subject SJB: heatmap_cue_R_iPDC_100Hz_SJB.png
+2025-01-27 18:43:03,011 - INFO - Created heatmap for subject BG: heatmap_cue_R_iPDC_100Hz_BG.png
+2025-01-27 18:43:03,011 - INFO - 
+Processing: cue/R/gPDC_10Hz
+2025-01-27 18:43:03,400 - INFO - Created overall heatmap: cue_R_gPDC_10Hz_average_heatmap.png
+2025-01-27 18:43:03,791 - INFO - Created heatmap for subject DOC: heatmap_cue_R_gPDC_10Hz_DOC.png
+2025-01-27 18:43:04,178 - INFO - Created heatmap for subject GB: heatmap_cue_R_gPDC_10Hz_GB.png
+2025-01-27 18:43:04,566 - INFO - Created heatmap for subject JDC: heatmap_cue_R_gPDC_10Hz_JDC.png
+2025-01-27 18:43:04,954 - INFO - Created heatmap for subject JFXD: heatmap_cue_R_gPDC_10Hz_JFXD.png
+2025-01-27 18:43:05,338 - INFO - Created heatmap for subject JZ: heatmap_cue_R_gPDC_10Hz_JZ.png
+2025-01-27 18:43:05,786 - INFO - Created heatmap for subject LT: heatmap_cue_R_gPDC_10Hz_LT.png
+2025-01-27 18:43:06,173 - INFO - Created heatmap for subject NvA: heatmap_cue_R_gPDC_10Hz_NvA.png
+2025-01-27 18:43:06,569 - INFO - Created heatmap for subject RR: heatmap_cue_R_gPDC_10Hz_RR.png
+2025-01-27 18:43:06,962 - INFO - Created heatmap for subject SJB: heatmap_cue_R_gPDC_10Hz_SJB.png
+2025-01-27 18:43:07,356 - INFO - Created heatmap for subject BG: heatmap_cue_R_gPDC_10Hz_BG.png
+2025-01-27 18:43:07,356 - INFO - 
+Processing: cue/R/gPDC_20Hz
+2025-01-27 18:43:07,749 - INFO - Created overall heatmap: cue_R_gPDC_20Hz_average_heatmap.png
+2025-01-27 18:43:08,188 - INFO - Created heatmap for subject DOC: heatmap_cue_R_gPDC_20Hz_DOC.png
+2025-01-27 18:43:08,592 - INFO - Created heatmap for subject GB: heatmap_cue_R_gPDC_20Hz_GB.png
+2025-01-27 18:43:08,999 - INFO - Created heatmap for subject JDC: heatmap_cue_R_gPDC_20Hz_JDC.png
+2025-01-27 18:43:09,390 - INFO - Created heatmap for subject JFXD: heatmap_cue_R_gPDC_20Hz_JFXD.png
+2025-01-27 18:43:09,781 - INFO - Created heatmap for subject JZ: heatmap_cue_R_gPDC_20Hz_JZ.png
+2025-01-27 18:43:10,181 - INFO - Created heatmap for subject LT: heatmap_cue_R_gPDC_20Hz_LT.png
+2025-01-27 18:43:10,622 - INFO - Created heatmap for subject NvA: heatmap_cue_R_gPDC_20Hz_NvA.png
+2025-01-27 18:43:11,010 - INFO - Created heatmap for subject RR: heatmap_cue_R_gPDC_20Hz_RR.png
+2025-01-27 18:43:11,411 - INFO - Created heatmap for subject SJB: heatmap_cue_R_gPDC_20Hz_SJB.png
+2025-01-27 18:43:11,819 - INFO - Created heatmap for subject BG: heatmap_cue_R_gPDC_20Hz_BG.png
+2025-01-27 18:43:11,819 - INFO - 
+Processing: cue/R/gPDC_100Hz
+2025-01-27 18:43:12,212 - INFO - Created overall heatmap: cue_R_gPDC_100Hz_average_heatmap.png
+2025-01-27 18:43:12,605 - INFO - Created heatmap for subject DOC: heatmap_cue_R_gPDC_100Hz_DOC.png
+2025-01-27 18:43:13,046 - INFO - Created heatmap for subject GB: heatmap_cue_R_gPDC_100Hz_GB.png
+2025-01-27 18:43:13,436 - INFO - Created heatmap for subject JDC: heatmap_cue_R_gPDC_100Hz_JDC.png
+2025-01-27 18:43:13,827 - INFO - Created heatmap for subject JFXD: heatmap_cue_R_gPDC_100Hz_JFXD.png
+2025-01-27 18:43:14,216 - INFO - Created heatmap for subject JZ: heatmap_cue_R_gPDC_100Hz_JZ.png
+2025-01-27 18:43:14,608 - INFO - Created heatmap for subject LT: heatmap_cue_R_gPDC_100Hz_LT.png
+2025-01-27 18:43:15,048 - INFO - Created heatmap for subject NvA: heatmap_cue_R_gPDC_100Hz_NvA.png
+2025-01-27 18:43:15,435 - INFO - Created heatmap for subject RR: heatmap_cue_R_gPDC_100Hz_RR.png
+2025-01-27 18:43:15,871 - INFO - Created heatmap for subject SJB: heatmap_cue_R_gPDC_100Hz_SJB.png
+2025-01-27 18:43:16,259 - INFO - Created heatmap for subject BG: heatmap_cue_R_gPDC_100Hz_BG.png
+2025-01-27 18:43:16,272 - INFO - 
+Processing: mov/L/iDTF_10Hz
+2025-01-27 18:43:16,655 - INFO - Created overall heatmap: mov_L_iDTF_10Hz_average_heatmap.png
+2025-01-27 18:43:17,071 - INFO - Created heatmap for subject DOC: heatmap_mov_L_iDTF_10Hz_DOC.png
+2025-01-27 18:43:17,455 - INFO - Created heatmap for subject GB: heatmap_mov_L_iDTF_10Hz_GB.png
+2025-01-27 18:43:17,839 - INFO - Created heatmap for subject JDC: heatmap_mov_L_iDTF_10Hz_JDC.png
+2025-01-27 18:43:18,282 - INFO - Created heatmap for subject JFXD: heatmap_mov_L_iDTF_10Hz_JFXD.png
+2025-01-27 18:43:18,687 - INFO - Created heatmap for subject JZ: heatmap_mov_L_iDTF_10Hz_JZ.png
+2025-01-27 18:43:19,078 - INFO - Created heatmap for subject LT: heatmap_mov_L_iDTF_10Hz_LT.png
+2025-01-27 18:43:19,476 - INFO - Created heatmap for subject NvA: heatmap_mov_L_iDTF_10Hz_NvA.png
+2025-01-27 18:43:19,869 - INFO - Created heatmap for subject RR: heatmap_mov_L_iDTF_10Hz_RR.png
+2025-01-27 18:43:20,265 - INFO - Created heatmap for subject SJB: heatmap_mov_L_iDTF_10Hz_SJB.png
+2025-01-27 18:43:20,644 - INFO - Created heatmap for subject BG: heatmap_mov_L_iDTF_10Hz_BG.png
+2025-01-27 18:43:20,650 - INFO - 
+Processing: mov/L/iDTF_20Hz
+2025-01-27 18:43:21,087 - INFO - Created overall heatmap: mov_L_iDTF_20Hz_average_heatmap.png
+2025-01-27 18:43:21,484 - INFO - Created heatmap for subject DOC: heatmap_mov_L_iDTF_20Hz_DOC.png
+2025-01-27 18:43:21,874 - INFO - Created heatmap for subject GB: heatmap_mov_L_iDTF_20Hz_GB.png
+2025-01-27 18:43:22,264 - INFO - Created heatmap for subject JDC: heatmap_mov_L_iDTF_20Hz_JDC.png
+2025-01-27 18:43:22,646 - INFO - Created heatmap for subject JFXD: heatmap_mov_L_iDTF_20Hz_JFXD.png
+2025-01-27 18:43:23,025 - INFO - Created heatmap for subject JZ: heatmap_mov_L_iDTF_20Hz_JZ.png
+2025-01-27 18:43:23,481 - INFO - Created heatmap for subject LT: heatmap_mov_L_iDTF_20Hz_LT.png
+2025-01-27 18:43:23,855 - INFO - Created heatmap for subject NvA: heatmap_mov_L_iDTF_20Hz_NvA.png
+2025-01-27 18:43:24,245 - INFO - Created heatmap for subject RR: heatmap_mov_L_iDTF_20Hz_RR.png
+2025-01-27 18:43:24,639 - INFO - Created heatmap for subject SJB: heatmap_mov_L_iDTF_20Hz_SJB.png
+2025-01-27 18:43:25,026 - INFO - Created heatmap for subject BG: heatmap_mov_L_iDTF_20Hz_BG.png
+2025-01-27 18:43:25,026 - INFO - 
+Processing: mov/L/iDTF_100Hz
+2025-01-27 18:43:25,419 - INFO - Created overall heatmap: mov_L_iDTF_100Hz_average_heatmap.png
+2025-01-27 18:43:25,858 - INFO - Created heatmap for subject DOC: heatmap_mov_L_iDTF_100Hz_DOC.png
+2025-01-27 18:43:26,249 - INFO - Created heatmap for subject GB: heatmap_mov_L_iDTF_100Hz_GB.png
+2025-01-27 18:43:26,633 - INFO - Created heatmap for subject JDC: heatmap_mov_L_iDTF_100Hz_JDC.png
+2025-01-27 18:43:27,029 - INFO - Created heatmap for subject JFXD: heatmap_mov_L_iDTF_100Hz_JFXD.png
+2025-01-27 18:43:27,419 - INFO - Created heatmap for subject JZ: heatmap_mov_L_iDTF_100Hz_JZ.png
+2025-01-27 18:43:27,812 - INFO - Created heatmap for subject LT: heatmap_mov_L_iDTF_100Hz_LT.png
+2025-01-27 18:43:28,253 - INFO - Created heatmap for subject NvA: heatmap_mov_L_iDTF_100Hz_NvA.png
+2025-01-27 18:43:28,655 - INFO - Created heatmap for subject RR: heatmap_mov_L_iDTF_100Hz_RR.png
+2025-01-27 18:43:29,057 - INFO - Created heatmap for subject SJB: heatmap_mov_L_iDTF_100Hz_SJB.png
+2025-01-27 18:43:29,455 - INFO - Created heatmap for subject BG: heatmap_mov_L_iDTF_100Hz_BG.png
+2025-01-27 18:43:29,455 - INFO - 
+Processing: mov/L/gDTF_10Hz
+2025-01-27 18:43:29,833 - INFO - Created overall heatmap: mov_L_gDTF_10Hz_average_heatmap.png
+2025-01-27 18:43:30,218 - INFO - Created heatmap for subject DOC: heatmap_mov_L_gDTF_10Hz_DOC.png
+2025-01-27 18:43:30,619 - INFO - Created heatmap for subject GB: heatmap_mov_L_gDTF_10Hz_GB.png
+2025-01-27 18:43:31,089 - INFO - Created heatmap for subject JDC: heatmap_mov_L_gDTF_10Hz_JDC.png
+2025-01-27 18:43:31,485 - INFO - Created heatmap for subject JFXD: heatmap_mov_L_gDTF_10Hz_JFXD.png
+2025-01-27 18:43:31,874 - INFO - Created heatmap for subject JZ: heatmap_mov_L_gDTF_10Hz_JZ.png
+2025-01-27 18:43:32,262 - INFO - Created heatmap for subject LT: heatmap_mov_L_gDTF_10Hz_LT.png
+2025-01-27 18:43:32,659 - INFO - Created heatmap for subject NvA: heatmap_mov_L_gDTF_10Hz_NvA.png
+2025-01-27 18:43:33,047 - INFO - Created heatmap for subject RR: heatmap_mov_L_gDTF_10Hz_RR.png
+2025-01-27 18:43:33,498 - INFO - Created heatmap for subject SJB: heatmap_mov_L_gDTF_10Hz_SJB.png
+2025-01-27 18:43:33,885 - INFO - Created heatmap for subject BG: heatmap_mov_L_gDTF_10Hz_BG.png
+2025-01-27 18:43:33,885 - INFO - 
+Processing: mov/L/gDTF_20Hz
+2025-01-27 18:43:34,271 - INFO - Created overall heatmap: mov_L_gDTF_20Hz_average_heatmap.png
+2025-01-27 18:43:34,654 - INFO - Created heatmap for subject DOC: heatmap_mov_L_gDTF_20Hz_DOC.png
+2025-01-27 18:43:35,041 - INFO - Created heatmap for subject GB: heatmap_mov_L_gDTF_20Hz_GB.png
+2025-01-27 18:43:35,425 - INFO - Created heatmap for subject JDC: heatmap_mov_L_gDTF_20Hz_JDC.png
+2025-01-27 18:43:35,815 - INFO - Created heatmap for subject JFXD: heatmap_mov_L_gDTF_20Hz_JFXD.png
+2025-01-27 18:43:36,266 - INFO - Created heatmap for subject JZ: heatmap_mov_L_gDTF_20Hz_JZ.png
+2025-01-27 18:43:36,664 - INFO - Created heatmap for subject LT: heatmap_mov_L_gDTF_20Hz_LT.png
+2025-01-27 18:43:37,058 - INFO - Created heatmap for subject NvA: heatmap_mov_L_gDTF_20Hz_NvA.png
+2025-01-27 18:43:37,457 - INFO - Created heatmap for subject RR: heatmap_mov_L_gDTF_20Hz_RR.png
+2025-01-27 18:43:37,851 - INFO - Created heatmap for subject SJB: heatmap_mov_L_gDTF_20Hz_SJB.png
+2025-01-27 18:43:38,235 - INFO - Created heatmap for subject BG: heatmap_mov_L_gDTF_20Hz_BG.png
+2025-01-27 18:43:38,235 - INFO - 
+Processing: mov/L/gDTF_100Hz
+2025-01-27 18:43:38,686 - INFO - Created overall heatmap: mov_L_gDTF_100Hz_average_heatmap.png
+2025-01-27 18:43:39,090 - INFO - Created heatmap for subject DOC: heatmap_mov_L_gDTF_100Hz_DOC.png
+2025-01-27 18:43:39,494 - INFO - Created heatmap for subject GB: heatmap_mov_L_gDTF_100Hz_GB.png
+2025-01-27 18:43:39,891 - INFO - Created heatmap for subject JDC: heatmap_mov_L_gDTF_100Hz_JDC.png
+2025-01-27 18:43:40,275 - INFO - Created heatmap for subject JFXD: heatmap_mov_L_gDTF_100Hz_JFXD.png
+2025-01-27 18:43:40,673 - INFO - Created heatmap for subject JZ: heatmap_mov_L_gDTF_100Hz_JZ.png
+2025-01-27 18:43:41,120 - INFO - Created heatmap for subject LT: heatmap_mov_L_gDTF_100Hz_LT.png
+2025-01-27 18:43:41,509 - INFO - Created heatmap for subject NvA: heatmap_mov_L_gDTF_100Hz_NvA.png
+2025-01-27 18:43:41,898 - INFO - Created heatmap for subject RR: heatmap_mov_L_gDTF_100Hz_RR.png
+2025-01-27 18:43:42,292 - INFO - Created heatmap for subject SJB: heatmap_mov_L_gDTF_100Hz_SJB.png
+2025-01-27 18:43:42,693 - INFO - Created heatmap for subject BG: heatmap_mov_L_gDTF_100Hz_BG.png
+2025-01-27 18:43:42,693 - INFO - 
+Processing: mov/L/iPDC_10Hz
+2025-01-27 18:43:43,083 - INFO - Created overall heatmap: mov_L_iPDC_10Hz_average_heatmap.png
+2025-01-27 18:43:43,529 - INFO - Created heatmap for subject DOC: heatmap_mov_L_iPDC_10Hz_DOC.png
+2025-01-27 18:43:43,967 - INFO - Created heatmap for subject GB: heatmap_mov_L_iPDC_10Hz_GB.png
+2025-01-27 18:43:44,342 - INFO - Created heatmap for subject JDC: heatmap_mov_L_iPDC_10Hz_JDC.png
+2025-01-27 18:43:44,734 - INFO - Created heatmap for subject JFXD: heatmap_mov_L_iPDC_10Hz_JFXD.png
+2025-01-27 18:43:45,123 - INFO - Created heatmap for subject JZ: heatmap_mov_L_iPDC_10Hz_JZ.png
+2025-01-27 18:43:45,514 - INFO - Created heatmap for subject LT: heatmap_mov_L_iPDC_10Hz_LT.png
+2025-01-27 18:43:45,909 - INFO - Created heatmap for subject NvA: heatmap_mov_L_iPDC_10Hz_NvA.png
+2025-01-27 18:43:46,346 - INFO - Created heatmap for subject RR: heatmap_mov_L_iPDC_10Hz_RR.png
+2025-01-27 18:43:46,744 - INFO - Created heatmap for subject SJB: heatmap_mov_L_iPDC_10Hz_SJB.png
+2025-01-27 18:43:47,138 - INFO - Created heatmap for subject BG: heatmap_mov_L_iPDC_10Hz_BG.png
+2025-01-27 18:43:47,138 - INFO - 
+Processing: mov/L/iPDC_20Hz
+2025-01-27 18:43:47,541 - INFO - Created overall heatmap: mov_L_iPDC_20Hz_average_heatmap.png
+2025-01-27 18:43:47,962 - INFO - Created heatmap for subject DOC: heatmap_mov_L_iPDC_20Hz_DOC.png
+2025-01-27 18:43:48,348 - INFO - Created heatmap for subject GB: heatmap_mov_L_iPDC_20Hz_GB.png
+2025-01-27 18:43:48,811 - INFO - Created heatmap for subject JDC: heatmap_mov_L_iPDC_20Hz_JDC.png
+2025-01-27 18:43:49,199 - INFO - Created heatmap for subject JFXD: heatmap_mov_L_iPDC_20Hz_JFXD.png
+2025-01-27 18:43:49,595 - INFO - Created heatmap for subject JZ: heatmap_mov_L_iPDC_20Hz_JZ.png
+2025-01-27 18:43:49,983 - INFO - Created heatmap for subject LT: heatmap_mov_L_iPDC_20Hz_LT.png
+2025-01-27 18:43:50,373 - INFO - Created heatmap for subject NvA: heatmap_mov_L_iPDC_20Hz_NvA.png
+2025-01-27 18:43:50,784 - INFO - Created heatmap for subject RR: heatmap_mov_L_iPDC_20Hz_RR.png
+2025-01-27 18:43:51,185 - INFO - Created heatmap for subject SJB: heatmap_mov_L_iPDC_20Hz_SJB.png
+2025-01-27 18:43:51,631 - INFO - Created heatmap for subject BG: heatmap_mov_L_iPDC_20Hz_BG.png
+2025-01-27 18:43:51,631 - INFO - 
+Processing: mov/L/iPDC_100Hz
+2025-01-27 18:43:52,017 - INFO - Created overall heatmap: mov_L_iPDC_100Hz_average_heatmap.png
+2025-01-27 18:43:52,404 - INFO - Created heatmap for subject DOC: heatmap_mov_L_iPDC_100Hz_DOC.png
+2025-01-27 18:43:52,809 - INFO - Created heatmap for subject GB: heatmap_mov_L_iPDC_100Hz_GB.png
+2025-01-27 18:43:53,190 - INFO - Created heatmap for subject JDC: heatmap_mov_L_iPDC_100Hz_JDC.png
+2025-01-27 18:43:53,582 - INFO - Created heatmap for subject JFXD: heatmap_mov_L_iPDC_100Hz_JFXD.png
+2025-01-27 18:43:54,028 - INFO - Created heatmap for subject JZ: heatmap_mov_L_iPDC_100Hz_JZ.png
+2025-01-27 18:43:54,418 - INFO - Created heatmap for subject LT: heatmap_mov_L_iPDC_100Hz_LT.png
+2025-01-27 18:43:54,812 - INFO - Created heatmap for subject NvA: heatmap_mov_L_iPDC_100Hz_NvA.png
+2025-01-27 18:43:55,204 - INFO - Created heatmap for subject RR: heatmap_mov_L_iPDC_100Hz_RR.png
+2025-01-27 18:43:55,589 - INFO - Created heatmap for subject SJB: heatmap_mov_L_iPDC_100Hz_SJB.png
+2025-01-27 18:43:55,996 - INFO - Created heatmap for subject BG: heatmap_mov_L_iPDC_100Hz_BG.png
+2025-01-27 18:43:55,996 - INFO - 
+Processing: mov/L/gPDC_10Hz
+2025-01-27 18:43:56,437 - INFO - Created overall heatmap: mov_L_gPDC_10Hz_average_heatmap.png
+2025-01-27 18:43:56,838 - INFO - Created heatmap for subject DOC: heatmap_mov_L_gPDC_10Hz_DOC.png
+2025-01-27 18:43:57,222 - INFO - Created heatmap for subject GB: heatmap_mov_L_gPDC_10Hz_GB.png
+2025-01-27 18:43:57,614 - INFO - Created heatmap for subject JDC: heatmap_mov_L_gPDC_10Hz_JDC.png
+2025-01-27 18:43:58,021 - INFO - Created heatmap for subject JFXD: heatmap_mov_L_gPDC_10Hz_JFXD.png
+2025-01-27 18:43:58,411 - INFO - Created heatmap for subject JZ: heatmap_mov_L_gPDC_10Hz_JZ.png
+2025-01-27 18:43:58,819 - INFO - Created heatmap for subject LT: heatmap_mov_L_gPDC_10Hz_LT.png
+2025-01-27 18:43:59,279 - INFO - Created heatmap for subject NvA: heatmap_mov_L_gPDC_10Hz_NvA.png
+2025-01-27 18:43:59,658 - INFO - Created heatmap for subject RR: heatmap_mov_L_gPDC_10Hz_RR.png
+2025-01-27 18:44:00,056 - INFO - Created heatmap for subject SJB: heatmap_mov_L_gPDC_10Hz_SJB.png
+2025-01-27 18:44:00,459 - INFO - Created heatmap for subject BG: heatmap_mov_L_gPDC_10Hz_BG.png
+2025-01-27 18:44:00,459 - INFO - 
+Processing: mov/L/gPDC_20Hz
+2025-01-27 18:44:00,841 - INFO - Created overall heatmap: mov_L_gPDC_20Hz_average_heatmap.png
+2025-01-27 18:44:01,250 - INFO - Created heatmap for subject DOC: heatmap_mov_L_gPDC_20Hz_DOC.png
+2025-01-27 18:44:01,708 - INFO - Created heatmap for subject GB: heatmap_mov_L_gPDC_20Hz_GB.png
+2025-01-27 18:44:02,150 - INFO - Created heatmap for subject JDC: heatmap_mov_L_gPDC_20Hz_JDC.png
+2025-01-27 18:44:02,544 - INFO - Created heatmap for subject JFXD: heatmap_mov_L_gPDC_20Hz_JFXD.png
+2025-01-27 18:44:02,948 - INFO - Created heatmap for subject JZ: heatmap_mov_L_gPDC_20Hz_JZ.png
+2025-01-27 18:44:03,340 - INFO - Created heatmap for subject LT: heatmap_mov_L_gPDC_20Hz_LT.png
+2025-01-27 18:44:03,734 - INFO - Created heatmap for subject NvA: heatmap_mov_L_gPDC_20Hz_NvA.png
+2025-01-27 18:44:04,181 - INFO - Created heatmap for subject RR: heatmap_mov_L_gPDC_20Hz_RR.png
+2025-01-27 18:44:04,564 - INFO - Created heatmap for subject SJB: heatmap_mov_L_gPDC_20Hz_SJB.png
+2025-01-27 18:44:04,976 - INFO - Created heatmap for subject BG: heatmap_mov_L_gPDC_20Hz_BG.png
+2025-01-27 18:44:04,977 - INFO - 
+Processing: mov/L/gPDC_100Hz
+2025-01-27 18:44:05,362 - INFO - Created overall heatmap: mov_L_gPDC_100Hz_average_heatmap.png
+2025-01-27 18:44:05,752 - INFO - Created heatmap for subject DOC: heatmap_mov_L_gPDC_100Hz_DOC.png
+2025-01-27 18:44:06,144 - INFO - Created heatmap for subject GB: heatmap_mov_L_gPDC_100Hz_GB.png
+2025-01-27 18:44:06,589 - INFO - Created heatmap for subject JDC: heatmap_mov_L_gPDC_100Hz_JDC.png
+2025-01-27 18:44:06,983 - INFO - Created heatmap for subject JFXD: heatmap_mov_L_gPDC_100Hz_JFXD.png
+2025-01-27 18:44:07,372 - INFO - Created heatmap for subject JZ: heatmap_mov_L_gPDC_100Hz_JZ.png
+2025-01-27 18:44:07,760 - INFO - Created heatmap for subject LT: heatmap_mov_L_gPDC_100Hz_LT.png
+2025-01-27 18:44:08,177 - INFO - Created heatmap for subject NvA: heatmap_mov_L_gPDC_100Hz_NvA.png
+2025-01-27 18:44:08,561 - INFO - Created heatmap for subject RR: heatmap_mov_L_gPDC_100Hz_RR.png
+2025-01-27 18:44:08,973 - INFO - Created heatmap for subject SJB: heatmap_mov_L_gPDC_100Hz_SJB.png
+2025-01-27 18:44:09,431 - INFO - Created heatmap for subject BG: heatmap_mov_L_gPDC_100Hz_BG.png
+2025-01-27 18:44:09,431 - INFO - 
+Processing: mov/R/iDTF_10Hz
+2025-01-27 18:44:09,822 - INFO - Created overall heatmap: mov_R_iDTF_10Hz_average_heatmap.png
+2025-01-27 18:44:10,213 - INFO - Created heatmap for subject DOC: heatmap_mov_R_iDTF_10Hz_DOC.png
+2025-01-27 18:44:10,598 - INFO - Created heatmap for subject GB: heatmap_mov_R_iDTF_10Hz_GB.png
+2025-01-27 18:44:10,995 - INFO - Created heatmap for subject JDC: heatmap_mov_R_iDTF_10Hz_JDC.png
+2025-01-27 18:44:11,370 - INFO - Created heatmap for subject JFXD: heatmap_mov_R_iDTF_10Hz_JFXD.png
+2025-01-27 18:44:11,816 - INFO - Created heatmap for subject JZ: heatmap_mov_R_iDTF_10Hz_JZ.png
+2025-01-27 18:44:12,228 - INFO - Created heatmap for subject LT: heatmap_mov_R_iDTF_10Hz_LT.png
+2025-01-27 18:44:12,606 - INFO - Created heatmap for subject NvA: heatmap_mov_R_iDTF_10Hz_NvA.png
+2025-01-27 18:44:13,011 - INFO - Created heatmap for subject RR: heatmap_mov_R_iDTF_10Hz_RR.png
+2025-01-27 18:44:13,400 - INFO - Created heatmap for subject SJB: heatmap_mov_R_iDTF_10Hz_SJB.png
+2025-01-27 18:44:13,783 - INFO - Created heatmap for subject BG: heatmap_mov_R_iDTF_10Hz_BG.png
+2025-01-27 18:44:13,783 - INFO - 
+Processing: mov/R/iDTF_20Hz
+2025-01-27 18:44:14,228 - INFO - Created overall heatmap: mov_R_iDTF_20Hz_average_heatmap.png
+2025-01-27 18:44:14,607 - INFO - Created heatmap for subject DOC: heatmap_mov_R_iDTF_20Hz_DOC.png
+2025-01-27 18:44:15,005 - INFO - Created heatmap for subject GB: heatmap_mov_R_iDTF_20Hz_GB.png
+2025-01-27 18:44:15,389 - INFO - Created heatmap for subject JDC: heatmap_mov_R_iDTF_20Hz_JDC.png
+2025-01-27 18:44:15,779 - INFO - Created heatmap for subject JFXD: heatmap_mov_R_iDTF_20Hz_JFXD.png
+2025-01-27 18:44:16,160 - INFO - Created heatmap for subject JZ: heatmap_mov_R_iDTF_20Hz_JZ.png
+2025-01-27 18:44:16,559 - INFO - Created heatmap for subject LT: heatmap_mov_R_iDTF_20Hz_LT.png
+2025-01-27 18:44:17,009 - INFO - Created heatmap for subject NvA: heatmap_mov_R_iDTF_20Hz_NvA.png
+2025-01-27 18:44:17,389 - INFO - Created heatmap for subject RR: heatmap_mov_R_iDTF_20Hz_RR.png
+2025-01-27 18:44:17,792 - INFO - Created heatmap for subject SJB: heatmap_mov_R_iDTF_20Hz_SJB.png
+2025-01-27 18:44:18,206 - INFO - Created heatmap for subject BG: heatmap_mov_R_iDTF_20Hz_BG.png
+2025-01-27 18:44:18,206 - INFO - 
+Processing: mov/R/iDTF_100Hz
+2025-01-27 18:44:18,592 - INFO - Created overall heatmap: mov_R_iDTF_100Hz_average_heatmap.png
+2025-01-27 18:44:19,001 - INFO - Created heatmap for subject DOC: heatmap_mov_R_iDTF_100Hz_DOC.png
+2025-01-27 18:44:19,450 - INFO - Created heatmap for subject GB: heatmap_mov_R_iDTF_100Hz_GB.png
+2025-01-27 18:44:19,832 - INFO - Created heatmap for subject JDC: heatmap_mov_R_iDTF_100Hz_JDC.png
+2025-01-27 18:44:20,223 - INFO - Created heatmap for subject JFXD: heatmap_mov_R_iDTF_100Hz_JFXD.png
+2025-01-27 18:44:20,604 - INFO - Created heatmap for subject JZ: heatmap_mov_R_iDTF_100Hz_JZ.png
+2025-01-27 18:44:21,005 - INFO - Created heatmap for subject LT: heatmap_mov_R_iDTF_100Hz_LT.png
+2025-01-27 18:44:21,396 - INFO - Created heatmap for subject NvA: heatmap_mov_R_iDTF_100Hz_NvA.png
+2025-01-27 18:44:21,839 - INFO - Created heatmap for subject RR: heatmap_mov_R_iDTF_100Hz_RR.png
+2025-01-27 18:44:22,229 - INFO - Created heatmap for subject SJB: heatmap_mov_R_iDTF_100Hz_SJB.png
+2025-01-27 18:44:22,622 - INFO - Created heatmap for subject BG: heatmap_mov_R_iDTF_100Hz_BG.png
+2025-01-27 18:44:22,622 - INFO - 
+Processing: mov/R/gDTF_10Hz
+2025-01-27 18:44:23,025 - INFO - Created overall heatmap: mov_R_gDTF_10Hz_average_heatmap.png
+2025-01-27 18:44:23,431 - INFO - Created heatmap for subject DOC: heatmap_mov_R_gDTF_10Hz_DOC.png
+2025-01-27 18:44:23,813 - INFO - Created heatmap for subject GB: heatmap_mov_R_gDTF_10Hz_GB.png
+2025-01-27 18:44:24,207 - INFO - Created heatmap for subject JDC: heatmap_mov_R_gDTF_10Hz_JDC.png
+2025-01-27 18:44:24,659 - INFO - Created heatmap for subject JFXD: heatmap_mov_R_gDTF_10Hz_JFXD.png
+2025-01-27 18:44:25,056 - INFO - Created heatmap for subject JZ: heatmap_mov_R_gDTF_10Hz_JZ.png
+2025-01-27 18:44:25,437 - INFO - Created heatmap for subject LT: heatmap_mov_R_gDTF_10Hz_LT.png
+2025-01-27 18:44:25,829 - INFO - Created heatmap for subject NvA: heatmap_mov_R_gDTF_10Hz_NvA.png
+2025-01-27 18:44:26,213 - INFO - Created heatmap for subject RR: heatmap_mov_R_gDTF_10Hz_RR.png
+2025-01-27 18:44:26,608 - INFO - Created heatmap for subject SJB: heatmap_mov_R_gDTF_10Hz_SJB.png
+2025-01-27 18:44:27,049 - INFO - Created heatmap for subject BG: heatmap_mov_R_gDTF_10Hz_BG.png
+2025-01-27 18:44:27,049 - INFO - 
+Processing: mov/R/gDTF_20Hz
+2025-01-27 18:44:27,437 - INFO - Created overall heatmap: mov_R_gDTF_20Hz_average_heatmap.png
+2025-01-27 18:44:27,825 - INFO - Created heatmap for subject DOC: heatmap_mov_R_gDTF_20Hz_DOC.png
+2025-01-27 18:44:28,213 - INFO - Created heatmap for subject GB: heatmap_mov_R_gDTF_20Hz_GB.png
+2025-01-27 18:44:28,619 - INFO - Created heatmap for subject JDC: heatmap_mov_R_gDTF_20Hz_JDC.png
+2025-01-27 18:44:29,043 - INFO - Created heatmap for subject JFXD: heatmap_mov_R_gDTF_20Hz_JFXD.png
+2025-01-27 18:44:29,496 - INFO - Created heatmap for subject JZ: heatmap_mov_R_gDTF_20Hz_JZ.png
+2025-01-27 18:44:29,891 - INFO - Created heatmap for subject LT: heatmap_mov_R_gDTF_20Hz_LT.png
+2025-01-27 18:44:30,327 - INFO - Created heatmap for subject NvA: heatmap_mov_R_gDTF_20Hz_NvA.png
+2025-01-27 18:44:30,729 - INFO - Created heatmap for subject RR: heatmap_mov_R_gDTF_20Hz_RR.png
+2025-01-27 18:44:31,140 - INFO - Created heatmap for subject SJB: heatmap_mov_R_gDTF_20Hz_SJB.png
+2025-01-27 18:44:31,541 - INFO - Created heatmap for subject BG: heatmap_mov_R_gDTF_20Hz_BG.png
+2025-01-27 18:44:31,542 - INFO - 
+Processing: mov/R/gDTF_100Hz
+2025-01-27 18:44:31,934 - INFO - Created overall heatmap: mov_R_gDTF_100Hz_average_heatmap.png
+2025-01-27 18:44:32,377 - INFO - Created heatmap for subject DOC: heatmap_mov_R_gDTF_100Hz_DOC.png
+2025-01-27 18:44:32,775 - INFO - Created heatmap for subject GB: heatmap_mov_R_gDTF_100Hz_GB.png
+2025-01-27 18:44:33,168 - INFO - Created heatmap for subject JDC: heatmap_mov_R_gDTF_100Hz_JDC.png
+2025-01-27 18:44:33,562 - INFO - Created heatmap for subject JFXD: heatmap_mov_R_gDTF_100Hz_JFXD.png
+2025-01-27 18:44:33,960 - INFO - Created heatmap for subject JZ: heatmap_mov_R_gDTF_100Hz_JZ.png
+2025-01-27 18:44:34,354 - INFO - Created heatmap for subject LT: heatmap_mov_R_gDTF_100Hz_LT.png
+2025-01-27 18:44:34,794 - INFO - Created heatmap for subject NvA: heatmap_mov_R_gDTF_100Hz_NvA.png
+2025-01-27 18:44:35,187 - INFO - Created heatmap for subject RR: heatmap_mov_R_gDTF_100Hz_RR.png
+2025-01-27 18:44:35,577 - INFO - Created heatmap for subject SJB: heatmap_mov_R_gDTF_100Hz_SJB.png
+2025-01-27 18:44:35,968 - INFO - Created heatmap for subject BG: heatmap_mov_R_gDTF_100Hz_BG.png
+2025-01-27 18:44:35,978 - INFO - 
+Processing: mov/R/iPDC_10Hz
+2025-01-27 18:44:36,370 - INFO - Created overall heatmap: mov_R_iPDC_10Hz_average_heatmap.png
+2025-01-27 18:44:36,781 - INFO - Created heatmap for subject DOC: heatmap_mov_R_iPDC_10Hz_DOC.png
+2025-01-27 18:44:37,225 - INFO - Created heatmap for subject GB: heatmap_mov_R_iPDC_10Hz_GB.png
+2025-01-27 18:44:37,632 - INFO - Created heatmap for subject JDC: heatmap_mov_R_iPDC_10Hz_JDC.png
+2025-01-27 18:44:38,028 - INFO - Created heatmap for subject JFXD: heatmap_mov_R_iPDC_10Hz_JFXD.png
+2025-01-27 18:44:38,415 - INFO - Created heatmap for subject JZ: heatmap_mov_R_iPDC_10Hz_JZ.png
+2025-01-27 18:44:38,843 - INFO - Created heatmap for subject LT: heatmap_mov_R_iPDC_10Hz_LT.png
+2025-01-27 18:44:39,246 - INFO - Created heatmap for subject NvA: heatmap_mov_R_iPDC_10Hz_NvA.png
+2025-01-27 18:44:39,684 - INFO - Created heatmap for subject RR: heatmap_mov_R_iPDC_10Hz_RR.png
+2025-01-27 18:44:40,154 - INFO - Created heatmap for subject SJB: heatmap_mov_R_iPDC_10Hz_SJB.png
+2025-01-27 18:44:40,587 - INFO - Created heatmap for subject BG: heatmap_mov_R_iPDC_10Hz_BG.png
+2025-01-27 18:44:40,587 - INFO - 
+Processing: mov/R/iPDC_20Hz
+2025-01-27 18:44:40,984 - INFO - Created overall heatmap: mov_R_iPDC_20Hz_average_heatmap.png
+2025-01-27 18:44:41,377 - INFO - Created heatmap for subject DOC: heatmap_mov_R_iPDC_20Hz_DOC.png
+2025-01-27 18:44:41,763 - INFO - Created heatmap for subject GB: heatmap_mov_R_iPDC_20Hz_GB.png
+2025-01-27 18:44:42,152 - INFO - Created heatmap for subject JDC: heatmap_mov_R_iPDC_20Hz_JDC.png
+2025-01-27 18:44:42,595 - INFO - Created heatmap for subject JFXD: heatmap_mov_R_iPDC_20Hz_JFXD.png
+2025-01-27 18:44:42,994 - INFO - Created heatmap for subject JZ: heatmap_mov_R_iPDC_20Hz_JZ.png
+2025-01-27 18:44:43,389 - INFO - Created heatmap for subject LT: heatmap_mov_R_iPDC_20Hz_LT.png
+2025-01-27 18:44:43,798 - INFO - Created heatmap for subject NvA: heatmap_mov_R_iPDC_20Hz_NvA.png
+2025-01-27 18:44:44,203 - INFO - Created heatmap for subject RR: heatmap_mov_R_iPDC_20Hz_RR.png
+2025-01-27 18:44:44,596 - INFO - Created heatmap for subject SJB: heatmap_mov_R_iPDC_20Hz_SJB.png
+2025-01-27 18:44:45,042 - INFO - Created heatmap for subject BG: heatmap_mov_R_iPDC_20Hz_BG.png
+2025-01-27 18:44:45,042 - INFO - 
+Processing: mov/R/iPDC_100Hz
+2025-01-27 18:44:45,439 - INFO - Created overall heatmap: mov_R_iPDC_100Hz_average_heatmap.png
+2025-01-27 18:44:45,823 - INFO - Created heatmap for subject DOC: heatmap_mov_R_iPDC_100Hz_DOC.png
+2025-01-27 18:44:46,212 - INFO - Created heatmap for subject GB: heatmap_mov_R_iPDC_100Hz_GB.png
+2025-01-27 18:44:46,603 - INFO - Created heatmap for subject JDC: heatmap_mov_R_iPDC_100Hz_JDC.png
+2025-01-27 18:44:47,011 - INFO - Created heatmap for subject JFXD: heatmap_mov_R_iPDC_100Hz_JFXD.png
+2025-01-27 18:44:47,435 - INFO - Created heatmap for subject JZ: heatmap_mov_R_iPDC_100Hz_JZ.png
+2025-01-27 18:44:47,996 - INFO - Created heatmap for subject LT: heatmap_mov_R_iPDC_100Hz_LT.png
+2025-01-27 18:44:48,478 - INFO - Created heatmap for subject NvA: heatmap_mov_R_iPDC_100Hz_NvA.png
+2025-01-27 18:44:48,917 - INFO - Created heatmap for subject RR: heatmap_mov_R_iPDC_100Hz_RR.png
+2025-01-27 18:44:49,338 - INFO - Created heatmap for subject SJB: heatmap_mov_R_iPDC_100Hz_SJB.png
+2025-01-27 18:44:49,779 - INFO - Created heatmap for subject BG: heatmap_mov_R_iPDC_100Hz_BG.png
+2025-01-27 18:44:49,779 - INFO - 
+Processing: mov/R/gPDC_10Hz
+2025-01-27 18:44:50,181 - INFO - Created overall heatmap: mov_R_gPDC_10Hz_average_heatmap.png
+2025-01-27 18:44:50,628 - INFO - Created heatmap for subject DOC: heatmap_mov_R_gPDC_10Hz_DOC.png
+2025-01-27 18:44:51,019 - INFO - Created heatmap for subject GB: heatmap_mov_R_gPDC_10Hz_GB.png
+2025-01-27 18:44:51,413 - INFO - Created heatmap for subject JDC: heatmap_mov_R_gPDC_10Hz_JDC.png
+2025-01-27 18:44:51,823 - INFO - Created heatmap for subject JFXD: heatmap_mov_R_gPDC_10Hz_JFXD.png
+2025-01-27 18:44:52,228 - INFO - Created heatmap for subject JZ: heatmap_mov_R_gPDC_10Hz_JZ.png
+2025-01-27 18:44:52,624 - INFO - Created heatmap for subject LT: heatmap_mov_R_gPDC_10Hz_LT.png
+2025-01-27 18:44:53,108 - INFO - Created heatmap for subject NvA: heatmap_mov_R_gPDC_10Hz_NvA.png
+2025-01-27 18:44:53,532 - INFO - Created heatmap for subject RR: heatmap_mov_R_gPDC_10Hz_RR.png
+2025-01-27 18:44:53,954 - INFO - Created heatmap for subject SJB: heatmap_mov_R_gPDC_10Hz_SJB.png
+2025-01-27 18:44:54,355 - INFO - Created heatmap for subject BG: heatmap_mov_R_gPDC_10Hz_BG.png
+2025-01-27 18:44:54,355 - INFO - 
+Processing: mov/R/gPDC_20Hz
+2025-01-27 18:44:54,749 - INFO - Created overall heatmap: mov_R_gPDC_20Hz_average_heatmap.png
+2025-01-27 18:44:55,150 - INFO - Created heatmap for subject DOC: heatmap_mov_R_gPDC_20Hz_DOC.png
+2025-01-27 18:44:55,556 - INFO - Created heatmap for subject GB: heatmap_mov_R_gPDC_20Hz_GB.png
+2025-01-27 18:44:56,003 - INFO - Created heatmap for subject JDC: heatmap_mov_R_gPDC_20Hz_JDC.png
+2025-01-27 18:44:56,400 - INFO - Created heatmap for subject JFXD: heatmap_mov_R_gPDC_20Hz_JFXD.png
+2025-01-27 18:44:56,813 - INFO - Created heatmap for subject JZ: heatmap_mov_R_gPDC_20Hz_JZ.png
+2025-01-27 18:44:57,275 - INFO - Created heatmap for subject LT: heatmap_mov_R_gPDC_20Hz_LT.png
+2025-01-27 18:44:57,675 - INFO - Created heatmap for subject NvA: heatmap_mov_R_gPDC_20Hz_NvA.png
+2025-01-27 18:44:58,072 - INFO - Created heatmap for subject RR: heatmap_mov_R_gPDC_20Hz_RR.png
+2025-01-27 18:44:58,513 - INFO - Created heatmap for subject SJB: heatmap_mov_R_gPDC_20Hz_SJB.png
+2025-01-27 18:44:58,907 - INFO - Created heatmap for subject BG: heatmap_mov_R_gPDC_20Hz_BG.png
+2025-01-27 18:44:58,907 - INFO - 
+Processing: mov/R/gPDC_100Hz
+2025-01-27 18:44:59,327 - INFO - Created overall heatmap: mov_R_gPDC_100Hz_average_heatmap.png
+2025-01-27 18:44:59,719 - INFO - Created heatmap for subject DOC: heatmap_mov_R_gPDC_100Hz_DOC.png
+2025-01-27 18:45:00,121 - INFO - Created heatmap for subject GB: heatmap_mov_R_gPDC_100Hz_GB.png
+2025-01-27 18:45:00,515 - INFO - Created heatmap for subject JDC: heatmap_mov_R_gPDC_100Hz_JDC.png
+2025-01-27 18:45:00,962 - INFO - Created heatmap for subject JFXD: heatmap_mov_R_gPDC_100Hz_JFXD.png
+2025-01-27 18:45:01,371 - INFO - Created heatmap for subject JZ: heatmap_mov_R_gPDC_100Hz_JZ.png
+2025-01-27 18:45:01,760 - INFO - Created heatmap for subject LT: heatmap_mov_R_gPDC_100Hz_LT.png
+2025-01-27 18:45:02,160 - INFO - Created heatmap for subject NvA: heatmap_mov_R_gPDC_100Hz_NvA.png
+2025-01-27 18:45:02,549 - INFO - Created heatmap for subject RR: heatmap_mov_R_gPDC_100Hz_RR.png
+2025-01-27 18:45:03,006 - INFO - Created heatmap for subject SJB: heatmap_mov_R_gPDC_100Hz_SJB.png
+2025-01-27 18:45:03,462 - INFO - Created heatmap for subject BG: heatmap_mov_R_gPDC_100Hz_BG.png

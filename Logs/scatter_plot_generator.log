@@ -1,0 +1,2372 @@
+2025-01-27 18:53:45,857 - INFO - Starting Scatter Plot Generator
+2025-01-27 18:53:49,973 - INFO - Starting processing of 24 combinations
+2025-01-27 18:53:49,973 - INFO - Processing combination 1/24
+2025-01-27 18:53:49,973 - INFO - Parameters: Alignment=cue, Method=iDTF, Frequency=10Hz
+2025-01-27 18:53:49,977 - INFO - Maximum value (excluding diagonal) in L average: 0.379940
+2025-01-27 18:53:49,977 - INFO - Position: (np.int64(10), np.int64(8))
+2025-01-27 18:53:49,983 - INFO - Subject DOC L value: 0.676025
+2025-01-27 18:53:49,984 - INFO - Subject DOC R value: 0.698489
+2025-01-27 18:53:49,987 - INFO - Subject GB L value: 0.013628
+2025-01-27 18:53:49,988 - INFO - Subject GB R value: 0.008673
+2025-01-27 18:53:49,989 - INFO - Subject JDC L value: 0.064836
+2025-01-27 18:53:49,990 - INFO - Subject JDC R value: 0.062507
+2025-01-27 18:53:49,992 - INFO - Subject JFXD L value: 1.404729
+2025-01-27 18:53:49,995 - INFO - Subject JFXD R value: 1.093193
+2025-01-27 18:53:49,997 - INFO - Subject JZ L value: 0.225567
+2025-01-27 18:53:49,998 - INFO - Subject JZ R value: 0.276536
+2025-01-27 18:53:49,999 - INFO - Subject LT L value: 0.929044
+2025-01-27 18:53:50,001 - INFO - Subject LT R value: 1.112844
+2025-01-27 18:53:50,002 - INFO - Subject NvA L value: 0.177070
+2025-01-27 18:53:50,003 - INFO - Subject NvA R value: 0.140229
+2025-01-27 18:53:50,005 - INFO - Subject RR L value: 0.094184
+2025-01-27 18:53:50,006 - INFO - Subject RR R value: 0.083384
+2025-01-27 18:53:50,007 - INFO - Subject SJB L value: 0.084321
+2025-01-27 18:53:50,007 - INFO - Subject SJB R value: 0.104078
+2025-01-27 18:53:50,007 - INFO - Subject BG L value: 0.046687
+2025-01-27 18:53:50,010 - INFO - Subject BG R value: 0.044957
+2025-01-27 18:53:50,504 - INFO - Processing combination 2/24
+2025-01-27 18:53:50,504 - INFO - Parameters: Alignment=cue, Method=iDTF, Frequency=20Hz
+2025-01-27 18:53:50,504 - INFO - Maximum value (excluding diagonal) in L average: 0.295925
+2025-01-27 18:53:50,504 - INFO - Position: (np.int64(10), np.int64(8))
+2025-01-27 18:53:50,504 - INFO - Subject DOC L value: 0.526597
+2025-01-27 18:53:50,515 - INFO - Subject DOC R value: 0.526415
+2025-01-27 18:53:50,517 - INFO - Subject GB L value: 0.019569
+2025-01-27 18:53:50,518 - INFO - Subject GB R value: 0.011075
+2025-01-27 18:53:50,519 - INFO - Subject JDC L value: 0.084505
+2025-01-27 18:53:50,521 - INFO - Subject JDC R value: 0.093449
+2025-01-27 18:53:50,522 - INFO - Subject JFXD L value: 0.700453
+2025-01-27 18:53:50,523 - INFO - Subject JFXD R value: 0.796406
+2025-01-27 18:53:50,524 - INFO - Subject JZ L value: 0.263302
+2025-01-27 18:53:50,525 - INFO - Subject JZ R value: 0.344703
+2025-01-27 18:53:50,527 - INFO - Subject LT L value: 1.041529
+2025-01-27 18:53:50,529 - INFO - Subject LT R value: 1.393591
+2025-01-27 18:53:50,531 - INFO - Subject NvA L value: 0.065025
+2025-01-27 18:53:50,532 - INFO - Subject NvA R value: 0.058344
+2025-01-27 18:53:50,533 - INFO - Subject RR L value: 0.121817
+2025-01-27 18:53:50,534 - INFO - Subject RR R value: 0.097371
+2025-01-27 18:53:50,535 - INFO - Subject SJB L value: 0.035166
+2025-01-27 18:53:50,536 - INFO - Subject SJB R value: 0.027300
+2025-01-27 18:53:50,538 - INFO - Subject BG L value: 0.036414
+2025-01-27 18:53:50,539 - INFO - Subject BG R value: 0.025595
+2025-01-27 18:53:50,886 - INFO - Processing combination 3/24
+2025-01-27 18:53:50,886 - INFO - Parameters: Alignment=cue, Method=iDTF, Frequency=100Hz
+2025-01-27 18:53:50,886 - INFO - Maximum value (excluding diagonal) in L average: 0.232663
+2025-01-27 18:53:50,886 - INFO - Position: (np.int64(14), np.int64(12))
+2025-01-27 18:53:50,886 - INFO - Subject DOC L value: 0.073837
+2025-01-27 18:53:50,894 - INFO - Subject DOC R value: 0.051238
+2025-01-27 18:53:50,895 - INFO - Subject GB L value: 0.026476
+2025-01-27 18:53:50,896 - INFO - Subject GB R value: 0.027590
+2025-01-27 18:53:50,897 - INFO - Subject JDC L value: 0.129092
+2025-01-27 18:53:50,898 - INFO - Subject JDC R value: 0.063963
+2025-01-27 18:53:50,900 - INFO - Subject JFXD L value: 1.856151
+2025-01-27 18:53:50,902 - INFO - Subject JFXD R value: 1.857734
+2025-01-27 18:53:50,904 - INFO - Subject JZ L value: 0.025862
+2025-01-27 18:53:50,905 - INFO - Subject JZ R value: 0.023123
+2025-01-27 18:53:50,906 - INFO - Subject LT L value: 0.037129
+2025-01-27 18:53:50,908 - INFO - Subject LT R value: 0.021680
+2025-01-27 18:53:50,909 - INFO - Subject NvA L value: 0.018014
+2025-01-27 18:53:50,909 - INFO - Subject NvA R value: 0.018213
+2025-01-27 18:53:50,911 - INFO - Subject RR L value: 0.077395
+2025-01-27 18:53:50,912 - INFO - Subject RR R value: 0.050273
+2025-01-27 18:53:50,913 - INFO - Subject SJB L value: 0.019487
+2025-01-27 18:53:50,915 - INFO - Subject SJB R value: 0.030021
+2025-01-27 18:53:50,916 - INFO - Subject BG L value: 0.006695
+2025-01-27 18:53:50,917 - INFO - Subject BG R value: 0.014354
+2025-01-27 18:53:51,270 - INFO - Processing combination 4/24
+2025-01-27 18:53:51,270 - INFO - Parameters: Alignment=cue, Method=gDTF, Frequency=10Hz
+2025-01-27 18:53:51,270 - INFO - Maximum value (excluding diagonal) in L average: 0.124926
+2025-01-27 18:53:51,270 - INFO - Position: (np.int64(4), np.int64(8))
+2025-01-27 18:53:51,270 - INFO - Subject DOC L value: 0.226146
+2025-01-27 18:53:51,275 - INFO - Subject DOC R value: 0.259721
+2025-01-27 18:53:51,276 - INFO - Subject GB L value: 0.039068
+2025-01-27 18:53:51,278 - INFO - Subject GB R value: 0.037574
+2025-01-27 18:53:51,279 - INFO - Subject JDC L value: 0.033452
+2025-01-27 18:53:51,280 - INFO - Subject JDC R value: 0.049065
+2025-01-27 18:53:51,281 - INFO - Subject JFXD L value: 0.170695
+2025-01-27 18:53:51,282 - INFO - Subject JFXD R value: 0.143632
+2025-01-27 18:53:51,283 - INFO - Subject JZ L value: 0.078337
+2025-01-27 18:53:51,284 - INFO - Subject JZ R value: 0.113441
+2025-01-27 18:53:51,285 - INFO - Subject LT L value: 0.283776
+2025-01-27 18:53:51,286 - INFO - Subject LT R value: 0.208294
+2025-01-27 18:53:51,287 - INFO - Subject NvA L value: 0.154200
+2025-01-27 18:53:51,288 - INFO - Subject NvA R value: 0.214715
+2025-01-27 18:53:51,289 - INFO - Subject RR L value: 0.108238
+2025-01-27 18:53:51,291 - INFO - Subject RR R value: 0.067208
+2025-01-27 18:53:51,293 - INFO - Subject SJB L value: 0.096493
+2025-01-27 18:53:51,293 - INFO - Subject SJB R value: 0.087325
+2025-01-27 18:53:51,294 - INFO - Subject BG L value: 0.036828
+2025-01-27 18:53:51,295 - INFO - Subject BG R value: 0.087738
+2025-01-27 18:53:51,640 - INFO - Processing combination 5/24
+2025-01-27 18:53:51,640 - INFO - Parameters: Alignment=cue, Method=gDTF, Frequency=20Hz
+2025-01-27 18:53:51,640 - INFO - Maximum value (excluding diagonal) in L average: 0.131609
+2025-01-27 18:53:51,640 - INFO - Position: (np.int64(11), np.int64(10))
+2025-01-27 18:53:51,640 - INFO - Subject DOC L value: 0.111689
+2025-01-27 18:53:51,651 - INFO - Subject DOC R value: 0.090992
+2025-01-27 18:53:51,653 - INFO - Subject GB L value: 0.016094
+2025-01-27 18:53:51,654 - INFO - Subject GB R value: 0.015397
+2025-01-27 18:53:51,655 - INFO - Subject JDC L value: 0.335689
+2025-01-27 18:53:51,656 - INFO - Subject JDC R value: 0.355223
+2025-01-27 18:53:51,658 - INFO - Subject JFXD L value: 0.052178
+2025-01-27 18:53:51,659 - INFO - Subject JFXD R value: 0.062176
+2025-01-27 18:53:51,660 - INFO - Subject JZ L value: 0.100805
+2025-01-27 18:53:51,661 - INFO - Subject JZ R value: 0.105531
+2025-01-27 18:53:51,663 - INFO - Subject LT L value: 0.072708
+2025-01-27 18:53:51,663 - INFO - Subject LT R value: 0.102659
+2025-01-27 18:53:51,664 - INFO - Subject NvA L value: 0.170282
+2025-01-27 18:53:51,666 - INFO - Subject NvA R value: 0.233662
+2025-01-27 18:53:51,667 - INFO - Subject RR L value: 0.105878
+2025-01-27 18:53:51,669 - INFO - Subject RR R value: 0.064418
+2025-01-27 18:53:51,669 - INFO - Subject SJB L value: 0.188223
+2025-01-27 18:53:51,671 - INFO - Subject SJB R value: 0.180287
+2025-01-27 18:53:51,673 - INFO - Subject BG L value: 0.172857
+2025-01-27 18:53:51,674 - INFO - Subject BG R value: 0.160995
+2025-01-27 18:53:52,035 - INFO - Processing combination 6/24
+2025-01-27 18:53:52,035 - INFO - Parameters: Alignment=cue, Method=gDTF, Frequency=100Hz
+2025-01-27 18:53:52,035 - INFO - Maximum value (excluding diagonal) in L average: 0.083427
+2025-01-27 18:53:52,035 - INFO - Position: (np.int64(10), np.int64(8))
+2025-01-27 18:53:52,035 - INFO - Subject DOC L value: 0.279797
+2025-01-27 18:53:52,041 - INFO - Subject DOC R value: 0.283026
+2025-01-27 18:53:52,042 - INFO - Subject GB L value: 0.009147
+2025-01-27 18:53:52,043 - INFO - Subject GB R value: 0.012430
+2025-01-27 18:53:52,045 - INFO - Subject JDC L value: 0.060372
+2025-01-27 18:53:52,045 - INFO - Subject JDC R value: 0.058988
+2025-01-27 18:53:52,048 - INFO - Subject JFXD L value: 0.024704
+2025-01-27 18:53:52,049 - INFO - Subject JFXD R value: 0.064060
+2025-01-27 18:53:52,051 - INFO - Subject JZ L value: 0.134258
+2025-01-27 18:53:52,052 - INFO - Subject JZ R value: 0.158161
+2025-01-27 18:53:52,053 - INFO - Subject LT L value: 0.116954
+2025-01-27 18:53:52,054 - INFO - Subject LT R value: 0.117701
+2025-01-27 18:53:52,056 - INFO - Subject NvA L value: 0.049575
+2025-01-27 18:53:52,059 - INFO - Subject NvA R value: 0.082433
+2025-01-27 18:53:52,059 - INFO - Subject RR L value: 0.075691
+2025-01-27 18:53:52,062 - INFO - Subject RR R value: 0.067342
+2025-01-27 18:53:52,064 - INFO - Subject SJB L value: 0.049174
+2025-01-27 18:53:52,066 - INFO - Subject SJB R value: 0.026494
+2025-01-27 18:53:52,067 - INFO - Subject BG L value: 0.018320
+2025-01-27 18:53:52,068 - INFO - Subject BG R value: 0.026964
+2025-01-27 18:53:52,449 - INFO - Processing combination 7/24
+2025-01-27 18:53:52,449 - INFO - Parameters: Alignment=cue, Method=iPDC, Frequency=10Hz
+2025-01-27 18:53:52,449 - INFO - Maximum value (excluding diagonal) in L average: 0.013770
+2025-01-27 18:53:52,449 - INFO - Position: (np.int64(29), np.int64(31))
+2025-01-27 18:53:52,454 - INFO - Subject DOC L value: 0.016348
+2025-01-27 18:53:52,456 - INFO - Subject DOC R value: 0.017907
+2025-01-27 18:53:52,458 - INFO - Subject GB L value: 0.012737
+2025-01-27 18:53:52,459 - INFO - Subject GB R value: 0.009858
+2025-01-27 18:53:52,460 - INFO - Subject JDC L value: 0.018038
+2025-01-27 18:53:52,461 - INFO - Subject JDC R value: 0.022810
+2025-01-27 18:53:52,462 - INFO - Subject JFXD L value: 0.003115
+2025-01-27 18:53:52,464 - INFO - Subject JFXD R value: 0.003041
+2025-01-27 18:53:52,466 - INFO - Subject JZ L value: 0.013172
+2025-01-27 18:53:52,468 - INFO - Subject JZ R value: 0.012672
+2025-01-27 18:53:52,469 - INFO - Subject LT L value: 0.005535
+2025-01-27 18:53:52,470 - INFO - Subject LT R value: 0.002755
+2025-01-27 18:53:52,471 - INFO - Subject NvA L value: 0.014144
+2025-01-27 18:53:52,472 - INFO - Subject NvA R value: 0.009785
+2025-01-27 18:53:52,473 - INFO - Subject RR L value: 0.019042
+2025-01-27 18:53:52,474 - INFO - Subject RR R value: 0.021011
+2025-01-27 18:53:52,475 - INFO - Subject SJB L value: 0.017521
+2025-01-27 18:53:52,476 - INFO - Subject SJB R value: 0.016649
+2025-01-27 18:53:52,477 - INFO - Subject BG L value: 0.019470
+2025-01-27 18:53:52,479 - INFO - Subject BG R value: 0.018695
+2025-01-27 18:53:52,837 - INFO - Processing combination 8/24
+2025-01-27 18:53:52,837 - INFO - Parameters: Alignment=cue, Method=iPDC, Frequency=20Hz
+2025-01-27 18:53:52,837 - INFO - Maximum value (excluding diagonal) in L average: 0.016062
+2025-01-27 18:53:52,837 - INFO - Position: (np.int64(11), np.int64(10))
+2025-01-27 18:53:52,842 - INFO - Subject DOC L value: 0.010634
+2025-01-27 18:53:52,844 - INFO - Subject DOC R value: 0.010109
+2025-01-27 18:53:52,844 - INFO - Subject GB L value: 0.004500
+2025-01-27 18:53:52,846 - INFO - Subject GB R value: 0.005841
+2025-01-27 18:53:52,848 - INFO - Subject JDC L value: 0.036395
+2025-01-27 18:53:52,849 - INFO - Subject JDC R value: 0.041507
+2025-01-27 18:53:52,850 - INFO - Subject JFXD L value: 0.001703
+2025-01-27 18:53:52,851 - INFO - Subject JFXD R value: 0.003045
+2025-01-27 18:53:52,852 - INFO - Subject JZ L value: 0.028249
+2025-01-27 18:53:52,853 - INFO - Subject JZ R value: 0.030717
+2025-01-27 18:53:52,854 - INFO - Subject LT L value: 0.007753
+2025-01-27 18:53:52,854 - INFO - Subject LT R value: 0.013295
+2025-01-27 18:53:52,854 - INFO - Subject NvA L value: 0.007904
+2025-01-27 18:53:52,854 - INFO - Subject NvA R value: 0.010760
+2025-01-27 18:53:52,854 - INFO - Subject RR L value: 0.010674
+2025-01-27 18:53:52,860 - INFO - Subject RR R value: 0.006902
+2025-01-27 18:53:52,861 - INFO - Subject SJB L value: 0.036033
+2025-01-27 18:53:52,863 - INFO - Subject SJB R value: 0.028709
+2025-01-27 18:53:52,864 - INFO - Subject BG L value: 0.017014
+2025-01-27 18:53:52,865 - INFO - Subject BG R value: 0.012469
+2025-01-27 18:53:53,278 - INFO - Processing combination 9/24
+2025-01-27 18:53:53,278 - INFO - Parameters: Alignment=cue, Method=iPDC, Frequency=100Hz
+2025-01-27 18:53:53,280 - INFO - Maximum value (excluding diagonal) in L average: 0.016599
+2025-01-27 18:53:53,280 - INFO - Position: (np.int64(11), np.int64(10))
+2025-01-27 18:53:53,280 - INFO - Subject DOC L value: 0.029379
+2025-01-27 18:53:53,285 - INFO - Subject DOC R value: 0.027598
+2025-01-27 18:53:53,286 - INFO - Subject GB L value: 0.002677
+2025-01-27 18:53:53,287 - INFO - Subject GB R value: 0.001727
+2025-01-27 18:53:53,289 - INFO - Subject JDC L value: 0.018890
+2025-01-27 18:53:53,290 - INFO - Subject JDC R value: 0.012962
+2025-01-27 18:53:53,291 - INFO - Subject JFXD L value: 0.002703
+2025-01-27 18:53:53,292 - INFO - Subject JFXD R value: 0.003021
+2025-01-27 18:53:53,293 - INFO - Subject JZ L value: 0.037627
+2025-01-27 18:53:53,294 - INFO - Subject JZ R value: 0.032412
+2025-01-27 18:53:53,296 - INFO - Subject LT L value: 0.006133
+2025-01-27 18:53:53,296 - INFO - Subject LT R value: 0.004613
+2025-01-27 18:53:53,297 - INFO - Subject NvA L value: 0.018039
+2025-01-27 18:53:53,299 - INFO - Subject NvA R value: 0.019977
+2025-01-27 18:53:53,301 - INFO - Subject RR L value: 0.005790
+2025-01-27 18:53:53,302 - INFO - Subject RR R value: 0.004706
+2025-01-27 18:53:53,303 - INFO - Subject SJB L value: 0.029687
+2025-01-27 18:53:53,305 - INFO - Subject SJB R value: 0.025121
+2025-01-27 18:53:53,305 - INFO - Subject BG L value: 0.014557
+2025-01-27 18:53:53,307 - INFO - Subject BG R value: 0.019569
+2025-01-27 18:53:53,659 - INFO - Processing combination 10/24
+2025-01-27 18:53:53,659 - INFO - Parameters: Alignment=cue, Method=gPDC, Frequency=10Hz
+2025-01-27 18:53:53,659 - INFO - Maximum value (excluding diagonal) in L average: 0.105922
+2025-01-27 18:53:53,659 - INFO - Position: (np.int64(11), np.int64(10))
+2025-01-27 18:53:53,670 - INFO - Subject DOC L value: 0.094102
+2025-01-27 18:53:53,672 - INFO - Subject DOC R value: 0.099153
+2025-01-27 18:53:53,673 - INFO - Subject GB L value: 0.010042
+2025-01-27 18:53:53,674 - INFO - Subject GB R value: 0.008078
+2025-01-27 18:53:53,675 - INFO - Subject JDC L value: 0.248874
+2025-01-27 18:53:53,676 - INFO - Subject JDC R value: 0.298195
+2025-01-27 18:53:53,678 - INFO - Subject JFXD L value: 0.040161
+2025-01-27 18:53:53,679 - INFO - Subject JFXD R value: 0.051552
+2025-01-27 18:53:53,680 - INFO - Subject JZ L value: 0.188431
+2025-01-27 18:53:53,681 - INFO - Subject JZ R value: 0.204212
+2025-01-27 18:53:53,683 - INFO - Subject LT L value: 0.081104
+2025-01-27 18:53:53,685 - INFO - Subject LT R value: 0.107882
+2025-01-27 18:53:53,687 - INFO - Subject NvA L value: 0.075398
+2025-01-27 18:53:53,688 - INFO - Subject NvA R value: 0.095267
+2025-01-27 18:53:53,689 - INFO - Subject RR L value: 0.058357
+2025-01-27 18:53:53,690 - INFO - Subject RR R value: 0.034448
+2025-01-27 18:53:53,691 - INFO - Subject SJB L value: 0.164267
+2025-01-27 18:53:53,693 - INFO - Subject SJB R value: 0.137667
+2025-01-27 18:53:53,694 - INFO - Subject BG L value: 0.096010
+2025-01-27 18:53:53,695 - INFO - Subject BG R value: 0.070640
+2025-01-27 18:53:54,050 - INFO - Processing combination 11/24
+2025-01-27 18:53:54,050 - INFO - Parameters: Alignment=cue, Method=gPDC, Frequency=20Hz
+2025-01-27 18:53:54,056 - INFO - Maximum value (excluding diagonal) in L average: 0.109914
+2025-01-27 18:53:54,056 - INFO - Position: (np.int64(11), np.int64(10))
+2025-01-27 18:53:54,058 - INFO - Subject DOC L value: 0.132137
+2025-01-27 18:53:54,061 - INFO - Subject DOC R value: 0.103106
+2025-01-27 18:53:54,061 - INFO - Subject GB L value: 0.016474
+2025-01-27 18:53:54,062 - INFO - Subject GB R value: 0.023148
+2025-01-27 18:53:54,063 - INFO - Subject JDC L value: 0.230037
+2025-01-27 18:53:54,066 - INFO - Subject JDC R value: 0.250885
+2025-01-27 18:53:54,066 - INFO - Subject JFXD L value: 0.028244
+2025-01-27 18:53:54,067 - INFO - Subject JFXD R value: 0.039376
+2025-01-27 18:53:54,069 - INFO - Subject JZ L value: 0.123868
+2025-01-27 18:53:54,070 - INFO - Subject JZ R value: 0.136714
+2025-01-27 18:53:54,071 - INFO - Subject LT L value: 0.065766
+2025-01-27 18:53:54,072 - INFO - Subject LT R value: 0.096066
+2025-01-27 18:53:54,072 - INFO - Subject NvA L value: 0.093388
+2025-01-27 18:53:54,073 - INFO - Subject NvA R value: 0.117334
+2025-01-27 18:53:54,074 - INFO - Subject RR L value: 0.069871
+2025-01-27 18:53:54,075 - INFO - Subject RR R value: 0.042177
+2025-01-27 18:53:54,078 - INFO - Subject SJB L value: 0.211083
+2025-01-27 18:53:54,078 - INFO - Subject SJB R value: 0.177819
+2025-01-27 18:53:54,079 - INFO - Subject BG L value: 0.134394
+2025-01-27 18:53:54,081 - INFO - Subject BG R value: 0.083125
+2025-01-27 18:53:54,424 - INFO - Processing combination 12/24
+2025-01-27 18:53:54,424 - INFO - Parameters: Alignment=cue, Method=gPDC, Frequency=100Hz
+2025-01-27 18:53:54,424 - INFO - Maximum value (excluding diagonal) in L average: 0.051085
+2025-01-27 18:53:54,424 - INFO - Position: (np.int64(25), np.int64(32))
+2025-01-27 18:53:54,424 - INFO - Subject DOC L value: 0.021463
+2025-01-27 18:53:54,431 - INFO - Subject DOC R value: 0.024132
+2025-01-27 18:53:54,434 - INFO - Subject GB L value: 0.035424
+2025-01-27 18:53:54,435 - INFO - Subject GB R value: 0.047405
+2025-01-27 18:53:54,436 - INFO - Subject JDC L value: 0.057666
+2025-01-27 18:53:54,437 - INFO - Subject JDC R value: 0.074791
+2025-01-27 18:53:54,439 - INFO - Subject JFXD L value: 0.053468
+2025-01-27 18:53:54,440 - INFO - Subject JFXD R value: 0.051206
+2025-01-27 18:53:54,441 - INFO - Subject JZ L value: 0.013688
+2025-01-27 18:53:54,442 - INFO - Subject JZ R value: 0.009727
+2025-01-27 18:53:54,443 - INFO - Subject LT L value: 0.021298
+2025-01-27 18:53:54,444 - INFO - Subject LT R value: 0.012795
+2025-01-27 18:53:54,445 - INFO - Subject NvA L value: 0.142512
+2025-01-27 18:53:54,446 - INFO - Subject NvA R value: 0.168915
+2025-01-27 18:53:54,448 - INFO - Subject RR L value: 0.004545
+2025-01-27 18:53:54,449 - INFO - Subject RR R value: 0.008297
+2025-01-27 18:53:54,451 - INFO - Subject SJB L value: 0.086593
+2025-01-27 18:53:54,452 - INFO - Subject SJB R value: 0.108105
+2025-01-27 18:53:54,453 - INFO - Subject BG L value: 0.081895
+2025-01-27 18:53:54,454 - INFO - Subject BG R value: 0.049114
+2025-01-27 18:53:54,806 - INFO - Processing combination 13/24
+2025-01-27 18:53:54,806 - INFO - Parameters: Alignment=mov, Method=iDTF, Frequency=10Hz
+2025-01-27 18:53:54,811 - INFO - Maximum value (excluding diagonal) in L average: 0.365018
+2025-01-27 18:53:54,811 - INFO - Position: (np.int64(14), np.int64(5))
+2025-01-27 18:53:54,811 - INFO - Subject DOC L value: 0.026574
+2025-01-27 18:53:54,814 - INFO - Subject DOC R value: 0.044196
+2025-01-27 18:53:54,815 - INFO - Subject GB L value: 0.027943
+2025-01-27 18:53:54,816 - INFO - Subject GB R value: 0.014263
+2025-01-27 18:53:54,817 - INFO - Subject JDC L value: 0.074980
+2025-01-27 18:53:54,818 - INFO - Subject JDC R value: 0.038539
+2025-01-27 18:53:54,819 - INFO - Subject JFXD L value: 2.851780
+2025-01-27 18:53:54,821 - INFO - Subject JFXD R value: 2.326644
+2025-01-27 18:53:54,822 - INFO - Subject JZ L value: 0.043243
+2025-01-27 18:53:54,823 - INFO - Subject JZ R value: 0.038536
+2025-01-27 18:53:54,824 - INFO - Subject LT L value: 0.115717
+2025-01-27 18:53:54,826 - INFO - Subject LT R value: 0.166286
+2025-01-27 18:53:54,827 - INFO - Subject NvA L value: 0.005909
+2025-01-27 18:53:54,827 - INFO - Subject NvA R value: 0.012576
+2025-01-27 18:53:54,828 - INFO - Subject RR L value: 0.267918
+2025-01-27 18:53:54,829 - INFO - Subject RR R value: 0.202593
+2025-01-27 18:53:54,832 - INFO - Subject SJB L value: 0.093844
+2025-01-27 18:53:54,833 - INFO - Subject SJB R value: 0.058311
+2025-01-27 18:53:54,833 - INFO - Subject BG L value: 0.068023
+2025-01-27 18:53:54,834 - INFO - Subject BG R value: 0.022062
+2025-01-27 18:53:55,172 - INFO - Processing combination 14/24
+2025-01-27 18:53:55,172 - INFO - Parameters: Alignment=mov, Method=iDTF, Frequency=20Hz
+2025-01-27 18:53:55,172 - INFO - Maximum value (excluding diagonal) in L average: 0.365808
+2025-01-27 18:53:55,172 - INFO - Position: (np.int64(14), np.int64(5))
+2025-01-27 18:53:55,172 - INFO - Subject DOC L value: 0.016624
+2025-01-27 18:53:55,178 - INFO - Subject DOC R value: 0.036339
+2025-01-27 18:53:55,180 - INFO - Subject GB L value: 0.031613
+2025-01-27 18:53:55,181 - INFO - Subject GB R value: 0.012728
+2025-01-27 18:53:55,183 - INFO - Subject JDC L value: 0.075406
+2025-01-27 18:53:55,184 - INFO - Subject JDC R value: 0.046452
+2025-01-27 18:53:55,185 - INFO - Subject JFXD L value: 2.937246
+2025-01-27 18:53:55,186 - INFO - Subject JFXD R value: 2.447664
+2025-01-27 18:53:55,187 - INFO - Subject JZ L value: 0.036676
+2025-01-27 18:53:55,188 - INFO - Subject JZ R value: 0.028495
+2025-01-27 18:53:55,189 - INFO - Subject LT L value: 0.107539
+2025-01-27 18:53:55,190 - INFO - Subject LT R value: 0.134099
+2025-01-27 18:53:55,192 - INFO - Subject NvA L value: 0.009100
+2025-01-27 18:53:55,193 - INFO - Subject NvA R value: 0.012138
+2025-01-27 18:53:55,195 - INFO - Subject RR L value: 0.166395
+2025-01-27 18:53:55,196 - INFO - Subject RR R value: 0.145322
+2025-01-27 18:53:55,197 - INFO - Subject SJB L value: 0.098521
+2025-01-27 18:53:55,198 - INFO - Subject SJB R value: 0.058181
+2025-01-27 18:53:55,200 - INFO - Subject BG L value: 0.116678
+2025-01-27 18:53:55,201 - INFO - Subject BG R value: 0.014988
+2025-01-27 18:53:55,548 - INFO - Processing combination 15/24
+2025-01-27 18:53:55,548 - INFO - Parameters: Alignment=mov, Method=iDTF, Frequency=100Hz
+2025-01-27 18:53:55,556 - INFO - Maximum value (excluding diagonal) in L average: 0.314404
+2025-01-27 18:53:55,557 - INFO - Position: (np.int64(10), np.int64(8))
+2025-01-27 18:53:55,559 - INFO - Subject DOC L value: 0.863329
+2025-01-27 18:53:55,560 - INFO - Subject DOC R value: 0.814047
+2025-01-27 18:53:55,562 - INFO - Subject GB L value: 0.008004
+2025-01-27 18:53:55,563 - INFO - Subject GB R value: 0.014970
+2025-01-27 18:53:55,564 - INFO - Subject JDC L value: 0.114706
+2025-01-27 18:53:55,565 - INFO - Subject JDC R value: 0.130269
+2025-01-27 18:53:55,567 - INFO - Subject JFXD L value: 0.608289
+2025-01-27 18:53:55,568 - INFO - Subject JFXD R value: 0.295499
+2025-01-27 18:53:55,570 - INFO - Subject JZ L value: 0.350466
+2025-01-27 18:53:55,571 - INFO - Subject JZ R value: 0.450358
+2025-01-27 18:53:55,572 - INFO - Subject LT L value: 0.757303
+2025-01-27 18:53:55,572 - INFO - Subject LT R value: 0.330989
+2025-01-27 18:53:55,574 - INFO - Subject NvA L value: 0.081076
+2025-01-27 18:53:55,575 - INFO - Subject NvA R value: 0.089478
+2025-01-27 18:53:55,577 - INFO - Subject RR L value: 0.148936
+2025-01-27 18:53:55,578 - INFO - Subject RR R value: 0.222805
+2025-01-27 18:53:55,579 - INFO - Subject SJB L value: 0.109258
+2025-01-27 18:53:55,579 - INFO - Subject SJB R value: 0.119804
+2025-01-27 18:53:55,581 - INFO - Subject BG L value: 0.032103
+2025-01-27 18:53:55,582 - INFO - Subject BG R value: 0.029702
+2025-01-27 18:53:55,936 - INFO - Processing combination 16/24
+2025-01-27 18:53:55,936 - INFO - Parameters: Alignment=mov, Method=gDTF, Frequency=10Hz
+2025-01-27 18:53:55,936 - INFO - Maximum value (excluding diagonal) in L average: 0.113041
+2025-01-27 18:53:55,936 - INFO - Position: (np.int64(4), np.int64(8))
+2025-01-27 18:53:55,936 - INFO - Subject DOC L value: 0.254272
+2025-01-27 18:53:55,947 - INFO - Subject DOC R value: 0.289241
+2025-01-27 18:53:55,949 - INFO - Subject GB L value: 0.040287
+2025-01-27 18:53:55,950 - INFO - Subject GB R value: 0.029147
+2025-01-27 18:53:55,951 - INFO - Subject JDC L value: 0.061511
+2025-01-27 18:53:55,952 - INFO - Subject JDC R value: 0.033540
+2025-01-27 18:53:55,953 - INFO - Subject JFXD L value: 0.070478
+2025-01-27 18:53:55,954 - INFO - Subject JFXD R value: 0.121287
+2025-01-27 18:53:55,956 - INFO - Subject JZ L value: 0.075127
+2025-01-27 18:53:55,957 - INFO - Subject JZ R value: 0.104861
+2025-01-27 18:53:55,958 - INFO - Subject LT L value: 0.231767
+2025-01-27 18:53:55,960 - INFO - Subject LT R value: 0.227940
+2025-01-27 18:53:55,961 - INFO - Subject NvA L value: 0.122949
+2025-01-27 18:53:55,962 - INFO - Subject NvA R value: 0.110729
+2025-01-27 18:53:55,963 - INFO - Subject RR L value: 0.081017
+2025-01-27 18:53:55,967 - INFO - Subject RR R value: 0.054985
+2025-01-27 18:53:55,968 - INFO - Subject SJB L value: 0.132058
+2025-01-27 18:53:55,969 - INFO - Subject SJB R value: 0.136646
+2025-01-27 18:53:55,970 - INFO - Subject BG L value: 0.043582
+2025-01-27 18:53:55,971 - INFO - Subject BG R value: 0.056968
+2025-01-27 18:53:56,338 - INFO - Processing combination 17/24
+2025-01-27 18:53:56,338 - INFO - Parameters: Alignment=mov, Method=gDTF, Frequency=20Hz
+2025-01-27 18:53:56,338 - INFO - Maximum value (excluding diagonal) in L average: 0.139387
+2025-01-27 18:53:56,338 - INFO - Position: (np.int64(11), np.int64(10))
+2025-01-27 18:53:56,343 - INFO - Subject DOC L value: 0.100782
+2025-01-27 18:53:56,345 - INFO - Subject DOC R value: 0.073944
+2025-01-27 18:53:56,346 - INFO - Subject GB L value: 0.019665
+2025-01-27 18:53:56,347 - INFO - Subject GB R value: 0.018474
+2025-01-27 18:53:56,349 - INFO - Subject JDC L value: 0.332588
+2025-01-27 18:53:56,349 - INFO - Subject JDC R value: 0.358407
+2025-01-27 18:53:56,351 - INFO - Subject JFXD L value: 0.063681
+2025-01-27 18:53:56,352 - INFO - Subject JFXD R value: 0.081853
+2025-01-27 18:53:56,354 - INFO - Subject JZ L value: 0.114493
+2025-01-27 18:53:56,355 - INFO - Subject JZ R value: 0.094590
+2025-01-27 18:53:56,356 - INFO - Subject LT L value: 0.054057
+2025-01-27 18:53:56,357 - INFO - Subject LT R value: 0.103544
+2025-01-27 18:53:56,359 - INFO - Subject NvA L value: 0.200324
+2025-01-27 18:53:56,360 - INFO - Subject NvA R value: 0.221575
+2025-01-27 18:53:56,361 - INFO - Subject RR L value: 0.113219
+2025-01-27 18:53:56,362 - INFO - Subject RR R value: 0.127533
+2025-01-27 18:53:56,363 - INFO - Subject SJB L value: 0.219604
+2025-01-27 18:53:56,364 - INFO - Subject SJB R value: 0.194430
+2025-01-27 18:53:56,366 - INFO - Subject BG L value: 0.187484
+2025-01-27 18:53:56,367 - INFO - Subject BG R value: 0.178670
+2025-01-27 18:53:56,729 - INFO - Processing combination 18/24
+2025-01-27 18:53:56,729 - INFO - Parameters: Alignment=mov, Method=gDTF, Frequency=100Hz
+2025-01-27 18:53:56,729 - INFO - Maximum value (excluding diagonal) in L average: 0.099063
+2025-01-27 18:53:56,729 - INFO - Position: (np.int64(10), np.int64(8))
+2025-01-27 18:53:56,733 - INFO - Subject DOC L value: 0.256741
+2025-01-27 18:53:56,736 - INFO - Subject DOC R value: 0.255080
+2025-01-27 18:53:56,738 - INFO - Subject GB L value: 0.004968
+2025-01-27 18:53:56,739 - INFO - Subject GB R value: 0.009024
+2025-01-27 18:53:56,740 - INFO - Subject JDC L value: 0.070922
+2025-01-27 18:53:56,741 - INFO - Subject JDC R value: 0.077713
+2025-01-27 18:53:56,742 - INFO - Subject JFXD L value: 0.096864
+2025-01-27 18:53:56,744 - INFO - Subject JFXD R value: 0.057019
+2025-01-27 18:53:56,745 - INFO - Subject JZ L value: 0.153863
+2025-01-27 18:53:56,747 - INFO - Subject JZ R value: 0.197075
+2025-01-27 18:53:56,749 - INFO - Subject LT L value: 0.188939
+2025-01-27 18:53:56,750 - INFO - Subject LT R value: 0.120324
+2025-01-27 18:53:56,751 - INFO - Subject NvA L value: 0.045187
+2025-01-27 18:53:56,752 - INFO - Subject NvA R value: 0.049986
+2025-01-27 18:53:56,754 - INFO - Subject RR L value: 0.071856
+2025-01-27 18:53:56,755 - INFO - Subject RR R value: 0.106265
+2025-01-27 18:53:56,756 - INFO - Subject SJB L value: 0.063844
+2025-01-27 18:53:56,757 - INFO - Subject SJB R value: 0.068932
+2025-01-27 18:53:56,759 - INFO - Subject BG L value: 0.016908
+2025-01-27 18:53:56,760 - INFO - Subject BG R value: 0.018877
+2025-01-27 18:53:57,124 - INFO - Processing combination 19/24
+2025-01-27 18:53:57,124 - INFO - Parameters: Alignment=mov, Method=iPDC, Frequency=10Hz
+2025-01-27 18:53:57,125 - INFO - Maximum value (excluding diagonal) in L average: 0.013112
+2025-01-27 18:53:57,125 - INFO - Position: (np.int64(11), np.int64(10))
+2025-01-27 18:53:57,128 - INFO - Subject DOC L value: 0.008209
+2025-01-27 18:53:57,130 - INFO - Subject DOC R value: 0.006596
+2025-01-27 18:53:57,131 - INFO - Subject GB L value: 0.003018
+2025-01-27 18:53:57,133 - INFO - Subject GB R value: 0.002454
+2025-01-27 18:53:57,134 - INFO - Subject JDC L value: 0.028044
+2025-01-27 18:53:57,135 - INFO - Subject JDC R value: 0.033583
+2025-01-27 18:53:57,137 - INFO - Subject JFXD L value: 0.004291
+2025-01-27 18:53:57,138 - INFO - Subject JFXD R value: 0.005027
+2025-01-27 18:53:57,140 - INFO - Subject JZ L value: 0.044368
+2025-01-27 18:53:57,140 - INFO - Subject JZ R value: 0.038351
+2025-01-27 18:53:57,142 - INFO - Subject LT L value: 0.004924
+2025-01-27 18:53:57,143 - INFO - Subject LT R value: 0.011899
+2025-01-27 18:53:57,144 - INFO - Subject NvA L value: 0.004330
+2025-01-27 18:53:57,146 - INFO - Subject NvA R value: 0.005296
+2025-01-27 18:53:57,147 - INFO - Subject RR L value: 0.004609
+2025-01-27 18:53:57,149 - INFO - Subject RR R value: 0.006354
+2025-01-27 18:53:57,150 - INFO - Subject SJB L value: 0.019750
+2025-01-27 18:53:57,152 - INFO - Subject SJB R value: 0.020408
+2025-01-27 18:53:57,153 - INFO - Subject BG L value: 0.008398
+2025-01-27 18:53:57,155 - INFO - Subject BG R value: 0.008476
+2025-01-27 18:53:57,516 - INFO - Processing combination 20/24
+2025-01-27 18:53:57,516 - INFO - Parameters: Alignment=mov, Method=iPDC, Frequency=20Hz
+2025-01-27 18:53:57,516 - INFO - Maximum value (excluding diagonal) in L average: 0.016394
+2025-01-27 18:53:57,516 - INFO - Position: (np.int64(11), np.int64(10))
+2025-01-27 18:53:57,516 - INFO - Subject DOC L value: 0.013528
+2025-01-27 18:53:57,524 - INFO - Subject DOC R value: 0.009709
+2025-01-27 18:53:57,526 - INFO - Subject GB L value: 0.005911
+2025-01-27 18:53:57,527 - INFO - Subject GB R value: 0.006194
+2025-01-27 18:53:57,528 - INFO - Subject JDC L value: 0.036209
+2025-01-27 18:53:57,530 - INFO - Subject JDC R value: 0.038287
+2025-01-27 18:53:57,531 - INFO - Subject JFXD L value: 0.002414
+2025-01-27 18:53:57,532 - INFO - Subject JFXD R value: 0.003243
+2025-01-27 18:53:57,533 - INFO - Subject JZ L value: 0.034809
+2025-01-27 18:53:57,534 - INFO - Subject JZ R value: 0.036496
+2025-01-27 18:53:57,535 - INFO - Subject LT L value: 0.004721
+2025-01-27 18:53:57,536 - INFO - Subject LT R value: 0.009601
+2025-01-27 18:53:57,538 - INFO - Subject NvA L value: 0.007632
+2025-01-27 18:53:57,539 - INFO - Subject NvA R value: 0.008902
+2025-01-27 18:53:57,540 - INFO - Subject RR L value: 0.007243
+2025-01-27 18:53:57,542 - INFO - Subject RR R value: 0.009067
+2025-01-27 18:53:57,543 - INFO - Subject SJB L value: 0.034514
+2025-01-27 18:53:57,544 - INFO - Subject SJB R value: 0.035734
+2025-01-27 18:53:57,545 - INFO - Subject BG L value: 0.017146
+2025-01-27 18:53:57,547 - INFO - Subject BG R value: 0.014650
+2025-01-27 18:53:57,941 - INFO - Processing combination 21/24
+2025-01-27 18:53:57,941 - INFO - Parameters: Alignment=mov, Method=iPDC, Frequency=100Hz
+2025-01-27 18:53:57,941 - INFO - Maximum value (excluding diagonal) in L average: 0.015414
+2025-01-27 18:53:57,941 - INFO - Position: (np.int64(11), np.int64(10))
+2025-01-27 18:53:57,941 - INFO - Subject DOC L value: 0.020550
+2025-01-27 18:53:57,949 - INFO - Subject DOC R value: 0.023147
+2025-01-27 18:53:57,950 - INFO - Subject GB L value: 0.002700
+2025-01-27 18:53:57,953 - INFO - Subject GB R value: 0.002154
+2025-01-27 18:53:57,954 - INFO - Subject JDC L value: 0.017078
+2025-01-27 18:53:57,956 - INFO - Subject JDC R value: 0.014960
+2025-01-27 18:53:57,958 - INFO - Subject JFXD L value: 0.005737
+2025-01-27 18:53:57,959 - INFO - Subject JFXD R value: 0.005526
+2025-01-27 18:53:57,961 - INFO - Subject JZ L value: 0.024417
+2025-01-27 18:53:57,962 - INFO - Subject JZ R value: 0.024179
+2025-01-27 18:53:57,964 - INFO - Subject LT L value: 0.011507
+2025-01-27 18:53:57,967 - INFO - Subject LT R value: 0.005656
+2025-01-27 18:53:57,967 - INFO - Subject NvA L value: 0.016412
+2025-01-27 18:53:57,967 - INFO - Subject NvA R value: 0.014826
+2025-01-27 18:53:57,972 - INFO - Subject RR L value: 0.008274
+2025-01-27 18:53:57,973 - INFO - Subject RR R value: 0.005654
+2025-01-27 18:53:57,975 - INFO - Subject SJB L value: 0.028956
+2025-01-27 18:53:57,976 - INFO - Subject SJB R value: 0.030886
+2025-01-27 18:53:57,977 - INFO - Subject BG L value: 0.019548
+2025-01-27 18:53:57,979 - INFO - Subject BG R value: 0.020403
+2025-01-27 18:53:58,416 - INFO - Processing combination 22/24
+2025-01-27 18:53:58,416 - INFO - Parameters: Alignment=mov, Method=gPDC, Frequency=10Hz
+2025-01-27 18:53:58,420 - INFO - Maximum value (excluding diagonal) in L average: 0.102644
+2025-01-27 18:53:58,420 - INFO - Position: (np.int64(11), np.int64(10))
+2025-01-27 18:53:58,420 - INFO - Subject DOC L value: 0.093482
+2025-01-27 18:53:58,426 - INFO - Subject DOC R value: 0.077542
+2025-01-27 18:53:58,427 - INFO - Subject GB L value: 0.010161
+2025-01-27 18:53:58,429 - INFO - Subject GB R value: 0.009936
+2025-01-27 18:53:58,430 - INFO - Subject JDC L value: 0.262544
+2025-01-27 18:53:58,431 - INFO - Subject JDC R value: 0.295647
+2025-01-27 18:53:58,435 - INFO - Subject JFXD L value: 0.055953
+2025-01-27 18:53:58,437 - INFO - Subject JFXD R value: 0.064909
+2025-01-27 18:53:58,437 - INFO - Subject JZ L value: 0.231025
+2025-01-27 18:53:58,439 - INFO - Subject JZ R value: 0.224627
+2025-01-27 18:53:58,440 - INFO - Subject LT L value: 0.048405
+2025-01-27 18:53:58,442 - INFO - Subject LT R value: 0.092647
+2025-01-27 18:53:58,443 - INFO - Subject NvA L value: 0.047704
+2025-01-27 18:53:58,445 - INFO - Subject NvA R value: 0.064784
+2025-01-27 18:53:58,446 - INFO - Subject RR L value: 0.039644
+2025-01-27 18:53:58,448 - INFO - Subject RR R value: 0.047476
+2025-01-27 18:53:58,449 - INFO - Subject SJB L value: 0.155601
+2025-01-27 18:53:58,451 - INFO - Subject SJB R value: 0.146100
+2025-01-27 18:53:58,453 - INFO - Subject BG L value: 0.075011
+2025-01-27 18:53:58,454 - INFO - Subject BG R value: 0.068546
+2025-01-27 18:53:58,869 - INFO - Processing combination 23/24
+2025-01-27 18:53:58,869 - INFO - Parameters: Alignment=mov, Method=gPDC, Frequency=20Hz
+2025-01-27 18:53:58,871 - INFO - Maximum value (excluding diagonal) in L average: 0.108889
+2025-01-27 18:53:58,871 - INFO - Position: (np.int64(11), np.int64(10))
+2025-01-27 18:53:58,871 - INFO - Subject DOC L value: 0.148770
+2025-01-27 18:53:58,876 - INFO - Subject DOC R value: 0.109058
+2025-01-27 18:53:58,878 - INFO - Subject GB L value: 0.020422
+2025-01-27 18:53:58,880 - INFO - Subject GB R value: 0.024754
+2025-01-27 18:53:58,881 - INFO - Subject JDC L value: 0.213978
+2025-01-27 18:53:58,882 - INFO - Subject JDC R value: 0.247168
+2025-01-27 18:53:58,884 - INFO - Subject JFXD L value: 0.033057
+2025-01-27 18:53:58,885 - INFO - Subject JFXD R value: 0.045559
+2025-01-27 18:53:58,887 - INFO - Subject JZ L value: 0.149792
+2025-01-27 18:53:58,888 - INFO - Subject JZ R value: 0.164180
+2025-01-27 18:53:58,890 - INFO - Subject LT L value: 0.044888
+2025-01-27 18:53:58,891 - INFO - Subject LT R value: 0.076177
+2025-01-27 18:53:58,893 - INFO - Subject NvA L value: 0.071585
+2025-01-27 18:53:58,894 - INFO - Subject NvA R value: 0.096011
+2025-01-27 18:53:58,896 - INFO - Subject RR L value: 0.063937
+2025-01-27 18:53:58,897 - INFO - Subject RR R value: 0.065378
+2025-01-27 18:53:58,898 - INFO - Subject SJB L value: 0.223565
+2025-01-27 18:53:58,900 - INFO - Subject SJB R value: 0.225467
+2025-01-27 18:53:58,902 - INFO - Subject BG L value: 0.122238
+2025-01-27 18:53:58,904 - INFO - Subject BG R value: 0.103832
+2025-01-27 18:53:59,339 - INFO - Processing combination 24/24
+2025-01-27 18:53:59,339 - INFO - Parameters: Alignment=mov, Method=gPDC, Frequency=100Hz
+2025-01-27 18:53:59,339 - INFO - Maximum value (excluding diagonal) in L average: 0.053689
+2025-01-27 18:53:59,339 - INFO - Position: (np.int64(10), np.int64(4))
+2025-01-27 18:53:59,339 - INFO - Subject DOC L value: 0.147490
+2025-01-27 18:53:59,351 - INFO - Subject DOC R value: 0.173686
+2025-01-27 18:53:59,353 - INFO - Subject GB L value: 0.008708
+2025-01-27 18:53:59,354 - INFO - Subject GB R value: 0.011288
+2025-01-27 18:53:59,356 - INFO - Subject JDC L value: 0.016739
+2025-01-27 18:53:59,356 - INFO - Subject JDC R value: 0.019259
+2025-01-27 18:53:59,358 - INFO - Subject JFXD L value: 0.055924
+2025-01-27 18:53:59,360 - INFO - Subject JFXD R value: 0.039584
+2025-01-27 18:53:59,361 - INFO - Subject JZ L value: 0.049197
+2025-01-27 18:53:59,362 - INFO - Subject JZ R value: 0.047103
+2025-01-27 18:53:59,363 - INFO - Subject LT L value: 0.083525
+2025-01-27 18:53:59,364 - INFO - Subject LT R value: 0.056583
+2025-01-27 18:53:59,366 - INFO - Subject NvA L value: 0.082874
+2025-01-27 18:53:59,367 - INFO - Subject NvA R value: 0.083034
+2025-01-27 18:53:59,369 - INFO - Subject RR L value: 0.053936
+2025-01-27 18:53:59,371 - INFO - Subject RR R value: 0.082639
+2025-01-27 18:53:59,372 - INFO - Subject SJB L value: 0.017887
+2025-01-27 18:53:59,374 - INFO - Subject SJB R value: 0.011251
+2025-01-27 18:53:59,375 - INFO - Subject BG L value: 0.009582
+2025-01-27 18:53:59,377 - INFO - Subject BG R value: 0.018457
+2025-01-27 18:53:59,807 - INFO - All plots have been generated successfully
+2025-01-27 18:53:59,807 - INFO - Plots are saved in: Data\scatter_plots
+2025-01-27 18:57:13,667 - INFO - Starting Scatter Plot Generator
+2025-01-27 18:57:16,625 - INFO - Starting processing of 24 combinations
+2025-01-27 18:57:16,625 - INFO - Processing combination 1/24
+2025-01-27 18:57:16,625 - INFO - Parameters: Alignment=cue, Method=iDTF, Frequency=10Hz
+2025-01-27 18:57:16,625 - INFO - Maximum value (excluding diagonal) in L average: 0.379940
+2025-01-27 18:57:16,625 - INFO - Position: (np.int64(10), np.int64(8))
+2025-01-27 18:57:16,637 - INFO - Subject DOC L value: 0.676025
+2025-01-27 18:57:16,638 - INFO - Subject DOC R value: 0.698489
+2025-01-27 18:57:16,640 - INFO - Subject GB L value: 0.013628
+2025-01-27 18:57:16,641 - INFO - Subject GB R value: 0.008673
+2025-01-27 18:57:16,642 - INFO - Subject JDC L value: 0.064836
+2025-01-27 18:57:16,642 - INFO - Subject JDC R value: 0.062507
+2025-01-27 18:57:16,645 - INFO - Subject JFXD L value: 1.404729
+2025-01-27 18:57:16,647 - INFO - Subject JFXD R value: 1.093193
+2025-01-27 18:57:16,648 - INFO - Subject JZ L value: 0.225567
+2025-01-27 18:57:16,649 - INFO - Subject JZ R value: 0.276536
+2025-01-27 18:57:16,650 - INFO - Subject LT L value: 0.929044
+2025-01-27 18:57:16,652 - INFO - Subject LT R value: 1.112844
+2025-01-27 18:57:16,655 - INFO - Subject NvA L value: 0.177070
+2025-01-27 18:57:16,656 - INFO - Subject NvA R value: 0.140229
+2025-01-27 18:57:16,657 - INFO - Subject RR L value: 0.094184
+2025-01-27 18:57:16,658 - INFO - Subject RR R value: 0.083384
+2025-01-27 18:57:16,659 - INFO - Subject SJB L value: 0.084321
+2025-01-27 18:57:16,660 - INFO - Subject SJB R value: 0.104078
+2025-01-27 18:57:16,661 - INFO - Subject BG L value: 0.046687
+2025-01-27 18:57:16,663 - INFO - Subject BG R value: 0.044957
+2025-01-27 19:06:14,808 - INFO - Starting Scatter Plot Generator
+2025-01-27 19:06:19,804 - INFO - Starting processing of 24 combinations
+2025-01-27 19:06:19,804 - INFO - Processing combination 1/24
+2025-01-27 19:06:19,804 - INFO - Parameters: Alignment=cue, Method=iDTF, Frequency=10Hz
+2025-01-27 19:06:19,804 - INFO - Maximum value (excluding diagonal) in L average: 0.379940
+2025-01-27 19:06:19,804 - INFO - Position: (np.int64(10), np.int64(8))
+2025-01-27 19:06:19,808 - INFO - Subject DOC L value: 0.676025
+2025-01-27 19:06:19,811 - INFO - Subject DOC R value: 0.698489
+2025-01-27 19:06:19,812 - INFO - Subject GB L value: 0.013628
+2025-01-27 19:06:19,813 - INFO - Subject GB R value: 0.008673
+2025-01-27 19:06:19,814 - INFO - Subject JDC L value: 0.064836
+2025-01-27 19:06:19,816 - INFO - Subject JDC R value: 0.062507
+2025-01-27 19:06:19,818 - INFO - Subject JFXD L value: 1.404729
+2025-01-27 19:06:19,819 - INFO - Subject JFXD R value: 1.093193
+2025-01-27 19:06:19,821 - INFO - Subject JZ L value: 0.225567
+2025-01-27 19:06:19,823 - INFO - Subject JZ R value: 0.276536
+2025-01-27 19:06:19,824 - INFO - Subject LT L value: 0.929044
+2025-01-27 19:06:19,825 - INFO - Subject LT R value: 1.112844
+2025-01-27 19:06:19,826 - INFO - Subject NvA L value: 0.177070
+2025-01-27 19:06:19,828 - INFO - Subject NvA R value: 0.140229
+2025-01-27 19:06:19,829 - INFO - Subject RR L value: 0.094184
+2025-01-27 19:06:19,830 - INFO - Subject RR R value: 0.083384
+2025-01-27 19:06:19,832 - INFO - Subject SJB L value: 0.084321
+2025-01-27 19:06:19,833 - INFO - Subject SJB R value: 0.104078
+2025-01-27 19:06:19,834 - INFO - Subject BG L value: 0.046687
+2025-01-27 19:06:19,835 - INFO - Subject BG R value: 0.044957
+2025-01-27 19:10:06,374 - INFO - Starting Scatter Plot Generator
+2025-01-27 19:10:08,795 - INFO - Starting processing of 24 combinations
+2025-01-27 19:10:08,795 - INFO - Processing combination 1/24
+2025-01-27 19:10:08,795 - INFO - Parameters: Alignment=cue, Method=iDTF, Frequency=10Hz
+2025-01-27 19:10:08,802 - INFO - Maximum value (excluding diagonal) in L average: 0.379940
+2025-01-27 19:10:08,802 - INFO - Position: (np.int64(10), np.int64(8))
+2025-01-27 19:10:08,807 - INFO - Subject DOC L value: 0.676025
+2025-01-27 19:10:08,807 - INFO - Subject DOC R value: 0.698489
+2025-01-27 19:10:08,807 - INFO - Subject GB L value: 0.013628
+2025-01-27 19:10:08,807 - INFO - Subject GB R value: 0.008673
+2025-01-27 19:10:08,807 - INFO - Subject JDC L value: 0.064836
+2025-01-27 19:10:08,807 - INFO - Subject JDC R value: 0.062507
+2025-01-27 19:10:08,817 - INFO - Subject JFXD L value: 1.404729
+2025-01-27 19:10:08,819 - INFO - Subject JFXD R value: 1.093193
+2025-01-27 19:10:08,821 - INFO - Subject JZ L value: 0.225567
+2025-01-27 19:10:08,821 - INFO - Subject JZ R value: 0.276536
+2025-01-27 19:10:08,823 - INFO - Subject LT L value: 0.929044
+2025-01-27 19:10:08,824 - INFO - Subject LT R value: 1.112844
+2025-01-27 19:10:08,826 - INFO - Subject NvA L value: 0.177070
+2025-01-27 19:10:08,827 - INFO - Subject NvA R value: 0.140229
+2025-01-27 19:10:08,828 - INFO - Subject RR L value: 0.094184
+2025-01-27 19:10:08,829 - INFO - Subject RR R value: 0.083384
+2025-01-27 19:10:08,830 - INFO - Subject SJB L value: 0.084321
+2025-01-27 19:10:08,832 - INFO - Subject SJB R value: 0.104078
+2025-01-27 19:10:08,833 - INFO - Subject BG L value: 0.046687
+2025-01-27 19:10:08,834 - INFO - Subject BG R value: 0.044957
+2025-01-27 19:10:09,247 - INFO - Processing combination 2/24
+2025-01-27 19:10:09,247 - INFO - Parameters: Alignment=cue, Method=iDTF, Frequency=20Hz
+2025-01-27 19:10:09,247 - INFO - Maximum value (excluding diagonal) in L average: 0.295925
+2025-01-27 19:10:09,247 - INFO - Position: (np.int64(10), np.int64(8))
+2025-01-27 19:10:09,247 - INFO - Subject DOC L value: 0.526597
+2025-01-27 19:10:09,256 - INFO - Subject DOC R value: 0.526415
+2025-01-27 19:10:09,257 - INFO - Subject GB L value: 0.019569
+2025-01-27 19:10:09,258 - INFO - Subject GB R value: 0.011075
+2025-01-27 19:10:09,260 - INFO - Subject JDC L value: 0.084505
+2025-01-27 19:10:09,262 - INFO - Subject JDC R value: 0.093449
+2025-01-27 19:10:09,263 - INFO - Subject JFXD L value: 0.700453
+2025-01-27 19:10:09,264 - INFO - Subject JFXD R value: 0.796406
+2025-01-27 19:10:09,265 - INFO - Subject JZ L value: 0.263302
+2025-01-27 19:10:09,267 - INFO - Subject JZ R value: 0.344703
+2025-01-27 19:10:09,268 - INFO - Subject LT L value: 1.041529
+2025-01-27 19:10:09,269 - INFO - Subject LT R value: 1.393591
+2025-01-27 19:10:09,270 - INFO - Subject NvA L value: 0.065025
+2025-01-27 19:10:09,272 - INFO - Subject NvA R value: 0.058344
+2025-01-27 19:10:09,272 - INFO - Subject RR L value: 0.121817
+2025-01-27 19:10:09,273 - INFO - Subject RR R value: 0.097371
+2025-01-27 19:10:09,275 - INFO - Subject SJB L value: 0.035166
+2025-01-27 19:10:09,276 - INFO - Subject SJB R value: 0.027300
+2025-01-27 19:10:09,278 - INFO - Subject BG L value: 0.036414
+2025-01-27 19:10:09,280 - INFO - Subject BG R value: 0.025595
+2025-01-27 19:10:09,635 - INFO - Processing combination 3/24
+2025-01-27 19:10:09,635 - INFO - Parameters: Alignment=cue, Method=iDTF, Frequency=100Hz
+2025-01-27 19:10:09,635 - INFO - Maximum value (excluding diagonal) in L average: 0.232663
+2025-01-27 19:10:09,635 - INFO - Position: (np.int64(14), np.int64(12))
+2025-01-27 19:10:09,635 - INFO - Subject DOC L value: 0.073837
+2025-01-27 19:10:09,642 - INFO - Subject DOC R value: 0.051238
+2025-01-27 19:10:09,644 - INFO - Subject GB L value: 0.026476
+2025-01-27 19:10:09,645 - INFO - Subject GB R value: 0.027590
+2025-01-27 19:10:09,647 - INFO - Subject JDC L value: 0.129092
+2025-01-27 19:10:09,648 - INFO - Subject JDC R value: 0.063963
+2025-01-27 19:10:09,650 - INFO - Subject JFXD L value: 1.856151
+2025-01-27 19:10:09,652 - INFO - Subject JFXD R value: 1.857734
+2025-01-27 19:10:09,653 - INFO - Subject JZ L value: 0.025862
+2025-01-27 19:10:09,654 - INFO - Subject JZ R value: 0.023123
+2025-01-27 19:10:09,655 - INFO - Subject LT L value: 0.037129
+2025-01-27 19:10:09,657 - INFO - Subject LT R value: 0.021680
+2025-01-27 19:10:09,658 - INFO - Subject NvA L value: 0.018014
+2025-01-27 19:10:09,659 - INFO - Subject NvA R value: 0.018213
+2025-01-27 19:10:09,660 - INFO - Subject RR L value: 0.077395
+2025-01-27 19:10:09,661 - INFO - Subject RR R value: 0.050273
+2025-01-27 19:10:09,661 - INFO - Subject SJB L value: 0.019487
+2025-01-27 19:10:09,661 - INFO - Subject SJB R value: 0.030021
+2025-01-27 19:10:09,661 - INFO - Subject BG L value: 0.006695
+2025-01-27 19:10:09,661 - INFO - Subject BG R value: 0.014354
+2025-01-27 19:10:10,041 - INFO - Processing combination 4/24
+2025-01-27 19:10:10,042 - INFO - Parameters: Alignment=cue, Method=gDTF, Frequency=10Hz
+2025-01-27 19:10:10,042 - INFO - Maximum value (excluding diagonal) in L average: 0.124926
+2025-01-27 19:10:10,042 - INFO - Position: (np.int64(4), np.int64(8))
+2025-01-27 19:10:10,042 - INFO - Subject DOC L value: 0.226146
+2025-01-27 19:10:10,048 - INFO - Subject DOC R value: 0.259721
+2025-01-27 19:10:10,049 - INFO - Subject GB L value: 0.039068
+2025-01-27 19:10:10,050 - INFO - Subject GB R value: 0.037574
+2025-01-27 19:10:10,051 - INFO - Subject JDC L value: 0.033452
+2025-01-27 19:10:10,052 - INFO - Subject JDC R value: 0.049065
+2025-01-27 19:10:10,054 - INFO - Subject JFXD L value: 0.170695
+2025-01-27 19:10:10,055 - INFO - Subject JFXD R value: 0.143632
+2025-01-27 19:10:10,056 - INFO - Subject JZ L value: 0.078337
+2025-01-27 19:10:10,058 - INFO - Subject JZ R value: 0.113441
+2025-01-27 19:10:10,058 - INFO - Subject LT L value: 0.283776
+2025-01-27 19:10:10,060 - INFO - Subject LT R value: 0.208294
+2025-01-27 19:10:10,061 - INFO - Subject NvA L value: 0.154200
+2025-01-27 19:10:10,062 - INFO - Subject NvA R value: 0.214715
+2025-01-27 19:10:10,064 - INFO - Subject RR L value: 0.108238
+2025-01-27 19:10:10,065 - INFO - Subject RR R value: 0.067208
+2025-01-27 19:10:10,066 - INFO - Subject SJB L value: 0.096493
+2025-01-27 19:10:10,067 - INFO - Subject SJB R value: 0.087325
+2025-01-27 19:10:10,069 - INFO - Subject BG L value: 0.036828
+2025-01-27 19:10:10,069 - INFO - Subject BG R value: 0.087738
+2025-01-27 19:10:10,448 - INFO - Processing combination 5/24
+2025-01-27 19:10:10,448 - INFO - Parameters: Alignment=cue, Method=gDTF, Frequency=20Hz
+2025-01-27 19:10:10,448 - INFO - Maximum value (excluding diagonal) in L average: 0.131609
+2025-01-27 19:10:10,448 - INFO - Position: (np.int64(11), np.int64(10))
+2025-01-27 19:10:10,448 - INFO - Subject DOC L value: 0.111689
+2025-01-27 19:10:10,456 - INFO - Subject DOC R value: 0.090992
+2025-01-27 19:10:10,457 - INFO - Subject GB L value: 0.016094
+2025-01-27 19:10:10,458 - INFO - Subject GB R value: 0.015397
+2025-01-27 19:10:10,460 - INFO - Subject JDC L value: 0.335689
+2025-01-27 19:10:10,461 - INFO - Subject JDC R value: 0.355223
+2025-01-27 19:10:10,462 - INFO - Subject JFXD L value: 0.052178
+2025-01-27 19:10:10,464 - INFO - Subject JFXD R value: 0.062176
+2025-01-27 19:10:10,465 - INFO - Subject JZ L value: 0.100805
+2025-01-27 19:10:10,466 - INFO - Subject JZ R value: 0.105531
+2025-01-27 19:10:10,467 - INFO - Subject LT L value: 0.072708
+2025-01-27 19:10:10,467 - INFO - Subject LT R value: 0.102659
+2025-01-27 19:10:10,467 - INFO - Subject NvA L value: 0.170282
+2025-01-27 19:10:10,467 - INFO - Subject NvA R value: 0.233662
+2025-01-27 19:10:10,467 - INFO - Subject RR L value: 0.105878
+2025-01-27 19:10:10,474 - INFO - Subject RR R value: 0.064418
+2025-01-27 19:10:10,475 - INFO - Subject SJB L value: 0.188223
+2025-01-27 19:10:10,476 - INFO - Subject SJB R value: 0.180287
+2025-01-27 19:10:10,478 - INFO - Subject BG L value: 0.172857
+2025-01-27 19:10:10,479 - INFO - Subject BG R value: 0.160995
+2025-01-27 19:10:10,873 - INFO - Processing combination 6/24
+2025-01-27 19:10:10,873 - INFO - Parameters: Alignment=cue, Method=gDTF, Frequency=100Hz
+2025-01-27 19:10:10,873 - INFO - Maximum value (excluding diagonal) in L average: 0.083427
+2025-01-27 19:10:10,873 - INFO - Position: (np.int64(10), np.int64(8))
+2025-01-27 19:10:10,873 - INFO - Subject DOC L value: 0.279797
+2025-01-27 19:10:10,880 - INFO - Subject DOC R value: 0.283026
+2025-01-27 19:10:10,882 - INFO - Subject GB L value: 0.009147
+2025-01-27 19:10:10,883 - INFO - Subject GB R value: 0.012430
+2025-01-27 19:10:10,884 - INFO - Subject JDC L value: 0.060372
+2025-01-27 19:10:10,885 - INFO - Subject JDC R value: 0.058988
+2025-01-27 19:10:10,886 - INFO - Subject JFXD L value: 0.024704
+2025-01-27 19:10:10,887 - INFO - Subject JFXD R value: 0.064060
+2025-01-27 19:10:10,888 - INFO - Subject JZ L value: 0.134258
+2025-01-27 19:10:10,890 - INFO - Subject JZ R value: 0.158161
+2025-01-27 19:10:10,891 - INFO - Subject LT L value: 0.116954
+2025-01-27 19:10:10,892 - INFO - Subject LT R value: 0.117701
+2025-01-27 19:10:10,893 - INFO - Subject NvA L value: 0.049575
+2025-01-27 19:10:10,895 - INFO - Subject NvA R value: 0.082433
+2025-01-27 19:10:10,896 - INFO - Subject RR L value: 0.075691
+2025-01-27 19:10:10,897 - INFO - Subject RR R value: 0.067342
+2025-01-27 19:10:10,897 - INFO - Subject SJB L value: 0.049174
+2025-01-27 19:10:10,899 - INFO - Subject SJB R value: 0.026494
+2025-01-27 19:10:10,900 - INFO - Subject BG L value: 0.018320
+2025-01-27 19:10:10,902 - INFO - Subject BG R value: 0.026964
+2025-01-27 19:10:11,277 - INFO - Processing combination 7/24
+2025-01-27 19:10:11,277 - INFO - Parameters: Alignment=cue, Method=iPDC, Frequency=10Hz
+2025-01-27 19:10:11,277 - INFO - Maximum value (excluding diagonal) in L average: 0.013770
+2025-01-27 19:10:11,277 - INFO - Position: (np.int64(29), np.int64(31))
+2025-01-27 19:10:11,280 - INFO - Subject DOC L value: 0.016348
+2025-01-27 19:10:11,282 - INFO - Subject DOC R value: 0.017907
+2025-01-27 19:10:11,284 - INFO - Subject GB L value: 0.012737
+2025-01-27 19:10:11,286 - INFO - Subject GB R value: 0.009858
+2025-01-27 19:10:11,287 - INFO - Subject JDC L value: 0.018038
+2025-01-27 19:10:11,287 - INFO - Subject JDC R value: 0.022810
+2025-01-27 19:10:11,289 - INFO - Subject JFXD L value: 0.003115
+2025-01-27 19:10:11,290 - INFO - Subject JFXD R value: 0.003041
+2025-01-27 19:10:11,292 - INFO - Subject JZ L value: 0.013172
+2025-01-27 19:10:11,293 - INFO - Subject JZ R value: 0.012672
+2025-01-27 19:10:11,294 - INFO - Subject LT L value: 0.005535
+2025-01-27 19:10:11,295 - INFO - Subject LT R value: 0.002755
+2025-01-27 19:10:11,296 - INFO - Subject NvA L value: 0.014144
+2025-01-27 19:10:11,298 - INFO - Subject NvA R value: 0.009785
+2025-01-27 19:10:11,299 - INFO - Subject RR L value: 0.019042
+2025-01-27 19:10:11,300 - INFO - Subject RR R value: 0.021011
+2025-01-27 19:10:11,301 - INFO - Subject SJB L value: 0.017521
+2025-01-27 19:10:11,302 - INFO - Subject SJB R value: 0.016649
+2025-01-27 19:10:11,303 - INFO - Subject BG L value: 0.019470
+2025-01-27 19:10:11,305 - INFO - Subject BG R value: 0.018695
+2025-01-27 19:10:11,700 - INFO - Processing combination 8/24
+2025-01-27 19:10:11,701 - INFO - Parameters: Alignment=cue, Method=iPDC, Frequency=20Hz
+2025-01-27 19:10:11,702 - INFO - Maximum value (excluding diagonal) in L average: 0.016062
+2025-01-27 19:10:11,702 - INFO - Position: (np.int64(11), np.int64(10))
+2025-01-27 19:10:11,704 - INFO - Subject DOC L value: 0.010634
+2025-01-27 19:10:11,705 - INFO - Subject DOC R value: 0.010109
+2025-01-27 19:10:11,707 - INFO - Subject GB L value: 0.004500
+2025-01-27 19:10:11,708 - INFO - Subject GB R value: 0.005841
+2025-01-27 19:10:11,709 - INFO - Subject JDC L value: 0.036395
+2025-01-27 19:10:11,710 - INFO - Subject JDC R value: 0.041507
+2025-01-27 19:10:11,711 - INFO - Subject JFXD L value: 0.001703
+2025-01-27 19:10:11,712 - INFO - Subject JFXD R value: 0.003045
+2025-01-27 19:10:11,715 - INFO - Subject JZ L value: 0.028249
+2025-01-27 19:10:11,716 - INFO - Subject JZ R value: 0.030717
+2025-01-27 19:10:11,716 - INFO - Subject LT L value: 0.007753
+2025-01-27 19:10:11,719 - INFO - Subject LT R value: 0.013295
+2025-01-27 19:10:11,719 - INFO - Subject NvA L value: 0.007904
+2025-01-27 19:10:11,719 - INFO - Subject NvA R value: 0.010760
+2025-01-27 19:10:11,723 - INFO - Subject RR L value: 0.010674
+2025-01-27 19:10:11,724 - INFO - Subject RR R value: 0.006902
+2025-01-27 19:10:11,725 - INFO - Subject SJB L value: 0.036033
+2025-01-27 19:10:11,727 - INFO - Subject SJB R value: 0.028709
+2025-01-27 19:10:11,728 - INFO - Subject BG L value: 0.017014
+2025-01-27 19:10:11,729 - INFO - Subject BG R value: 0.012469
+2025-01-27 19:10:12,151 - INFO - Processing combination 9/24
+2025-01-27 19:10:12,151 - INFO - Parameters: Alignment=cue, Method=iPDC, Frequency=100Hz
+2025-01-27 19:10:12,151 - INFO - Maximum value (excluding diagonal) in L average: 0.016599
+2025-01-27 19:10:12,151 - INFO - Position: (np.int64(11), np.int64(10))
+2025-01-27 19:10:12,159 - INFO - Subject DOC L value: 0.029379
+2025-01-27 19:10:12,161 - INFO - Subject DOC R value: 0.027598
+2025-01-27 19:10:12,162 - INFO - Subject GB L value: 0.002677
+2025-01-27 19:10:12,163 - INFO - Subject GB R value: 0.001727
+2025-01-27 19:10:12,164 - INFO - Subject JDC L value: 0.018890
+2025-01-27 19:10:12,165 - INFO - Subject JDC R value: 0.012962
+2025-01-27 19:10:12,167 - INFO - Subject JFXD L value: 0.002703
+2025-01-27 19:10:12,168 - INFO - Subject JFXD R value: 0.003021
+2025-01-27 19:10:12,170 - INFO - Subject JZ L value: 0.037627
+2025-01-27 19:10:12,171 - INFO - Subject JZ R value: 0.032412
+2025-01-27 19:10:12,172 - INFO - Subject LT L value: 0.006133
+2025-01-27 19:10:12,173 - INFO - Subject LT R value: 0.004613
+2025-01-27 19:10:12,174 - INFO - Subject NvA L value: 0.018039
+2025-01-27 19:10:12,176 - INFO - Subject NvA R value: 0.019977
+2025-01-27 19:10:12,177 - INFO - Subject RR L value: 0.005790
+2025-01-27 19:10:12,178 - INFO - Subject RR R value: 0.004706
+2025-01-27 19:10:12,179 - INFO - Subject SJB L value: 0.029687
+2025-01-27 19:10:12,180 - INFO - Subject SJB R value: 0.025121
+2025-01-27 19:10:12,181 - INFO - Subject BG L value: 0.014557
+2025-01-27 19:10:12,183 - INFO - Subject BG R value: 0.019569
+2025-01-27 19:10:12,544 - INFO - Processing combination 10/24
+2025-01-27 19:10:12,549 - INFO - Parameters: Alignment=cue, Method=gPDC, Frequency=10Hz
+2025-01-27 19:10:12,549 - INFO - Maximum value (excluding diagonal) in L average: 0.105922
+2025-01-27 19:10:12,549 - INFO - Position: (np.int64(11), np.int64(10))
+2025-01-27 19:10:12,549 - INFO - Subject DOC L value: 0.094102
+2025-01-27 19:10:12,554 - INFO - Subject DOC R value: 0.099153
+2025-01-27 19:10:12,556 - INFO - Subject GB L value: 0.010042
+2025-01-27 19:10:12,558 - INFO - Subject GB R value: 0.008078
+2025-01-27 19:10:12,559 - INFO - Subject JDC L value: 0.248874
+2025-01-27 19:10:12,561 - INFO - Subject JDC R value: 0.298195
+2025-01-27 19:10:12,562 - INFO - Subject JFXD L value: 0.040161
+2025-01-27 19:10:12,564 - INFO - Subject JFXD R value: 0.051552
+2025-01-27 19:10:12,565 - INFO - Subject JZ L value: 0.188431
+2025-01-27 19:10:12,566 - INFO - Subject JZ R value: 0.204212
+2025-01-27 19:10:12,567 - INFO - Subject LT L value: 0.081104
+2025-01-27 19:10:12,568 - INFO - Subject LT R value: 0.107882
+2025-01-27 19:10:12,570 - INFO - Subject NvA L value: 0.075398
+2025-01-27 19:10:12,571 - INFO - Subject NvA R value: 0.095267
+2025-01-27 19:10:12,572 - INFO - Subject RR L value: 0.058357
+2025-01-27 19:10:12,573 - INFO - Subject RR R value: 0.034448
+2025-01-27 19:10:12,575 - INFO - Subject SJB L value: 0.164267
+2025-01-27 19:10:12,576 - INFO - Subject SJB R value: 0.137667
+2025-01-27 19:10:12,577 - INFO - Subject BG L value: 0.096010
+2025-01-27 19:10:12,578 - INFO - Subject BG R value: 0.070640
+2025-01-27 19:10:13,000 - INFO - Processing combination 11/24
+2025-01-27 19:10:13,000 - INFO - Parameters: Alignment=cue, Method=gPDC, Frequency=20Hz
+2025-01-27 19:10:13,001 - INFO - Maximum value (excluding diagonal) in L average: 0.109914
+2025-01-27 19:10:13,002 - INFO - Position: (np.int64(11), np.int64(10))
+2025-01-27 19:10:13,004 - INFO - Subject DOC L value: 0.132137
+2025-01-27 19:10:13,005 - INFO - Subject DOC R value: 0.103106
+2025-01-27 19:10:13,006 - INFO - Subject GB L value: 0.016474
+2025-01-27 19:10:13,008 - INFO - Subject GB R value: 0.023148
+2025-01-27 19:10:13,009 - INFO - Subject JDC L value: 0.230037
+2025-01-27 19:10:13,010 - INFO - Subject JDC R value: 0.250885
+2025-01-27 19:10:13,011 - INFO - Subject JFXD L value: 0.028244
+2025-01-27 19:10:13,012 - INFO - Subject JFXD R value: 0.039376
+2025-01-27 19:10:13,014 - INFO - Subject JZ L value: 0.123868
+2025-01-27 19:10:13,015 - INFO - Subject JZ R value: 0.136714
+2025-01-27 19:10:13,016 - INFO - Subject LT L value: 0.065766
+2025-01-27 19:10:13,017 - INFO - Subject LT R value: 0.096066
+2025-01-27 19:10:13,018 - INFO - Subject NvA L value: 0.093388
+2025-01-27 19:10:13,020 - INFO - Subject NvA R value: 0.117334
+2025-01-27 19:10:13,021 - INFO - Subject RR L value: 0.069871
+2025-01-27 19:10:13,022 - INFO - Subject RR R value: 0.042177
+2025-01-27 19:10:13,023 - INFO - Subject SJB L value: 0.211083
+2025-01-27 19:10:13,025 - INFO - Subject SJB R value: 0.177819
+2025-01-27 19:10:13,026 - INFO - Subject BG L value: 0.134394
+2025-01-27 19:10:13,028 - INFO - Subject BG R value: 0.083125
+2025-01-27 19:10:13,394 - INFO - Processing combination 12/24
+2025-01-27 19:10:13,394 - INFO - Parameters: Alignment=cue, Method=gPDC, Frequency=100Hz
+2025-01-27 19:10:13,394 - INFO - Maximum value (excluding diagonal) in L average: 0.051085
+2025-01-27 19:10:13,394 - INFO - Position: (np.int64(25), np.int64(32))
+2025-01-27 19:10:13,398 - INFO - Subject DOC L value: 0.021463
+2025-01-27 19:10:13,399 - INFO - Subject DOC R value: 0.024132
+2025-01-27 19:10:13,400 - INFO - Subject GB L value: 0.035424
+2025-01-27 19:10:13,402 - INFO - Subject GB R value: 0.047405
+2025-01-27 19:10:13,404 - INFO - Subject JDC L value: 0.057666
+2025-01-27 19:10:13,404 - INFO - Subject JDC R value: 0.074791
+2025-01-27 19:10:13,404 - INFO - Subject JFXD L value: 0.053468
+2025-01-27 19:10:13,404 - INFO - Subject JFXD R value: 0.051206
+2025-01-27 19:10:13,404 - INFO - Subject JZ L value: 0.013688
+2025-01-27 19:10:13,410 - INFO - Subject JZ R value: 0.009727
+2025-01-27 19:10:13,411 - INFO - Subject LT L value: 0.021298
+2025-01-27 19:10:13,412 - INFO - Subject LT R value: 0.012795
+2025-01-27 19:10:13,414 - INFO - Subject NvA L value: 0.142512
+2025-01-27 19:10:13,415 - INFO - Subject NvA R value: 0.168915
+2025-01-27 19:10:13,416 - INFO - Subject RR L value: 0.004545
+2025-01-27 19:10:13,417 - INFO - Subject RR R value: 0.008297
+2025-01-27 19:10:13,419 - INFO - Subject SJB L value: 0.086593
+2025-01-27 19:10:13,420 - INFO - Subject SJB R value: 0.108105
+2025-01-27 19:10:13,421 - INFO - Subject BG L value: 0.081895
+2025-01-27 19:10:13,422 - INFO - Subject BG R value: 0.049114
+2025-01-27 19:10:13,791 - INFO - Processing combination 13/24
+2025-01-27 19:10:13,791 - INFO - Parameters: Alignment=mov, Method=iDTF, Frequency=10Hz
+2025-01-27 19:10:13,791 - INFO - Maximum value (excluding diagonal) in L average: 0.365018
+2025-01-27 19:10:13,791 - INFO - Position: (np.int64(14), np.int64(5))
+2025-01-27 19:10:13,791 - INFO - Subject DOC L value: 0.026574
+2025-01-27 19:10:13,800 - INFO - Subject DOC R value: 0.044196
+2025-01-27 19:10:13,801 - INFO - Subject GB L value: 0.027943
+2025-01-27 19:10:13,802 - INFO - Subject GB R value: 0.014263
+2025-01-27 19:10:13,804 - INFO - Subject JDC L value: 0.074980
+2025-01-27 19:10:13,804 - INFO - Subject JDC R value: 0.038539
+2025-01-27 19:10:13,806 - INFO - Subject JFXD L value: 2.851780
+2025-01-27 19:10:13,808 - INFO - Subject JFXD R value: 2.326644
+2025-01-27 19:10:13,809 - INFO - Subject JZ L value: 0.043243
+2025-01-27 19:10:13,810 - INFO - Subject JZ R value: 0.038536
+2025-01-27 19:10:13,811 - INFO - Subject LT L value: 0.115717
+2025-01-27 19:10:13,812 - INFO - Subject LT R value: 0.166286
+2025-01-27 19:10:13,812 - INFO - Subject NvA L value: 0.005909
+2025-01-27 19:10:13,812 - INFO - Subject NvA R value: 0.012576
+2025-01-27 19:10:13,812 - INFO - Subject RR L value: 0.267918
+2025-01-27 19:10:13,812 - INFO - Subject RR R value: 0.202593
+2025-01-27 19:10:13,818 - INFO - Subject SJB L value: 0.093844
+2025-01-27 19:10:13,819 - INFO - Subject SJB R value: 0.058311
+2025-01-27 19:10:13,821 - INFO - Subject BG L value: 0.068023
+2025-01-27 19:10:13,821 - INFO - Subject BG R value: 0.022062
+2025-01-27 19:10:14,187 - INFO - Processing combination 14/24
+2025-01-27 19:10:14,187 - INFO - Parameters: Alignment=mov, Method=iDTF, Frequency=20Hz
+2025-01-27 19:10:14,188 - INFO - Maximum value (excluding diagonal) in L average: 0.365808
+2025-01-27 19:10:14,189 - INFO - Position: (np.int64(14), np.int64(5))
+2025-01-27 19:10:14,191 - INFO - Subject DOC L value: 0.016624
+2025-01-27 19:10:14,193 - INFO - Subject DOC R value: 0.036339
+2025-01-27 19:10:14,193 - INFO - Subject GB L value: 0.031613
+2025-01-27 19:10:14,196 - INFO - Subject GB R value: 0.012728
+2025-01-27 19:10:14,197 - INFO - Subject JDC L value: 0.075406
+2025-01-27 19:10:14,198 - INFO - Subject JDC R value: 0.046452
+2025-01-27 19:10:14,200 - INFO - Subject JFXD L value: 2.937246
+2025-01-27 19:10:14,200 - INFO - Subject JFXD R value: 2.447664
+2025-01-27 19:10:14,203 - INFO - Subject JZ L value: 0.036676
+2025-01-27 19:10:14,203 - INFO - Subject JZ R value: 0.028495
+2025-01-27 19:10:14,203 - INFO - Subject LT L value: 0.107539
+2025-01-27 19:10:14,203 - INFO - Subject LT R value: 0.134099
+2025-01-27 19:10:14,203 - INFO - Subject NvA L value: 0.009100
+2025-01-27 19:10:14,203 - INFO - Subject NvA R value: 0.012138
+2025-01-27 19:10:14,209 - INFO - Subject RR L value: 0.166395
+2025-01-27 19:10:14,210 - INFO - Subject RR R value: 0.145322
+2025-01-27 19:10:14,212 - INFO - Subject SJB L value: 0.098521
+2025-01-27 19:10:14,214 - INFO - Subject SJB R value: 0.058181
+2025-01-27 19:10:14,215 - INFO - Subject BG L value: 0.116678
+2025-01-27 19:10:14,217 - INFO - Subject BG R value: 0.014988
+2025-01-27 19:10:14,571 - INFO - Processing combination 15/24
+2025-01-27 19:10:14,571 - INFO - Parameters: Alignment=mov, Method=iDTF, Frequency=100Hz
+2025-01-27 19:10:14,571 - INFO - Maximum value (excluding diagonal) in L average: 0.314404
+2025-01-27 19:10:14,571 - INFO - Position: (np.int64(10), np.int64(8))
+2025-01-27 19:10:14,571 - INFO - Subject DOC L value: 0.863329
+2025-01-27 19:10:14,577 - INFO - Subject DOC R value: 0.814047
+2025-01-27 19:10:14,577 - INFO - Subject GB L value: 0.008004
+2025-01-27 19:10:14,580 - INFO - Subject GB R value: 0.014970
+2025-01-27 19:10:14,581 - INFO - Subject JDC L value: 0.114706
+2025-01-27 19:10:14,583 - INFO - Subject JDC R value: 0.130269
+2025-01-27 19:10:14,584 - INFO - Subject JFXD L value: 0.608289
+2025-01-27 19:10:14,586 - INFO - Subject JFXD R value: 0.295499
+2025-01-27 19:10:14,587 - INFO - Subject JZ L value: 0.350466
+2025-01-27 19:10:14,588 - INFO - Subject JZ R value: 0.450358
+2025-01-27 19:10:14,590 - INFO - Subject LT L value: 0.757303
+2025-01-27 19:10:14,591 - INFO - Subject LT R value: 0.330989
+2025-01-27 19:10:14,591 - INFO - Subject NvA L value: 0.081076
+2025-01-27 19:10:14,595 - INFO - Subject NvA R value: 0.089478
+2025-01-27 19:10:14,596 - INFO - Subject RR L value: 0.148936
+2025-01-27 19:10:14,598 - INFO - Subject RR R value: 0.222805
+2025-01-27 19:10:14,599 - INFO - Subject SJB L value: 0.109258
+2025-01-27 19:10:14,600 - INFO - Subject SJB R value: 0.119804
+2025-01-27 19:10:14,601 - INFO - Subject BG L value: 0.032103
+2025-01-27 19:10:14,603 - INFO - Subject BG R value: 0.029702
+2025-01-27 19:10:14,963 - INFO - Processing combination 16/24
+2025-01-27 19:10:14,963 - INFO - Parameters: Alignment=mov, Method=gDTF, Frequency=10Hz
+2025-01-27 19:10:14,963 - INFO - Maximum value (excluding diagonal) in L average: 0.113041
+2025-01-27 19:10:14,963 - INFO - Position: (np.int64(4), np.int64(8))
+2025-01-27 19:10:14,963 - INFO - Subject DOC L value: 0.254272
+2025-01-27 19:10:14,979 - INFO - Subject DOC R value: 0.289241
+2025-01-27 19:10:14,980 - INFO - Subject GB L value: 0.040287
+2025-01-27 19:10:14,981 - INFO - Subject GB R value: 0.029147
+2025-01-27 19:10:14,982 - INFO - Subject JDC L value: 0.061511
+2025-01-27 19:10:14,984 - INFO - Subject JDC R value: 0.033540
+2025-01-27 19:10:14,984 - INFO - Subject JFXD L value: 0.070478
+2025-01-27 19:10:14,986 - INFO - Subject JFXD R value: 0.121287
+2025-01-27 19:10:14,988 - INFO - Subject JZ L value: 0.075127
+2025-01-27 19:10:14,989 - INFO - Subject JZ R value: 0.104861
+2025-01-27 19:10:14,990 - INFO - Subject LT L value: 0.231767
+2025-01-27 19:10:14,991 - INFO - Subject LT R value: 0.227940
+2025-01-27 19:10:14,992 - INFO - Subject NvA L value: 0.122949
+2025-01-27 19:10:14,994 - INFO - Subject NvA R value: 0.110729
+2025-01-27 19:10:14,995 - INFO - Subject RR L value: 0.081017
+2025-01-27 19:10:14,997 - INFO - Subject RR R value: 0.054985
+2025-01-27 19:10:14,998 - INFO - Subject SJB L value: 0.132058
+2025-01-27 19:10:15,000 - INFO - Subject SJB R value: 0.136646
+2025-01-27 19:10:15,001 - INFO - Subject BG L value: 0.043582
+2025-01-27 19:10:15,002 - INFO - Subject BG R value: 0.056968
+2025-01-27 19:10:15,387 - INFO - Processing combination 17/24
+2025-01-27 19:10:15,387 - INFO - Parameters: Alignment=mov, Method=gDTF, Frequency=20Hz
+2025-01-27 19:10:15,389 - INFO - Maximum value (excluding diagonal) in L average: 0.139387
+2025-01-27 19:10:15,389 - INFO - Position: (np.int64(11), np.int64(10))
+2025-01-27 19:10:15,391 - INFO - Subject DOC L value: 0.100782
+2025-01-27 19:10:15,393 - INFO - Subject DOC R value: 0.073944
+2025-01-27 19:10:15,394 - INFO - Subject GB L value: 0.019665
+2025-01-27 19:10:15,396 - INFO - Subject GB R value: 0.018474
+2025-01-27 19:10:15,397 - INFO - Subject JDC L value: 0.332588
+2025-01-27 19:10:15,398 - INFO - Subject JDC R value: 0.358407
+2025-01-27 19:10:15,400 - INFO - Subject JFXD L value: 0.063681
+2025-01-27 19:10:15,400 - INFO - Subject JFXD R value: 0.081853
+2025-01-27 19:10:15,403 - INFO - Subject JZ L value: 0.114493
+2025-01-27 19:10:15,405 - INFO - Subject JZ R value: 0.094590
+2025-01-27 19:10:15,406 - INFO - Subject LT L value: 0.054057
+2025-01-27 19:10:15,408 - INFO - Subject LT R value: 0.103544
+2025-01-27 19:10:15,409 - INFO - Subject NvA L value: 0.200324
+2025-01-27 19:10:15,410 - INFO - Subject NvA R value: 0.221575
+2025-01-27 19:10:15,411 - INFO - Subject RR L value: 0.113219
+2025-01-27 19:10:15,413 - INFO - Subject RR R value: 0.127533
+2025-01-27 19:10:15,414 - INFO - Subject SJB L value: 0.219604
+2025-01-27 19:10:15,416 - INFO - Subject SJB R value: 0.194430
+2025-01-27 19:10:15,417 - INFO - Subject BG L value: 0.187484
+2025-01-27 19:10:15,418 - INFO - Subject BG R value: 0.178670
+2025-01-27 19:10:15,776 - INFO - Processing combination 18/24
+2025-01-27 19:10:15,776 - INFO - Parameters: Alignment=mov, Method=gDTF, Frequency=100Hz
+2025-01-27 19:10:15,776 - INFO - Maximum value (excluding diagonal) in L average: 0.099063
+2025-01-27 19:10:15,776 - INFO - Position: (np.int64(10), np.int64(8))
+2025-01-27 19:10:15,776 - INFO - Subject DOC L value: 0.256741
+2025-01-27 19:10:15,789 - INFO - Subject DOC R value: 0.255080
+2025-01-27 19:10:15,790 - INFO - Subject GB L value: 0.004968
+2025-01-27 19:10:15,791 - INFO - Subject GB R value: 0.009024
+2025-01-27 19:10:15,793 - INFO - Subject JDC L value: 0.070922
+2025-01-27 19:10:15,793 - INFO - Subject JDC R value: 0.077713
+2025-01-27 19:10:15,795 - INFO - Subject JFXD L value: 0.096864
+2025-01-27 19:10:15,797 - INFO - Subject JFXD R value: 0.057019
+2025-01-27 19:10:15,798 - INFO - Subject JZ L value: 0.153863
+2025-01-27 19:10:15,799 - INFO - Subject JZ R value: 0.197075
+2025-01-27 19:10:15,800 - INFO - Subject LT L value: 0.188939
+2025-01-27 19:10:15,801 - INFO - Subject LT R value: 0.120324
+2025-01-27 19:10:15,802 - INFO - Subject NvA L value: 0.045187
+2025-01-27 19:10:15,804 - INFO - Subject NvA R value: 0.049986
+2025-01-27 19:10:15,805 - INFO - Subject RR L value: 0.071856
+2025-01-27 19:10:15,806 - INFO - Subject RR R value: 0.106265
+2025-01-27 19:10:15,807 - INFO - Subject SJB L value: 0.063844
+2025-01-27 19:10:15,809 - INFO - Subject SJB R value: 0.068932
+2025-01-27 19:10:15,810 - INFO - Subject BG L value: 0.016908
+2025-01-27 19:10:15,811 - INFO - Subject BG R value: 0.018877
+2025-01-27 19:10:16,188 - INFO - Processing combination 19/24
+2025-01-27 19:10:16,188 - INFO - Parameters: Alignment=mov, Method=iPDC, Frequency=10Hz
+2025-01-27 19:10:16,188 - INFO - Maximum value (excluding diagonal) in L average: 0.013112
+2025-01-27 19:10:16,188 - INFO - Position: (np.int64(11), np.int64(10))
+2025-01-27 19:10:16,188 - INFO - Subject DOC L value: 0.008209
+2025-01-27 19:10:16,201 - INFO - Subject DOC R value: 0.006596
+2025-01-27 19:10:16,202 - INFO - Subject GB L value: 0.003018
+2025-01-27 19:10:16,204 - INFO - Subject GB R value: 0.002454
+2025-01-27 19:10:16,205 - INFO - Subject JDC L value: 0.028044
+2025-01-27 19:10:16,206 - INFO - Subject JDC R value: 0.033583
+2025-01-27 19:10:16,208 - INFO - Subject JFXD L value: 0.004291
+2025-01-27 19:10:16,209 - INFO - Subject JFXD R value: 0.005027
+2025-01-27 19:10:16,210 - INFO - Subject JZ L value: 0.044368
+2025-01-27 19:10:16,211 - INFO - Subject JZ R value: 0.038351
+2025-01-27 19:10:16,213 - INFO - Subject LT L value: 0.004924
+2025-01-27 19:10:16,215 - INFO - Subject LT R value: 0.011899
+2025-01-27 19:10:16,215 - INFO - Subject NvA L value: 0.004330
+2025-01-27 19:10:16,217 - INFO - Subject NvA R value: 0.005296
+2025-01-27 19:10:16,219 - INFO - Subject RR L value: 0.004609
+2025-01-27 19:10:16,220 - INFO - Subject RR R value: 0.006354
+2025-01-27 19:10:16,222 - INFO - Subject SJB L value: 0.019750
+2025-01-27 19:10:16,223 - INFO - Subject SJB R value: 0.020408
+2025-01-27 19:10:16,224 - INFO - Subject BG L value: 0.008398
+2025-01-27 19:10:16,225 - INFO - Subject BG R value: 0.008476
+2025-01-27 19:10:16,605 - INFO - Processing combination 20/24
+2025-01-27 19:10:16,605 - INFO - Parameters: Alignment=mov, Method=iPDC, Frequency=20Hz
+2025-01-27 19:10:16,607 - INFO - Maximum value (excluding diagonal) in L average: 0.016394
+2025-01-27 19:10:16,607 - INFO - Position: (np.int64(11), np.int64(10))
+2025-01-27 19:10:16,609 - INFO - Subject DOC L value: 0.013528
+2025-01-27 19:10:16,611 - INFO - Subject DOC R value: 0.009709
+2025-01-27 19:10:16,613 - INFO - Subject GB L value: 0.005911
+2025-01-27 19:10:16,615 - INFO - Subject GB R value: 0.006194
+2025-01-27 19:10:16,616 - INFO - Subject JDC L value: 0.036209
+2025-01-27 19:10:16,617 - INFO - Subject JDC R value: 0.038287
+2025-01-27 19:10:16,617 - INFO - Subject JFXD L value: 0.002414
+2025-01-27 19:10:16,619 - INFO - Subject JFXD R value: 0.003243
+2025-01-27 19:10:16,622 - INFO - Subject JZ L value: 0.034809
+2025-01-27 19:10:16,623 - INFO - Subject JZ R value: 0.036496
+2025-01-27 19:10:16,624 - INFO - Subject LT L value: 0.004721
+2025-01-27 19:10:16,625 - INFO - Subject LT R value: 0.009601
+2025-01-27 19:10:16,627 - INFO - Subject NvA L value: 0.007632
+2025-01-27 19:10:16,628 - INFO - Subject NvA R value: 0.008902
+2025-01-27 19:10:16,629 - INFO - Subject RR L value: 0.007243
+2025-01-27 19:10:16,631 - INFO - Subject RR R value: 0.009067
+2025-01-27 19:10:16,632 - INFO - Subject SJB L value: 0.034514
+2025-01-27 19:10:16,633 - INFO - Subject SJB R value: 0.035734
+2025-01-27 19:10:16,633 - INFO - Subject BG L value: 0.017146
+2025-01-27 19:10:16,635 - INFO - Subject BG R value: 0.014650
+2025-01-27 19:10:17,026 - INFO - Processing combination 21/24
+2025-01-27 19:10:17,026 - INFO - Parameters: Alignment=mov, Method=iPDC, Frequency=100Hz
+2025-01-27 19:10:17,026 - INFO - Maximum value (excluding diagonal) in L average: 0.015414
+2025-01-27 19:10:17,026 - INFO - Position: (np.int64(11), np.int64(10))
+2025-01-27 19:10:17,031 - INFO - Subject DOC L value: 0.020550
+2025-01-27 19:10:17,033 - INFO - Subject DOC R value: 0.023147
+2025-01-27 19:10:17,034 - INFO - Subject GB L value: 0.002700
+2025-01-27 19:10:17,035 - INFO - Subject GB R value: 0.002154
+2025-01-27 19:10:17,037 - INFO - Subject JDC L value: 0.017078
+2025-01-27 19:10:17,037 - INFO - Subject JDC R value: 0.014960
+2025-01-27 19:10:17,037 - INFO - Subject JFXD L value: 0.005737
+2025-01-27 19:10:17,037 - INFO - Subject JFXD R value: 0.005526
+2025-01-27 19:10:17,041 - INFO - Subject JZ L value: 0.024417
+2025-01-27 19:10:17,042 - INFO - Subject JZ R value: 0.024179
+2025-01-27 19:10:17,044 - INFO - Subject LT L value: 0.011507
+2025-01-27 19:10:17,045 - INFO - Subject LT R value: 0.005656
+2025-01-27 19:10:17,046 - INFO - Subject NvA L value: 0.016412
+2025-01-27 19:10:17,047 - INFO - Subject NvA R value: 0.014826
+2025-01-27 19:10:17,048 - INFO - Subject RR L value: 0.008274
+2025-01-27 19:10:17,050 - INFO - Subject RR R value: 0.005654
+2025-01-27 19:10:17,051 - INFO - Subject SJB L value: 0.028956
+2025-01-27 19:10:17,052 - INFO - Subject SJB R value: 0.030886
+2025-01-27 19:10:17,053 - INFO - Subject BG L value: 0.019548
+2025-01-27 19:10:17,054 - INFO - Subject BG R value: 0.020403
+2025-01-27 19:10:17,438 - INFO - Processing combination 22/24
+2025-01-27 19:10:17,438 - INFO - Parameters: Alignment=mov, Method=gPDC, Frequency=10Hz
+2025-01-27 19:10:17,438 - INFO - Maximum value (excluding diagonal) in L average: 0.102644
+2025-01-27 19:10:17,438 - INFO - Position: (np.int64(11), np.int64(10))
+2025-01-27 19:10:17,450 - INFO - Subject DOC L value: 0.093482
+2025-01-27 19:10:17,451 - INFO - Subject DOC R value: 0.077542
+2025-01-27 19:10:17,453 - INFO - Subject GB L value: 0.010161
+2025-01-27 19:10:17,454 - INFO - Subject GB R value: 0.009936
+2025-01-27 19:10:17,454 - INFO - Subject JDC L value: 0.262544
+2025-01-27 19:10:17,456 - INFO - Subject JDC R value: 0.295647
+2025-01-27 19:10:17,457 - INFO - Subject JFXD L value: 0.055953
+2025-01-27 19:10:17,458 - INFO - Subject JFXD R value: 0.064909
+2025-01-27 19:10:17,459 - INFO - Subject JZ L value: 0.231025
+2025-01-27 19:10:17,460 - INFO - Subject JZ R value: 0.224627
+2025-01-27 19:10:17,461 - INFO - Subject LT L value: 0.048405
+2025-01-27 19:10:17,462 - INFO - Subject LT R value: 0.092647
+2025-01-27 19:10:17,464 - INFO - Subject NvA L value: 0.047704
+2025-01-27 19:10:17,466 - INFO - Subject NvA R value: 0.064784
+2025-01-27 19:10:17,467 - INFO - Subject RR L value: 0.039644
+2025-01-27 19:10:17,468 - INFO - Subject RR R value: 0.047476
+2025-01-27 19:10:17,469 - INFO - Subject SJB L value: 0.155601
+2025-01-27 19:10:17,469 - INFO - Subject SJB R value: 0.146100
+2025-01-27 19:10:17,469 - INFO - Subject BG L value: 0.075011
+2025-01-27 19:10:17,472 - INFO - Subject BG R value: 0.068546
+2025-01-27 19:10:17,844 - INFO - Processing combination 23/24
+2025-01-27 19:10:17,844 - INFO - Parameters: Alignment=mov, Method=gPDC, Frequency=20Hz
+2025-01-27 19:10:17,845 - INFO - Maximum value (excluding diagonal) in L average: 0.108889
+2025-01-27 19:10:17,845 - INFO - Position: (np.int64(11), np.int64(10))
+2025-01-27 19:10:17,847 - INFO - Subject DOC L value: 0.148770
+2025-01-27 19:10:17,849 - INFO - Subject DOC R value: 0.109058
+2025-01-27 19:10:17,850 - INFO - Subject GB L value: 0.020422
+2025-01-27 19:10:17,851 - INFO - Subject GB R value: 0.024754
+2025-01-27 19:10:17,852 - INFO - Subject JDC L value: 0.213978
+2025-01-27 19:10:17,854 - INFO - Subject JDC R value: 0.247168
+2025-01-27 19:10:17,855 - INFO - Subject JFXD L value: 0.033057
+2025-01-27 19:10:17,856 - INFO - Subject JFXD R value: 0.045559
+2025-01-27 19:10:17,858 - INFO - Subject JZ L value: 0.149792
+2025-01-27 19:10:17,859 - INFO - Subject JZ R value: 0.164180
+2025-01-27 19:10:17,860 - INFO - Subject LT L value: 0.044888
+2025-01-27 19:10:17,862 - INFO - Subject LT R value: 0.076177
+2025-01-27 19:10:17,863 - INFO - Subject NvA L value: 0.071585
+2025-01-27 19:10:17,864 - INFO - Subject NvA R value: 0.096011
+2025-01-27 19:10:17,865 - INFO - Subject RR L value: 0.063937
+2025-01-27 19:10:17,866 - INFO - Subject RR R value: 0.065378
+2025-01-27 19:10:17,868 - INFO - Subject SJB L value: 0.223565
+2025-01-27 19:10:17,869 - INFO - Subject SJB R value: 0.225467
+2025-01-27 19:10:17,871 - INFO - Subject BG L value: 0.122238
+2025-01-27 19:10:17,873 - INFO - Subject BG R value: 0.103832
+2025-01-27 19:10:18,221 - INFO - Processing combination 24/24
+2025-01-27 19:10:18,221 - INFO - Parameters: Alignment=mov, Method=gPDC, Frequency=100Hz
+2025-01-27 19:10:18,221 - INFO - Maximum value (excluding diagonal) in L average: 0.053689
+2025-01-27 19:10:18,221 - INFO - Position: (np.int64(10), np.int64(4))
+2025-01-27 19:10:18,221 - INFO - Subject DOC L value: 0.147490
+2025-01-27 19:10:18,231 - INFO - Subject DOC R value: 0.173686
+2025-01-27 19:10:18,233 - INFO - Subject GB L value: 0.008708
+2025-01-27 19:10:18,234 - INFO - Subject GB R value: 0.011288
+2025-01-27 19:10:18,236 - INFO - Subject JDC L value: 0.016739
+2025-01-27 19:10:18,237 - INFO - Subject JDC R value: 0.019259
+2025-01-27 19:10:18,238 - INFO - Subject JFXD L value: 0.055924
+2025-01-27 19:10:18,240 - INFO - Subject JFXD R value: 0.039584
+2025-01-27 19:10:18,241 - INFO - Subject JZ L value: 0.049197
+2025-01-27 19:10:18,242 - INFO - Subject JZ R value: 0.047103
+2025-01-27 19:10:18,244 - INFO - Subject LT L value: 0.083525
+2025-01-27 19:10:18,245 - INFO - Subject LT R value: 0.056583
+2025-01-27 19:10:18,247 - INFO - Subject NvA L value: 0.082874
+2025-01-27 19:10:18,247 - INFO - Subject NvA R value: 0.083034
+2025-01-27 19:10:18,250 - INFO - Subject RR L value: 0.053936
+2025-01-27 19:10:18,251 - INFO - Subject RR R value: 0.082639
+2025-01-27 19:10:18,252 - INFO - Subject SJB L value: 0.017887
+2025-01-27 19:10:18,254 - INFO - Subject SJB R value: 0.011251
+2025-01-27 19:10:18,255 - INFO - Subject BG L value: 0.009582
+2025-01-27 19:10:18,256 - INFO - Subject BG R value: 0.018457
+2025-01-27 19:10:18,714 - INFO - All plots have been generated successfully
+2025-01-27 19:10:18,714 - INFO - Plots are saved in: Data\scatter_plots
+2025-01-27 19:13:22,885 - INFO - Starting Scatter Plot Generator
+2025-01-27 19:13:26,042 - INFO - Starting processing of 24 combinations
+2025-01-27 19:13:26,042 - INFO - Processing combination 1/24
+2025-01-27 19:13:26,042 - INFO - Parameters: Alignment=cue, Method=iDTF, Frequency=10Hz
+2025-01-27 19:13:26,042 - INFO - Maximum value (excluding diagonal) in L average: 0.379940
+2025-01-27 19:13:26,042 - INFO - Position: (np.int64(10), np.int64(8))
+2025-01-27 19:13:26,053 - INFO - Subject DOC L value: 0.676025
+2025-01-27 19:13:26,055 - INFO - Subject DOC R value: 0.698489
+2025-01-27 19:13:26,055 - INFO - Subject GB L value: 0.013628
+2025-01-27 19:13:26,057 - INFO - Subject GB R value: 0.008673
+2025-01-27 19:13:26,058 - INFO - Subject JDC L value: 0.064836
+2025-01-27 19:13:26,059 - INFO - Subject JDC R value: 0.062507
+2025-01-27 19:13:26,061 - INFO - Subject JFXD L value: 1.404729
+2025-01-27 19:13:26,062 - INFO - Subject JFXD R value: 1.093193
+2025-01-27 19:13:26,064 - INFO - Subject JZ L value: 0.225567
+2025-01-27 19:13:26,067 - INFO - Subject JZ R value: 0.276536
+2025-01-27 19:13:26,067 - INFO - Subject LT L value: 0.929044
+2025-01-27 19:13:26,068 - INFO - Subject LT R value: 1.112844
+2025-01-27 19:13:26,069 - INFO - Subject NvA L value: 0.177070
+2025-01-27 19:13:26,071 - INFO - Subject NvA R value: 0.140229
+2025-01-27 19:13:26,072 - INFO - Subject RR L value: 0.094184
+2025-01-27 19:13:26,073 - INFO - Subject RR R value: 0.083384
+2025-01-27 19:13:26,074 - INFO - Subject SJB L value: 0.084321
+2025-01-27 19:13:26,075 - INFO - Subject SJB R value: 0.104078
+2025-01-27 19:13:26,077 - INFO - Subject BG L value: 0.046687
+2025-01-27 19:13:26,078 - INFO - Subject BG R value: 0.044957
+2025-01-27 19:13:26,482 - INFO - Processing combination 2/24
+2025-01-27 19:13:26,482 - INFO - Parameters: Alignment=cue, Method=iDTF, Frequency=20Hz
+2025-01-27 19:13:26,482 - INFO - Maximum value (excluding diagonal) in L average: 0.295925
+2025-01-27 19:13:26,482 - INFO - Position: (np.int64(10), np.int64(8))
+2025-01-27 19:13:26,482 - INFO - Subject DOC L value: 0.526597
+2025-01-27 19:13:26,491 - INFO - Subject DOC R value: 0.526415
+2025-01-27 19:13:26,493 - INFO - Subject GB L value: 0.019569
+2025-01-27 19:13:26,494 - INFO - Subject GB R value: 0.011075
+2025-01-27 19:13:26,494 - INFO - Subject JDC L value: 0.084505
+2025-01-27 19:13:26,494 - INFO - Subject JDC R value: 0.093449
+2025-01-27 19:13:26,498 - INFO - Subject JFXD L value: 0.700453
+2025-01-27 19:13:26,499 - INFO - Subject JFXD R value: 0.796406
+2025-01-27 19:13:26,500 - INFO - Subject JZ L value: 0.263302
+2025-01-27 19:13:26,501 - INFO - Subject JZ R value: 0.344703
+2025-01-27 19:13:26,503 - INFO - Subject LT L value: 1.041529
+2025-01-27 19:13:26,504 - INFO - Subject LT R value: 1.393591
+2025-01-27 19:13:26,504 - INFO - Subject NvA L value: 0.065025
+2025-01-27 19:13:26,506 - INFO - Subject NvA R value: 0.058344
+2025-01-27 19:13:26,508 - INFO - Subject RR L value: 0.121817
+2025-01-27 19:13:26,509 - INFO - Subject RR R value: 0.097371
+2025-01-27 19:13:26,510 - INFO - Subject SJB L value: 0.035166
+2025-01-27 19:13:26,511 - INFO - Subject SJB R value: 0.027300
+2025-01-27 19:13:26,511 - INFO - Subject BG L value: 0.036414
+2025-01-27 19:13:26,511 - INFO - Subject BG R value: 0.025595
+2025-01-27 19:13:26,869 - INFO - Processing combination 3/24
+2025-01-27 19:13:26,869 - INFO - Parameters: Alignment=cue, Method=iDTF, Frequency=100Hz
+2025-01-27 19:13:26,881 - INFO - Maximum value (excluding diagonal) in L average: 0.232663
+2025-01-27 19:13:26,881 - INFO - Position: (np.int64(14), np.int64(12))
+2025-01-27 19:13:26,881 - INFO - Subject DOC L value: 0.073837
+2025-01-27 19:13:26,886 - INFO - Subject DOC R value: 0.051238
+2025-01-27 19:13:26,887 - INFO - Subject GB L value: 0.026476
+2025-01-27 19:13:26,888 - INFO - Subject GB R value: 0.027590
+2025-01-27 19:13:26,890 - INFO - Subject JDC L value: 0.129092
+2025-01-27 19:13:26,891 - INFO - Subject JDC R value: 0.063963
+2025-01-27 19:13:26,892 - INFO - Subject JFXD L value: 1.856151
+2025-01-27 19:13:26,893 - INFO - Subject JFXD R value: 1.857734
+2025-01-27 19:13:26,894 - INFO - Subject JZ L value: 0.025862
+2025-01-27 19:13:26,896 - INFO - Subject JZ R value: 0.023123
+2025-01-27 19:13:26,897 - INFO - Subject LT L value: 0.037129
+2025-01-27 19:13:26,898 - INFO - Subject LT R value: 0.021680
+2025-01-27 19:13:26,898 - INFO - Subject NvA L value: 0.018014
+2025-01-27 19:13:26,901 - INFO - Subject NvA R value: 0.018213
+2025-01-27 19:13:26,903 - INFO - Subject RR L value: 0.077395
+2025-01-27 19:13:26,904 - INFO - Subject RR R value: 0.050273
+2025-01-27 19:13:26,906 - INFO - Subject SJB L value: 0.019487
+2025-01-27 19:13:26,908 - INFO - Subject SJB R value: 0.030021
+2025-01-27 19:13:26,909 - INFO - Subject BG L value: 0.006695
+2025-01-27 19:13:26,909 - INFO - Subject BG R value: 0.014354
+2025-01-27 19:13:27,276 - INFO - Processing combination 4/24
+2025-01-27 19:13:27,276 - INFO - Parameters: Alignment=cue, Method=gDTF, Frequency=10Hz
+2025-01-27 19:13:27,276 - INFO - Maximum value (excluding diagonal) in L average: 0.124926
+2025-01-27 19:13:27,276 - INFO - Position: (np.int64(4), np.int64(8))
+2025-01-27 19:13:27,276 - INFO - Subject DOC L value: 0.226146
+2025-01-27 19:13:27,283 - INFO - Subject DOC R value: 0.259721
+2025-01-27 19:13:27,283 - INFO - Subject GB L value: 0.039068
+2025-01-27 19:13:27,285 - INFO - Subject GB R value: 0.037574
+2025-01-27 19:13:27,286 - INFO - Subject JDC L value: 0.033452
+2025-01-27 19:13:27,288 - INFO - Subject JDC R value: 0.049065
+2025-01-27 19:13:27,289 - INFO - Subject JFXD L value: 0.170695
+2025-01-27 19:13:27,290 - INFO - Subject JFXD R value: 0.143632
+2025-01-27 19:13:27,292 - INFO - Subject JZ L value: 0.078337
+2025-01-27 19:13:27,293 - INFO - Subject JZ R value: 0.113441
+2025-01-27 19:13:27,293 - INFO - Subject LT L value: 0.283776
+2025-01-27 19:13:27,294 - INFO - Subject LT R value: 0.208294
+2025-01-27 19:13:27,294 - INFO - Subject NvA L value: 0.154200
+2025-01-27 19:13:27,294 - INFO - Subject NvA R value: 0.214715
+2025-01-27 19:13:27,294 - INFO - Subject RR L value: 0.108238
+2025-01-27 19:13:27,300 - INFO - Subject RR R value: 0.067208
+2025-01-27 19:13:27,301 - INFO - Subject SJB L value: 0.096493
+2025-01-27 19:13:27,303 - INFO - Subject SJB R value: 0.087325
+2025-01-27 19:13:27,303 - INFO - Subject BG L value: 0.036828
+2025-01-27 19:13:27,305 - INFO - Subject BG R value: 0.087738
+2025-01-27 19:13:27,660 - INFO - Processing combination 5/24
+2025-01-27 19:13:27,660 - INFO - Parameters: Alignment=cue, Method=gDTF, Frequency=20Hz
+2025-01-27 19:13:27,660 - INFO - Maximum value (excluding diagonal) in L average: 0.131609
+2025-01-27 19:13:27,660 - INFO - Position: (np.int64(11), np.int64(10))
+2025-01-27 19:13:27,671 - INFO - Subject DOC L value: 0.111689
+2025-01-27 19:13:27,674 - INFO - Subject DOC R value: 0.090992
+2025-01-27 19:13:27,675 - INFO - Subject GB L value: 0.016094
+2025-01-27 19:13:27,676 - INFO - Subject GB R value: 0.015397
+2025-01-27 19:13:27,677 - INFO - Subject JDC L value: 0.335689
+2025-01-27 19:13:27,678 - INFO - Subject JDC R value: 0.355223
+2025-01-27 19:13:27,679 - INFO - Subject JFXD L value: 0.052178
+2025-01-27 19:13:27,680 - INFO - Subject JFXD R value: 0.062176
+2025-01-27 19:13:27,682 - INFO - Subject JZ L value: 0.100805
+2025-01-27 19:13:27,684 - INFO - Subject JZ R value: 0.105531
+2025-01-27 19:13:27,686 - INFO - Subject LT L value: 0.072708
+2025-01-27 19:13:27,687 - INFO - Subject LT R value: 0.102659
+2025-01-27 19:13:27,689 - INFO - Subject NvA L value: 0.170282
+2025-01-27 19:13:27,690 - INFO - Subject NvA R value: 0.233662
+2025-01-27 19:13:27,691 - INFO - Subject RR L value: 0.105878
+2025-01-27 19:13:27,691 - INFO - Subject RR R value: 0.064418
+2025-01-27 19:13:27,692 - INFO - Subject SJB L value: 0.188223
+2025-01-27 19:13:27,694 - INFO - Subject SJB R value: 0.180287
+2025-01-27 19:13:27,696 - INFO - Subject BG L value: 0.172857
+2025-01-27 19:13:27,697 - INFO - Subject BG R value: 0.160995
+2025-01-27 19:13:28,050 - INFO - Processing combination 6/24
+2025-01-27 19:13:28,050 - INFO - Parameters: Alignment=cue, Method=gDTF, Frequency=100Hz
+2025-01-27 19:13:28,056 - INFO - Maximum value (excluding diagonal) in L average: 0.083427
+2025-01-27 19:13:28,056 - INFO - Position: (np.int64(10), np.int64(8))
+2025-01-27 19:13:28,056 - INFO - Subject DOC L value: 0.279797
+2025-01-27 19:13:28,061 - INFO - Subject DOC R value: 0.283026
+2025-01-27 19:13:28,063 - INFO - Subject GB L value: 0.009147
+2025-01-27 19:13:28,064 - INFO - Subject GB R value: 0.012430
+2025-01-27 19:13:28,066 - INFO - Subject JDC L value: 0.060372
+2025-01-27 19:13:28,067 - INFO - Subject JDC R value: 0.058988
+2025-01-27 19:13:28,068 - INFO - Subject JFXD L value: 0.024704
+2025-01-27 19:13:28,069 - INFO - Subject JFXD R value: 0.064060
+2025-01-27 19:13:28,071 - INFO - Subject JZ L value: 0.134258
+2025-01-27 19:13:28,072 - INFO - Subject JZ R value: 0.158161
+2025-01-27 19:13:28,073 - INFO - Subject LT L value: 0.116954
+2025-01-27 19:13:28,074 - INFO - Subject LT R value: 0.117701
+2025-01-27 19:13:28,075 - INFO - Subject NvA L value: 0.049575
+2025-01-27 19:13:28,077 - INFO - Subject NvA R value: 0.082433
+2025-01-27 19:13:28,078 - INFO - Subject RR L value: 0.075691
+2025-01-27 19:13:28,079 - INFO - Subject RR R value: 0.067342
+2025-01-27 19:13:28,080 - INFO - Subject SJB L value: 0.049174
+2025-01-27 19:13:28,081 - INFO - Subject SJB R value: 0.026494
+2025-01-27 19:13:28,082 - INFO - Subject BG L value: 0.018320
+2025-01-27 19:13:28,084 - INFO - Subject BG R value: 0.026964
+2025-01-27 19:13:28,439 - INFO - Processing combination 7/24
+2025-01-27 19:13:28,439 - INFO - Parameters: Alignment=cue, Method=iPDC, Frequency=10Hz
+2025-01-27 19:13:28,441 - INFO - Maximum value (excluding diagonal) in L average: 0.013770
+2025-01-27 19:13:28,441 - INFO - Position: (np.int64(29), np.int64(31))
+2025-01-27 19:13:28,444 - INFO - Subject DOC L value: 0.016348
+2025-01-27 19:13:28,447 - INFO - Subject DOC R value: 0.017907
+2025-01-27 19:13:28,448 - INFO - Subject GB L value: 0.012737
+2025-01-27 19:13:28,449 - INFO - Subject GB R value: 0.009858
+2025-01-27 19:13:28,451 - INFO - Subject JDC L value: 0.018038
+2025-01-27 19:13:28,451 - INFO - Subject JDC R value: 0.022810
+2025-01-27 19:13:28,453 - INFO - Subject JFXD L value: 0.003115
+2025-01-27 19:13:28,454 - INFO - Subject JFXD R value: 0.003041
+2025-01-27 19:13:28,456 - INFO - Subject JZ L value: 0.013172
+2025-01-27 19:13:28,457 - INFO - Subject JZ R value: 0.012672
+2025-01-27 19:13:28,458 - INFO - Subject LT L value: 0.005535
+2025-01-27 19:13:28,459 - INFO - Subject LT R value: 0.002755
+2025-01-27 19:13:28,461 - INFO - Subject NvA L value: 0.014144
+2025-01-27 19:13:28,461 - INFO - Subject NvA R value: 0.009785
+2025-01-27 19:13:28,463 - INFO - Subject RR L value: 0.019042
+2025-01-27 19:13:28,464 - INFO - Subject RR R value: 0.021011
+2025-01-27 19:13:28,466 - INFO - Subject SJB L value: 0.017521
+2025-01-27 19:13:28,468 - INFO - Subject SJB R value: 0.016649
+2025-01-27 19:13:28,469 - INFO - Subject BG L value: 0.019470
+2025-01-27 19:13:28,470 - INFO - Subject BG R value: 0.018695
+2025-01-27 19:13:28,880 - INFO - Processing combination 8/24
+2025-01-27 19:13:28,880 - INFO - Parameters: Alignment=cue, Method=iPDC, Frequency=20Hz
+2025-01-27 19:13:28,880 - INFO - Maximum value (excluding diagonal) in L average: 0.016062
+2025-01-27 19:13:28,880 - INFO - Position: (np.int64(11), np.int64(10))
+2025-01-27 19:13:28,885 - INFO - Subject DOC L value: 0.010634
+2025-01-27 19:13:28,886 - INFO - Subject DOC R value: 0.010109
+2025-01-27 19:13:28,887 - INFO - Subject GB L value: 0.004500
+2025-01-27 19:13:28,889 - INFO - Subject GB R value: 0.005841
+2025-01-27 19:13:28,890 - INFO - Subject JDC L value: 0.036395
+2025-01-27 19:13:28,892 - INFO - Subject JDC R value: 0.041507
+2025-01-27 19:13:28,893 - INFO - Subject JFXD L value: 0.001703
+2025-01-27 19:13:28,895 - INFO - Subject JFXD R value: 0.003045
+2025-01-27 19:13:28,896 - INFO - Subject JZ L value: 0.028249
+2025-01-27 19:13:28,897 - INFO - Subject JZ R value: 0.030717
+2025-01-27 19:13:28,899 - INFO - Subject LT L value: 0.007753
+2025-01-27 19:13:28,901 - INFO - Subject LT R value: 0.013295
+2025-01-27 19:13:28,902 - INFO - Subject NvA L value: 0.007904
+2025-01-27 19:13:28,905 - INFO - Subject NvA R value: 0.010760
+2025-01-27 19:13:28,906 - INFO - Subject RR L value: 0.010674
+2025-01-27 19:13:28,907 - INFO - Subject RR R value: 0.006902
+2025-01-27 19:13:28,909 - INFO - Subject SJB L value: 0.036033
+2025-01-27 19:13:28,909 - INFO - Subject SJB R value: 0.028709
+2025-01-27 19:13:28,911 - INFO - Subject BG L value: 0.017014
+2025-01-27 19:13:28,913 - INFO - Subject BG R value: 0.012469
+2025-01-27 19:13:29,432 - INFO - Processing combination 9/24
+2025-01-27 19:13:29,432 - INFO - Parameters: Alignment=cue, Method=iPDC, Frequency=100Hz
+2025-01-27 19:13:29,442 - INFO - Maximum value (excluding diagonal) in L average: 0.016599
+2025-01-27 19:13:29,442 - INFO - Position: (np.int64(11), np.int64(10))
+2025-01-27 19:13:29,442 - INFO - Subject DOC L value: 0.029379
+2025-01-27 19:13:29,448 - INFO - Subject DOC R value: 0.027598
+2025-01-27 19:13:29,449 - INFO - Subject GB L value: 0.002677
+2025-01-27 19:13:29,452 - INFO - Subject GB R value: 0.001727
+2025-01-27 19:13:29,453 - INFO - Subject JDC L value: 0.018890
+2025-01-27 19:13:29,454 - INFO - Subject JDC R value: 0.012962
+2025-01-27 19:13:29,456 - INFO - Subject JFXD L value: 0.002703
+2025-01-27 19:13:29,458 - INFO - Subject JFXD R value: 0.003021
+2025-01-27 19:13:29,460 - INFO - Subject JZ L value: 0.037627
+2025-01-27 19:13:29,460 - INFO - Subject JZ R value: 0.032412
+2025-01-27 19:13:29,462 - INFO - Subject LT L value: 0.006133
+2025-01-27 19:13:29,463 - INFO - Subject LT R value: 0.004613
+2025-01-27 19:13:29,465 - INFO - Subject NvA L value: 0.018039
+2025-01-27 19:13:29,467 - INFO - Subject NvA R value: 0.019977
+2025-01-27 19:13:29,468 - INFO - Subject RR L value: 0.005790
+2025-01-27 19:13:29,469 - INFO - Subject RR R value: 0.004706
+2025-01-27 19:13:29,471 - INFO - Subject SJB L value: 0.029687
+2025-01-27 19:13:29,472 - INFO - Subject SJB R value: 0.025121
+2025-01-27 19:13:29,473 - INFO - Subject BG L value: 0.014557
+2025-01-27 19:13:29,474 - INFO - Subject BG R value: 0.019569
+2025-01-27 19:13:29,858 - INFO - Processing combination 10/24
+2025-01-27 19:13:29,858 - INFO - Parameters: Alignment=cue, Method=gPDC, Frequency=10Hz
+2025-01-27 19:13:29,858 - INFO - Maximum value (excluding diagonal) in L average: 0.105922
+2025-01-27 19:13:29,858 - INFO - Position: (np.int64(11), np.int64(10))
+2025-01-27 19:13:29,866 - INFO - Subject DOC L value: 0.094102
+2025-01-27 19:13:29,866 - INFO - Subject DOC R value: 0.099153
+2025-01-27 19:13:29,868 - INFO - Subject GB L value: 0.010042
+2025-01-27 19:13:29,870 - INFO - Subject GB R value: 0.008078
+2025-01-27 19:13:29,871 - INFO - Subject JDC L value: 0.248874
+2025-01-27 19:13:29,872 - INFO - Subject JDC R value: 0.298195
+2025-01-27 19:13:29,873 - INFO - Subject JFXD L value: 0.040161
+2025-01-27 19:13:29,874 - INFO - Subject JFXD R value: 0.051552
+2025-01-27 19:13:29,876 - INFO - Subject JZ L value: 0.188431
+2025-01-27 19:13:29,877 - INFO - Subject JZ R value: 0.204212
+2025-01-27 19:13:29,878 - INFO - Subject LT L value: 0.081104
+2025-01-27 19:13:29,879 - INFO - Subject LT R value: 0.107882
+2025-01-27 19:13:29,880 - INFO - Subject NvA L value: 0.075398
+2025-01-27 19:13:29,881 - INFO - Subject NvA R value: 0.095267
+2025-01-27 19:13:29,882 - INFO - Subject RR L value: 0.058357
+2025-01-27 19:13:29,884 - INFO - Subject RR R value: 0.034448
+2025-01-27 19:13:29,885 - INFO - Subject SJB L value: 0.164267
+2025-01-27 19:13:29,886 - INFO - Subject SJB R value: 0.137667
+2025-01-27 19:13:29,887 - INFO - Subject BG L value: 0.096010
+2025-01-27 19:13:29,889 - INFO - Subject BG R value: 0.070640
+2025-01-27 19:13:30,244 - INFO - Processing combination 11/24
+2025-01-27 19:13:30,244 - INFO - Parameters: Alignment=cue, Method=gPDC, Frequency=20Hz
+2025-01-27 19:13:30,248 - INFO - Maximum value (excluding diagonal) in L average: 0.109914
+2025-01-27 19:13:30,248 - INFO - Position: (np.int64(11), np.int64(10))
+2025-01-27 19:13:30,248 - INFO - Subject DOC L value: 0.132137
+2025-01-27 19:13:30,248 - INFO - Subject DOC R value: 0.103106
+2025-01-27 19:13:30,254 - INFO - Subject GB L value: 0.016474
+2025-01-27 19:13:30,254 - INFO - Subject GB R value: 0.023148
+2025-01-27 19:13:30,255 - INFO - Subject JDC L value: 0.230037
+2025-01-27 19:13:30,257 - INFO - Subject JDC R value: 0.250885
+2025-01-27 19:13:30,258 - INFO - Subject JFXD L value: 0.028244
+2025-01-27 19:13:30,259 - INFO - Subject JFXD R value: 0.039376
+2025-01-27 19:13:30,260 - INFO - Subject JZ L value: 0.123868
+2025-01-27 19:13:30,261 - INFO - Subject JZ R value: 0.136714
+2025-01-27 19:13:30,262 - INFO - Subject LT L value: 0.065766
+2025-01-27 19:13:30,264 - INFO - Subject LT R value: 0.096066
+2025-01-27 19:13:30,265 - INFO - Subject NvA L value: 0.093388
+2025-01-27 19:13:30,266 - INFO - Subject NvA R value: 0.117334
+2025-01-27 19:13:30,267 - INFO - Subject RR L value: 0.069871
+2025-01-27 19:13:30,269 - INFO - Subject RR R value: 0.042177
+2025-01-27 19:13:30,270 - INFO - Subject SJB L value: 0.211083
+2025-01-27 19:13:30,270 - INFO - Subject SJB R value: 0.177819
+2025-01-27 19:13:30,271 - INFO - Subject BG L value: 0.134394
+2025-01-27 19:13:30,273 - INFO - Subject BG R value: 0.083125
+2025-01-27 19:13:30,623 - INFO - Processing combination 12/24
+2025-01-27 19:13:30,623 - INFO - Parameters: Alignment=cue, Method=gPDC, Frequency=100Hz
+2025-01-27 19:13:30,623 - INFO - Maximum value (excluding diagonal) in L average: 0.051085
+2025-01-27 19:13:30,623 - INFO - Position: (np.int64(25), np.int64(32))
+2025-01-27 19:13:30,627 - INFO - Subject DOC L value: 0.021463
+2025-01-27 19:13:30,629 - INFO - Subject DOC R value: 0.024132
+2025-01-27 19:13:30,631 - INFO - Subject GB L value: 0.035424
+2025-01-27 19:13:30,631 - INFO - Subject GB R value: 0.047405
+2025-01-27 19:13:30,633 - INFO - Subject JDC L value: 0.057666
+2025-01-27 19:13:30,634 - INFO - Subject JDC R value: 0.074791
+2025-01-27 19:13:30,635 - INFO - Subject JFXD L value: 0.053468
+2025-01-27 19:13:30,636 - INFO - Subject JFXD R value: 0.051206
+2025-01-27 19:13:30,638 - INFO - Subject JZ L value: 0.013688
+2025-01-27 19:13:30,639 - INFO - Subject JZ R value: 0.009727
+2025-01-27 19:13:30,640 - INFO - Subject LT L value: 0.021298
+2025-01-27 19:13:30,641 - INFO - Subject LT R value: 0.012795
+2025-01-27 19:13:30,642 - INFO - Subject NvA L value: 0.142512
+2025-01-27 19:13:30,643 - INFO - Subject NvA R value: 0.168915
+2025-01-27 19:13:30,644 - INFO - Subject RR L value: 0.004545
+2025-01-27 19:13:30,645 - INFO - Subject RR R value: 0.008297
+2025-01-27 19:13:30,647 - INFO - Subject SJB L value: 0.086593
+2025-01-27 19:13:30,647 - INFO - Subject SJB R value: 0.108105
+2025-01-27 19:13:30,649 - INFO - Subject BG L value: 0.081895
+2025-01-27 19:13:30,650 - INFO - Subject BG R value: 0.049114
+2025-01-27 19:13:31,027 - INFO - Processing combination 13/24
+2025-01-27 19:13:31,027 - INFO - Parameters: Alignment=mov, Method=iDTF, Frequency=10Hz
+2025-01-27 19:13:31,027 - INFO - Maximum value (excluding diagonal) in L average: 0.365018
+2025-01-27 19:13:31,027 - INFO - Position: (np.int64(14), np.int64(5))
+2025-01-27 19:13:31,027 - INFO - Subject DOC L value: 0.026574
+2025-01-27 19:13:31,037 - INFO - Subject DOC R value: 0.044196
+2025-01-27 19:13:31,038 - INFO - Subject GB L value: 0.027943
+2025-01-27 19:13:31,039 - INFO - Subject GB R value: 0.014263
+2025-01-27 19:13:31,040 - INFO - Subject JDC L value: 0.074980
+2025-01-27 19:13:31,041 - INFO - Subject JDC R value: 0.038539
+2025-01-27 19:13:31,043 - INFO - Subject JFXD L value: 2.851780
+2025-01-27 19:13:31,044 - INFO - Subject JFXD R value: 2.326644
+2025-01-27 19:13:31,045 - INFO - Subject JZ L value: 0.043243
+2025-01-27 19:13:31,047 - INFO - Subject JZ R value: 0.038536
+2025-01-27 19:13:31,048 - INFO - Subject LT L value: 0.115717
+2025-01-27 19:13:31,048 - INFO - Subject LT R value: 0.166286
+2025-01-27 19:13:31,049 - INFO - Subject NvA L value: 0.005909
+2025-01-27 19:13:31,051 - INFO - Subject NvA R value: 0.012576
+2025-01-27 19:13:31,052 - INFO - Subject RR L value: 0.267918
+2025-01-27 19:13:31,052 - INFO - Subject RR R value: 0.202593
+2025-01-27 19:13:31,054 - INFO - Subject SJB L value: 0.093844
+2025-01-27 19:13:31,056 - INFO - Subject SJB R value: 0.058311
+2025-01-27 19:13:31,059 - INFO - Subject BG L value: 0.068023
+2025-01-27 19:13:31,060 - INFO - Subject BG R value: 0.022062
+2025-01-27 19:13:31,405 - INFO - Processing combination 14/24
+2025-01-27 19:13:31,405 - INFO - Parameters: Alignment=mov, Method=iDTF, Frequency=20Hz
+2025-01-27 19:13:31,405 - INFO - Maximum value (excluding diagonal) in L average: 0.365808
+2025-01-27 19:13:31,405 - INFO - Position: (np.int64(14), np.int64(5))
+2025-01-27 19:13:31,410 - INFO - Subject DOC L value: 0.016624
+2025-01-27 19:13:31,411 - INFO - Subject DOC R value: 0.036339
+2025-01-27 19:13:31,412 - INFO - Subject GB L value: 0.031613
+2025-01-27 19:13:31,414 - INFO - Subject GB R value: 0.012728
+2025-01-27 19:13:31,415 - INFO - Subject JDC L value: 0.075406
+2025-01-27 19:13:31,416 - INFO - Subject JDC R value: 0.046452
+2025-01-27 19:13:31,417 - INFO - Subject JFXD L value: 2.937246
+2025-01-27 19:13:31,418 - INFO - Subject JFXD R value: 2.447664
+2025-01-27 19:13:31,420 - INFO - Subject JZ L value: 0.036676
+2025-01-27 19:13:31,421 - INFO - Subject JZ R value: 0.028495
+2025-01-27 19:13:31,422 - INFO - Subject LT L value: 0.107539
+2025-01-27 19:13:31,423 - INFO - Subject LT R value: 0.134099
+2025-01-27 19:13:31,424 - INFO - Subject NvA L value: 0.009100
+2025-01-27 19:13:31,425 - INFO - Subject NvA R value: 0.012138
+2025-01-27 19:13:31,427 - INFO - Subject RR L value: 0.166395
+2025-01-27 19:13:31,429 - INFO - Subject RR R value: 0.145322
+2025-01-27 19:13:31,429 - INFO - Subject SJB L value: 0.098521
+2025-01-27 19:13:31,431 - INFO - Subject SJB R value: 0.058181
+2025-01-27 19:13:31,432 - INFO - Subject BG L value: 0.116678
+2025-01-27 19:13:31,435 - INFO - Subject BG R value: 0.014988
+2025-01-27 19:13:31,782 - INFO - Processing combination 15/24
+2025-01-27 19:13:31,782 - INFO - Parameters: Alignment=mov, Method=iDTF, Frequency=100Hz
+2025-01-27 19:13:31,782 - INFO - Maximum value (excluding diagonal) in L average: 0.314404
+2025-01-27 19:13:31,782 - INFO - Position: (np.int64(10), np.int64(8))
+2025-01-27 19:13:31,782 - INFO - Subject DOC L value: 0.863329
+2025-01-27 19:13:31,788 - INFO - Subject DOC R value: 0.814047
+2025-01-27 19:13:31,789 - INFO - Subject GB L value: 0.008004
+2025-01-27 19:13:31,790 - INFO - Subject GB R value: 0.014970
+2025-01-27 19:13:31,791 - INFO - Subject JDC L value: 0.114706
+2025-01-27 19:13:31,793 - INFO - Subject JDC R value: 0.130269
+2025-01-27 19:13:31,794 - INFO - Subject JFXD L value: 0.608289
+2025-01-27 19:13:31,795 - INFO - Subject JFXD R value: 0.295499
+2025-01-27 19:13:31,797 - INFO - Subject JZ L value: 0.350466
+2025-01-27 19:13:31,798 - INFO - Subject JZ R value: 0.450358
+2025-01-27 19:13:31,799 - INFO - Subject LT L value: 0.757303
+2025-01-27 19:13:31,800 - INFO - Subject LT R value: 0.330989
+2025-01-27 19:13:31,801 - INFO - Subject NvA L value: 0.081076
+2025-01-27 19:13:31,802 - INFO - Subject NvA R value: 0.089478
+2025-01-27 19:13:31,803 - INFO - Subject RR L value: 0.148936
+2025-01-27 19:13:31,804 - INFO - Subject RR R value: 0.222805
+2025-01-27 19:13:31,806 - INFO - Subject SJB L value: 0.109258
+2025-01-27 19:13:31,808 - INFO - Subject SJB R value: 0.119804
+2025-01-27 19:13:31,810 - INFO - Subject BG L value: 0.032103
+2025-01-27 19:13:31,811 - INFO - Subject BG R value: 0.029702
+2025-01-27 19:13:32,155 - INFO - Processing combination 16/24
+2025-01-27 19:13:32,155 - INFO - Parameters: Alignment=mov, Method=gDTF, Frequency=10Hz
+2025-01-27 19:13:32,168 - INFO - Maximum value (excluding diagonal) in L average: 0.113041
+2025-01-27 19:13:32,168 - INFO - Position: (np.int64(4), np.int64(8))
+2025-01-27 19:13:32,168 - INFO - Subject DOC L value: 0.254272
+2025-01-27 19:13:32,173 - INFO - Subject DOC R value: 0.289241
+2025-01-27 19:13:32,175 - INFO - Subject GB L value: 0.040287
+2025-01-27 19:13:32,176 - INFO - Subject GB R value: 0.029147
+2025-01-27 19:13:32,177 - INFO - Subject JDC L value: 0.061511
+2025-01-27 19:13:32,178 - INFO - Subject JDC R value: 0.033540
+2025-01-27 19:13:32,179 - INFO - Subject JFXD L value: 0.070478
+2025-01-27 19:13:32,180 - INFO - Subject JFXD R value: 0.121287
+2025-01-27 19:13:32,183 - INFO - Subject JZ L value: 0.075127
+2025-01-27 19:13:32,184 - INFO - Subject JZ R value: 0.104861
+2025-01-27 19:13:32,184 - INFO - Subject LT L value: 0.231767
+2025-01-27 19:13:32,187 - INFO - Subject LT R value: 0.227940
+2025-01-27 19:13:32,188 - INFO - Subject NvA L value: 0.122949
+2025-01-27 19:13:32,189 - INFO - Subject NvA R value: 0.110729
+2025-01-27 19:13:32,190 - INFO - Subject RR L value: 0.081017
+2025-01-27 19:13:32,192 - INFO - Subject RR R value: 0.054985
+2025-01-27 19:13:32,193 - INFO - Subject SJB L value: 0.132058
+2025-01-27 19:13:32,194 - INFO - Subject SJB R value: 0.136646
+2025-01-27 19:13:32,196 - INFO - Subject BG L value: 0.043582
+2025-01-27 19:13:32,197 - INFO - Subject BG R value: 0.056968
+2025-01-27 19:13:32,561 - INFO - Processing combination 17/24
+2025-01-27 19:13:32,562 - INFO - Parameters: Alignment=mov, Method=gDTF, Frequency=20Hz
+2025-01-27 19:13:32,564 - INFO - Maximum value (excluding diagonal) in L average: 0.139387
+2025-01-27 19:13:32,564 - INFO - Position: (np.int64(11), np.int64(10))
+2025-01-27 19:13:32,566 - INFO - Subject DOC L value: 0.100782
+2025-01-27 19:13:32,568 - INFO - Subject DOC R value: 0.073944
+2025-01-27 19:13:32,568 - INFO - Subject GB L value: 0.019665
+2025-01-27 19:13:32,569 - INFO - Subject GB R value: 0.018474
+2025-01-27 19:13:32,571 - INFO - Subject JDC L value: 0.332588
+2025-01-27 19:13:32,573 - INFO - Subject JDC R value: 0.358407
+2025-01-27 19:13:32,573 - INFO - Subject JFXD L value: 0.063681
+2025-01-27 19:13:32,574 - INFO - Subject JFXD R value: 0.081853
+2025-01-27 19:13:32,576 - INFO - Subject JZ L value: 0.114493
+2025-01-27 19:13:32,577 - INFO - Subject JZ R value: 0.094590
+2025-01-27 19:13:32,578 - INFO - Subject LT L value: 0.054057
+2025-01-27 19:13:32,579 - INFO - Subject LT R value: 0.103544
+2025-01-27 19:13:32,580 - INFO - Subject NvA L value: 0.200324
+2025-01-27 19:13:32,581 - INFO - Subject NvA R value: 0.221575
+2025-01-27 19:13:32,583 - INFO - Subject RR L value: 0.113219
+2025-01-27 19:13:32,584 - INFO - Subject RR R value: 0.127533
+2025-01-27 19:13:32,585 - INFO - Subject SJB L value: 0.219604
+2025-01-27 19:13:32,585 - INFO - Subject SJB R value: 0.194430
+2025-01-27 19:13:32,588 - INFO - Subject BG L value: 0.187484
+2025-01-27 19:13:32,590 - INFO - Subject BG R value: 0.178670
+2025-01-27 19:13:32,936 - INFO - Processing combination 18/24
+2025-01-27 19:13:32,936 - INFO - Parameters: Alignment=mov, Method=gDTF, Frequency=100Hz
+2025-01-27 19:13:32,936 - INFO - Maximum value (excluding diagonal) in L average: 0.099063
+2025-01-27 19:13:32,936 - INFO - Position: (np.int64(10), np.int64(8))
+2025-01-27 19:13:32,936 - INFO - Subject DOC L value: 0.256741
+2025-01-27 19:13:32,949 - INFO - Subject DOC R value: 0.255080
+2025-01-27 19:13:32,950 - INFO - Subject GB L value: 0.004968
+2025-01-27 19:13:32,951 - INFO - Subject GB R value: 0.009024
+2025-01-27 19:13:32,952 - INFO - Subject JDC L value: 0.070922
+2025-01-27 19:13:32,954 - INFO - Subject JDC R value: 0.077713
+2025-01-27 19:13:32,955 - INFO - Subject JFXD L value: 0.096864
+2025-01-27 19:13:32,956 - INFO - Subject JFXD R value: 0.057019
+2025-01-27 19:13:32,958 - INFO - Subject JZ L value: 0.153863
+2025-01-27 19:13:32,959 - INFO - Subject JZ R value: 0.197075
+2025-01-27 19:13:32,960 - INFO - Subject LT L value: 0.188939
+2025-01-27 19:13:32,961 - INFO - Subject LT R value: 0.120324
+2025-01-27 19:13:32,963 - INFO - Subject NvA L value: 0.045187
+2025-01-27 19:13:32,965 - INFO - Subject NvA R value: 0.049986
+2025-01-27 19:13:32,966 - INFO - Subject RR L value: 0.071856
+2025-01-27 19:13:32,967 - INFO - Subject RR R value: 0.106265
+2025-01-27 19:13:32,968 - INFO - Subject SJB L value: 0.063844
+2025-01-27 19:13:32,969 - INFO - Subject SJB R value: 0.068932
+2025-01-27 19:13:32,970 - INFO - Subject BG L value: 0.016908
+2025-01-27 19:13:32,972 - INFO - Subject BG R value: 0.018877
+2025-01-27 19:13:33,313 - INFO - Processing combination 19/24
+2025-01-27 19:13:33,313 - INFO - Parameters: Alignment=mov, Method=iPDC, Frequency=10Hz
+2025-01-27 19:13:33,313 - INFO - Maximum value (excluding diagonal) in L average: 0.013112
+2025-01-27 19:13:33,313 - INFO - Position: (np.int64(11), np.int64(10))
+2025-01-27 19:13:33,313 - INFO - Subject DOC L value: 0.008209
+2025-01-27 19:13:33,326 - INFO - Subject DOC R value: 0.006596
+2025-01-27 19:13:33,328 - INFO - Subject GB L value: 0.003018
+2025-01-27 19:13:33,329 - INFO - Subject GB R value: 0.002454
+2025-01-27 19:13:33,330 - INFO - Subject JDC L value: 0.028044
+2025-01-27 19:13:33,331 - INFO - Subject JDC R value: 0.033583
+2025-01-27 19:13:33,332 - INFO - Subject JFXD L value: 0.004291
+2025-01-27 19:13:33,333 - INFO - Subject JFXD R value: 0.005027
+2025-01-27 19:13:33,336 - INFO - Subject JZ L value: 0.044368
+2025-01-27 19:13:33,337 - INFO - Subject JZ R value: 0.038351
+2025-01-27 19:13:33,338 - INFO - Subject LT L value: 0.004924
+2025-01-27 19:13:33,340 - INFO - Subject LT R value: 0.011899
+2025-01-27 19:13:33,341 - INFO - Subject NvA L value: 0.004330
+2025-01-27 19:13:33,343 - INFO - Subject NvA R value: 0.005296
+2025-01-27 19:13:33,344 - INFO - Subject RR L value: 0.004609
+2025-01-27 19:13:33,344 - INFO - Subject RR R value: 0.006354
+2025-01-27 19:13:33,346 - INFO - Subject SJB L value: 0.019750
+2025-01-27 19:13:33,347 - INFO - Subject SJB R value: 0.020408
+2025-01-27 19:13:33,349 - INFO - Subject BG L value: 0.008398
+2025-01-27 19:13:33,350 - INFO - Subject BG R value: 0.008476
+2025-01-27 19:13:33,698 - INFO - Processing combination 20/24
+2025-01-27 19:13:33,698 - INFO - Parameters: Alignment=mov, Method=iPDC, Frequency=20Hz
+2025-01-27 19:13:33,698 - INFO - Maximum value (excluding diagonal) in L average: 0.016394
+2025-01-27 19:13:33,698 - INFO - Position: (np.int64(11), np.int64(10))
+2025-01-27 19:13:33,698 - INFO - Subject DOC L value: 0.013528
+2025-01-27 19:13:33,709 - INFO - Subject DOC R value: 0.009709
+2025-01-27 19:13:33,711 - INFO - Subject GB L value: 0.005911
+2025-01-27 19:13:33,711 - INFO - Subject GB R value: 0.006194
+2025-01-27 19:13:33,714 - INFO - Subject JDC L value: 0.036209
+2025-01-27 19:13:33,716 - INFO - Subject JDC R value: 0.038287
+2025-01-27 19:13:33,718 - INFO - Subject JFXD L value: 0.002414
+2025-01-27 19:13:33,719 - INFO - Subject JFXD R value: 0.003243
+2025-01-27 19:13:33,720 - INFO - Subject JZ L value: 0.034809
+2025-01-27 19:13:33,722 - INFO - Subject JZ R value: 0.036496
+2025-01-27 19:13:33,723 - INFO - Subject LT L value: 0.004721
+2025-01-27 19:13:33,725 - INFO - Subject LT R value: 0.009601
+2025-01-27 19:13:33,726 - INFO - Subject NvA L value: 0.007632
+2025-01-27 19:13:33,727 - INFO - Subject NvA R value: 0.008902
+2025-01-27 19:13:33,728 - INFO - Subject RR L value: 0.007243
+2025-01-27 19:13:33,729 - INFO - Subject RR R value: 0.009067
+2025-01-27 19:13:33,731 - INFO - Subject SJB L value: 0.034514
+2025-01-27 19:13:33,731 - INFO - Subject SJB R value: 0.035734
+2025-01-27 19:13:33,734 - INFO - Subject BG L value: 0.017146
+2025-01-27 19:13:33,735 - INFO - Subject BG R value: 0.014650
+2025-01-27 19:13:34,124 - INFO - Processing combination 21/24
+2025-01-27 19:13:34,124 - INFO - Parameters: Alignment=mov, Method=iPDC, Frequency=100Hz
+2025-01-27 19:13:34,124 - INFO - Maximum value (excluding diagonal) in L average: 0.015414
+2025-01-27 19:13:34,124 - INFO - Position: (np.int64(11), np.int64(10))
+2025-01-27 19:13:34,124 - INFO - Subject DOC L value: 0.020550
+2025-01-27 19:13:34,130 - INFO - Subject DOC R value: 0.023147
+2025-01-27 19:13:34,131 - INFO - Subject GB L value: 0.002700
+2025-01-27 19:13:34,132 - INFO - Subject GB R value: 0.002154
+2025-01-27 19:13:34,134 - INFO - Subject JDC L value: 0.017078
+2025-01-27 19:13:34,135 - INFO - Subject JDC R value: 0.014960
+2025-01-27 19:13:34,136 - INFO - Subject JFXD L value: 0.005737
+2025-01-27 19:13:34,137 - INFO - Subject JFXD R value: 0.005526
+2025-01-27 19:13:34,138 - INFO - Subject JZ L value: 0.024417
+2025-01-27 19:13:34,139 - INFO - Subject JZ R value: 0.024179
+2025-01-27 19:13:34,141 - INFO - Subject LT L value: 0.011507
+2025-01-27 19:13:34,142 - INFO - Subject LT R value: 0.005656
+2025-01-27 19:13:34,143 - INFO - Subject NvA L value: 0.016412
+2025-01-27 19:13:34,145 - INFO - Subject NvA R value: 0.014826
+2025-01-27 19:13:34,146 - INFO - Subject RR L value: 0.008274
+2025-01-27 19:13:34,147 - INFO - Subject RR R value: 0.005654
+2025-01-27 19:13:34,148 - INFO - Subject SJB L value: 0.028956
+2025-01-27 19:13:34,149 - INFO - Subject SJB R value: 0.030886
+2025-01-27 19:13:34,151 - INFO - Subject BG L value: 0.019548
+2025-01-27 19:13:34,153 - INFO - Subject BG R value: 0.020403
+2025-01-27 19:13:34,500 - INFO - Processing combination 22/24
+2025-01-27 19:13:34,500 - INFO - Parameters: Alignment=mov, Method=gPDC, Frequency=10Hz
+2025-01-27 19:13:34,500 - INFO - Maximum value (excluding diagonal) in L average: 0.102644
+2025-01-27 19:13:34,500 - INFO - Position: (np.int64(11), np.int64(10))
+2025-01-27 19:13:34,500 - INFO - Subject DOC L value: 0.093482
+2025-01-27 19:13:34,513 - INFO - Subject DOC R value: 0.077542
+2025-01-27 19:13:34,515 - INFO - Subject GB L value: 0.010161
+2025-01-27 19:13:34,516 - INFO - Subject GB R value: 0.009936
+2025-01-27 19:13:34,517 - INFO - Subject JDC L value: 0.262544
+2025-01-27 19:13:34,518 - INFO - Subject JDC R value: 0.295647
+2025-01-27 19:13:34,520 - INFO - Subject JFXD L value: 0.055953
+2025-01-27 19:13:34,521 - INFO - Subject JFXD R value: 0.064909
+2025-01-27 19:13:34,523 - INFO - Subject JZ L value: 0.231025
+2025-01-27 19:13:34,524 - INFO - Subject JZ R value: 0.224627
+2025-01-27 19:13:34,525 - INFO - Subject LT L value: 0.048405
+2025-01-27 19:13:34,527 - INFO - Subject LT R value: 0.092647
+2025-01-27 19:13:34,529 - INFO - Subject NvA L value: 0.047704
+2025-01-27 19:13:34,530 - INFO - Subject NvA R value: 0.064784
+2025-01-27 19:13:34,531 - INFO - Subject RR L value: 0.039644
+2025-01-27 19:13:34,533 - INFO - Subject RR R value: 0.047476
+2025-01-27 19:13:34,534 - INFO - Subject SJB L value: 0.155601
+2025-01-27 19:13:34,536 - INFO - Subject SJB R value: 0.146100
+2025-01-27 19:13:34,537 - INFO - Subject BG L value: 0.075011
+2025-01-27 19:13:34,538 - INFO - Subject BG R value: 0.068546
+2025-01-27 19:13:34,888 - INFO - Processing combination 23/24
+2025-01-27 19:13:34,888 - INFO - Parameters: Alignment=mov, Method=gPDC, Frequency=20Hz
+2025-01-27 19:13:34,888 - INFO - Maximum value (excluding diagonal) in L average: 0.108889
+2025-01-27 19:13:34,888 - INFO - Position: (np.int64(11), np.int64(10))
+2025-01-27 19:13:34,902 - INFO - Subject DOC L value: 0.148770
+2025-01-27 19:13:34,903 - INFO - Subject DOC R value: 0.109058
+2025-01-27 19:13:34,904 - INFO - Subject GB L value: 0.020422
+2025-01-27 19:13:34,906 - INFO - Subject GB R value: 0.024754
+2025-01-27 19:13:34,907 - INFO - Subject JDC L value: 0.213978
+2025-01-27 19:13:34,908 - INFO - Subject JDC R value: 0.247168
+2025-01-27 19:13:34,909 - INFO - Subject JFXD L value: 0.033057
+2025-01-27 19:13:34,911 - INFO - Subject JFXD R value: 0.045559
+2025-01-27 19:13:34,912 - INFO - Subject JZ L value: 0.149792
+2025-01-27 19:13:34,913 - INFO - Subject JZ R value: 0.164180
+2025-01-27 19:13:34,914 - INFO - Subject LT L value: 0.044888
+2025-01-27 19:13:34,915 - INFO - Subject LT R value: 0.076177
+2025-01-27 19:13:34,916 - INFO - Subject NvA L value: 0.071585
+2025-01-27 19:13:34,918 - INFO - Subject NvA R value: 0.096011
+2025-01-27 19:13:34,919 - INFO - Subject RR L value: 0.063937
+2025-01-27 19:13:34,920 - INFO - Subject RR R value: 0.065378
+2025-01-27 19:13:34,921 - INFO - Subject SJB L value: 0.223565
+2025-01-27 19:13:34,922 - INFO - Subject SJB R value: 0.225467
+2025-01-27 19:13:34,923 - INFO - Subject BG L value: 0.122238
+2025-01-27 19:13:34,924 - INFO - Subject BG R value: 0.103832
+2025-01-27 19:13:35,291 - INFO - Processing combination 24/24
+2025-01-27 19:13:35,291 - INFO - Parameters: Alignment=mov, Method=gPDC, Frequency=100Hz
+2025-01-27 19:13:35,295 - INFO - Maximum value (excluding diagonal) in L average: 0.053689
+2025-01-27 19:13:35,295 - INFO - Position: (np.int64(10), np.int64(4))
+2025-01-27 19:13:35,295 - INFO - Subject DOC L value: 0.147490
+2025-01-27 19:13:35,299 - INFO - Subject DOC R value: 0.173686
+2025-01-27 19:13:35,300 - INFO - Subject GB L value: 0.008708
+2025-01-27 19:13:35,302 - INFO - Subject GB R value: 0.011288
+2025-01-27 19:13:35,303 - INFO - Subject JDC L value: 0.016739
+2025-01-27 19:13:35,304 - INFO - Subject JDC R value: 0.019259
+2025-01-27 19:13:35,304 - INFO - Subject JFXD L value: 0.055924
+2025-01-27 19:13:35,306 - INFO - Subject JFXD R value: 0.039584
+2025-01-27 19:13:35,308 - INFO - Subject JZ L value: 0.049197
+2025-01-27 19:13:35,309 - INFO - Subject JZ R value: 0.047103
+2025-01-27 19:13:35,312 - INFO - Subject LT L value: 0.083525
+2025-01-27 19:13:35,313 - INFO - Subject LT R value: 0.056583
+2025-01-27 19:13:35,315 - INFO - Subject NvA L value: 0.082874
+2025-01-27 19:13:35,316 - INFO - Subject NvA R value: 0.083034
+2025-01-27 19:13:35,317 - INFO - Subject RR L value: 0.053936
+2025-01-27 19:13:35,317 - INFO - Subject RR R value: 0.082639
+2025-01-27 19:13:35,317 - INFO - Subject SJB L value: 0.017887
+2025-01-27 19:13:35,317 - INFO - Subject SJB R value: 0.011251
+2025-01-27 19:13:35,321 - INFO - Subject BG L value: 0.009582
+2025-01-27 19:13:35,322 - INFO - Subject BG R value: 0.018457
+2025-01-27 19:13:35,744 - INFO - All plots have been generated successfully
+2025-01-27 19:13:35,744 - INFO - Plots are saved in: Data\scatter_plots
+2025-01-27 19:17:19,684 - INFO - Starting Scatter Plot Generator
+2025-01-27 19:17:22,512 - INFO - Starting processing of 24 combinations
+2025-01-27 19:17:22,512 - INFO - Processing combination 1/24
+2025-01-27 19:17:22,512 - INFO - Parameters: Alignment=cue, Method=iDTF, Frequency=10Hz
+2025-01-27 19:17:22,518 - INFO - Maximum value (excluding diagonal) in L average: 0.379940
+2025-01-27 19:17:22,518 - INFO - Position: (np.int64(10), np.int64(8))
+2025-01-27 19:17:22,525 - INFO - Subject DOC L value: 0.676025
+2025-01-27 19:17:22,526 - INFO - Subject DOC R value: 0.698489
+2025-01-27 19:17:22,528 - INFO - Subject GB L value: 0.013628
+2025-01-27 19:17:22,529 - INFO - Subject GB R value: 0.008673
+2025-01-27 19:17:22,530 - INFO - Subject JDC L value: 0.064836
+2025-01-27 19:17:22,532 - INFO - Subject JDC R value: 0.062507
+2025-01-27 19:17:22,534 - INFO - Subject JFXD L value: 1.404729
+2025-01-27 19:17:22,536 - INFO - Subject JFXD R value: 1.093193
+2025-01-27 19:17:22,538 - INFO - Subject JZ L value: 0.225567
+2025-01-27 19:17:22,540 - INFO - Subject JZ R value: 0.276536
+2025-01-27 19:17:22,541 - INFO - Subject LT L value: 0.929044
+2025-01-27 19:17:22,543 - INFO - Subject LT R value: 1.112844
+2025-01-27 19:17:22,544 - INFO - Subject NvA L value: 0.177070
+2025-01-27 19:17:22,545 - INFO - Subject NvA R value: 0.140229
+2025-01-27 19:17:22,546 - INFO - Subject RR L value: 0.094184
+2025-01-27 19:17:22,547 - INFO - Subject RR R value: 0.083384
+2025-01-27 19:17:22,548 - INFO - Subject SJB L value: 0.084321
+2025-01-27 19:17:22,549 - INFO - Subject SJB R value: 0.104078
+2025-01-27 19:17:22,550 - INFO - Subject BG L value: 0.046687
+2025-01-27 19:17:22,552 - INFO - Subject BG R value: 0.044957
+2025-01-27 19:17:22,963 - INFO - Processing combination 2/24
+2025-01-27 19:17:22,963 - INFO - Parameters: Alignment=cue, Method=iDTF, Frequency=20Hz
+2025-01-27 19:17:22,967 - INFO - Maximum value (excluding diagonal) in L average: 0.295925
+2025-01-27 19:17:22,967 - INFO - Position: (np.int64(10), np.int64(8))
+2025-01-27 19:17:22,967 - INFO - Subject DOC L value: 0.526597
+2025-01-27 19:17:22,972 - INFO - Subject DOC R value: 0.526415
+2025-01-27 19:17:22,972 - INFO - Subject GB L value: 0.019569
+2025-01-27 19:17:22,972 - INFO - Subject GB R value: 0.011075
+2025-01-27 19:17:22,972 - INFO - Subject JDC L value: 0.084505
+2025-01-27 19:17:22,977 - INFO - Subject JDC R value: 0.093449
+2025-01-27 19:17:22,979 - INFO - Subject JFXD L value: 0.700453
+2025-01-27 19:17:22,980 - INFO - Subject JFXD R value: 0.796406
+2025-01-27 19:17:22,982 - INFO - Subject JZ L value: 0.263302
+2025-01-27 19:17:22,983 - INFO - Subject JZ R value: 0.344703
+2025-01-27 19:17:22,984 - INFO - Subject LT L value: 1.041529
+2025-01-27 19:17:22,985 - INFO - Subject LT R value: 1.393591
+2025-01-27 19:17:22,986 - INFO - Subject NvA L value: 0.065025
+2025-01-27 19:17:22,987 - INFO - Subject NvA R value: 0.058344
+2025-01-27 19:17:22,989 - INFO - Subject RR L value: 0.121817
+2025-01-27 19:17:22,990 - INFO - Subject RR R value: 0.097371
+2025-01-27 19:17:22,990 - INFO - Subject SJB L value: 0.035166
+2025-01-27 19:17:22,992 - INFO - Subject SJB R value: 0.027300
+2025-01-27 19:17:22,994 - INFO - Subject BG L value: 0.036414
+2025-01-27 19:17:22,995 - INFO - Subject BG R value: 0.025595
+2025-01-27 19:17:23,359 - INFO - Processing combination 3/24
+2025-01-27 19:17:23,359 - INFO - Parameters: Alignment=cue, Method=iDTF, Frequency=100Hz
+2025-01-27 19:17:23,359 - INFO - Maximum value (excluding diagonal) in L average: 0.232663
+2025-01-27 19:17:23,366 - INFO - Position: (np.int64(14), np.int64(12))
+2025-01-27 19:17:23,366 - INFO - Subject DOC L value: 0.073837
+2025-01-27 19:17:23,369 - INFO - Subject DOC R value: 0.051238
+2025-01-27 19:17:23,371 - INFO - Subject GB L value: 0.026476
+2025-01-27 19:17:23,372 - INFO - Subject GB R value: 0.027590
+2025-01-27 19:17:23,373 - INFO - Subject JDC L value: 0.129092
+2025-01-27 19:17:23,375 - INFO - Subject JDC R value: 0.063963
+2025-01-27 19:17:23,376 - INFO - Subject JFXD L value: 1.856151
+2025-01-27 19:17:23,378 - INFO - Subject JFXD R value: 1.857734
+2025-01-27 19:17:23,380 - INFO - Subject JZ L value: 0.025862
+2025-01-27 19:17:23,381 - INFO - Subject JZ R value: 0.023123
+2025-01-27 19:17:23,382 - INFO - Subject LT L value: 0.037129
+2025-01-27 19:17:23,383 - INFO - Subject LT R value: 0.021680
+2025-01-27 19:17:23,384 - INFO - Subject NvA L value: 0.018014
+2025-01-27 19:17:23,386 - INFO - Subject NvA R value: 0.018213
+2025-01-27 19:17:23,387 - INFO - Subject RR L value: 0.077395
+2025-01-27 19:17:23,388 - INFO - Subject RR R value: 0.050273
+2025-01-27 19:17:23,389 - INFO - Subject SJB L value: 0.019487
+2025-01-27 19:17:23,391 - INFO - Subject SJB R value: 0.030021
+2025-01-27 19:17:23,392 - INFO - Subject BG L value: 0.006695
+2025-01-27 19:17:23,394 - INFO - Subject BG R value: 0.014354
+2025-01-27 19:17:23,760 - INFO - Processing combination 4/24
+2025-01-27 19:17:23,760 - INFO - Parameters: Alignment=cue, Method=gDTF, Frequency=10Hz
+2025-01-27 19:17:23,760 - INFO - Maximum value (excluding diagonal) in L average: 0.124926
+2025-01-27 19:17:23,760 - INFO - Position: (np.int64(4), np.int64(8))
+2025-01-27 19:17:23,760 - INFO - Subject DOC L value: 0.226146
+2025-01-27 19:17:23,773 - INFO - Subject DOC R value: 0.259721
+2025-01-27 19:17:23,775 - INFO - Subject GB L value: 0.039068
+2025-01-27 19:17:23,775 - INFO - Subject GB R value: 0.037574
+2025-01-27 19:17:23,777 - INFO - Subject JDC L value: 0.033452
+2025-01-27 19:17:23,778 - INFO - Subject JDC R value: 0.049065
+2025-01-27 19:17:23,780 - INFO - Subject JFXD L value: 0.170695
+2025-01-27 19:17:23,781 - INFO - Subject JFXD R value: 0.143632
+2025-01-27 19:17:23,782 - INFO - Subject JZ L value: 0.078337
+2025-01-27 19:17:23,783 - INFO - Subject JZ R value: 0.113441
+2025-01-27 19:17:23,785 - INFO - Subject LT L value: 0.283776
+2025-01-27 19:17:23,787 - INFO - Subject LT R value: 0.208294
+2025-01-27 19:17:23,788 - INFO - Subject NvA L value: 0.154200
+2025-01-27 19:17:23,789 - INFO - Subject NvA R value: 0.214715
+2025-01-27 19:17:23,791 - INFO - Subject RR L value: 0.108238
+2025-01-27 19:17:23,791 - INFO - Subject RR R value: 0.067208
+2025-01-27 19:17:23,793 - INFO - Subject SJB L value: 0.096493
+2025-01-27 19:17:23,794 - INFO - Subject SJB R value: 0.087325
+2025-01-27 19:17:23,796 - INFO - Subject BG L value: 0.036828
+2025-01-27 19:17:23,797 - INFO - Subject BG R value: 0.087738
+2025-01-27 19:17:24,166 - INFO - Processing combination 5/24
+2025-01-27 19:17:24,166 - INFO - Parameters: Alignment=cue, Method=gDTF, Frequency=20Hz
+2025-01-27 19:17:24,167 - INFO - Maximum value (excluding diagonal) in L average: 0.131609
+2025-01-27 19:17:24,168 - INFO - Position: (np.int64(11), np.int64(10))
+2025-01-27 19:17:24,170 - INFO - Subject DOC L value: 0.111689
+2025-01-27 19:17:24,171 - INFO - Subject DOC R value: 0.090992
+2025-01-27 19:17:24,173 - INFO - Subject GB L value: 0.016094
+2025-01-27 19:17:24,174 - INFO - Subject GB R value: 0.015397
+2025-01-27 19:17:24,175 - INFO - Subject JDC L value: 0.335689
+2025-01-27 19:17:24,176 - INFO - Subject JDC R value: 0.355223
+2025-01-27 19:17:24,178 - INFO - Subject JFXD L value: 0.052178
+2025-01-27 19:17:24,179 - INFO - Subject JFXD R value: 0.062176
+2025-01-27 19:17:24,181 - INFO - Subject JZ L value: 0.100805
+2025-01-27 19:17:24,182 - INFO - Subject JZ R value: 0.105531
+2025-01-27 19:17:24,183 - INFO - Subject LT L value: 0.072708
+2025-01-27 19:17:24,184 - INFO - Subject LT R value: 0.102659
+2025-01-27 19:17:24,186 - INFO - Subject NvA L value: 0.170282
+2025-01-27 19:17:24,187 - INFO - Subject NvA R value: 0.233662
+2025-01-27 19:17:24,189 - INFO - Subject RR L value: 0.105878
+2025-01-27 19:17:24,189 - INFO - Subject RR R value: 0.064418
+2025-01-27 19:17:24,191 - INFO - Subject SJB L value: 0.188223
+2025-01-27 19:17:24,192 - INFO - Subject SJB R value: 0.180287
+2025-01-27 19:17:24,193 - INFO - Subject BG L value: 0.172857
+2025-01-27 19:17:24,194 - INFO - Subject BG R value: 0.160995
+2025-01-27 19:17:24,604 - INFO - Processing combination 6/24
+2025-01-27 19:17:24,604 - INFO - Parameters: Alignment=cue, Method=gDTF, Frequency=100Hz
+2025-01-27 19:17:24,604 - INFO - Maximum value (excluding diagonal) in L average: 0.083427
+2025-01-27 19:17:24,604 - INFO - Position: (np.int64(10), np.int64(8))
+2025-01-27 19:17:24,604 - INFO - Subject DOC L value: 0.279797
+2025-01-27 19:17:24,611 - INFO - Subject DOC R value: 0.283026
+2025-01-27 19:17:24,612 - INFO - Subject GB L value: 0.009147
+2025-01-27 19:17:24,613 - INFO - Subject GB R value: 0.012430
+2025-01-27 19:17:24,614 - INFO - Subject JDC L value: 0.060372
+2025-01-27 19:17:24,616 - INFO - Subject JDC R value: 0.058988
+2025-01-27 19:17:24,617 - INFO - Subject JFXD L value: 0.024704
+2025-01-27 19:17:24,618 - INFO - Subject JFXD R value: 0.064060
+2025-01-27 19:17:24,620 - INFO - Subject JZ L value: 0.134258
+2025-01-27 19:17:24,621 - INFO - Subject JZ R value: 0.158161
+2025-01-27 19:17:24,623 - INFO - Subject LT L value: 0.116954
+2025-01-27 19:17:24,624 - INFO - Subject LT R value: 0.117701
+2025-01-27 19:17:24,625 - INFO - Subject NvA L value: 0.049575
+2025-01-27 19:17:24,627 - INFO - Subject NvA R value: 0.082433
+2025-01-27 19:17:24,628 - INFO - Subject RR L value: 0.075691
+2025-01-27 19:17:24,629 - INFO - Subject RR R value: 0.067342
+2025-01-27 19:17:24,630 - INFO - Subject SJB L value: 0.049174
+2025-01-27 19:17:24,631 - INFO - Subject SJB R value: 0.026494
+2025-01-27 19:17:24,633 - INFO - Subject BG L value: 0.018320
+2025-01-27 19:17:24,633 - INFO - Subject BG R value: 0.026964
+2025-01-27 19:17:24,980 - INFO - Processing combination 7/24
+2025-01-27 19:17:24,980 - INFO - Parameters: Alignment=cue, Method=iPDC, Frequency=10Hz
+2025-01-27 19:17:24,980 - INFO - Maximum value (excluding diagonal) in L average: 0.013770
+2025-01-27 19:17:24,980 - INFO - Position: (np.int64(29), np.int64(31))
+2025-01-27 19:17:24,980 - INFO - Subject DOC L value: 0.016348
+2025-01-27 19:17:24,989 - INFO - Subject DOC R value: 0.017907
+2025-01-27 19:17:24,991 - INFO - Subject GB L value: 0.012737
+2025-01-27 19:17:24,992 - INFO - Subject GB R value: 0.009858
+2025-01-27 19:17:24,994 - INFO - Subject JDC L value: 0.018038
+2025-01-27 19:17:24,995 - INFO - Subject JDC R value: 0.022810
+2025-01-27 19:17:24,997 - INFO - Subject JFXD L value: 0.003115
+2025-01-27 19:17:24,998 - INFO - Subject JFXD R value: 0.003041
+2025-01-27 19:17:24,999 - INFO - Subject JZ L value: 0.013172
+2025-01-27 19:17:25,000 - INFO - Subject JZ R value: 0.012672
+2025-01-27 19:17:25,002 - INFO - Subject LT L value: 0.005535
+2025-01-27 19:17:25,002 - INFO - Subject LT R value: 0.002755
+2025-01-27 19:17:25,003 - INFO - Subject NvA L value: 0.014144
+2025-01-27 19:17:25,004 - INFO - Subject NvA R value: 0.009785
+2025-01-27 19:17:25,005 - INFO - Subject RR L value: 0.019042
+2025-01-27 19:17:25,007 - INFO - Subject RR R value: 0.021011
+2025-01-27 19:17:25,008 - INFO - Subject SJB L value: 0.017521
+2025-01-27 19:17:25,009 - INFO - Subject SJB R value: 0.016649
+2025-01-27 19:17:25,011 - INFO - Subject BG L value: 0.019470
+2025-01-27 19:17:25,011 - INFO - Subject BG R value: 0.018695
+2025-01-27 19:17:25,370 - INFO - Processing combination 8/24
+2025-01-27 19:17:25,370 - INFO - Parameters: Alignment=cue, Method=iPDC, Frequency=20Hz
+2025-01-27 19:17:25,370 - INFO - Maximum value (excluding diagonal) in L average: 0.016062
+2025-01-27 19:17:25,370 - INFO - Position: (np.int64(11), np.int64(10))
+2025-01-27 19:17:25,370 - INFO - Subject DOC L value: 0.010634
+2025-01-27 19:17:25,370 - INFO - Subject DOC R value: 0.010109
+2025-01-27 19:17:25,379 - INFO - Subject GB L value: 0.004500
+2025-01-27 19:17:25,381 - INFO - Subject GB R value: 0.005841
+2025-01-27 19:17:25,382 - INFO - Subject JDC L value: 0.036395
+2025-01-27 19:17:25,383 - INFO - Subject JDC R value: 0.041507
+2025-01-27 19:17:25,384 - INFO - Subject JFXD L value: 0.001703
+2025-01-27 19:17:25,385 - INFO - Subject JFXD R value: 0.003045
+2025-01-27 19:17:25,386 - INFO - Subject JZ L value: 0.028249
+2025-01-27 19:17:25,387 - INFO - Subject JZ R value: 0.030717
+2025-01-27 19:17:25,388 - INFO - Subject LT L value: 0.007753
+2025-01-27 19:17:25,389 - INFO - Subject LT R value: 0.013295
+2025-01-27 19:17:25,391 - INFO - Subject NvA L value: 0.007904
+2025-01-27 19:17:25,391 - INFO - Subject NvA R value: 0.010760
+2025-01-27 19:17:25,393 - INFO - Subject RR L value: 0.010674
+2025-01-27 19:17:25,394 - INFO - Subject RR R value: 0.006902
+2025-01-27 19:17:25,395 - INFO - Subject SJB L value: 0.036033
+2025-01-27 19:17:25,396 - INFO - Subject SJB R value: 0.028709
+2025-01-27 19:17:25,398 - INFO - Subject BG L value: 0.017014
+2025-01-27 19:17:25,398 - INFO - Subject BG R value: 0.012469
+2025-01-27 19:17:25,813 - INFO - Processing combination 9/24
+2025-01-27 19:17:25,813 - INFO - Parameters: Alignment=cue, Method=iPDC, Frequency=100Hz
+2025-01-27 19:17:25,813 - INFO - Maximum value (excluding diagonal) in L average: 0.016599
+2025-01-27 19:17:25,813 - INFO - Position: (np.int64(11), np.int64(10))
+2025-01-27 19:17:25,813 - INFO - Subject DOC L value: 0.029379
+2025-01-27 19:17:25,813 - INFO - Subject DOC R value: 0.027598
+2025-01-27 19:17:25,821 - INFO - Subject GB L value: 0.002677
+2025-01-27 19:17:25,823 - INFO - Subject GB R value: 0.001727
+2025-01-27 19:17:25,824 - INFO - Subject JDC L value: 0.018890
+2025-01-27 19:17:25,825 - INFO - Subject JDC R value: 0.012962
+2025-01-27 19:17:25,826 - INFO - Subject JFXD L value: 0.002703
+2025-01-27 19:17:25,828 - INFO - Subject JFXD R value: 0.003021
+2025-01-27 19:17:25,829 - INFO - Subject JZ L value: 0.037627
+2025-01-27 19:17:25,831 - INFO - Subject JZ R value: 0.032412
+2025-01-27 19:17:25,832 - INFO - Subject LT L value: 0.006133
+2025-01-27 19:17:25,833 - INFO - Subject LT R value: 0.004613
+2025-01-27 19:17:25,833 - INFO - Subject NvA L value: 0.018039
+2025-01-27 19:17:25,833 - INFO - Subject NvA R value: 0.019977
+2025-01-27 19:17:25,833 - INFO - Subject RR L value: 0.005790
+2025-01-27 19:17:25,838 - INFO - Subject RR R value: 0.004706
+2025-01-27 19:17:25,840 - INFO - Subject SJB L value: 0.029687
+2025-01-27 19:17:25,841 - INFO - Subject SJB R value: 0.025121
+2025-01-27 19:17:25,842 - INFO - Subject BG L value: 0.014557
+2025-01-27 19:17:25,843 - INFO - Subject BG R value: 0.019569
+2025-01-27 19:17:26,185 - INFO - Processing combination 10/24
+2025-01-27 19:17:26,185 - INFO - Parameters: Alignment=cue, Method=gPDC, Frequency=10Hz
+2025-01-27 19:17:26,185 - INFO - Maximum value (excluding diagonal) in L average: 0.105922
+2025-01-27 19:17:26,185 - INFO - Position: (np.int64(11), np.int64(10))
+2025-01-27 19:17:26,185 - INFO - Subject DOC L value: 0.094102
+2025-01-27 19:17:26,199 - INFO - Subject DOC R value: 0.099153
+2025-01-27 19:17:26,201 - INFO - Subject GB L value: 0.010042
+2025-01-27 19:17:26,203 - INFO - Subject GB R value: 0.008078
+2025-01-27 19:17:26,204 - INFO - Subject JDC L value: 0.248874
+2025-01-27 19:17:26,205 - INFO - Subject JDC R value: 0.298195
+2025-01-27 19:17:26,206 - INFO - Subject JFXD L value: 0.040161
+2025-01-27 19:17:26,207 - INFO - Subject JFXD R value: 0.051552
+2025-01-27 19:17:26,209 - INFO - Subject JZ L value: 0.188431
+2025-01-27 19:17:26,211 - INFO - Subject JZ R value: 0.204212
+2025-01-27 19:17:26,211 - INFO - Subject LT L value: 0.081104
+2025-01-27 19:17:26,214 - INFO - Subject LT R value: 0.107882
+2025-01-27 19:17:26,216 - INFO - Subject NvA L value: 0.075398
+2025-01-27 19:17:26,217 - INFO - Subject NvA R value: 0.095267
+2025-01-27 19:17:26,219 - INFO - Subject RR L value: 0.058357
+2025-01-27 19:17:26,220 - INFO - Subject RR R value: 0.034448
+2025-01-27 19:17:26,221 - INFO - Subject SJB L value: 0.164267
+2025-01-27 19:17:26,221 - INFO - Subject SJB R value: 0.137667
+2025-01-27 19:17:26,221 - INFO - Subject BG L value: 0.096010
+2025-01-27 19:17:26,221 - INFO - Subject BG R value: 0.070640
+2025-01-27 19:17:26,576 - INFO - Processing combination 11/24
+2025-01-27 19:17:26,576 - INFO - Parameters: Alignment=cue, Method=gPDC, Frequency=20Hz
+2025-01-27 19:17:26,576 - INFO - Maximum value (excluding diagonal) in L average: 0.109914
+2025-01-27 19:17:26,576 - INFO - Position: (np.int64(11), np.int64(10))
+2025-01-27 19:17:26,587 - INFO - Subject DOC L value: 0.132137
+2025-01-27 19:17:26,588 - INFO - Subject DOC R value: 0.103106
+2025-01-27 19:17:26,591 - INFO - Subject GB L value: 0.016474
+2025-01-27 19:17:26,592 - INFO - Subject GB R value: 0.023148
+2025-01-27 19:17:26,594 - INFO - Subject JDC L value: 0.230037
+2025-01-27 19:17:26,595 - INFO - Subject JDC R value: 0.250885
+2025-01-27 19:17:26,596 - INFO - Subject JFXD L value: 0.028244
+2025-01-27 19:17:26,597 - INFO - Subject JFXD R value: 0.039376
+2025-01-27 19:17:26,598 - INFO - Subject JZ L value: 0.123868
+2025-01-27 19:17:26,599 - INFO - Subject JZ R value: 0.136714
+2025-01-27 19:17:26,601 - INFO - Subject LT L value: 0.065766
+2025-01-27 19:17:26,602 - INFO - Subject LT R value: 0.096066
+2025-01-27 19:17:26,604 - INFO - Subject NvA L value: 0.093388
+2025-01-27 19:17:26,605 - INFO - Subject NvA R value: 0.117334
+2025-01-27 19:17:26,606 - INFO - Subject RR L value: 0.069871
+2025-01-27 19:17:26,607 - INFO - Subject RR R value: 0.042177
+2025-01-27 19:17:26,609 - INFO - Subject SJB L value: 0.211083
+2025-01-27 19:17:26,609 - INFO - Subject SJB R value: 0.177819
+2025-01-27 19:17:26,611 - INFO - Subject BG L value: 0.134394
+2025-01-27 19:17:26,612 - INFO - Subject BG R value: 0.083125
+2025-01-27 19:17:26,964 - INFO - Processing combination 12/24
+2025-01-27 19:17:26,964 - INFO - Parameters: Alignment=cue, Method=gPDC, Frequency=100Hz
+2025-01-27 19:17:26,964 - INFO - Maximum value (excluding diagonal) in L average: 0.051085
+2025-01-27 19:17:26,964 - INFO - Position: (np.int64(25), np.int64(32))
+2025-01-27 19:17:26,967 - INFO - Subject DOC L value: 0.021463
+2025-01-27 19:17:26,969 - INFO - Subject DOC R value: 0.024132
+2025-01-27 19:17:26,971 - INFO - Subject GB L value: 0.035424
+2025-01-27 19:17:26,972 - INFO - Subject GB R value: 0.047405
+2025-01-27 19:17:26,973 - INFO - Subject JDC L value: 0.057666
+2025-01-27 19:17:26,974 - INFO - Subject JDC R value: 0.074791
+2025-01-27 19:17:26,976 - INFO - Subject JFXD L value: 0.053468
+2025-01-27 19:17:26,977 - INFO - Subject JFXD R value: 0.051206
+2025-01-27 19:17:26,978 - INFO - Subject JZ L value: 0.013688
+2025-01-27 19:17:26,979 - INFO - Subject JZ R value: 0.009727
+2025-01-27 19:17:26,980 - INFO - Subject LT L value: 0.021298
+2025-01-27 19:17:26,981 - INFO - Subject LT R value: 0.012795
+2025-01-27 19:17:26,982 - INFO - Subject NvA L value: 0.142512
+2025-01-27 19:17:26,984 - INFO - Subject NvA R value: 0.168915
+2025-01-27 19:17:26,985 - INFO - Subject RR L value: 0.004545
+2025-01-27 19:17:26,987 - INFO - Subject RR R value: 0.008297
+2025-01-27 19:17:26,987 - INFO - Subject SJB L value: 0.086593
+2025-01-27 19:17:26,988 - INFO - Subject SJB R value: 0.108105
+2025-01-27 19:17:26,990 - INFO - Subject BG L value: 0.081895
+2025-01-27 19:17:26,991 - INFO - Subject BG R value: 0.049114
+2025-01-27 19:17:27,349 - INFO - Processing combination 13/24
+2025-01-27 19:17:27,349 - INFO - Parameters: Alignment=mov, Method=iDTF, Frequency=10Hz
+2025-01-27 19:17:27,351 - INFO - Maximum value (excluding diagonal) in L average: 0.365018
+2025-01-27 19:17:27,351 - INFO - Position: (np.int64(14), np.int64(5))
+2025-01-27 19:17:27,353 - INFO - Subject DOC L value: 0.026574
+2025-01-27 19:17:27,354 - INFO - Subject DOC R value: 0.044196
+2025-01-27 19:17:27,356 - INFO - Subject GB L value: 0.027943
+2025-01-27 19:17:27,358 - INFO - Subject GB R value: 0.014263
+2025-01-27 19:17:27,359 - INFO - Subject JDC L value: 0.074980
+2025-01-27 19:17:27,360 - INFO - Subject JDC R value: 0.038539
+2025-01-27 19:17:27,361 - INFO - Subject JFXD L value: 2.851780
+2025-01-27 19:17:27,362 - INFO - Subject JFXD R value: 2.326644
+2025-01-27 19:17:27,363 - INFO - Subject JZ L value: 0.043243
+2025-01-27 19:17:27,364 - INFO - Subject JZ R value: 0.038536
+2025-01-27 19:17:27,366 - INFO - Subject LT L value: 0.115717
+2025-01-27 19:17:27,366 - INFO - Subject LT R value: 0.166286
+2025-01-27 19:17:27,369 - INFO - Subject NvA L value: 0.005909
+2025-01-27 19:17:27,370 - INFO - Subject NvA R value: 0.012576
+2025-01-27 19:17:27,372 - INFO - Subject RR L value: 0.267918
+2025-01-27 19:17:27,373 - INFO - Subject RR R value: 0.202593
+2025-01-27 19:17:27,374 - INFO - Subject SJB L value: 0.093844
+2025-01-27 19:17:27,376 - INFO - Subject SJB R value: 0.058311
+2025-01-27 19:17:27,377 - INFO - Subject BG L value: 0.068023
+2025-01-27 19:17:27,378 - INFO - Subject BG R value: 0.022062
+2025-01-27 19:17:27,746 - INFO - Processing combination 14/24
+2025-01-27 19:17:27,746 - INFO - Parameters: Alignment=mov, Method=iDTF, Frequency=20Hz
+2025-01-27 19:17:27,749 - INFO - Maximum value (excluding diagonal) in L average: 0.365808
+2025-01-27 19:17:27,749 - INFO - Position: (np.int64(14), np.int64(5))
+2025-01-27 19:17:27,749 - INFO - Subject DOC L value: 0.016624
+2025-01-27 19:17:27,753 - INFO - Subject DOC R value: 0.036339
+2025-01-27 19:17:27,754 - INFO - Subject GB L value: 0.031613
+2025-01-27 19:17:27,756 - INFO - Subject GB R value: 0.012728
+2025-01-27 19:17:27,757 - INFO - Subject JDC L value: 0.075406
+2025-01-27 19:17:27,758 - INFO - Subject JDC R value: 0.046452
+2025-01-27 19:17:27,760 - INFO - Subject JFXD L value: 2.937246
+2025-01-27 19:17:27,762 - INFO - Subject JFXD R value: 2.447664
+2025-01-27 19:17:27,763 - INFO - Subject JZ L value: 0.036676
+2025-01-27 19:17:27,764 - INFO - Subject JZ R value: 0.028495
+2025-01-27 19:17:27,765 - INFO - Subject LT L value: 0.107539
+2025-01-27 19:17:27,767 - INFO - Subject LT R value: 0.134099
+2025-01-27 19:17:27,767 - INFO - Subject NvA L value: 0.009100
+2025-01-27 19:17:27,769 - INFO - Subject NvA R value: 0.012138
+2025-01-27 19:17:27,770 - INFO - Subject RR L value: 0.166395
+2025-01-27 19:17:27,771 - INFO - Subject RR R value: 0.145322
+2025-01-27 19:17:27,772 - INFO - Subject SJB L value: 0.098521
+2025-01-27 19:17:27,772 - INFO - Subject SJB R value: 0.058181
+2025-01-27 19:17:27,775 - INFO - Subject BG L value: 0.116678
+2025-01-27 19:17:27,777 - INFO - Subject BG R value: 0.014988
+2025-01-27 19:17:28,140 - INFO - Processing combination 15/24
+2025-01-27 19:17:28,140 - INFO - Parameters: Alignment=mov, Method=iDTF, Frequency=100Hz
+2025-01-27 19:17:28,142 - INFO - Maximum value (excluding diagonal) in L average: 0.314404
+2025-01-27 19:17:28,142 - INFO - Position: (np.int64(10), np.int64(8))
+2025-01-27 19:17:28,144 - INFO - Subject DOC L value: 0.863329
+2025-01-27 19:17:28,147 - INFO - Subject DOC R value: 0.814047
+2025-01-27 19:17:28,148 - INFO - Subject GB L value: 0.008004
+2025-01-27 19:17:28,149 - INFO - Subject GB R value: 0.014970
+2025-01-27 19:17:28,149 - INFO - Subject JDC L value: 0.114706
+2025-01-27 19:17:28,151 - INFO - Subject JDC R value: 0.130269
+2025-01-27 19:17:28,152 - INFO - Subject JFXD L value: 0.608289
+2025-01-27 19:17:28,154 - INFO - Subject JFXD R value: 0.295499
+2025-01-27 19:17:28,155 - INFO - Subject JZ L value: 0.350466
+2025-01-27 19:17:28,156 - INFO - Subject JZ R value: 0.450358
+2025-01-27 19:17:28,157 - INFO - Subject LT L value: 0.757303
+2025-01-27 19:17:28,158 - INFO - Subject LT R value: 0.330989
+2025-01-27 19:17:28,160 - INFO - Subject NvA L value: 0.081076
+2025-01-27 19:17:28,161 - INFO - Subject NvA R value: 0.089478
+2025-01-27 19:17:28,162 - INFO - Subject RR L value: 0.148936
+2025-01-27 19:17:28,163 - INFO - Subject RR R value: 0.222805
+2025-01-27 19:17:28,165 - INFO - Subject SJB L value: 0.109258
+2025-01-27 19:17:28,166 - INFO - Subject SJB R value: 0.119804
+2025-01-27 19:17:28,166 - INFO - Subject BG L value: 0.032103
+2025-01-27 19:17:28,168 - INFO - Subject BG R value: 0.029702
+2025-01-27 19:17:28,526 - INFO - Processing combination 16/24
+2025-01-27 19:17:28,531 - INFO - Parameters: Alignment=mov, Method=gDTF, Frequency=10Hz
+2025-01-27 19:17:28,531 - INFO - Maximum value (excluding diagonal) in L average: 0.113041
+2025-01-27 19:17:28,531 - INFO - Position: (np.int64(4), np.int64(8))
+2025-01-27 19:17:28,531 - INFO - Subject DOC L value: 0.254272
+2025-01-27 19:17:28,531 - INFO - Subject DOC R value: 0.289241
+2025-01-27 19:17:28,537 - INFO - Subject GB L value: 0.040287
+2025-01-27 19:17:28,538 - INFO - Subject GB R value: 0.029147
+2025-01-27 19:17:28,539 - INFO - Subject JDC L value: 0.061511
+2025-01-27 19:17:28,540 - INFO - Subject JDC R value: 0.033540
+2025-01-27 19:17:28,542 - INFO - Subject JFXD L value: 0.070478
+2025-01-27 19:17:28,543 - INFO - Subject JFXD R value: 0.121287
+2025-01-27 19:17:28,544 - INFO - Subject JZ L value: 0.075127
+2025-01-27 19:17:28,545 - INFO - Subject JZ R value: 0.104861
+2025-01-27 19:17:28,546 - INFO - Subject LT L value: 0.231767
+2025-01-27 19:17:28,547 - INFO - Subject LT R value: 0.227940
+2025-01-27 19:17:28,548 - INFO - Subject NvA L value: 0.122949
+2025-01-27 19:17:28,549 - INFO - Subject NvA R value: 0.110729
+2025-01-27 19:17:28,551 - INFO - Subject RR L value: 0.081017
+2025-01-27 19:17:28,552 - INFO - Subject RR R value: 0.054985
+2025-01-27 19:17:28,554 - INFO - Subject SJB L value: 0.132058
+2025-01-27 19:17:28,555 - INFO - Subject SJB R value: 0.136646
+2025-01-27 19:17:28,556 - INFO - Subject BG L value: 0.043582
+2025-01-27 19:17:28,558 - INFO - Subject BG R value: 0.056968
+2025-01-27 19:17:28,905 - INFO - Processing combination 17/24
+2025-01-27 19:17:28,905 - INFO - Parameters: Alignment=mov, Method=gDTF, Frequency=20Hz
+2025-01-27 19:17:28,905 - INFO - Maximum value (excluding diagonal) in L average: 0.139387
+2025-01-27 19:17:28,905 - INFO - Position: (np.int64(11), np.int64(10))
+2025-01-27 19:17:28,905 - INFO - Subject DOC L value: 0.100782
+2025-01-27 19:17:28,918 - INFO - Subject DOC R value: 0.073944
+2025-01-27 19:17:28,920 - INFO - Subject GB L value: 0.019665
+2025-01-27 19:17:28,922 - INFO - Subject GB R value: 0.018474
+2025-01-27 19:17:28,922 - INFO - Subject JDC L value: 0.332588
+2025-01-27 19:17:28,924 - INFO - Subject JDC R value: 0.358407
+2025-01-27 19:17:28,925 - INFO - Subject JFXD L value: 0.063681
+2025-01-27 19:17:28,926 - INFO - Subject JFXD R value: 0.081853
+2025-01-27 19:17:28,928 - INFO - Subject JZ L value: 0.114493
+2025-01-27 19:17:28,929 - INFO - Subject JZ R value: 0.094590
+2025-01-27 19:17:28,930 - INFO - Subject LT L value: 0.054057
+2025-01-27 19:17:28,931 - INFO - Subject LT R value: 0.103544
+2025-01-27 19:17:28,933 - INFO - Subject NvA L value: 0.200324
+2025-01-27 19:17:28,935 - INFO - Subject NvA R value: 0.221575
+2025-01-27 19:17:28,936 - INFO - Subject RR L value: 0.113219
+2025-01-27 19:17:28,938 - INFO - Subject RR R value: 0.127533
+2025-01-27 19:17:28,939 - INFO - Subject SJB L value: 0.219604
+2025-01-27 19:17:28,940 - INFO - Subject SJB R value: 0.194430
+2025-01-27 19:17:28,941 - INFO - Subject BG L value: 0.187484
+2025-01-27 19:17:28,943 - INFO - Subject BG R value: 0.178670
+2025-01-27 19:17:29,313 - INFO - Processing combination 18/24
+2025-01-27 19:17:29,313 - INFO - Parameters: Alignment=mov, Method=gDTF, Frequency=100Hz
+2025-01-27 19:17:29,326 - INFO - Maximum value (excluding diagonal) in L average: 0.099063
+2025-01-27 19:17:29,326 - INFO - Position: (np.int64(10), np.int64(8))
+2025-01-27 19:17:29,326 - INFO - Subject DOC L value: 0.256741
+2025-01-27 19:17:29,331 - INFO - Subject DOC R value: 0.255080
+2025-01-27 19:17:29,333 - INFO - Subject GB L value: 0.004968
+2025-01-27 19:17:29,335 - INFO - Subject GB R value: 0.009024
+2025-01-27 19:17:29,335 - INFO - Subject JDC L value: 0.070922
+2025-01-27 19:17:29,338 - INFO - Subject JDC R value: 0.077713
+2025-01-27 19:17:29,341 - INFO - Subject JFXD L value: 0.096864
+2025-01-27 19:17:29,342 - INFO - Subject JFXD R value: 0.057019
+2025-01-27 19:17:29,344 - INFO - Subject JZ L value: 0.153863
+2025-01-27 19:17:29,345 - INFO - Subject JZ R value: 0.197075
+2025-01-27 19:17:29,347 - INFO - Subject LT L value: 0.188939
+2025-01-27 19:17:29,348 - INFO - Subject LT R value: 0.120324
+2025-01-27 19:17:29,349 - INFO - Subject NvA L value: 0.045187
+2025-01-27 19:17:29,350 - INFO - Subject NvA R value: 0.049986
+2025-01-27 19:17:29,352 - INFO - Subject RR L value: 0.071856
+2025-01-27 19:17:29,353 - INFO - Subject RR R value: 0.106265
+2025-01-27 19:17:29,355 - INFO - Subject SJB L value: 0.063844
+2025-01-27 19:17:29,356 - INFO - Subject SJB R value: 0.068932
+2025-01-27 19:17:29,358 - INFO - Subject BG L value: 0.016908
+2025-01-27 19:17:29,358 - INFO - Subject BG R value: 0.018877
+2025-01-27 19:17:29,809 - INFO - Processing combination 19/24
+2025-01-27 19:17:29,809 - INFO - Parameters: Alignment=mov, Method=iPDC, Frequency=10Hz
+2025-01-27 19:17:29,823 - INFO - Maximum value (excluding diagonal) in L average: 0.013112
+2025-01-27 19:17:29,823 - INFO - Position: (np.int64(11), np.int64(10))
+2025-01-27 19:17:29,827 - INFO - Subject DOC L value: 0.008209
+2025-01-27 19:17:29,829 - INFO - Subject DOC R value: 0.006596
+2025-01-27 19:17:29,831 - INFO - Subject GB L value: 0.003018
+2025-01-27 19:17:29,832 - INFO - Subject GB R value: 0.002454
+2025-01-27 19:17:29,833 - INFO - Subject JDC L value: 0.028044
+2025-01-27 19:17:29,835 - INFO - Subject JDC R value: 0.033583
+2025-01-27 19:17:29,836 - INFO - Subject JFXD L value: 0.004291
+2025-01-27 19:17:29,838 - INFO - Subject JFXD R value: 0.005027
+2025-01-27 19:17:29,841 - INFO - Subject JZ L value: 0.044368
+2025-01-27 19:17:29,843 - INFO - Subject JZ R value: 0.038351
+2025-01-27 19:17:29,845 - INFO - Subject LT L value: 0.004924
+2025-01-27 19:17:29,847 - INFO - Subject LT R value: 0.011899
+2025-01-27 19:17:29,848 - INFO - Subject NvA L value: 0.004330
+2025-01-27 19:17:29,850 - INFO - Subject NvA R value: 0.005296
+2025-01-27 19:17:29,851 - INFO - Subject RR L value: 0.004609
+2025-01-27 19:17:29,852 - INFO - Subject RR R value: 0.006354
+2025-01-27 19:17:29,854 - INFO - Subject SJB L value: 0.019750
+2025-01-27 19:17:29,855 - INFO - Subject SJB R value: 0.020408
+2025-01-27 19:17:29,857 - INFO - Subject BG L value: 0.008398
+2025-01-27 19:17:29,858 - INFO - Subject BG R value: 0.008476
+2025-01-27 19:17:30,283 - INFO - Processing combination 20/24
+2025-01-27 19:17:30,283 - INFO - Parameters: Alignment=mov, Method=iPDC, Frequency=20Hz
+2025-01-27 19:17:30,283 - INFO - Maximum value (excluding diagonal) in L average: 0.016394
+2025-01-27 19:17:30,283 - INFO - Position: (np.int64(11), np.int64(10))
+2025-01-27 19:17:30,283 - INFO - Subject DOC L value: 0.013528
+2025-01-27 19:17:30,290 - INFO - Subject DOC R value: 0.009709
+2025-01-27 19:17:30,291 - INFO - Subject GB L value: 0.005911
+2025-01-27 19:17:30,292 - INFO - Subject GB R value: 0.006194
+2025-01-27 19:17:30,294 - INFO - Subject JDC L value: 0.036209
+2025-01-27 19:17:30,295 - INFO - Subject JDC R value: 0.038287
+2025-01-27 19:17:30,297 - INFO - Subject JFXD L value: 0.002414
+2025-01-27 19:17:30,298 - INFO - Subject JFXD R value: 0.003243
+2025-01-27 19:17:30,299 - INFO - Subject JZ L value: 0.034809
+2025-01-27 19:17:30,300 - INFO - Subject JZ R value: 0.036496
+2025-01-27 19:17:30,301 - INFO - Subject LT L value: 0.004721
+2025-01-27 19:17:30,302 - INFO - Subject LT R value: 0.009601
+2025-01-27 19:17:30,302 - INFO - Subject NvA L value: 0.007632
+2025-01-27 19:17:30,302 - INFO - Subject NvA R value: 0.008902
+2025-01-27 19:17:30,306 - INFO - Subject RR L value: 0.007243
+2025-01-27 19:17:30,308 - INFO - Subject RR R value: 0.009067
+2025-01-27 19:17:30,310 - INFO - Subject SJB L value: 0.034514
+2025-01-27 19:17:30,311 - INFO - Subject SJB R value: 0.035734
+2025-01-27 19:17:30,312 - INFO - Subject BG L value: 0.017146
+2025-01-27 19:17:30,314 - INFO - Subject BG R value: 0.014650
+2025-01-27 19:17:30,681 - INFO - Processing combination 21/24
+2025-01-27 19:17:30,681 - INFO - Parameters: Alignment=mov, Method=iPDC, Frequency=100Hz
+2025-01-27 19:17:30,681 - INFO - Maximum value (excluding diagonal) in L average: 0.015414
+2025-01-27 19:17:30,681 - INFO - Position: (np.int64(11), np.int64(10))
+2025-01-27 19:17:30,681 - INFO - Subject DOC L value: 0.020550
+2025-01-27 19:17:30,687 - INFO - Subject DOC R value: 0.023147
+2025-01-27 19:17:30,688 - INFO - Subject GB L value: 0.002700
+2025-01-27 19:17:30,689 - INFO - Subject GB R value: 0.002154
+2025-01-27 19:17:30,690 - INFO - Subject JDC L value: 0.017078
+2025-01-27 19:17:30,691 - INFO - Subject JDC R value: 0.014960
+2025-01-27 19:17:30,693 - INFO - Subject JFXD L value: 0.005737
+2025-01-27 19:17:30,694 - INFO - Subject JFXD R value: 0.005526
+2025-01-27 19:17:30,695 - INFO - Subject JZ L value: 0.024417
+2025-01-27 19:17:30,697 - INFO - Subject JZ R value: 0.024179
+2025-01-27 19:17:30,698 - INFO - Subject LT L value: 0.011507
+2025-01-27 19:17:30,698 - INFO - Subject LT R value: 0.005656
+2025-01-27 19:17:30,699 - INFO - Subject NvA L value: 0.016412
+2025-01-27 19:17:30,701 - INFO - Subject NvA R value: 0.014826
+2025-01-27 19:17:30,702 - INFO - Subject RR L value: 0.008274
+2025-01-27 19:17:30,703 - INFO - Subject RR R value: 0.005654
+2025-01-27 19:17:30,704 - INFO - Subject SJB L value: 0.028956
+2025-01-27 19:17:30,705 - INFO - Subject SJB R value: 0.030886
+2025-01-27 19:17:30,707 - INFO - Subject BG L value: 0.019548
+2025-01-27 19:17:30,708 - INFO - Subject BG R value: 0.020403
+2025-01-27 19:17:31,061 - INFO - Processing combination 22/24
+2025-01-27 19:17:31,061 - INFO - Parameters: Alignment=mov, Method=gPDC, Frequency=10Hz
+2025-01-27 19:17:31,061 - INFO - Maximum value (excluding diagonal) in L average: 0.102644
+2025-01-27 19:17:31,072 - INFO - Position: (np.int64(11), np.int64(10))
+2025-01-27 19:17:31,072 - INFO - Subject DOC L value: 0.093482
+2025-01-27 19:17:31,076 - INFO - Subject DOC R value: 0.077542
+2025-01-27 19:17:31,077 - INFO - Subject GB L value: 0.010161
+2025-01-27 19:17:31,078 - INFO - Subject GB R value: 0.009936
+2025-01-27 19:17:31,079 - INFO - Subject JDC L value: 0.262544
+2025-01-27 19:17:31,080 - INFO - Subject JDC R value: 0.295647
+2025-01-27 19:17:31,082 - INFO - Subject JFXD L value: 0.055953
+2025-01-27 19:17:31,083 - INFO - Subject JFXD R value: 0.064909
+2025-01-27 19:17:31,084 - INFO - Subject JZ L value: 0.231025
+2025-01-27 19:17:31,086 - INFO - Subject JZ R value: 0.224627
+2025-01-27 19:17:31,086 - INFO - Subject LT L value: 0.048405
+2025-01-27 19:17:31,089 - INFO - Subject LT R value: 0.092647
+2025-01-27 19:17:31,090 - INFO - Subject NvA L value: 0.047704
+2025-01-27 19:17:31,091 - INFO - Subject NvA R value: 0.064784
+2025-01-27 19:17:31,092 - INFO - Subject RR L value: 0.039644
+2025-01-27 19:17:31,093 - INFO - Subject RR R value: 0.047476
+2025-01-27 19:17:31,095 - INFO - Subject SJB L value: 0.155601
+2025-01-27 19:17:31,095 - INFO - Subject SJB R value: 0.146100
+2025-01-27 19:17:31,095 - INFO - Subject BG L value: 0.075011
+2025-01-27 19:17:31,099 - INFO - Subject BG R value: 0.068546
+2025-01-27 19:17:31,542 - INFO - Processing combination 23/24
+2025-01-27 19:17:31,542 - INFO - Parameters: Alignment=mov, Method=gPDC, Frequency=20Hz
+2025-01-27 19:17:31,542 - INFO - Maximum value (excluding diagonal) in L average: 0.108889
+2025-01-27 19:17:31,542 - INFO - Position: (np.int64(11), np.int64(10))
+2025-01-27 19:17:31,542 - INFO - Subject DOC L value: 0.148770
+2025-01-27 19:17:31,548 - INFO - Subject DOC R value: 0.109058
+2025-01-27 19:17:31,549 - INFO - Subject GB L value: 0.020422
+2025-01-27 19:17:31,551 - INFO - Subject GB R value: 0.024754
+2025-01-27 19:17:31,552 - INFO - Subject JDC L value: 0.213978
+2025-01-27 19:17:31,553 - INFO - Subject JDC R value: 0.247168
+2025-01-27 19:17:31,553 - INFO - Subject JFXD L value: 0.033057
+2025-01-27 19:17:31,555 - INFO - Subject JFXD R value: 0.045559
+2025-01-27 19:17:31,556 - INFO - Subject JZ L value: 0.149792
+2025-01-27 19:17:31,558 - INFO - Subject JZ R value: 0.164180
+2025-01-27 19:17:31,559 - INFO - Subject LT L value: 0.044888
+2025-01-27 19:17:31,560 - INFO - Subject LT R value: 0.076177
+2025-01-27 19:17:31,561 - INFO - Subject NvA L value: 0.071585
+2025-01-27 19:17:31,562 - INFO - Subject NvA R value: 0.096011
+2025-01-27 19:17:31,564 - INFO - Subject RR L value: 0.063937
+2025-01-27 19:17:31,565 - INFO - Subject RR R value: 0.065378
+2025-01-27 19:17:31,565 - INFO - Subject SJB L value: 0.223565
+2025-01-27 19:17:31,567 - INFO - Subject SJB R value: 0.225467
+2025-01-27 19:17:31,568 - INFO - Subject BG L value: 0.122238
+2025-01-27 19:17:31,569 - INFO - Subject BG R value: 0.103832
+2025-01-27 19:17:31,947 - INFO - Processing combination 24/24
+2025-01-27 19:17:31,947 - INFO - Parameters: Alignment=mov, Method=gPDC, Frequency=100Hz
+2025-01-27 19:17:31,950 - INFO - Maximum value (excluding diagonal) in L average: 0.053689
+2025-01-27 19:17:31,950 - INFO - Position: (np.int64(10), np.int64(4))
+2025-01-27 19:17:31,950 - INFO - Subject DOC L value: 0.147490
+2025-01-27 19:17:31,953 - INFO - Subject DOC R value: 0.173686
+2025-01-27 19:17:31,955 - INFO - Subject GB L value: 0.008708
+2025-01-27 19:17:31,956 - INFO - Subject GB R value: 0.011288
+2025-01-27 19:17:31,957 - INFO - Subject JDC L value: 0.016739
+2025-01-27 19:17:31,958 - INFO - Subject JDC R value: 0.019259
+2025-01-27 19:17:31,959 - INFO - Subject JFXD L value: 0.055924
+2025-01-27 19:17:31,961 - INFO - Subject JFXD R value: 0.039584
+2025-01-27 19:17:31,961 - INFO - Subject JZ L value: 0.049197
+2025-01-27 19:17:31,964 - INFO - Subject JZ R value: 0.047103
+2025-01-27 19:17:31,965 - INFO - Subject LT L value: 0.083525
+2025-01-27 19:17:31,967 - INFO - Subject LT R value: 0.056583
+2025-01-27 19:17:31,968 - INFO - Subject NvA L value: 0.082874
+2025-01-27 19:17:31,970 - INFO - Subject NvA R value: 0.083034
+2025-01-27 19:17:31,971 - INFO - Subject RR L value: 0.053936
+2025-01-27 19:17:31,972 - INFO - Subject RR R value: 0.082639
+2025-01-27 19:17:31,974 - INFO - Subject SJB L value: 0.017887
+2025-01-27 19:17:31,975 - INFO - Subject SJB R value: 0.011251
+2025-01-27 19:17:31,976 - INFO - Subject BG L value: 0.009582
+2025-01-27 19:17:31,978 - INFO - Subject BG R value: 0.018457
+2025-01-27 19:17:32,408 - INFO - All plots have been generated successfully
+2025-01-27 19:17:32,408 - INFO - Plots are saved in: Data\scatter_plots

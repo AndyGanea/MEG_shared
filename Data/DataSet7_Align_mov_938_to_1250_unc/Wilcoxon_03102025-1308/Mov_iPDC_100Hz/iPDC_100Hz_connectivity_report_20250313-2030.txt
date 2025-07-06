@@ -1,0 +1,183 @@
+CONNECTIVITY REPORT: iPDC_100Hz Wilcoxon
+================================================================================
+
+Total connections: 53
+
+SUMMARY OF OUTGOING CONNECTIONS BY SOURCE NODE
+================================================================================
+
+
+AG-L: 1 outgoing connections
+--------------------------------------------------
+  1. AG-L --> PMv-L: 0.001175
+
+FEF-L: 1 outgoing connections
+--------------------------------------------------
+  1. FEF-L --> SPOC-L: 0.000805
+
+IPL-L: No outgoing connections
+
+M1-L: 1 outgoing connections
+--------------------------------------------------
+  1. M1-L --> AG-L: 0.000882
+
+PMd-L: 1 outgoing connections
+--------------------------------------------------
+  1. PMd-L --> M1-R: 0.001146
+
+PMv-L: 1 outgoing connections
+--------------------------------------------------
+  1. PMv-L --> POJ-L: 0.001334
+
+POJ-L: 1 outgoing connections
+--------------------------------------------------
+  1. POJ-L --| SMA-R: -0.001318
+
+S1-L: 1 outgoing connections
+--------------------------------------------------
+  1. S1-L --> V3-R: 0.000490
+
+SMA-L: 1 outgoing connections
+--------------------------------------------------
+  1. SMA-L --| FEF-R: -0.001047
+
+SPL-L: 2 outgoing connections
+--------------------------------------------------
+  1. SPL-L --> SPOC-L: 0.000921
+  2. SPL-L --| PMd-R: -0.000746
+
+SPOC-L: 1 outgoing connections
+--------------------------------------------------
+  1. SPOC-L --| SPOC-R: -0.000435
+
+STS-L: 1 outgoing connections
+--------------------------------------------------
+  1. STS-L --> FEF-L: 0.001422
+
+V1-L: 4 outgoing connections
+--------------------------------------------------
+  1. V1-L --> M1-R: 0.001204
+  2. V1-L --> POJ-L: 0.000893
+  3. V1-L --> M1-L: 0.000866
+  4. V1-L --> SPL-L: 0.000865
+
+V3-L: 3 outgoing connections
+--------------------------------------------------
+  1. V3-L --> S1-R: 0.001100
+  2. V3-L --> STS-R: 0.000931
+  3. V3-L --> POJ-R: 0.000734
+
+VIP-L: 2 outgoing connections
+--------------------------------------------------
+  1. VIP-L --| PMd-R: -0.000611
+  2. VIP-L --> S1-R: 0.000271
+
+mIPS-L: 3 outgoing connections
+--------------------------------------------------
+  1. mIPS-L --| FEF-R: -0.001083
+  2. mIPS-L --| SMA-R: -0.000998
+  3. mIPS-L --> IPL-L: 0.000652
+
+AG-R: 1 outgoing connections
+--------------------------------------------------
+  1. AG-R --> FEF-L: 0.000912
+
+FEF-R: 1 outgoing connections
+--------------------------------------------------
+  1. FEF-R --> S1-R: 0.000628
+
+IPL-R: 2 outgoing connections
+--------------------------------------------------
+  1. IPL-R --| V3-L: -0.001272
+  2. IPL-R --> SMA-R: 0.000943
+
+M1-R: 1 outgoing connections
+--------------------------------------------------
+  1. M1-R --> V1-R: 0.000742
+
+PMd-R: 2 outgoing connections
+--------------------------------------------------
+  1. PMd-R --> STS-R: 0.000983
+  2. PMd-R --> PMv-L: 0.000499
+
+PMv-R: 1 outgoing connections
+--------------------------------------------------
+  1. PMv-R --> M1-R: 0.000630
+
+POJ-R: 4 outgoing connections
+--------------------------------------------------
+  1. POJ-R --> VIP-R: 0.002957
+  2. POJ-R --> V3-L: 0.001182
+  3. POJ-R --> PMv-R: 0.000922
+  4. POJ-R --> SMA-R: 0.000877
+
+S1-R: 3 outgoing connections
+--------------------------------------------------
+  1. S1-R --> VIP-R: 0.002959
+  2. S1-R --> AG-R: 0.002199
+  3. S1-R --> POJ-R: 0.001553
+
+SMA-R: No outgoing connections
+
+SPL-R: 2 outgoing connections
+--------------------------------------------------
+  1. SPL-R --> mIPS-L: 0.001073
+  2. SPL-R --> AG-R: 0.001017
+
+SPOC-R: 2 outgoing connections
+--------------------------------------------------
+  1. SPOC-R --> PMd-L: 0.001159
+  2. SPOC-R --> SPL-L: 0.000741
+
+STS-R: 2 outgoing connections
+--------------------------------------------------
+  1. STS-R --> AG-R: 0.003555
+  2. STS-R --> IPL-R: 0.001144
+
+V1-R: 2 outgoing connections
+--------------------------------------------------
+  1. V1-R --> S1-L: 0.000873
+  2. V1-R --> PMv-L: 0.000773
+
+V3-R: 2 outgoing connections
+--------------------------------------------------
+  1. V3-R --| SPOC-R: -0.001726
+  2. V3-R --| V3-L: -0.001331
+
+VIP-R: 1 outgoing connections
+--------------------------------------------------
+  1. VIP-R --> V3-L: 0.001375
+
+mIPS-R: 3 outgoing connections
+--------------------------------------------------
+  1. mIPS-R --> VIP-R: 0.001504
+  2. mIPS-R --> V3-L: 0.001109
+  3. mIPS-R --> S1-L: 0.000778
+
+================================================================================
+OVERALL CONNECTIVITY STATISTICS
+================================================================================
+
+Left --> Left connections: 10
+Right --> Right connections: 16
+Left --> Right connections: 14
+Right --> Left connections: 13
+
+Positive connections: 43
+Negative connections: 10
+
+Top 5 regions with most outgoing connections:
+  V1-L: 4 connections
+  POJ-R: 4 connections
+  V3-L: 3 connections
+  mIPS-L: 3 connections
+  mIPS-R: 3 connections
+
+Top 5 regions with most incoming connections:
+  V3-L: 5 connections
+  SMA-R: 4 connections
+  PMv-L: 3 connections
+  AG-R: 3 connections
+  VIP-R: 3 connections
+
+Analysis complete.

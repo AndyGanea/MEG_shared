@@ -1,0 +1,38 @@
+MEG Circular Connectogram Visualization
+=====================================
+Selected dataset: DataSet5_Align_cue_626_to_938_unc
+Analysis type: Wilcoxon
+Selected analysis folder: Wilcoxon_03102025-1305
+Process started at: 2025-03-11 14:25:09
+---------------------
+
+Starting connectogram visualization...
+Found 9 method/frequency folders to process.
+Processing folder: Cue_gDTF_100Hz
+Error processing folder Data\DataSet5_Align_cue_626_to_938_unc\Wilcoxon_03102025-1305\Cue_gDTF_100Hz: cannot access local variable 'nx' where it is not associated with a value
+Processing folder: Cue_gDTF_10Hz
+Error processing folder Data\DataSet5_Align_cue_626_to_938_unc\Wilcoxon_03102025-1305\Cue_gDTF_10Hz: cannot access local variable 'nx' where it is not associated with a value
+Processing folder: Cue_gDTF_20Hz
+Error processing folder Data\DataSet5_Align_cue_626_to_938_unc\Wilcoxon_03102025-1305\Cue_gDTF_20Hz: cannot access local variable 'nx' where it is not associated with a value
+Processing folder: Cue_gPDC_100Hz
+Error processing folder Data\DataSet5_Align_cue_626_to_938_unc\Wilcoxon_03102025-1305\Cue_gPDC_100Hz: cannot access local variable 'nx' where it is not associated with a value
+Processing folder: Cue_gPDC_10Hz
+Error processing folder Data\DataSet5_Align_cue_626_to_938_unc\Wilcoxon_03102025-1305\Cue_gPDC_10Hz: cannot access local variable 'nx' where it is not associated with a value
+Processing folder: Cue_gPDC_20Hz
+Error processing folder Data\DataSet5_Align_cue_626_to_938_unc\Wilcoxon_03102025-1305\Cue_gPDC_20Hz: cannot access local variable 'nx' where it is not associated with a value
+Processing folder: Cue_iPDC_100Hz
+Error processing folder Data\DataSet5_Align_cue_626_to_938_unc\Wilcoxon_03102025-1305\Cue_iPDC_100Hz: cannot access local variable 'nx' where it is not associated with a value
+Processing folder: Cue_iPDC_10Hz
+Error processing folder Data\DataSet5_Align_cue_626_to_938_unc\Wilcoxon_03102025-1305\Cue_iPDC_10Hz: cannot access local variable 'nx' where it is not associated with a value
+Processing folder: Cue_iPDC_20Hz
+Error processing folder Data\DataSet5_Align_cue_626_to_938_unc\Wilcoxon_03102025-1305\Cue_iPDC_20Hz: cannot access local variable 'nx' where it is not associated with a value
+
+Visualization complete!
+
+Operation Summary
+================
+Folders processed: 9
+Visualizations created: 0
+Errors encountered: 9
+
+Process completed at: 2025-03-11 14:25:10

@@ -1,0 +1,184 @@
+2025-03-14 18:55:00,837 - INFO - Starting MEG Connectogram Visualization V2
+2025-03-14 18:55:00,837 - INFO - Selected dataset: DataSet5_Align_cue_626_to_938_unc
+2025-03-14 18:55:00,837 - INFO - Selected analysis type: Wilcoxon
+2025-03-14 18:55:00,838 - INFO - Selected analysis folder: Wilcoxon_03102025-1305
+2025-03-14 18:55:00,838 - INFO - Log file: Logs\connectogram_20250314-185500.log
+2025-03-14 18:55:00,838 - INFO - Processing all folders in Wilcoxon_03102025-1305...
+2025-03-14 18:55:00,838 - INFO - Processing Cue_gDTF_100Hz...
+2025-03-14 18:55:00,838 - INFO - Processing folder: Cue_gDTF_100Hz
+2025-03-14 18:55:00,839 - INFO - Found 1 statistical test files
+2025-03-14 18:55:00,839 - INFO - Processing gDTF_100Hz_L-R (wilcoxon)
+2025-03-14 18:55:00,839 - INFO - Reading connectivity matrix from gDTF_100Hz_L-R_wilcoxon.csv
+2025-03-14 18:55:01,349 - ERROR - Error in 2D visualization: name 'Line2D' is not defined
+2025-03-14 18:55:01,350 - ERROR - Traceback (most recent call last):
+  File "c:\Users\dgane\Apps\MEG\Scripts\meg_circular_connectogram_brain.py", line 1197, in _create_2d_visualization
+    Line2D([0], [0], color='red', label='Left Hemisphere'),
+    ^^^^^^
+NameError: name 'Line2D' is not defined
+
+2025-03-14 18:55:01,795 - ERROR - Error in 2D visualization: name 'Line2D' is not defined
+2025-03-14 18:55:01,796 - ERROR - Traceback (most recent call last):
+  File "c:\Users\dgane\Apps\MEG\Scripts\meg_circular_connectogram_brain.py", line 1197, in _create_2d_visualization
+    Line2D([0], [0], color='red', label='Left Hemisphere'),
+    ^^^^^^
+NameError: name 'Line2D' is not defined
+
+2025-03-14 18:55:01,796 - INFO - Processing Cue_gDTF_10Hz...
+2025-03-14 18:55:01,796 - INFO - Processing folder: Cue_gDTF_10Hz
+2025-03-14 18:55:01,797 - INFO - Found 1 statistical test files
+2025-03-14 18:55:01,797 - INFO - Processing gDTF_10Hz_L-R (wilcoxon)
+2025-03-14 18:55:01,797 - INFO - Reading connectivity matrix from gDTF_10Hz_L-R_wilcoxon.csv
+2025-03-14 18:55:02,352 - ERROR - Error in 2D visualization: name 'Line2D' is not defined
+2025-03-14 18:55:02,353 - ERROR - Traceback (most recent call last):
+  File "c:\Users\dgane\Apps\MEG\Scripts\meg_circular_connectogram_brain.py", line 1197, in _create_2d_visualization
+    Line2D([0], [0], color='red', label='Left Hemisphere'),
+    ^^^^^^
+NameError: name 'Line2D' is not defined
+
+2025-03-14 18:55:02,855 - ERROR - Error in 2D visualization: name 'Line2D' is not defined
+2025-03-14 18:55:02,855 - ERROR - Traceback (most recent call last):
+  File "c:\Users\dgane\Apps\MEG\Scripts\meg_circular_connectogram_brain.py", line 1197, in _create_2d_visualization
+    Line2D([0], [0], color='red', label='Left Hemisphere'),
+    ^^^^^^
+NameError: name 'Line2D' is not defined
+
+2025-03-14 18:55:02,855 - INFO - Processing Cue_gDTF_20Hz...
+2025-03-14 18:55:02,855 - INFO - Processing folder: Cue_gDTF_20Hz
+2025-03-14 18:55:02,856 - INFO - Found 1 statistical test files
+2025-03-14 18:55:02,856 - INFO - Processing gDTF_20Hz_L-R (wilcoxon)
+2025-03-14 18:55:02,856 - INFO - Reading connectivity matrix from gDTF_20Hz_L-R_wilcoxon.csv
+2025-03-14 18:55:03,310 - ERROR - Error in 2D visualization: name 'Line2D' is not defined
+2025-03-14 18:55:03,311 - ERROR - Traceback (most recent call last):
+  File "c:\Users\dgane\Apps\MEG\Scripts\meg_circular_connectogram_brain.py", line 1197, in _create_2d_visualization
+    Line2D([0], [0], color='red', label='Left Hemisphere'),
+    ^^^^^^
+NameError: name 'Line2D' is not defined
+
+2025-03-14 18:55:03,870 - ERROR - Error in 2D visualization: name 'Line2D' is not defined
+2025-03-14 18:55:03,870 - ERROR - Traceback (most recent call last):
+  File "c:\Users\dgane\Apps\MEG\Scripts\meg_circular_connectogram_brain.py", line 1197, in _create_2d_visualization
+    Line2D([0], [0], color='red', label='Left Hemisphere'),
+    ^^^^^^
+NameError: name 'Line2D' is not defined
+
+2025-03-14 18:55:03,871 - INFO - Processing Cue_gPDC_100Hz...
+2025-03-14 18:55:03,871 - INFO - Processing folder: Cue_gPDC_100Hz
+2025-03-14 18:55:03,871 - INFO - Found 1 statistical test files
+2025-03-14 18:55:03,871 - INFO - Processing gPDC_100Hz_L-R (wilcoxon)
+2025-03-14 18:55:03,872 - INFO - Reading connectivity matrix from gPDC_100Hz_L-R_wilcoxon.csv
+2025-03-14 18:55:04,335 - ERROR - Error in 2D visualization: name 'Line2D' is not defined
+2025-03-14 18:55:04,335 - ERROR - Traceback (most recent call last):
+  File "c:\Users\dgane\Apps\MEG\Scripts\meg_circular_connectogram_brain.py", line 1197, in _create_2d_visualization
+    Line2D([0], [0], color='red', label='Left Hemisphere'),
+    ^^^^^^
+NameError: name 'Line2D' is not defined
+
+2025-03-14 18:55:04,888 - ERROR - Error in 2D visualization: name 'Line2D' is not defined
+2025-03-14 18:55:04,889 - ERROR - Traceback (most recent call last):
+  File "c:\Users\dgane\Apps\MEG\Scripts\meg_circular_connectogram_brain.py", line 1197, in _create_2d_visualization
+    Line2D([0], [0], color='red', label='Left Hemisphere'),
+    ^^^^^^
+NameError: name 'Line2D' is not defined
+
+2025-03-14 18:55:04,889 - INFO - Processing Cue_gPDC_10Hz...
+2025-03-14 18:55:04,889 - INFO - Processing folder: Cue_gPDC_10Hz
+2025-03-14 18:55:04,890 - INFO - Found 1 statistical test files
+2025-03-14 18:55:04,890 - INFO - Processing gPDC_10Hz_L-R (wilcoxon)
+2025-03-14 18:55:04,890 - INFO - Reading connectivity matrix from gPDC_10Hz_L-R_wilcoxon.csv
+2025-03-14 18:55:05,353 - ERROR - Error in 2D visualization: name 'Line2D' is not defined
+2025-03-14 18:55:05,353 - ERROR - Traceback (most recent call last):
+  File "c:\Users\dgane\Apps\MEG\Scripts\meg_circular_connectogram_brain.py", line 1197, in _create_2d_visualization
+    Line2D([0], [0], color='red', label='Left Hemisphere'),
+    ^^^^^^
+NameError: name 'Line2D' is not defined
+
+2025-03-14 18:55:05,778 - ERROR - Error in 2D visualization: name 'Line2D' is not defined
+2025-03-14 18:55:05,779 - ERROR - Traceback (most recent call last):
+  File "c:\Users\dgane\Apps\MEG\Scripts\meg_circular_connectogram_brain.py", line 1197, in _create_2d_visualization
+    Line2D([0], [0], color='red', label='Left Hemisphere'),
+    ^^^^^^
+NameError: name 'Line2D' is not defined
+
+2025-03-14 18:55:05,779 - INFO - Processing Cue_gPDC_20Hz...
+2025-03-14 18:55:05,779 - INFO - Processing folder: Cue_gPDC_20Hz
+2025-03-14 18:55:05,780 - INFO - Found 1 statistical test files
+2025-03-14 18:55:05,780 - INFO - Processing gPDC_20Hz_L-R (wilcoxon)
+2025-03-14 18:55:05,780 - INFO - Reading connectivity matrix from gPDC_20Hz_L-R_wilcoxon.csv
+2025-03-14 18:55:06,420 - ERROR - Error in 2D visualization: name 'Line2D' is not defined
+2025-03-14 18:55:06,420 - ERROR - Traceback (most recent call last):
+  File "c:\Users\dgane\Apps\MEG\Scripts\meg_circular_connectogram_brain.py", line 1197, in _create_2d_visualization
+    Line2D([0], [0], color='red', label='Left Hemisphere'),
+    ^^^^^^
+NameError: name 'Line2D' is not defined
+
+2025-03-14 18:55:06,860 - ERROR - Error in 2D visualization: name 'Line2D' is not defined
+2025-03-14 18:55:06,860 - ERROR - Traceback (most recent call last):
+  File "c:\Users\dgane\Apps\MEG\Scripts\meg_circular_connectogram_brain.py", line 1197, in _create_2d_visualization
+    Line2D([0], [0], color='red', label='Left Hemisphere'),
+    ^^^^^^
+NameError: name 'Line2D' is not defined
+
+2025-03-14 18:55:06,861 - INFO - Processing Cue_iPDC_100Hz...
+2025-03-14 18:55:06,861 - INFO - Processing folder: Cue_iPDC_100Hz
+2025-03-14 18:55:06,861 - INFO - Found 1 statistical test files
+2025-03-14 18:55:06,862 - INFO - Processing iPDC_100Hz_L-R (wilcoxon)
+2025-03-14 18:55:06,862 - INFO - Reading connectivity matrix from iPDC_100Hz_L-R_wilcoxon.csv
+2025-03-14 18:55:07,296 - ERROR - Error in 2D visualization: name 'Line2D' is not defined
+2025-03-14 18:55:07,296 - ERROR - Traceback (most recent call last):
+  File "c:\Users\dgane\Apps\MEG\Scripts\meg_circular_connectogram_brain.py", line 1197, in _create_2d_visualization
+    Line2D([0], [0], color='red', label='Left Hemisphere'),
+    ^^^^^^
+NameError: name 'Line2D' is not defined
+
+2025-03-14 18:55:07,975 - ERROR - Error in 2D visualization: name 'Line2D' is not defined
+2025-03-14 18:55:07,975 - ERROR - Traceback (most recent call last):
+  File "c:\Users\dgane\Apps\MEG\Scripts\meg_circular_connectogram_brain.py", line 1197, in _create_2d_visualization
+    Line2D([0], [0], color='red', label='Left Hemisphere'),
+    ^^^^^^
+NameError: name 'Line2D' is not defined
+
+2025-03-14 18:55:07,976 - INFO - Processing Cue_iPDC_10Hz...
+2025-03-14 18:55:07,976 - INFO - Processing folder: Cue_iPDC_10Hz
+2025-03-14 18:55:07,976 - INFO - Found 1 statistical test files
+2025-03-14 18:55:07,976 - INFO - Processing iPDC_10Hz_L-R (wilcoxon)
+2025-03-14 18:55:07,977 - INFO - Reading connectivity matrix from iPDC_10Hz_L-R_wilcoxon.csv
+2025-03-14 18:55:08,459 - ERROR - Error in 2D visualization: name 'Line2D' is not defined
+2025-03-14 18:55:08,459 - ERROR - Traceback (most recent call last):
+  File "c:\Users\dgane\Apps\MEG\Scripts\meg_circular_connectogram_brain.py", line 1197, in _create_2d_visualization
+    Line2D([0], [0], color='red', label='Left Hemisphere'),
+    ^^^^^^
+NameError: name 'Line2D' is not defined
+
+2025-03-14 18:55:08,871 - ERROR - Error in 2D visualization: name 'Line2D' is not defined
+2025-03-14 18:55:08,871 - ERROR - Traceback (most recent call last):
+  File "c:\Users\dgane\Apps\MEG\Scripts\meg_circular_connectogram_brain.py", line 1197, in _create_2d_visualization
+    Line2D([0], [0], color='red', label='Left Hemisphere'),
+    ^^^^^^
+NameError: name 'Line2D' is not defined
+
+2025-03-14 18:55:08,872 - INFO - Processing Cue_iPDC_20Hz...
+2025-03-14 18:55:08,872 - INFO - Processing folder: Cue_iPDC_20Hz
+2025-03-14 18:55:08,872 - INFO - Found 1 statistical test files
+2025-03-14 18:55:08,872 - INFO - Processing iPDC_20Hz_L-R (wilcoxon)
+2025-03-14 18:55:08,873 - INFO - Reading connectivity matrix from iPDC_20Hz_L-R_wilcoxon.csv
+2025-03-14 18:55:09,310 - ERROR - Error in 2D visualization: name 'Line2D' is not defined
+2025-03-14 18:55:09,310 - ERROR - Traceback (most recent call last):
+  File "c:\Users\dgane\Apps\MEG\Scripts\meg_circular_connectogram_brain.py", line 1197, in _create_2d_visualization
+    Line2D([0], [0], color='red', label='Left Hemisphere'),
+    ^^^^^^
+NameError: name 'Line2D' is not defined
+
+2025-03-14 18:55:10,086 - ERROR - Error in 2D visualization: name 'Line2D' is not defined
+2025-03-14 18:55:10,087 - ERROR - Traceback (most recent call last):
+  File "c:\Users\dgane\Apps\MEG\Scripts\meg_circular_connectogram_brain.py", line 1197, in _create_2d_visualization
+    Line2D([0], [0], color='red', label='Left Hemisphere'),
+    ^^^^^^
+NameError: name 'Line2D' is not defined
+
+2025-03-14 18:55:10,087 - INFO - 
+---------------------
+2025-03-14 18:55:10,087 - INFO - Processing complete!
+2025-03-14 18:55:10,087 - INFO - Folders processed: 9
+2025-03-14 18:55:10,087 - INFO - Visualizations created: 0
+2025-03-14 18:55:10,087 - INFO - Errors encountered: 0
+2025-03-14 18:55:10,088 - INFO - Process completed at: 2025-03-14 18:55:10

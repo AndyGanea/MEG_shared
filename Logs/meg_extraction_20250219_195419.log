@@ -1,0 +1,120 @@
+2025-02-19 19:54:19,377 - MEG Data Extraction
+2025-02-19 19:54:19,377 - ==================
+2025-02-19 19:54:19,377 - Source: MEG_20250130_group_project_cat
+2025-02-19 19:54:19,378 - Processing regular files
+2025-02-19 19:54:19,378 - ------------------
+2025-02-19 19:54:19,378 - Created dataset directory: Data\DataSet8_MEG_20250130_group_project_cat
+2025-02-19 19:54:19,477 - Directory structure created successfully
+2025-02-19 19:54:19,478 - 
+Processing directory: Data\MEG_20250130_group_project_cat
+2025-02-19 19:54:19,478 - Skipping directory - cannot determine target direction from path: Data/MEG_20250130_group_project_cat
+2025-02-19 19:54:19,478 - 
+Processing directory: Data\MEG_20250130_group_project_cat\Align_cue
+2025-02-19 19:54:19,478 - Skipping directory - cannot determine target direction from path: Data/MEG_20250130_group_project_cat/Align_cue
+2025-02-19 19:54:19,479 - 
+Processing directory: Data\MEG_20250130_group_project_cat\Align_cue\LT_Pronation_anti_L
+2025-02-19 19:54:19,479 - Skipping directory - cannot determine target direction from path: Data/MEG_20250130_group_project_cat/Align_cue/LT_Pronation_anti_L
+2025-02-19 19:54:19,480 - 
+Processing directory: Data\MEG_20250130_group_project_cat\Align_cue\LT_Pronation_anti_R
+2025-02-19 19:54:19,480 - Skipping directory - cannot determine target direction from path: Data/MEG_20250130_group_project_cat/Align_cue/LT_Pronation_anti_R
+2025-02-19 19:54:19,480 - 
+Processing directory: Data\MEG_20250130_group_project_cat\Align_cue\LT_Pronation_pro_L
+2025-02-19 19:54:19,480 - Skipping directory - cannot determine target direction from path: Data/MEG_20250130_group_project_cat/Align_cue/LT_Pronation_pro_L
+2025-02-19 19:54:19,481 - 
+Processing directory: Data\MEG_20250130_group_project_cat\Align_cue\LT_Pronation_pro_R
+2025-02-19 19:54:19,481 - Skipping directory - cannot determine target direction from path: Data/MEG_20250130_group_project_cat/Align_cue/LT_Pronation_pro_R
+2025-02-19 19:54:19,482 - 
+Processing directory: Data\MEG_20250130_group_project_cat\Align_cue\RT_Down_anti_L
+2025-02-19 19:54:19,482 - Skipping directory - cannot determine target direction from path: Data/MEG_20250130_group_project_cat/Align_cue/RT_Down_anti_L
+2025-02-19 19:54:19,482 - 
+Processing directory: Data\MEG_20250130_group_project_cat\Align_cue\RT_Down_anti_R
+2025-02-19 19:54:19,483 - Skipping directory - cannot determine target direction from path: Data/MEG_20250130_group_project_cat/Align_cue/RT_Down_anti_R
+2025-02-19 19:54:19,483 - 
+Processing directory: Data\MEG_20250130_group_project_cat\Align_cue\RT_Down_pro_L
+2025-02-19 19:54:19,483 - Skipping directory - cannot determine target direction from path: Data/MEG_20250130_group_project_cat/Align_cue/RT_Down_pro_L
+2025-02-19 19:54:19,484 - 
+Processing directory: Data\MEG_20250130_group_project_cat\Align_cue\RT_Down_pro_R
+2025-02-19 19:54:19,484 - Skipping directory - cannot determine target direction from path: Data/MEG_20250130_group_project_cat/Align_cue/RT_Down_pro_R
+2025-02-19 19:54:19,485 - 
+Processing directory: Data\MEG_20250130_group_project_cat\Align_cue\RT_Pronation_anti_L
+2025-02-19 19:54:19,485 - Skipping directory - cannot determine target direction from path: Data/MEG_20250130_group_project_cat/Align_cue/RT_Pronation_anti_L
+2025-02-19 19:54:19,486 - 
+Processing directory: Data\MEG_20250130_group_project_cat\Align_cue\RT_Pronation_anti_R
+2025-02-19 19:54:19,486 - Skipping directory - cannot determine target direction from path: Data/MEG_20250130_group_project_cat/Align_cue/RT_Pronation_anti_R
+2025-02-19 19:54:19,486 - 
+Processing directory: Data\MEG_20250130_group_project_cat\Align_cue\RT_Pronation_pro_L
+2025-02-19 19:54:19,487 - Skipping directory - cannot determine target direction from path: Data/MEG_20250130_group_project_cat/Align_cue/RT_Pronation_pro_L
+2025-02-19 19:54:19,487 - 
+Processing directory: Data\MEG_20250130_group_project_cat\Align_cue\RT_Pronation_pro_R
+2025-02-19 19:54:19,487 - Skipping directory - cannot determine target direction from path: Data/MEG_20250130_group_project_cat/Align_cue/RT_Pronation_pro_R
+2025-02-19 19:54:19,488 - 
+Processing directory: Data\MEG_20250130_group_project_cat\Align_cue\RT_Upright_anti_L
+2025-02-19 19:54:19,488 - Skipping directory - cannot determine target direction from path: Data/MEG_20250130_group_project_cat/Align_cue/RT_Upright_anti_L
+2025-02-19 19:54:19,489 - 
+Processing directory: Data\MEG_20250130_group_project_cat\Align_cue\RT_Upright_anti_R
+2025-02-19 19:54:19,489 - Skipping directory - cannot determine target direction from path: Data/MEG_20250130_group_project_cat/Align_cue/RT_Upright_anti_R
+2025-02-19 19:54:19,489 - 
+Processing directory: Data\MEG_20250130_group_project_cat\Align_cue\RT_Upright_pro_L
+2025-02-19 19:54:19,490 - Skipping directory - cannot determine target direction from path: Data/MEG_20250130_group_project_cat/Align_cue/RT_Upright_pro_L
+2025-02-19 19:54:19,490 - 
+Processing directory: Data\MEG_20250130_group_project_cat\Align_cue\RT_Upright_pro_R
+2025-02-19 19:54:19,490 - Skipping directory - cannot determine target direction from path: Data/MEG_20250130_group_project_cat/Align_cue/RT_Upright_pro_R
+2025-02-19 19:54:19,491 - 
+Processing directory: Data\MEG_20250130_group_project_cat\Align_mov
+2025-02-19 19:54:19,491 - Skipping directory - cannot determine target direction from path: Data/MEG_20250130_group_project_cat/Align_mov
+2025-02-19 19:54:19,491 - 
+Processing directory: Data\MEG_20250130_group_project_cat\Align_mov\LT_Pronation_anti_L
+2025-02-19 19:54:19,491 - Skipping directory - cannot determine target direction from path: Data/MEG_20250130_group_project_cat/Align_mov/LT_Pronation_anti_L
+2025-02-19 19:54:19,492 - 
+Processing directory: Data\MEG_20250130_group_project_cat\Align_mov\LT_Pronation_anti_R
+2025-02-19 19:54:19,492 - Skipping directory - cannot determine target direction from path: Data/MEG_20250130_group_project_cat/Align_mov/LT_Pronation_anti_R
+2025-02-19 19:54:19,492 - 
+Processing directory: Data\MEG_20250130_group_project_cat\Align_mov\LT_Pronation_pro_L
+2025-02-19 19:54:19,493 - Skipping directory - cannot determine target direction from path: Data/MEG_20250130_group_project_cat/Align_mov/LT_Pronation_pro_L
+2025-02-19 19:54:19,493 - 
+Processing directory: Data\MEG_20250130_group_project_cat\Align_mov\LT_Pronation_pro_R
+2025-02-19 19:54:19,493 - Skipping directory - cannot determine target direction from path: Data/MEG_20250130_group_project_cat/Align_mov/LT_Pronation_pro_R
+2025-02-19 19:54:19,494 - 
+Processing directory: Data\MEG_20250130_group_project_cat\Align_mov\RT_Down_anti_L
+2025-02-19 19:54:19,494 - Skipping directory - cannot determine target direction from path: Data/MEG_20250130_group_project_cat/Align_mov/RT_Down_anti_L
+2025-02-19 19:54:19,495 - 
+Processing directory: Data\MEG_20250130_group_project_cat\Align_mov\RT_Down_anti_R
+2025-02-19 19:54:19,495 - Skipping directory - cannot determine target direction from path: Data/MEG_20250130_group_project_cat/Align_mov/RT_Down_anti_R
+2025-02-19 19:54:19,495 - 
+Processing directory: Data\MEG_20250130_group_project_cat\Align_mov\RT_Down_pro_L
+2025-02-19 19:54:19,495 - Skipping directory - cannot determine target direction from path: Data/MEG_20250130_group_project_cat/Align_mov/RT_Down_pro_L
+2025-02-19 19:54:19,496 - 
+Processing directory: Data\MEG_20250130_group_project_cat\Align_mov\RT_Down_pro_R
+2025-02-19 19:54:19,496 - Skipping directory - cannot determine target direction from path: Data/MEG_20250130_group_project_cat/Align_mov/RT_Down_pro_R
+2025-02-19 19:54:19,497 - 
+Processing directory: Data\MEG_20250130_group_project_cat\Align_mov\RT_Pronation_anti_L
+2025-02-19 19:54:19,497 - Skipping directory - cannot determine target direction from path: Data/MEG_20250130_group_project_cat/Align_mov/RT_Pronation_anti_L
+2025-02-19 19:54:19,498 - 
+Processing directory: Data\MEG_20250130_group_project_cat\Align_mov\RT_Pronation_anti_R
+2025-02-19 19:54:19,498 - Skipping directory - cannot determine target direction from path: Data/MEG_20250130_group_project_cat/Align_mov/RT_Pronation_anti_R
+2025-02-19 19:54:19,498 - 
+Processing directory: Data\MEG_20250130_group_project_cat\Align_mov\RT_Pronation_pro_L
+2025-02-19 19:54:19,499 - Skipping directory - cannot determine target direction from path: Data/MEG_20250130_group_project_cat/Align_mov/RT_Pronation_pro_L
+2025-02-19 19:54:19,499 - 
+Processing directory: Data\MEG_20250130_group_project_cat\Align_mov\RT_Pronation_pro_R
+2025-02-19 19:54:19,499 - Skipping directory - cannot determine target direction from path: Data/MEG_20250130_group_project_cat/Align_mov/RT_Pronation_pro_R
+2025-02-19 19:54:19,500 - 
+Processing directory: Data\MEG_20250130_group_project_cat\Align_mov\RT_Upright_anti_L
+2025-02-19 19:54:19,500 - Skipping directory - cannot determine target direction from path: Data/MEG_20250130_group_project_cat/Align_mov/RT_Upright_anti_L
+2025-02-19 19:54:19,501 - 
+Processing directory: Data\MEG_20250130_group_project_cat\Align_mov\RT_Upright_anti_R
+2025-02-19 19:54:19,501 - Skipping directory - cannot determine target direction from path: Data/MEG_20250130_group_project_cat/Align_mov/RT_Upright_anti_R
+2025-02-19 19:54:19,502 - 
+Processing directory: Data\MEG_20250130_group_project_cat\Align_mov\RT_Upright_pro_L
+2025-02-19 19:54:19,502 - Skipping directory - cannot determine target direction from path: Data/MEG_20250130_group_project_cat/Align_mov/RT_Upright_pro_L
+2025-02-19 19:54:19,502 - 
+Processing directory: Data\MEG_20250130_group_project_cat\Align_mov\RT_Upright_pro_R
+2025-02-19 19:54:19,502 - Skipping directory - cannot determine target direction from path: Data/MEG_20250130_group_project_cat/Align_mov/RT_Upright_pro_R
+2025-02-19 19:54:19,502 - 
+Total files processed: 0
+2025-02-19 19:54:19,502 - 
+Operation Summary
+2025-02-19 19:54:19,503 - ================
+2025-02-19 19:54:19,503 - Files processed: 0
+2025-02-19 19:54:19,503 - Errors encountered: 0
+2025-02-19 19:54:19,504 - Process completed at: 2025-02-19 19:54:19

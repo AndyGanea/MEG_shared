@@ -1,0 +1,474 @@
+MEG Signal Analysis - Enhanced Average Matrix Creation
+==================================================
+Selected dataset: DataSet3_Align_cue_1_to_625_unc
+Excluding iDTF: True
+Process started at: 2025-02-11 22:51:39
+--------------------------------------------------
+
+Processing dataset...
+
+Processing alignment: cue
+Processing method_freq: gDTF_100Hz
+Created average matrix: Data\DataSet3_Align_cue_1_to_625_unc\cue\L\gDTF_100Hz\cue_LT-Pronation_L_anti_gDTF_100Hz_average.csv
+Created average matrix: Data\DataSet3_Align_cue_1_to_625_unc\cue\R\gDTF_100Hz\cue_LT-Pronation_R_anti_gDTF_100Hz_average.csv
+Processing subject: BG
+Error processing folder Data\DataSet3_Align_cue_1_to_625_unc\cue\L\gDTF_100Hz\BG: 'DataFrame' object has no attribute 'name'
+Processing subject: DOC
+Error processing folder Data\DataSet3_Align_cue_1_to_625_unc\cue\L\gDTF_100Hz\DOC: 'DataFrame' object has no attribute 'name'
+Processing subject: GB
+Error processing folder Data\DataSet3_Align_cue_1_to_625_unc\cue\L\gDTF_100Hz\GB: 'DataFrame' object has no attribute 'name'
+Processing subject: JDC
+Error processing folder Data\DataSet3_Align_cue_1_to_625_unc\cue\L\gDTF_100Hz\JDC: 'DataFrame' object has no attribute 'name'
+Processing subject: JFXD
+Error processing folder Data\DataSet3_Align_cue_1_to_625_unc\cue\L\gDTF_100Hz\JFXD: 'DataFrame' object has no attribute 'name'
+Processing subject: JZ
+Error processing folder Data\DataSet3_Align_cue_1_to_625_unc\cue\L\gDTF_100Hz\JZ: 'DataFrame' object has no attribute 'name'
+Processing subject: LT
+Error processing folder Data\DataSet3_Align_cue_1_to_625_unc\cue\L\gDTF_100Hz\LT: 'DataFrame' object has no attribute 'name'
+Processing subject: NvA
+Error processing folder Data\DataSet3_Align_cue_1_to_625_unc\cue\L\gDTF_100Hz\NvA: 'DataFrame' object has no attribute 'name'
+Processing subject: RR
+Error processing folder Data\DataSet3_Align_cue_1_to_625_unc\cue\L\gDTF_100Hz\RR: 'DataFrame' object has no attribute 'name'
+Processing subject: SJB
+Error processing folder Data\DataSet3_Align_cue_1_to_625_unc\cue\L\gDTF_100Hz\SJB: 'DataFrame' object has no attribute 'name'
+Processing subject: BG
+Error processing folder Data\DataSet3_Align_cue_1_to_625_unc\cue\R\gDTF_100Hz\BG: 'DataFrame' object has no attribute 'name'
+Processing subject: DOC
+Error processing folder Data\DataSet3_Align_cue_1_to_625_unc\cue\R\gDTF_100Hz\DOC: 'DataFrame' object has no attribute 'name'
+Processing subject: GB
+Error processing folder Data\DataSet3_Align_cue_1_to_625_unc\cue\R\gDTF_100Hz\GB: 'DataFrame' object has no attribute 'name'
+Processing subject: JDC
+Error processing folder Data\DataSet3_Align_cue_1_to_625_unc\cue\R\gDTF_100Hz\JDC: 'DataFrame' object has no attribute 'name'
+Processing subject: JFXD
+Error processing folder Data\DataSet3_Align_cue_1_to_625_unc\cue\R\gDTF_100Hz\JFXD: 'DataFrame' object has no attribute 'name'
+Processing subject: JZ
+Error processing folder Data\DataSet3_Align_cue_1_to_625_unc\cue\R\gDTF_100Hz\JZ: 'DataFrame' object has no attribute 'name'
+Processing subject: LT
+Error processing folder Data\DataSet3_Align_cue_1_to_625_unc\cue\R\gDTF_100Hz\LT: 'DataFrame' object has no attribute 'name'
+Processing subject: NvA
+Error processing folder Data\DataSet3_Align_cue_1_to_625_unc\cue\R\gDTF_100Hz\NvA: 'DataFrame' object has no attribute 'name'
+Processing subject: RR
+Error processing folder Data\DataSet3_Align_cue_1_to_625_unc\cue\R\gDTF_100Hz\RR: 'DataFrame' object has no attribute 'name'
+Processing subject: SJB
+Error processing folder Data\DataSet3_Align_cue_1_to_625_unc\cue\R\gDTF_100Hz\SJB: 'DataFrame' object has no attribute 'name'
+Processing method_freq: gDTF_10Hz
+Created average matrix: Data\DataSet3_Align_cue_1_to_625_unc\cue\L\gDTF_10Hz\cue_LT-Pronation_L_anti_gDTF_10Hz_average.csv
+Created average matrix: Data\DataSet3_Align_cue_1_to_625_unc\cue\R\gDTF_10Hz\cue_LT-Pronation_R_anti_gDTF_10Hz_average.csv
+Processing subject: BG
+Error processing folder Data\DataSet3_Align_cue_1_to_625_unc\cue\L\gDTF_10Hz\BG: 'DataFrame' object has no attribute 'name'
+Processing subject: DOC
+Error processing folder Data\DataSet3_Align_cue_1_to_625_unc\cue\L\gDTF_10Hz\DOC: 'DataFrame' object has no attribute 'name'
+Processing subject: GB
+Error processing folder Data\DataSet3_Align_cue_1_to_625_unc\cue\L\gDTF_10Hz\GB: 'DataFrame' object has no attribute 'name'
+Processing subject: JDC
+Error processing folder Data\DataSet3_Align_cue_1_to_625_unc\cue\L\gDTF_10Hz\JDC: 'DataFrame' object has no attribute 'name'
+Processing subject: JFXD
+Error processing folder Data\DataSet3_Align_cue_1_to_625_unc\cue\L\gDTF_10Hz\JFXD: 'DataFrame' object has no attribute 'name'
+Processing subject: JZ
+Error processing folder Data\DataSet3_Align_cue_1_to_625_unc\cue\L\gDTF_10Hz\JZ: 'DataFrame' object has no attribute 'name'
+Processing subject: LT
+Error processing folder Data\DataSet3_Align_cue_1_to_625_unc\cue\L\gDTF_10Hz\LT: 'DataFrame' object has no attribute 'name'
+Processing subject: NvA
+Error processing folder Data\DataSet3_Align_cue_1_to_625_unc\cue\L\gDTF_10Hz\NvA: 'DataFrame' object has no attribute 'name'
+Processing subject: RR
+Error processing folder Data\DataSet3_Align_cue_1_to_625_unc\cue\L\gDTF_10Hz\RR: 'DataFrame' object has no attribute 'name'
+Processing subject: SJB
+Error processing folder Data\DataSet3_Align_cue_1_to_625_unc\cue\L\gDTF_10Hz\SJB: 'DataFrame' object has no attribute 'name'
+Processing subject: BG
+Error processing folder Data\DataSet3_Align_cue_1_to_625_unc\cue\R\gDTF_10Hz\BG: 'DataFrame' object has no attribute 'name'
+Processing subject: DOC
+Error processing folder Data\DataSet3_Align_cue_1_to_625_unc\cue\R\gDTF_10Hz\DOC: 'DataFrame' object has no attribute 'name'
+Processing subject: GB
+Error processing folder Data\DataSet3_Align_cue_1_to_625_unc\cue\R\gDTF_10Hz\GB: 'DataFrame' object has no attribute 'name'
+Processing subject: JDC
+Error processing folder Data\DataSet3_Align_cue_1_to_625_unc\cue\R\gDTF_10Hz\JDC: 'DataFrame' object has no attribute 'name'
+Processing subject: JFXD
+Error processing folder Data\DataSet3_Align_cue_1_to_625_unc\cue\R\gDTF_10Hz\JFXD: 'DataFrame' object has no attribute 'name'
+Processing subject: JZ
+Error processing folder Data\DataSet3_Align_cue_1_to_625_unc\cue\R\gDTF_10Hz\JZ: 'DataFrame' object has no attribute 'name'
+Processing subject: LT
+Error processing folder Data\DataSet3_Align_cue_1_to_625_unc\cue\R\gDTF_10Hz\LT: 'DataFrame' object has no attribute 'name'
+Processing subject: NvA
+Error processing folder Data\DataSet3_Align_cue_1_to_625_unc\cue\R\gDTF_10Hz\NvA: 'DataFrame' object has no attribute 'name'
+Processing subject: RR
+Error processing folder Data\DataSet3_Align_cue_1_to_625_unc\cue\R\gDTF_10Hz\RR: 'DataFrame' object has no attribute 'name'
+Processing subject: SJB
+Error processing folder Data\DataSet3_Align_cue_1_to_625_unc\cue\R\gDTF_10Hz\SJB: 'DataFrame' object has no attribute 'name'
+Processing method_freq: gDTF_20Hz
+Created average matrix: Data\DataSet3_Align_cue_1_to_625_unc\cue\L\gDTF_20Hz\cue_LT-Pronation_L_anti_gDTF_20Hz_average.csv
+Created average matrix: Data\DataSet3_Align_cue_1_to_625_unc\cue\R\gDTF_20Hz\cue_LT-Pronation_R_anti_gDTF_20Hz_average.csv
+Processing subject: BG
+Error processing folder Data\DataSet3_Align_cue_1_to_625_unc\cue\L\gDTF_20Hz\BG: 'DataFrame' object has no attribute 'name'
+Processing subject: DOC
+Error processing folder Data\DataSet3_Align_cue_1_to_625_unc\cue\L\gDTF_20Hz\DOC: 'DataFrame' object has no attribute 'name'
+Processing subject: GB
+Error processing folder Data\DataSet3_Align_cue_1_to_625_unc\cue\L\gDTF_20Hz\GB: 'DataFrame' object has no attribute 'name'
+Processing subject: JDC
+Error processing folder Data\DataSet3_Align_cue_1_to_625_unc\cue\L\gDTF_20Hz\JDC: 'DataFrame' object has no attribute 'name'
+Processing subject: JFXD
+Error processing folder Data\DataSet3_Align_cue_1_to_625_unc\cue\L\gDTF_20Hz\JFXD: 'DataFrame' object has no attribute 'name'
+Processing subject: JZ
+Error processing folder Data\DataSet3_Align_cue_1_to_625_unc\cue\L\gDTF_20Hz\JZ: 'DataFrame' object has no attribute 'name'
+Processing subject: LT
+Error processing folder Data\DataSet3_Align_cue_1_to_625_unc\cue\L\gDTF_20Hz\LT: 'DataFrame' object has no attribute 'name'
+Processing subject: NvA
+Error processing folder Data\DataSet3_Align_cue_1_to_625_unc\cue\L\gDTF_20Hz\NvA: 'DataFrame' object has no attribute 'name'
+Processing subject: RR
+Error processing folder Data\DataSet3_Align_cue_1_to_625_unc\cue\L\gDTF_20Hz\RR: 'DataFrame' object has no attribute 'name'
+Processing subject: SJB
+Error processing folder Data\DataSet3_Align_cue_1_to_625_unc\cue\L\gDTF_20Hz\SJB: 'DataFrame' object has no attribute 'name'
+Processing subject: BG
+Error processing folder Data\DataSet3_Align_cue_1_to_625_unc\cue\R\gDTF_20Hz\BG: 'DataFrame' object has no attribute 'name'
+Processing subject: DOC
+Error processing folder Data\DataSet3_Align_cue_1_to_625_unc\cue\R\gDTF_20Hz\DOC: 'DataFrame' object has no attribute 'name'
+Processing subject: GB
+Error processing folder Data\DataSet3_Align_cue_1_to_625_unc\cue\R\gDTF_20Hz\GB: 'DataFrame' object has no attribute 'name'
+Processing subject: JDC
+Error processing folder Data\DataSet3_Align_cue_1_to_625_unc\cue\R\gDTF_20Hz\JDC: 'DataFrame' object has no attribute 'name'
+Processing subject: JFXD
+Error processing folder Data\DataSet3_Align_cue_1_to_625_unc\cue\R\gDTF_20Hz\JFXD: 'DataFrame' object has no attribute 'name'
+Processing subject: JZ
+Error processing folder Data\DataSet3_Align_cue_1_to_625_unc\cue\R\gDTF_20Hz\JZ: 'DataFrame' object has no attribute 'name'
+Processing subject: LT
+Error processing folder Data\DataSet3_Align_cue_1_to_625_unc\cue\R\gDTF_20Hz\LT: 'DataFrame' object has no attribute 'name'
+Processing subject: NvA
+Error processing folder Data\DataSet3_Align_cue_1_to_625_unc\cue\R\gDTF_20Hz\NvA: 'DataFrame' object has no attribute 'name'
+Processing subject: RR
+Error processing folder Data\DataSet3_Align_cue_1_to_625_unc\cue\R\gDTF_20Hz\RR: 'DataFrame' object has no attribute 'name'
+Processing subject: SJB
+Error processing folder Data\DataSet3_Align_cue_1_to_625_unc\cue\R\gDTF_20Hz\SJB: 'DataFrame' object has no attribute 'name'
+Processing method_freq: gPDC_100Hz
+Created average matrix: Data\DataSet3_Align_cue_1_to_625_unc\cue\L\gPDC_100Hz\cue_LT-Pronation_L_anti_gPDC_100Hz_average.csv
+Created average matrix: Data\DataSet3_Align_cue_1_to_625_unc\cue\R\gPDC_100Hz\cue_LT-Pronation_R_anti_gPDC_100Hz_average.csv
+Processing subject: BG
+Error processing folder Data\DataSet3_Align_cue_1_to_625_unc\cue\L\gPDC_100Hz\BG: 'DataFrame' object has no attribute 'name'
+Processing subject: DOC
+Error processing folder Data\DataSet3_Align_cue_1_to_625_unc\cue\L\gPDC_100Hz\DOC: 'DataFrame' object has no attribute 'name'
+Processing subject: GB
+Error processing folder Data\DataSet3_Align_cue_1_to_625_unc\cue\L\gPDC_100Hz\GB: 'DataFrame' object has no attribute 'name'
+Processing subject: JDC
+Error processing folder Data\DataSet3_Align_cue_1_to_625_unc\cue\L\gPDC_100Hz\JDC: 'DataFrame' object has no attribute 'name'
+Processing subject: JFXD
+Error processing folder Data\DataSet3_Align_cue_1_to_625_unc\cue\L\gPDC_100Hz\JFXD: 'DataFrame' object has no attribute 'name'
+Processing subject: JZ
+Error processing folder Data\DataSet3_Align_cue_1_to_625_unc\cue\L\gPDC_100Hz\JZ: 'DataFrame' object has no attribute 'name'
+Processing subject: LT
+Error processing folder Data\DataSet3_Align_cue_1_to_625_unc\cue\L\gPDC_100Hz\LT: 'DataFrame' object has no attribute 'name'
+Processing subject: NvA
+Error processing folder Data\DataSet3_Align_cue_1_to_625_unc\cue\L\gPDC_100Hz\NvA: 'DataFrame' object has no attribute 'name'
+Processing subject: RR
+Error processing folder Data\DataSet3_Align_cue_1_to_625_unc\cue\L\gPDC_100Hz\RR: 'DataFrame' object has no attribute 'name'
+Processing subject: SJB
+Error processing folder Data\DataSet3_Align_cue_1_to_625_unc\cue\L\gPDC_100Hz\SJB: 'DataFrame' object has no attribute 'name'
+Processing subject: BG
+Error processing folder Data\DataSet3_Align_cue_1_to_625_unc\cue\R\gPDC_100Hz\BG: 'DataFrame' object has no attribute 'name'
+Processing subject: DOC
+Error processing folder Data\DataSet3_Align_cue_1_to_625_unc\cue\R\gPDC_100Hz\DOC: 'DataFrame' object has no attribute 'name'
+Processing subject: GB
+Error processing folder Data\DataSet3_Align_cue_1_to_625_unc\cue\R\gPDC_100Hz\GB: 'DataFrame' object has no attribute 'name'
+Processing subject: JDC
+Error processing folder Data\DataSet3_Align_cue_1_to_625_unc\cue\R\gPDC_100Hz\JDC: 'DataFrame' object has no attribute 'name'
+Processing subject: JFXD
+Error processing folder Data\DataSet3_Align_cue_1_to_625_unc\cue\R\gPDC_100Hz\JFXD: 'DataFrame' object has no attribute 'name'
+Processing subject: JZ
+Error processing folder Data\DataSet3_Align_cue_1_to_625_unc\cue\R\gPDC_100Hz\JZ: 'DataFrame' object has no attribute 'name'
+Processing subject: LT
+Error processing folder Data\DataSet3_Align_cue_1_to_625_unc\cue\R\gPDC_100Hz\LT: 'DataFrame' object has no attribute 'name'
+Processing subject: NvA
+Error processing folder Data\DataSet3_Align_cue_1_to_625_unc\cue\R\gPDC_100Hz\NvA: 'DataFrame' object has no attribute 'name'
+Processing subject: RR
+Error processing folder Data\DataSet3_Align_cue_1_to_625_unc\cue\R\gPDC_100Hz\RR: 'DataFrame' object has no attribute 'name'
+Processing subject: SJB
+Error processing folder Data\DataSet3_Align_cue_1_to_625_unc\cue\R\gPDC_100Hz\SJB: 'DataFrame' object has no attribute 'name'
+Processing method_freq: gPDC_10Hz
+Created average matrix: Data\DataSet3_Align_cue_1_to_625_unc\cue\L\gPDC_10Hz\cue_LT-Pronation_L_anti_gPDC_10Hz_average.csv
+Created average matrix: Data\DataSet3_Align_cue_1_to_625_unc\cue\R\gPDC_10Hz\cue_LT-Pronation_R_anti_gPDC_10Hz_average.csv
+Processing subject: BG
+Error processing folder Data\DataSet3_Align_cue_1_to_625_unc\cue\L\gPDC_10Hz\BG: 'DataFrame' object has no attribute 'name'
+Processing subject: DOC
+Error processing folder Data\DataSet3_Align_cue_1_to_625_unc\cue\L\gPDC_10Hz\DOC: 'DataFrame' object has no attribute 'name'
+Processing subject: GB
+Error processing folder Data\DataSet3_Align_cue_1_to_625_unc\cue\L\gPDC_10Hz\GB: 'DataFrame' object has no attribute 'name'
+Processing subject: JDC
+Error processing folder Data\DataSet3_Align_cue_1_to_625_unc\cue\L\gPDC_10Hz\JDC: 'DataFrame' object has no attribute 'name'
+Processing subject: JFXD
+Error processing folder Data\DataSet3_Align_cue_1_to_625_unc\cue\L\gPDC_10Hz\JFXD: 'DataFrame' object has no attribute 'name'
+Processing subject: JZ
+Error processing folder Data\DataSet3_Align_cue_1_to_625_unc\cue\L\gPDC_10Hz\JZ: 'DataFrame' object has no attribute 'name'
+Processing subject: LT
+Error processing folder Data\DataSet3_Align_cue_1_to_625_unc\cue\L\gPDC_10Hz\LT: 'DataFrame' object has no attribute 'name'
+Processing subject: NvA
+Error processing folder Data\DataSet3_Align_cue_1_to_625_unc\cue\L\gPDC_10Hz\NvA: 'DataFrame' object has no attribute 'name'
+Processing subject: RR
+Error processing folder Data\DataSet3_Align_cue_1_to_625_unc\cue\L\gPDC_10Hz\RR: 'DataFrame' object has no attribute 'name'
+Processing subject: SJB
+Error processing folder Data\DataSet3_Align_cue_1_to_625_unc\cue\L\gPDC_10Hz\SJB: 'DataFrame' object has no attribute 'name'
+Processing subject: BG
+Error processing folder Data\DataSet3_Align_cue_1_to_625_unc\cue\R\gPDC_10Hz\BG: 'DataFrame' object has no attribute 'name'
+Processing subject: DOC
+Error processing folder Data\DataSet3_Align_cue_1_to_625_unc\cue\R\gPDC_10Hz\DOC: 'DataFrame' object has no attribute 'name'
+Processing subject: GB
+Error processing folder Data\DataSet3_Align_cue_1_to_625_unc\cue\R\gPDC_10Hz\GB: 'DataFrame' object has no attribute 'name'
+Processing subject: JDC
+Error processing folder Data\DataSet3_Align_cue_1_to_625_unc\cue\R\gPDC_10Hz\JDC: 'DataFrame' object has no attribute 'name'
+Processing subject: JFXD
+Error processing folder Data\DataSet3_Align_cue_1_to_625_unc\cue\R\gPDC_10Hz\JFXD: 'DataFrame' object has no attribute 'name'
+Processing subject: JZ
+Error processing folder Data\DataSet3_Align_cue_1_to_625_unc\cue\R\gPDC_10Hz\JZ: 'DataFrame' object has no attribute 'name'
+Processing subject: LT
+Error processing folder Data\DataSet3_Align_cue_1_to_625_unc\cue\R\gPDC_10Hz\LT: 'DataFrame' object has no attribute 'name'
+Processing subject: NvA
+Error processing folder Data\DataSet3_Align_cue_1_to_625_unc\cue\R\gPDC_10Hz\NvA: 'DataFrame' object has no attribute 'name'
+Processing subject: RR
+Error processing folder Data\DataSet3_Align_cue_1_to_625_unc\cue\R\gPDC_10Hz\RR: 'DataFrame' object has no attribute 'name'
+Processing subject: SJB
+Error processing folder Data\DataSet3_Align_cue_1_to_625_unc\cue\R\gPDC_10Hz\SJB: 'DataFrame' object has no attribute 'name'
+Processing method_freq: gPDC_20Hz
+Created average matrix: Data\DataSet3_Align_cue_1_to_625_unc\cue\L\gPDC_20Hz\cue_LT-Pronation_L_anti_gPDC_20Hz_average.csv
+Created average matrix: Data\DataSet3_Align_cue_1_to_625_unc\cue\R\gPDC_20Hz\cue_LT-Pronation_R_anti_gPDC_20Hz_average.csv
+Processing subject: BG
+Error processing folder Data\DataSet3_Align_cue_1_to_625_unc\cue\L\gPDC_20Hz\BG: 'DataFrame' object has no attribute 'name'
+Processing subject: DOC
+Error processing folder Data\DataSet3_Align_cue_1_to_625_unc\cue\L\gPDC_20Hz\DOC: 'DataFrame' object has no attribute 'name'
+Processing subject: GB
+Error processing folder Data\DataSet3_Align_cue_1_to_625_unc\cue\L\gPDC_20Hz\GB: 'DataFrame' object has no attribute 'name'
+Processing subject: JDC
+Error processing folder Data\DataSet3_Align_cue_1_to_625_unc\cue\L\gPDC_20Hz\JDC: 'DataFrame' object has no attribute 'name'
+Processing subject: JFXD
+Error processing folder Data\DataSet3_Align_cue_1_to_625_unc\cue\L\gPDC_20Hz\JFXD: 'DataFrame' object has no attribute 'name'
+Processing subject: JZ
+Error processing folder Data\DataSet3_Align_cue_1_to_625_unc\cue\L\gPDC_20Hz\JZ: 'DataFrame' object has no attribute 'name'
+Processing subject: LT
+Error processing folder Data\DataSet3_Align_cue_1_to_625_unc\cue\L\gPDC_20Hz\LT: 'DataFrame' object has no attribute 'name'
+Processing subject: NvA
+Error processing folder Data\DataSet3_Align_cue_1_to_625_unc\cue\L\gPDC_20Hz\NvA: 'DataFrame' object has no attribute 'name'
+Processing subject: RR
+Error processing folder Data\DataSet3_Align_cue_1_to_625_unc\cue\L\gPDC_20Hz\RR: 'DataFrame' object has no attribute 'name'
+Processing subject: SJB
+Error processing folder Data\DataSet3_Align_cue_1_to_625_unc\cue\L\gPDC_20Hz\SJB: 'DataFrame' object has no attribute 'name'
+Processing subject: BG
+Error processing folder Data\DataSet3_Align_cue_1_to_625_unc\cue\R\gPDC_20Hz\BG: 'DataFrame' object has no attribute 'name'
+Processing subject: DOC
+Error processing folder Data\DataSet3_Align_cue_1_to_625_unc\cue\R\gPDC_20Hz\DOC: 'DataFrame' object has no attribute 'name'
+Processing subject: GB
+Error processing folder Data\DataSet3_Align_cue_1_to_625_unc\cue\R\gPDC_20Hz\GB: 'DataFrame' object has no attribute 'name'
+Processing subject: JDC
+Error processing folder Data\DataSet3_Align_cue_1_to_625_unc\cue\R\gPDC_20Hz\JDC: 'DataFrame' object has no attribute 'name'
+Processing subject: JFXD
+Error processing folder Data\DataSet3_Align_cue_1_to_625_unc\cue\R\gPDC_20Hz\JFXD: 'DataFrame' object has no attribute 'name'
+Processing subject: JZ
+Error processing folder Data\DataSet3_Align_cue_1_to_625_unc\cue\R\gPDC_20Hz\JZ: 'DataFrame' object has no attribute 'name'
+Processing subject: LT
+Error processing folder Data\DataSet3_Align_cue_1_to_625_unc\cue\R\gPDC_20Hz\LT: 'DataFrame' object has no attribute 'name'
+Processing subject: NvA
+Error processing folder Data\DataSet3_Align_cue_1_to_625_unc\cue\R\gPDC_20Hz\NvA: 'DataFrame' object has no attribute 'name'
+Processing subject: RR
+Error processing folder Data\DataSet3_Align_cue_1_to_625_unc\cue\R\gPDC_20Hz\RR: 'DataFrame' object has no attribute 'name'
+Processing subject: SJB
+Error processing folder Data\DataSet3_Align_cue_1_to_625_unc\cue\R\gPDC_20Hz\SJB: 'DataFrame' object has no attribute 'name'
+Processing method_freq: iDTF_100Hz
+Created average matrix: Data\DataSet3_Align_cue_1_to_625_unc\cue\L\iDTF_100Hz\cue_LT-Pronation_L_anti_iDTF_100Hz_average.csv
+Created average matrix: Data\DataSet3_Align_cue_1_to_625_unc\cue\R\iDTF_100Hz\cue_LT-Pronation_R_anti_iDTF_100Hz_average.csv
+Processing subject: BG
+Processing subject: DOC
+Processing subject: GB
+Processing subject: JDC
+Processing subject: JFXD
+Processing subject: JZ
+Processing subject: LT
+Processing subject: NvA
+Processing subject: RR
+Processing subject: SJB
+Processing subject: BG
+Processing subject: DOC
+Processing subject: GB
+Processing subject: JDC
+Processing subject: JFXD
+Processing subject: JZ
+Processing subject: LT
+Processing subject: NvA
+Processing subject: RR
+Processing subject: SJB
+Processing method_freq: iDTF_10Hz
+Created average matrix: Data\DataSet3_Align_cue_1_to_625_unc\cue\L\iDTF_10Hz\cue_LT-Pronation_L_anti_iDTF_10Hz_average.csv
+Created average matrix: Data\DataSet3_Align_cue_1_to_625_unc\cue\R\iDTF_10Hz\cue_LT-Pronation_R_anti_iDTF_10Hz_average.csv
+Processing subject: BG
+Processing subject: DOC
+Processing subject: GB
+Processing subject: JDC
+Processing subject: JFXD
+Processing subject: JZ
+Processing subject: LT
+Processing subject: NvA
+Processing subject: RR
+Processing subject: SJB
+Processing subject: BG
+Processing subject: DOC
+Processing subject: GB
+Processing subject: JDC
+Processing subject: JFXD
+Processing subject: JZ
+Processing subject: LT
+Processing subject: NvA
+Processing subject: RR
+Processing subject: SJB
+Processing method_freq: iDTF_20Hz
+Created average matrix: Data\DataSet3_Align_cue_1_to_625_unc\cue\L\iDTF_20Hz\cue_LT-Pronation_L_anti_iDTF_20Hz_average.csv
+Created average matrix: Data\DataSet3_Align_cue_1_to_625_unc\cue\R\iDTF_20Hz\cue_LT-Pronation_R_anti_iDTF_20Hz_average.csv
+Processing subject: BG
+Processing subject: DOC
+Processing subject: GB
+Processing subject: JDC
+Processing subject: JFXD
+Processing subject: JZ
+Processing subject: LT
+Processing subject: NvA
+Processing subject: RR
+Processing subject: SJB
+Processing subject: BG
+Processing subject: DOC
+Processing subject: GB
+Processing subject: JDC
+Processing subject: JFXD
+Processing subject: JZ
+Processing subject: LT
+Processing subject: NvA
+Processing subject: RR
+Processing subject: SJB
+Processing method_freq: iPDC_100Hz
+Created average matrix: Data\DataSet3_Align_cue_1_to_625_unc\cue\L\iPDC_100Hz\cue_LT-Pronation_L_anti_iPDC_100Hz_average.csv
+Created average matrix: Data\DataSet3_Align_cue_1_to_625_unc\cue\R\iPDC_100Hz\cue_LT-Pronation_R_anti_iPDC_100Hz_average.csv
+Processing subject: BG
+Error processing folder Data\DataSet3_Align_cue_1_to_625_unc\cue\L\iPDC_100Hz\BG: 'DataFrame' object has no attribute 'name'
+Processing subject: DOC
+Error processing folder Data\DataSet3_Align_cue_1_to_625_unc\cue\L\iPDC_100Hz\DOC: 'DataFrame' object has no attribute 'name'
+Processing subject: GB
+Error processing folder Data\DataSet3_Align_cue_1_to_625_unc\cue\L\iPDC_100Hz\GB: 'DataFrame' object has no attribute 'name'
+Processing subject: JDC
+Error processing folder Data\DataSet3_Align_cue_1_to_625_unc\cue\L\iPDC_100Hz\JDC: 'DataFrame' object has no attribute 'name'
+Processing subject: JFXD
+Error processing folder Data\DataSet3_Align_cue_1_to_625_unc\cue\L\iPDC_100Hz\JFXD: 'DataFrame' object has no attribute 'name'
+Processing subject: JZ
+Error processing folder Data\DataSet3_Align_cue_1_to_625_unc\cue\L\iPDC_100Hz\JZ: 'DataFrame' object has no attribute 'name'
+Processing subject: LT
+Error processing folder Data\DataSet3_Align_cue_1_to_625_unc\cue\L\iPDC_100Hz\LT: 'DataFrame' object has no attribute 'name'
+Processing subject: NvA
+Error processing folder Data\DataSet3_Align_cue_1_to_625_unc\cue\L\iPDC_100Hz\NvA: 'DataFrame' object has no attribute 'name'
+Processing subject: RR
+Error processing folder Data\DataSet3_Align_cue_1_to_625_unc\cue\L\iPDC_100Hz\RR: 'DataFrame' object has no attribute 'name'
+Processing subject: SJB
+Error processing folder Data\DataSet3_Align_cue_1_to_625_unc\cue\L\iPDC_100Hz\SJB: 'DataFrame' object has no attribute 'name'
+Processing subject: BG
+Error processing folder Data\DataSet3_Align_cue_1_to_625_unc\cue\R\iPDC_100Hz\BG: 'DataFrame' object has no attribute 'name'
+Processing subject: DOC
+Error processing folder Data\DataSet3_Align_cue_1_to_625_unc\cue\R\iPDC_100Hz\DOC: 'DataFrame' object has no attribute 'name'
+Processing subject: GB
+Error processing folder Data\DataSet3_Align_cue_1_to_625_unc\cue\R\iPDC_100Hz\GB: 'DataFrame' object has no attribute 'name'
+Processing subject: JDC
+Error processing folder Data\DataSet3_Align_cue_1_to_625_unc\cue\R\iPDC_100Hz\JDC: 'DataFrame' object has no attribute 'name'
+Processing subject: JFXD
+Error processing folder Data\DataSet3_Align_cue_1_to_625_unc\cue\R\iPDC_100Hz\JFXD: 'DataFrame' object has no attribute 'name'
+Processing subject: JZ
+Error processing folder Data\DataSet3_Align_cue_1_to_625_unc\cue\R\iPDC_100Hz\JZ: 'DataFrame' object has no attribute 'name'
+Processing subject: LT
+Error processing folder Data\DataSet3_Align_cue_1_to_625_unc\cue\R\iPDC_100Hz\LT: 'DataFrame' object has no attribute 'name'
+Processing subject: NvA
+Error processing folder Data\DataSet3_Align_cue_1_to_625_unc\cue\R\iPDC_100Hz\NvA: 'DataFrame' object has no attribute 'name'
+Processing subject: RR
+Error processing folder Data\DataSet3_Align_cue_1_to_625_unc\cue\R\iPDC_100Hz\RR: 'DataFrame' object has no attribute 'name'
+Processing subject: SJB
+Error processing folder Data\DataSet3_Align_cue_1_to_625_unc\cue\R\iPDC_100Hz\SJB: 'DataFrame' object has no attribute 'name'
+Processing method_freq: iPDC_10Hz
+Created average matrix: Data\DataSet3_Align_cue_1_to_625_unc\cue\L\iPDC_10Hz\cue_LT-Pronation_L_anti_iPDC_10Hz_average.csv
+Created average matrix: Data\DataSet3_Align_cue_1_to_625_unc\cue\R\iPDC_10Hz\cue_LT-Pronation_R_anti_iPDC_10Hz_average.csv
+Processing subject: BG
+Error processing folder Data\DataSet3_Align_cue_1_to_625_unc\cue\L\iPDC_10Hz\BG: 'DataFrame' object has no attribute 'name'
+Processing subject: DOC
+Error processing folder Data\DataSet3_Align_cue_1_to_625_unc\cue\L\iPDC_10Hz\DOC: 'DataFrame' object has no attribute 'name'
+Processing subject: GB
+Error processing folder Data\DataSet3_Align_cue_1_to_625_unc\cue\L\iPDC_10Hz\GB: 'DataFrame' object has no attribute 'name'
+Processing subject: JDC
+Error processing folder Data\DataSet3_Align_cue_1_to_625_unc\cue\L\iPDC_10Hz\JDC: 'DataFrame' object has no attribute 'name'
+Processing subject: JFXD
+Error processing folder Data\DataSet3_Align_cue_1_to_625_unc\cue\L\iPDC_10Hz\JFXD: 'DataFrame' object has no attribute 'name'
+Processing subject: JZ
+Error processing folder Data\DataSet3_Align_cue_1_to_625_unc\cue\L\iPDC_10Hz\JZ: 'DataFrame' object has no attribute 'name'
+Processing subject: LT
+Error processing folder Data\DataSet3_Align_cue_1_to_625_unc\cue\L\iPDC_10Hz\LT: 'DataFrame' object has no attribute 'name'
+Processing subject: NvA
+Error processing folder Data\DataSet3_Align_cue_1_to_625_unc\cue\L\iPDC_10Hz\NvA: 'DataFrame' object has no attribute 'name'
+Processing subject: RR
+Error processing folder Data\DataSet3_Align_cue_1_to_625_unc\cue\L\iPDC_10Hz\RR: 'DataFrame' object has no attribute 'name'
+Processing subject: SJB
+Error processing folder Data\DataSet3_Align_cue_1_to_625_unc\cue\L\iPDC_10Hz\SJB: 'DataFrame' object has no attribute 'name'
+Processing subject: BG
+Error processing folder Data\DataSet3_Align_cue_1_to_625_unc\cue\R\iPDC_10Hz\BG: 'DataFrame' object has no attribute 'name'
+Processing subject: DOC
+Error processing folder Data\DataSet3_Align_cue_1_to_625_unc\cue\R\iPDC_10Hz\DOC: 'DataFrame' object has no attribute 'name'
+Processing subject: GB
+Error processing folder Data\DataSet3_Align_cue_1_to_625_unc\cue\R\iPDC_10Hz\GB: 'DataFrame' object has no attribute 'name'
+Processing subject: JDC
+Error processing folder Data\DataSet3_Align_cue_1_to_625_unc\cue\R\iPDC_10Hz\JDC: 'DataFrame' object has no attribute 'name'
+Processing subject: JFXD
+Error processing folder Data\DataSet3_Align_cue_1_to_625_unc\cue\R\iPDC_10Hz\JFXD: 'DataFrame' object has no attribute 'name'
+Processing subject: JZ
+Error processing folder Data\DataSet3_Align_cue_1_to_625_unc\cue\R\iPDC_10Hz\JZ: 'DataFrame' object has no attribute 'name'
+Processing subject: LT
+Error processing folder Data\DataSet3_Align_cue_1_to_625_unc\cue\R\iPDC_10Hz\LT: 'DataFrame' object has no attribute 'name'
+Processing subject: NvA
+Error processing folder Data\DataSet3_Align_cue_1_to_625_unc\cue\R\iPDC_10Hz\NvA: 'DataFrame' object has no attribute 'name'
+Processing subject: RR
+Error processing folder Data\DataSet3_Align_cue_1_to_625_unc\cue\R\iPDC_10Hz\RR: 'DataFrame' object has no attribute 'name'
+Processing subject: SJB
+Error processing folder Data\DataSet3_Align_cue_1_to_625_unc\cue\R\iPDC_10Hz\SJB: 'DataFrame' object has no attribute 'name'
+Processing method_freq: iPDC_20Hz
+Created average matrix: Data\DataSet3_Align_cue_1_to_625_unc\cue\L\iPDC_20Hz\cue_LT-Pronation_L_anti_iPDC_20Hz_average.csv
+Created average matrix: Data\DataSet3_Align_cue_1_to_625_unc\cue\R\iPDC_20Hz\cue_LT-Pronation_R_anti_iPDC_20Hz_average.csv
+Processing subject: BG
+Error processing folder Data\DataSet3_Align_cue_1_to_625_unc\cue\L\iPDC_20Hz\BG: 'DataFrame' object has no attribute 'name'
+Processing subject: DOC
+Error processing folder Data\DataSet3_Align_cue_1_to_625_unc\cue\L\iPDC_20Hz\DOC: 'DataFrame' object has no attribute 'name'
+Processing subject: GB
+Error processing folder Data\DataSet3_Align_cue_1_to_625_unc\cue\L\iPDC_20Hz\GB: 'DataFrame' object has no attribute 'name'
+Processing subject: JDC
+Error processing folder Data\DataSet3_Align_cue_1_to_625_unc\cue\L\iPDC_20Hz\JDC: 'DataFrame' object has no attribute 'name'
+Processing subject: JFXD
+Error processing folder Data\DataSet3_Align_cue_1_to_625_unc\cue\L\iPDC_20Hz\JFXD: 'DataFrame' object has no attribute 'name'
+Processing subject: JZ
+Error processing folder Data\DataSet3_Align_cue_1_to_625_unc\cue\L\iPDC_20Hz\JZ: 'DataFrame' object has no attribute 'name'
+Processing subject: LT
+Error processing folder Data\DataSet3_Align_cue_1_to_625_unc\cue\L\iPDC_20Hz\LT: 'DataFrame' object has no attribute 'name'
+Processing subject: NvA
+Error processing folder Data\DataSet3_Align_cue_1_to_625_unc\cue\L\iPDC_20Hz\NvA: 'DataFrame' object has no attribute 'name'
+Processing subject: RR
+Error processing folder Data\DataSet3_Align_cue_1_to_625_unc\cue\L\iPDC_20Hz\RR: 'DataFrame' object has no attribute 'name'
+Processing subject: SJB
+Error processing folder Data\DataSet3_Align_cue_1_to_625_unc\cue\L\iPDC_20Hz\SJB: 'DataFrame' object has no attribute 'name'
+Processing subject: BG
+Error processing folder Data\DataSet3_Align_cue_1_to_625_unc\cue\R\iPDC_20Hz\BG: 'DataFrame' object has no attribute 'name'
+Processing subject: DOC
+Error processing folder Data\DataSet3_Align_cue_1_to_625_unc\cue\R\iPDC_20Hz\DOC: 'DataFrame' object has no attribute 'name'
+Processing subject: GB
+Error processing folder Data\DataSet3_Align_cue_1_to_625_unc\cue\R\iPDC_20Hz\GB: 'DataFrame' object has no attribute 'name'
+Processing subject: JDC
+Error processing folder Data\DataSet3_Align_cue_1_to_625_unc\cue\R\iPDC_20Hz\JDC: 'DataFrame' object has no attribute 'name'
+Processing subject: JFXD
+Error processing folder Data\DataSet3_Align_cue_1_to_625_unc\cue\R\iPDC_20Hz\JFXD: 'DataFrame' object has no attribute 'name'
+Processing subject: JZ
+Error processing folder Data\DataSet3_Align_cue_1_to_625_unc\cue\R\iPDC_20Hz\JZ: 'DataFrame' object has no attribute 'name'
+Processing subject: LT
+Error processing folder Data\DataSet3_Align_cue_1_to_625_unc\cue\R\iPDC_20Hz\LT: 'DataFrame' object has no attribute 'name'
+Processing subject: NvA
+Error processing folder Data\DataSet3_Align_cue_1_to_625_unc\cue\R\iPDC_20Hz\NvA: 'DataFrame' object has no attribute 'name'
+Processing subject: RR
+Error processing folder Data\DataSet3_Align_cue_1_to_625_unc\cue\R\iPDC_20Hz\RR: 'DataFrame' object has no attribute 'name'
+Processing subject: SJB
+Error processing folder Data\DataSet3_Align_cue_1_to_625_unc\cue\R\iPDC_20Hz\SJB: 'DataFrame' object has no attribute 'name'
+
+Operation Summary
+================
+Total matrices processed: 3384
+Total averages created: 24
+Errors encountered: 180
+
+Process completed at: 2025-02-11 22:51:59

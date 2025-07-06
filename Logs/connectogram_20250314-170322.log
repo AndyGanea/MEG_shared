@@ -1,0 +1,256 @@
+2025-03-14 17:03:22,360 - INFO - Starting MEG Connectogram Visualization V2
+2025-03-14 17:03:22,362 - INFO - Selected dataset: DataSet5_Align_cue_626_to_938_unc
+2025-03-14 17:03:22,362 - INFO - Selected analysis type: Wilcoxon
+2025-03-14 17:03:22,363 - INFO - Selected analysis folder: Wilcoxon_03102025-1305
+2025-03-14 17:03:22,363 - INFO - Log file: Logs\connectogram_20250314-170322.log
+2025-03-14 17:03:22,364 - INFO - Processing all folders in Wilcoxon_03102025-1305...
+2025-03-14 17:03:22,366 - INFO - Processing Cue_gDTF_100Hz...
+2025-03-14 17:03:22,366 - INFO - Processing folder: Cue_gDTF_100Hz
+2025-03-14 17:03:22,368 - INFO - Found 12 CSV files
+2025-03-14 17:03:22,368 - INFO - Processing gDTF 100Hz_L-R_BG
+2025-03-14 17:03:22,368 - ERROR - Error processing gDTF_100Hz_L-R_BG.csv: 'MEGConnectogramVisualizer' object has no attribute 'read_connectivity_matrix'
+2025-03-14 17:03:22,368 - INFO - Processing gDTF 100Hz_L-R_DOC
+2025-03-14 17:03:22,368 - ERROR - Error processing gDTF_100Hz_L-R_DOC.csv: 'MEGConnectogramVisualizer' object has no attribute 'read_connectivity_matrix'
+2025-03-14 17:03:22,369 - INFO - Processing gDTF 100Hz_L-R_GB
+2025-03-14 17:03:22,369 - ERROR - Error processing gDTF_100Hz_L-R_GB.csv: 'MEGConnectogramVisualizer' object has no attribute 'read_connectivity_matrix'
+2025-03-14 17:03:22,369 - INFO - Processing gDTF 100Hz_L-R_JDC
+2025-03-14 17:03:22,369 - ERROR - Error processing gDTF_100Hz_L-R_JDC.csv: 'MEGConnectogramVisualizer' object has no attribute 'read_connectivity_matrix'
+2025-03-14 17:03:22,369 - INFO - Processing gDTF 100Hz_L-R_JFXD
+2025-03-14 17:03:22,369 - ERROR - Error processing gDTF_100Hz_L-R_JFXD.csv: 'MEGConnectogramVisualizer' object has no attribute 'read_connectivity_matrix'
+2025-03-14 17:03:22,370 - INFO - Processing gDTF 100Hz_L-R_JZ
+2025-03-14 17:03:22,370 - ERROR - Error processing gDTF_100Hz_L-R_JZ.csv: 'MEGConnectogramVisualizer' object has no attribute 'read_connectivity_matrix'
+2025-03-14 17:03:22,370 - INFO - Processing gDTF 100Hz_L-R_LT
+2025-03-14 17:03:22,370 - ERROR - Error processing gDTF_100Hz_L-R_LT.csv: 'MEGConnectogramVisualizer' object has no attribute 'read_connectivity_matrix'
+2025-03-14 17:03:22,371 - INFO - Processing gDTF 100Hz_L-R_NvA
+2025-03-14 17:03:22,371 - ERROR - Error processing gDTF_100Hz_L-R_NvA.csv: 'MEGConnectogramVisualizer' object has no attribute 'read_connectivity_matrix'
+2025-03-14 17:03:22,371 - INFO - Processing gDTF 100Hz_L-R_overall
+2025-03-14 17:03:22,371 - ERROR - Error processing gDTF_100Hz_L-R_overall.csv: 'MEGConnectogramVisualizer' object has no attribute 'read_connectivity_matrix'
+2025-03-14 17:03:22,371 - INFO - Processing gDTF 100Hz_L-R_RR
+2025-03-14 17:03:22,372 - ERROR - Error processing gDTF_100Hz_L-R_RR.csv: 'MEGConnectogramVisualizer' object has no attribute 'read_connectivity_matrix'
+2025-03-14 17:03:22,372 - INFO - Processing gDTF 100Hz_L-R_SJB
+2025-03-14 17:03:22,372 - ERROR - Error processing gDTF_100Hz_L-R_SJB.csv: 'MEGConnectogramVisualizer' object has no attribute 'read_connectivity_matrix'
+2025-03-14 17:03:22,372 - INFO - Processing gDTF 100Hz_L-R_wilcoxon
+2025-03-14 17:03:22,372 - ERROR - Error processing gDTF_100Hz_L-R_wilcoxon.csv: 'MEGConnectogramVisualizer' object has no attribute 'read_connectivity_matrix'
+2025-03-14 17:03:22,372 - INFO - Processing Cue_gDTF_10Hz...
+2025-03-14 17:03:22,372 - INFO - Processing folder: Cue_gDTF_10Hz
+2025-03-14 17:03:22,373 - INFO - Found 12 CSV files
+2025-03-14 17:03:22,373 - INFO - Processing gDTF 10Hz_L-R_BG
+2025-03-14 17:03:22,374 - ERROR - Error processing gDTF_10Hz_L-R_BG.csv: 'MEGConnectogramVisualizer' object has no attribute 'read_connectivity_matrix'
+2025-03-14 17:03:22,374 - INFO - Processing gDTF 10Hz_L-R_DOC
+2025-03-14 17:03:22,374 - ERROR - Error processing gDTF_10Hz_L-R_DOC.csv: 'MEGConnectogramVisualizer' object has no attribute 'read_connectivity_matrix'
+2025-03-14 17:03:22,374 - INFO - Processing gDTF 10Hz_L-R_GB
+2025-03-14 17:03:22,374 - ERROR - Error processing gDTF_10Hz_L-R_GB.csv: 'MEGConnectogramVisualizer' object has no attribute 'read_connectivity_matrix'
+2025-03-14 17:03:22,374 - INFO - Processing gDTF 10Hz_L-R_JDC
+2025-03-14 17:03:22,375 - ERROR - Error processing gDTF_10Hz_L-R_JDC.csv: 'MEGConnectogramVisualizer' object has no attribute 'read_connectivity_matrix'
+2025-03-14 17:03:22,375 - INFO - Processing gDTF 10Hz_L-R_JFXD
+2025-03-14 17:03:22,375 - ERROR - Error processing gDTF_10Hz_L-R_JFXD.csv: 'MEGConnectogramVisualizer' object has no attribute 'read_connectivity_matrix'
+2025-03-14 17:03:22,375 - INFO - Processing gDTF 10Hz_L-R_JZ
+2025-03-14 17:03:22,375 - ERROR - Error processing gDTF_10Hz_L-R_JZ.csv: 'MEGConnectogramVisualizer' object has no attribute 'read_connectivity_matrix'
+2025-03-14 17:03:22,375 - INFO - Processing gDTF 10Hz_L-R_LT
+2025-03-14 17:03:22,376 - ERROR - Error processing gDTF_10Hz_L-R_LT.csv: 'MEGConnectogramVisualizer' object has no attribute 'read_connectivity_matrix'
+2025-03-14 17:03:22,376 - INFO - Processing gDTF 10Hz_L-R_NvA
+2025-03-14 17:03:22,376 - ERROR - Error processing gDTF_10Hz_L-R_NvA.csv: 'MEGConnectogramVisualizer' object has no attribute 'read_connectivity_matrix'
+2025-03-14 17:03:22,376 - INFO - Processing gDTF 10Hz_L-R_overall
+2025-03-14 17:03:22,376 - ERROR - Error processing gDTF_10Hz_L-R_overall.csv: 'MEGConnectogramVisualizer' object has no attribute 'read_connectivity_matrix'
+2025-03-14 17:03:22,376 - INFO - Processing gDTF 10Hz_L-R_RR
+2025-03-14 17:03:22,376 - ERROR - Error processing gDTF_10Hz_L-R_RR.csv: 'MEGConnectogramVisualizer' object has no attribute 'read_connectivity_matrix'
+2025-03-14 17:03:22,377 - INFO - Processing gDTF 10Hz_L-R_SJB
+2025-03-14 17:03:22,377 - ERROR - Error processing gDTF_10Hz_L-R_SJB.csv: 'MEGConnectogramVisualizer' object has no attribute 'read_connectivity_matrix'
+2025-03-14 17:03:22,377 - INFO - Processing gDTF 10Hz_L-R_wilcoxon
+2025-03-14 17:03:22,377 - ERROR - Error processing gDTF_10Hz_L-R_wilcoxon.csv: 'MEGConnectogramVisualizer' object has no attribute 'read_connectivity_matrix'
+2025-03-14 17:03:22,377 - INFO - Processing Cue_gDTF_20Hz...
+2025-03-14 17:03:22,377 - INFO - Processing folder: Cue_gDTF_20Hz
+2025-03-14 17:03:22,378 - INFO - Found 12 CSV files
+2025-03-14 17:03:22,378 - INFO - Processing gDTF 20Hz_L-R_BG
+2025-03-14 17:03:22,378 - ERROR - Error processing gDTF_20Hz_L-R_BG.csv: 'MEGConnectogramVisualizer' object has no attribute 'read_connectivity_matrix'
+2025-03-14 17:03:22,378 - INFO - Processing gDTF 20Hz_L-R_DOC
+2025-03-14 17:03:22,378 - ERROR - Error processing gDTF_20Hz_L-R_DOC.csv: 'MEGConnectogramVisualizer' object has no attribute 'read_connectivity_matrix'
+2025-03-14 17:03:22,379 - INFO - Processing gDTF 20Hz_L-R_GB
+2025-03-14 17:03:22,379 - ERROR - Error processing gDTF_20Hz_L-R_GB.csv: 'MEGConnectogramVisualizer' object has no attribute 'read_connectivity_matrix'
+2025-03-14 17:03:22,379 - INFO - Processing gDTF 20Hz_L-R_JDC
+2025-03-14 17:03:22,379 - ERROR - Error processing gDTF_20Hz_L-R_JDC.csv: 'MEGConnectogramVisualizer' object has no attribute 'read_connectivity_matrix'
+2025-03-14 17:03:22,379 - INFO - Processing gDTF 20Hz_L-R_JFXD
+2025-03-14 17:03:22,379 - ERROR - Error processing gDTF_20Hz_L-R_JFXD.csv: 'MEGConnectogramVisualizer' object has no attribute 'read_connectivity_matrix'
+2025-03-14 17:03:22,380 - INFO - Processing gDTF 20Hz_L-R_JZ
+2025-03-14 17:03:22,380 - ERROR - Error processing gDTF_20Hz_L-R_JZ.csv: 'MEGConnectogramVisualizer' object has no attribute 'read_connectivity_matrix'
+2025-03-14 17:03:22,380 - INFO - Processing gDTF 20Hz_L-R_LT
+2025-03-14 17:03:22,380 - ERROR - Error processing gDTF_20Hz_L-R_LT.csv: 'MEGConnectogramVisualizer' object has no attribute 'read_connectivity_matrix'
+2025-03-14 17:03:22,380 - INFO - Processing gDTF 20Hz_L-R_NvA
+2025-03-14 17:03:22,380 - ERROR - Error processing gDTF_20Hz_L-R_NvA.csv: 'MEGConnectogramVisualizer' object has no attribute 'read_connectivity_matrix'
+2025-03-14 17:03:22,381 - INFO - Processing gDTF 20Hz_L-R_overall
+2025-03-14 17:03:22,381 - ERROR - Error processing gDTF_20Hz_L-R_overall.csv: 'MEGConnectogramVisualizer' object has no attribute 'read_connectivity_matrix'
+2025-03-14 17:03:22,381 - INFO - Processing gDTF 20Hz_L-R_RR
+2025-03-14 17:03:22,381 - ERROR - Error processing gDTF_20Hz_L-R_RR.csv: 'MEGConnectogramVisualizer' object has no attribute 'read_connectivity_matrix'
+2025-03-14 17:03:22,381 - INFO - Processing gDTF 20Hz_L-R_SJB
+2025-03-14 17:03:22,381 - ERROR - Error processing gDTF_20Hz_L-R_SJB.csv: 'MEGConnectogramVisualizer' object has no attribute 'read_connectivity_matrix'
+2025-03-14 17:03:22,381 - INFO - Processing gDTF 20Hz_L-R_wilcoxon
+2025-03-14 17:03:22,382 - ERROR - Error processing gDTF_20Hz_L-R_wilcoxon.csv: 'MEGConnectogramVisualizer' object has no attribute 'read_connectivity_matrix'
+2025-03-14 17:03:22,382 - INFO - Processing Cue_gPDC_100Hz...
+2025-03-14 17:03:22,382 - INFO - Processing folder: Cue_gPDC_100Hz
+2025-03-14 17:03:22,382 - INFO - Found 12 CSV files
+2025-03-14 17:03:22,383 - INFO - Processing gPDC 100Hz_L-R_BG
+2025-03-14 17:03:22,383 - ERROR - Error processing gPDC_100Hz_L-R_BG.csv: 'MEGConnectogramVisualizer' object has no attribute 'read_connectivity_matrix'
+2025-03-14 17:03:22,383 - INFO - Processing gPDC 100Hz_L-R_DOC
+2025-03-14 17:03:22,383 - ERROR - Error processing gPDC_100Hz_L-R_DOC.csv: 'MEGConnectogramVisualizer' object has no attribute 'read_connectivity_matrix'
+2025-03-14 17:03:22,383 - INFO - Processing gPDC 100Hz_L-R_GB
+2025-03-14 17:03:22,384 - ERROR - Error processing gPDC_100Hz_L-R_GB.csv: 'MEGConnectogramVisualizer' object has no attribute 'read_connectivity_matrix'
+2025-03-14 17:03:22,384 - INFO - Processing gPDC 100Hz_L-R_JDC
+2025-03-14 17:03:22,384 - ERROR - Error processing gPDC_100Hz_L-R_JDC.csv: 'MEGConnectogramVisualizer' object has no attribute 'read_connectivity_matrix'
+2025-03-14 17:03:22,384 - INFO - Processing gPDC 100Hz_L-R_JFXD
+2025-03-14 17:03:22,384 - ERROR - Error processing gPDC_100Hz_L-R_JFXD.csv: 'MEGConnectogramVisualizer' object has no attribute 'read_connectivity_matrix'
+2025-03-14 17:03:22,384 - INFO - Processing gPDC 100Hz_L-R_JZ
+2025-03-14 17:03:22,384 - ERROR - Error processing gPDC_100Hz_L-R_JZ.csv: 'MEGConnectogramVisualizer' object has no attribute 'read_connectivity_matrix'
+2025-03-14 17:03:22,385 - INFO - Processing gPDC 100Hz_L-R_LT
+2025-03-14 17:03:22,385 - ERROR - Error processing gPDC_100Hz_L-R_LT.csv: 'MEGConnectogramVisualizer' object has no attribute 'read_connectivity_matrix'
+2025-03-14 17:03:22,385 - INFO - Processing gPDC 100Hz_L-R_NvA
+2025-03-14 17:03:22,385 - ERROR - Error processing gPDC_100Hz_L-R_NvA.csv: 'MEGConnectogramVisualizer' object has no attribute 'read_connectivity_matrix'
+2025-03-14 17:03:22,385 - INFO - Processing gPDC 100Hz_L-R_overall
+2025-03-14 17:03:22,385 - ERROR - Error processing gPDC_100Hz_L-R_overall.csv: 'MEGConnectogramVisualizer' object has no attribute 'read_connectivity_matrix'
+2025-03-14 17:03:22,386 - INFO - Processing gPDC 100Hz_L-R_RR
+2025-03-14 17:03:22,386 - ERROR - Error processing gPDC_100Hz_L-R_RR.csv: 'MEGConnectogramVisualizer' object has no attribute 'read_connectivity_matrix'
+2025-03-14 17:03:22,386 - INFO - Processing gPDC 100Hz_L-R_SJB
+2025-03-14 17:03:22,386 - ERROR - Error processing gPDC_100Hz_L-R_SJB.csv: 'MEGConnectogramVisualizer' object has no attribute 'read_connectivity_matrix'
+2025-03-14 17:03:22,386 - INFO - Processing gPDC 100Hz_L-R_wilcoxon
+2025-03-14 17:03:22,387 - ERROR - Error processing gPDC_100Hz_L-R_wilcoxon.csv: 'MEGConnectogramVisualizer' object has no attribute 'read_connectivity_matrix'
+2025-03-14 17:03:22,387 - INFO - Processing Cue_gPDC_10Hz...
+2025-03-14 17:03:22,387 - INFO - Processing folder: Cue_gPDC_10Hz
+2025-03-14 17:03:22,388 - INFO - Found 12 CSV files
+2025-03-14 17:03:22,388 - INFO - Processing gPDC 10Hz_L-R_BG
+2025-03-14 17:03:22,388 - ERROR - Error processing gPDC_10Hz_L-R_BG.csv: 'MEGConnectogramVisualizer' object has no attribute 'read_connectivity_matrix'
+2025-03-14 17:03:22,388 - INFO - Processing gPDC 10Hz_L-R_DOC
+2025-03-14 17:03:22,388 - ERROR - Error processing gPDC_10Hz_L-R_DOC.csv: 'MEGConnectogramVisualizer' object has no attribute 'read_connectivity_matrix'
+2025-03-14 17:03:22,389 - INFO - Processing gPDC 10Hz_L-R_GB
+2025-03-14 17:03:22,389 - ERROR - Error processing gPDC_10Hz_L-R_GB.csv: 'MEGConnectogramVisualizer' object has no attribute 'read_connectivity_matrix'
+2025-03-14 17:03:22,389 - INFO - Processing gPDC 10Hz_L-R_JDC
+2025-03-14 17:03:22,389 - ERROR - Error processing gPDC_10Hz_L-R_JDC.csv: 'MEGConnectogramVisualizer' object has no attribute 'read_connectivity_matrix'
+2025-03-14 17:03:22,390 - INFO - Processing gPDC 10Hz_L-R_JFXD
+2025-03-14 17:03:22,390 - ERROR - Error processing gPDC_10Hz_L-R_JFXD.csv: 'MEGConnectogramVisualizer' object has no attribute 'read_connectivity_matrix'
+2025-03-14 17:03:22,390 - INFO - Processing gPDC 10Hz_L-R_JZ
+2025-03-14 17:03:22,390 - ERROR - Error processing gPDC_10Hz_L-R_JZ.csv: 'MEGConnectogramVisualizer' object has no attribute 'read_connectivity_matrix'
+2025-03-14 17:03:22,390 - INFO - Processing gPDC 10Hz_L-R_LT
+2025-03-14 17:03:22,390 - ERROR - Error processing gPDC_10Hz_L-R_LT.csv: 'MEGConnectogramVisualizer' object has no attribute 'read_connectivity_matrix'
+2025-03-14 17:03:22,391 - INFO - Processing gPDC 10Hz_L-R_NvA
+2025-03-14 17:03:22,391 - ERROR - Error processing gPDC_10Hz_L-R_NvA.csv: 'MEGConnectogramVisualizer' object has no attribute 'read_connectivity_matrix'
+2025-03-14 17:03:22,391 - INFO - Processing gPDC 10Hz_L-R_overall
+2025-03-14 17:03:22,391 - ERROR - Error processing gPDC_10Hz_L-R_overall.csv: 'MEGConnectogramVisualizer' object has no attribute 'read_connectivity_matrix'
+2025-03-14 17:03:22,391 - INFO - Processing gPDC 10Hz_L-R_RR
+2025-03-14 17:03:22,391 - ERROR - Error processing gPDC_10Hz_L-R_RR.csv: 'MEGConnectogramVisualizer' object has no attribute 'read_connectivity_matrix'
+2025-03-14 17:03:22,392 - INFO - Processing gPDC 10Hz_L-R_SJB
+2025-03-14 17:03:22,392 - ERROR - Error processing gPDC_10Hz_L-R_SJB.csv: 'MEGConnectogramVisualizer' object has no attribute 'read_connectivity_matrix'
+2025-03-14 17:03:22,392 - INFO - Processing gPDC 10Hz_L-R_wilcoxon
+2025-03-14 17:03:22,392 - ERROR - Error processing gPDC_10Hz_L-R_wilcoxon.csv: 'MEGConnectogramVisualizer' object has no attribute 'read_connectivity_matrix'
+2025-03-14 17:03:22,392 - INFO - Processing Cue_gPDC_20Hz...
+2025-03-14 17:03:22,392 - INFO - Processing folder: Cue_gPDC_20Hz
+2025-03-14 17:03:22,393 - INFO - Found 12 CSV files
+2025-03-14 17:03:22,394 - INFO - Processing gPDC 20Hz_L-R_BG
+2025-03-14 17:03:22,394 - ERROR - Error processing gPDC_20Hz_L-R_BG.csv: 'MEGConnectogramVisualizer' object has no attribute 'read_connectivity_matrix'
+2025-03-14 17:03:22,394 - INFO - Processing gPDC 20Hz_L-R_DOC
+2025-03-14 17:03:22,394 - ERROR - Error processing gPDC_20Hz_L-R_DOC.csv: 'MEGConnectogramVisualizer' object has no attribute 'read_connectivity_matrix'
+2025-03-14 17:03:22,394 - INFO - Processing gPDC 20Hz_L-R_GB
+2025-03-14 17:03:22,395 - ERROR - Error processing gPDC_20Hz_L-R_GB.csv: 'MEGConnectogramVisualizer' object has no attribute 'read_connectivity_matrix'
+2025-03-14 17:03:22,395 - INFO - Processing gPDC 20Hz_L-R_JDC
+2025-03-14 17:03:22,395 - ERROR - Error processing gPDC_20Hz_L-R_JDC.csv: 'MEGConnectogramVisualizer' object has no attribute 'read_connectivity_matrix'
+2025-03-14 17:03:22,395 - INFO - Processing gPDC 20Hz_L-R_JFXD
+2025-03-14 17:03:22,395 - ERROR - Error processing gPDC_20Hz_L-R_JFXD.csv: 'MEGConnectogramVisualizer' object has no attribute 'read_connectivity_matrix'
+2025-03-14 17:03:22,395 - INFO - Processing gPDC 20Hz_L-R_JZ
+2025-03-14 17:03:22,396 - ERROR - Error processing gPDC_20Hz_L-R_JZ.csv: 'MEGConnectogramVisualizer' object has no attribute 'read_connectivity_matrix'
+2025-03-14 17:03:22,396 - INFO - Processing gPDC 20Hz_L-R_LT
+2025-03-14 17:03:22,396 - ERROR - Error processing gPDC_20Hz_L-R_LT.csv: 'MEGConnectogramVisualizer' object has no attribute 'read_connectivity_matrix'
+2025-03-14 17:03:22,396 - INFO - Processing gPDC 20Hz_L-R_NvA
+2025-03-14 17:03:22,396 - ERROR - Error processing gPDC_20Hz_L-R_NvA.csv: 'MEGConnectogramVisualizer' object has no attribute 'read_connectivity_matrix'
+2025-03-14 17:03:22,396 - INFO - Processing gPDC 20Hz_L-R_overall
+2025-03-14 17:03:22,397 - ERROR - Error processing gPDC_20Hz_L-R_overall.csv: 'MEGConnectogramVisualizer' object has no attribute 'read_connectivity_matrix'
+2025-03-14 17:03:22,397 - INFO - Processing gPDC 20Hz_L-R_RR
+2025-03-14 17:03:22,397 - ERROR - Error processing gPDC_20Hz_L-R_RR.csv: 'MEGConnectogramVisualizer' object has no attribute 'read_connectivity_matrix'
+2025-03-14 17:03:22,397 - INFO - Processing gPDC 20Hz_L-R_SJB
+2025-03-14 17:03:22,397 - ERROR - Error processing gPDC_20Hz_L-R_SJB.csv: 'MEGConnectogramVisualizer' object has no attribute 'read_connectivity_matrix'
+2025-03-14 17:03:22,397 - INFO - Processing gPDC 20Hz_L-R_wilcoxon
+2025-03-14 17:03:22,398 - ERROR - Error processing gPDC_20Hz_L-R_wilcoxon.csv: 'MEGConnectogramVisualizer' object has no attribute 'read_connectivity_matrix'
+2025-03-14 17:03:22,398 - INFO - Processing Cue_iPDC_100Hz...
+2025-03-14 17:03:22,398 - INFO - Processing folder: Cue_iPDC_100Hz
+2025-03-14 17:03:22,399 - INFO - Found 12 CSV files
+2025-03-14 17:03:22,399 - INFO - Processing iPDC 100Hz_L-R_BG
+2025-03-14 17:03:22,399 - ERROR - Error processing iPDC_100Hz_L-R_BG.csv: 'MEGConnectogramVisualizer' object has no attribute 'read_connectivity_matrix'
+2025-03-14 17:03:22,399 - INFO - Processing iPDC 100Hz_L-R_DOC
+2025-03-14 17:03:22,399 - ERROR - Error processing iPDC_100Hz_L-R_DOC.csv: 'MEGConnectogramVisualizer' object has no attribute 'read_connectivity_matrix'
+2025-03-14 17:03:22,400 - INFO - Processing iPDC 100Hz_L-R_GB
+2025-03-14 17:03:22,400 - ERROR - Error processing iPDC_100Hz_L-R_GB.csv: 'MEGConnectogramVisualizer' object has no attribute 'read_connectivity_matrix'
+2025-03-14 17:03:22,400 - INFO - Processing iPDC 100Hz_L-R_JDC
+2025-03-14 17:03:22,400 - ERROR - Error processing iPDC_100Hz_L-R_JDC.csv: 'MEGConnectogramVisualizer' object has no attribute 'read_connectivity_matrix'
+2025-03-14 17:03:22,400 - INFO - Processing iPDC 100Hz_L-R_JFXD
+2025-03-14 17:03:22,400 - ERROR - Error processing iPDC_100Hz_L-R_JFXD.csv: 'MEGConnectogramVisualizer' object has no attribute 'read_connectivity_matrix'
+2025-03-14 17:03:22,401 - INFO - Processing iPDC 100Hz_L-R_JZ
+2025-03-14 17:03:22,401 - ERROR - Error processing iPDC_100Hz_L-R_JZ.csv: 'MEGConnectogramVisualizer' object has no attribute 'read_connectivity_matrix'
+2025-03-14 17:03:22,401 - INFO - Processing iPDC 100Hz_L-R_LT
+2025-03-14 17:03:22,401 - ERROR - Error processing iPDC_100Hz_L-R_LT.csv: 'MEGConnectogramVisualizer' object has no attribute 'read_connectivity_matrix'
+2025-03-14 17:03:22,401 - INFO - Processing iPDC 100Hz_L-R_NvA
+2025-03-14 17:03:22,401 - ERROR - Error processing iPDC_100Hz_L-R_NvA.csv: 'MEGConnectogramVisualizer' object has no attribute 'read_connectivity_matrix'
+2025-03-14 17:03:22,402 - INFO - Processing iPDC 100Hz_L-R_overall
+2025-03-14 17:03:22,402 - ERROR - Error processing iPDC_100Hz_L-R_overall.csv: 'MEGConnectogramVisualizer' object has no attribute 'read_connectivity_matrix'
+2025-03-14 17:03:22,402 - INFO - Processing iPDC 100Hz_L-R_RR
+2025-03-14 17:03:22,402 - ERROR - Error processing iPDC_100Hz_L-R_RR.csv: 'MEGConnectogramVisualizer' object has no attribute 'read_connectivity_matrix'
+2025-03-14 17:03:22,402 - INFO - Processing iPDC 100Hz_L-R_SJB
+2025-03-14 17:03:22,403 - ERROR - Error processing iPDC_100Hz_L-R_SJB.csv: 'MEGConnectogramVisualizer' object has no attribute 'read_connectivity_matrix'
+2025-03-14 17:03:22,403 - INFO - Processing iPDC 100Hz_L-R_wilcoxon
+2025-03-14 17:03:22,403 - ERROR - Error processing iPDC_100Hz_L-R_wilcoxon.csv: 'MEGConnectogramVisualizer' object has no attribute 'read_connectivity_matrix'
+2025-03-14 17:03:22,403 - INFO - Processing Cue_iPDC_10Hz...
+2025-03-14 17:03:22,403 - INFO - Processing folder: Cue_iPDC_10Hz
+2025-03-14 17:03:22,404 - INFO - Found 12 CSV files
+2025-03-14 17:03:22,404 - INFO - Processing iPDC 10Hz_L-R_BG
+2025-03-14 17:03:22,404 - ERROR - Error processing iPDC_10Hz_L-R_BG.csv: 'MEGConnectogramVisualizer' object has no attribute 'read_connectivity_matrix'
+2025-03-14 17:03:22,405 - INFO - Processing iPDC 10Hz_L-R_DOC
+2025-03-14 17:03:22,405 - ERROR - Error processing iPDC_10Hz_L-R_DOC.csv: 'MEGConnectogramVisualizer' object has no attribute 'read_connectivity_matrix'
+2025-03-14 17:03:22,405 - INFO - Processing iPDC 10Hz_L-R_GB
+2025-03-14 17:03:22,405 - ERROR - Error processing iPDC_10Hz_L-R_GB.csv: 'MEGConnectogramVisualizer' object has no attribute 'read_connectivity_matrix'
+2025-03-14 17:03:22,405 - INFO - Processing iPDC 10Hz_L-R_JDC
+2025-03-14 17:03:22,405 - ERROR - Error processing iPDC_10Hz_L-R_JDC.csv: 'MEGConnectogramVisualizer' object has no attribute 'read_connectivity_matrix'
+2025-03-14 17:03:22,406 - INFO - Processing iPDC 10Hz_L-R_JFXD
+2025-03-14 17:03:22,406 - ERROR - Error processing iPDC_10Hz_L-R_JFXD.csv: 'MEGConnectogramVisualizer' object has no attribute 'read_connectivity_matrix'
+2025-03-14 17:03:22,406 - INFO - Processing iPDC 10Hz_L-R_JZ
+2025-03-14 17:03:22,406 - ERROR - Error processing iPDC_10Hz_L-R_JZ.csv: 'MEGConnectogramVisualizer' object has no attribute 'read_connectivity_matrix'
+2025-03-14 17:03:22,406 - INFO - Processing iPDC 10Hz_L-R_LT
+2025-03-14 17:03:22,406 - ERROR - Error processing iPDC_10Hz_L-R_LT.csv: 'MEGConnectogramVisualizer' object has no attribute 'read_connectivity_matrix'
+2025-03-14 17:03:22,406 - INFO - Processing iPDC 10Hz_L-R_NvA
+2025-03-14 17:03:22,407 - ERROR - Error processing iPDC_10Hz_L-R_NvA.csv: 'MEGConnectogramVisualizer' object has no attribute 'read_connectivity_matrix'
+2025-03-14 17:03:22,407 - INFO - Processing iPDC 10Hz_L-R_overall
+2025-03-14 17:03:22,407 - ERROR - Error processing iPDC_10Hz_L-R_overall.csv: 'MEGConnectogramVisualizer' object has no attribute 'read_connectivity_matrix'
+2025-03-14 17:03:22,407 - INFO - Processing iPDC 10Hz_L-R_RR
+2025-03-14 17:03:22,407 - ERROR - Error processing iPDC_10Hz_L-R_RR.csv: 'MEGConnectogramVisualizer' object has no attribute 'read_connectivity_matrix'
+2025-03-14 17:03:22,407 - INFO - Processing iPDC 10Hz_L-R_SJB
+2025-03-14 17:03:22,407 - ERROR - Error processing iPDC_10Hz_L-R_SJB.csv: 'MEGConnectogramVisualizer' object has no attribute 'read_connectivity_matrix'
+2025-03-14 17:03:22,407 - INFO - Processing iPDC 10Hz_L-R_wilcoxon
+2025-03-14 17:03:22,408 - ERROR - Error processing iPDC_10Hz_L-R_wilcoxon.csv: 'MEGConnectogramVisualizer' object has no attribute 'read_connectivity_matrix'
+2025-03-14 17:03:22,408 - INFO - Processing Cue_iPDC_20Hz...
+2025-03-14 17:03:22,408 - INFO - Processing folder: Cue_iPDC_20Hz
+2025-03-14 17:03:22,408 - INFO - Found 12 CSV files
+2025-03-14 17:03:22,409 - INFO - Processing iPDC 20Hz_L-R_BG
+2025-03-14 17:03:22,409 - ERROR - Error processing iPDC_20Hz_L-R_BG.csv: 'MEGConnectogramVisualizer' object has no attribute 'read_connectivity_matrix'
+2025-03-14 17:03:22,409 - INFO - Processing iPDC 20Hz_L-R_DOC
+2025-03-14 17:03:22,409 - ERROR - Error processing iPDC_20Hz_L-R_DOC.csv: 'MEGConnectogramVisualizer' object has no attribute 'read_connectivity_matrix'
+2025-03-14 17:03:22,409 - INFO - Processing iPDC 20Hz_L-R_GB
+2025-03-14 17:03:22,409 - ERROR - Error processing iPDC_20Hz_L-R_GB.csv: 'MEGConnectogramVisualizer' object has no attribute 'read_connectivity_matrix'
+2025-03-14 17:03:22,409 - INFO - Processing iPDC 20Hz_L-R_JDC
+2025-03-14 17:03:22,410 - ERROR - Error processing iPDC_20Hz_L-R_JDC.csv: 'MEGConnectogramVisualizer' object has no attribute 'read_connectivity_matrix'
+2025-03-14 17:03:22,410 - INFO - Processing iPDC 20Hz_L-R_JFXD
+2025-03-14 17:03:22,410 - ERROR - Error processing iPDC_20Hz_L-R_JFXD.csv: 'MEGConnectogramVisualizer' object has no attribute 'read_connectivity_matrix'
+2025-03-14 17:03:22,410 - INFO - Processing iPDC 20Hz_L-R_JZ
+2025-03-14 17:03:22,410 - ERROR - Error processing iPDC_20Hz_L-R_JZ.csv: 'MEGConnectogramVisualizer' object has no attribute 'read_connectivity_matrix'
+2025-03-14 17:03:22,410 - INFO - Processing iPDC 20Hz_L-R_LT
+2025-03-14 17:03:22,410 - ERROR - Error processing iPDC_20Hz_L-R_LT.csv: 'MEGConnectogramVisualizer' object has no attribute 'read_connectivity_matrix'
+2025-03-14 17:03:22,411 - INFO - Processing iPDC 20Hz_L-R_NvA
+2025-03-14 17:03:22,411 - ERROR - Error processing iPDC_20Hz_L-R_NvA.csv: 'MEGConnectogramVisualizer' object has no attribute 'read_connectivity_matrix'
+2025-03-14 17:03:22,411 - INFO - Processing iPDC 20Hz_L-R_overall
+2025-03-14 17:03:22,411 - ERROR - Error processing iPDC_20Hz_L-R_overall.csv: 'MEGConnectogramVisualizer' object has no attribute 'read_connectivity_matrix'
+2025-03-14 17:03:22,411 - INFO - Processing iPDC 20Hz_L-R_RR
+2025-03-14 17:03:22,411 - ERROR - Error processing iPDC_20Hz_L-R_RR.csv: 'MEGConnectogramVisualizer' object has no attribute 'read_connectivity_matrix'
+2025-03-14 17:03:22,411 - INFO - Processing iPDC 20Hz_L-R_SJB
+2025-03-14 17:03:22,411 - ERROR - Error processing iPDC_20Hz_L-R_SJB.csv: 'MEGConnectogramVisualizer' object has no attribute 'read_connectivity_matrix'
+2025-03-14 17:03:22,412 - INFO - Processing iPDC 20Hz_L-R_wilcoxon
+2025-03-14 17:03:22,412 - ERROR - Error processing iPDC_20Hz_L-R_wilcoxon.csv: 'MEGConnectogramVisualizer' object has no attribute 'read_connectivity_matrix'
+2025-03-14 17:03:22,412 - INFO - 
+---------------------
+2025-03-14 17:03:22,412 - INFO - Processing complete!
+2025-03-14 17:03:22,412 - INFO - Folders processed: 9
+2025-03-14 17:03:22,412 - INFO - Visualizations created: 0
+2025-03-14 17:03:22,413 - INFO - Errors encountered: 108
+2025-03-14 17:03:22,413 - INFO - Process completed at: 2025-03-14 17:03:22

@@ -1,0 +1,8 @@
+MEG Signal Analysis - Enhanced Average Matrix Creation
+==================================================
+Selected dataset: DataSet9_Align_cue_1_to_625
+Excluding iDTF: True
+Excluding LT-Pronation: True
+Process started at: 2025-06-28 16:48:34
+--------------------------------------------------
+

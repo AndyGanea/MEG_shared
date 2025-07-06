@@ -1,0 +1,6 @@
+2025-03-15 13:56:32,414 - INFO - Starting MEG Visualization V1
+2025-03-15 13:57:10,728 - INFO - Selected dataset: DataSet5_Align_cue_626_to_938_unc
+2025-03-15 13:57:10,728 - INFO - Selected analysis type: Wilcoxon
+2025-03-15 13:57:10,728 - INFO - Selected analysis folder: Wilcoxon_03102025-1305
+2025-03-15 13:57:10,728 - INFO - Selected visualization type: circular
+2025-03-15 13:57:10,729 - INFO - Connection display mode: separate

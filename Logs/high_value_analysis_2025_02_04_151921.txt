@@ -1,0 +1,4188 @@
+MEG Signal Analysis - High Value Analyzer (Values >= 1)
+===================================================
+Analysis started at: 2025-02-04 15:19:21
+---------------------------------------------------
+
+
+Analyzing cue/L/gDTF_100Hz
+==================================================
+
+Analyzing cue/L/gDTF_10Hz
+==================================================
+
+Analyzing cue/L/gDTF_20Hz
+==================================================
+
+Analyzing cue/L/gPDC_100Hz
+==================================================
+
+Analyzing cue/L/gPDC_10Hz
+==================================================
+
+Analyzing cue/L/gPDC_20Hz
+==================================================
+
+Analyzing cue/L/iDTF_100Hz
+==================================================
+File: cue\L\iDTF_100Hz\cue_LT-Pronation_L_anti_JFXD_iDTF_100Hz.csv
+Movement: LT-Pronation_L_anti_JFXD_iDTF
+High values found (excluding diagonal elements):
+  Value: 1.024737 at position (14, 4)
+  Value: 1.092067 at position (14, 6)
+  Value: 1.546647 at position (20, 4)
+  Value: 1.007667 at position (20, 6)
+  Value: 1.373571 at position (23, 4)
+  Value: 1.325143 at position (24, 22)
+  Value: 1.192993 at position (31, 20)
+  Value: 1.840784 at position (31, 22)
+--------------------------------------------------
+File: cue\L\iDTF_100Hz\cue_LT-Pronation_L_pro_JFXD_iDTF_100Hz.csv
+Movement: LT-Pronation_L_pro_JFXD_iDTF
+High values found (excluding diagonal elements):
+  Value: 1.072055 at position (11, 3)
+  Value: 1.473433 at position (11, 4)
+  Value: 1.367574 at position (11, 6)
+  Value: 1.121805 at position (11, 7)
+  Value: 1.192541 at position (13, 4)
+  Value: 1.172741 at position (13, 6)
+  Value: 2.894146 at position (13, 11)
+  Value: 1.954582 at position (13, 27)
+  Value: 1.325112 at position (14, 4)
+  Value: 1.896913 at position (14, 6)
+  Value: 1.877660 at position (14, 11)
+  Value: 1.247238 at position (14, 27)
+  Value: 1.705503 at position (17, 4)
+  Value: 1.175337 at position (24, 4)
+  Value: 1.493368 at position (24, 6)
+  Value: 1.119230 at position (27, 3)
+  Value: 1.384193 at position (27, 4)
+  Value: 1.247615 at position (27, 6)
+  Value: 1.267499 at position (27, 7)
+  Value: 1.190062 at position (27, 11)
+  Value: 1.158915 at position (31, 4)
+  Value: 1.358512 at position (31, 6)
+--------------------------------------------------
+File: cue\L\iDTF_100Hz\cue_LT-Pronation_L_pro_NvA_iDTF_100Hz.csv
+Movement: LT-Pronation_L_pro_NvA_iDTF
+High values found (excluding diagonal elements):
+  Value: 1.226210 at position (3, 9)
+--------------------------------------------------
+File: cue\L\iDTF_100Hz\cue_RT-Down_L_anti_DOC_iDTF_100Hz.csv
+Movement: RT-Down_L_anti_DOC_iDTF
+High values found (excluding diagonal elements):
+  Value: 1.426023 at position (9, 3)
+  Value: 1.700008 at position (9, 7)
+  Value: 1.101982 at position (10, 7)
+  Value: 1.374107 at position (18, 22)
+--------------------------------------------------
+File: cue\L\iDTF_100Hz\cue_RT-Down_L_anti_JFXD_iDTF_100Hz.csv
+Movement: RT-Down_L_anti_JFXD_iDTF
+High values found (excluding diagonal elements):
+  Value: 1.462802 at position (3, 11)
+  Value: 1.563925 at position (3, 27)
+  Value: 1.177521 at position (4, 6)
+  Value: 1.163921 at position (5, 4)
+  Value: 1.406276 at position (5, 6)
+  Value: 1.025193 at position (6, 4)
+  Value: 1.832453 at position (7, 11)
+  Value: 1.923494 at position (7, 27)
+  Value: 2.036562 at position (8, 10)
+  Value: 1.051706 at position (11, 27)
+  Value: 1.040505 at position (13, 4)
+  Value: 1.186487 at position (13, 6)
+  Value: 2.462072 at position (13, 11)
+  Value: 1.536366 at position (13, 20)
+  Value: 1.207158 at position (13, 21)
+  Value: 4.398454 at position (13, 22)
+  Value: 1.825254 at position (13, 27)
+  Value: 1.074344 at position (14, 7)
+  Value: 1.320761 at position (14, 11)
+  Value: 1.224288 at position (14, 27)
+  Value: 2.482805 at position (15, 10)
+  Value: 1.163861 at position (18, 4)
+  Value: 1.094504 at position (18, 6)
+  Value: 1.021993 at position (18, 11)
+  Value: 1.659863 at position (19, 10)
+  Value: 1.111897 at position (24, 7)
+  Value: 1.965750 at position (25, 22)
+  Value: 1.167395 at position (25, 23)
+  Value: 1.000774 at position (27, 11)
+  Value: 1.275700 at position (29, 4)
+  Value: 1.516400 at position (29, 6)
+  Value: 1.249272 at position (29, 7)
+  Value: 1.025435 at position (30, 22)
+--------------------------------------------------
+File: cue\L\iDTF_100Hz\cue_RT-Down_L_pro_DOC_iDTF_100Hz.csv
+Movement: RT-Down_L_pro_DOC_iDTF
+High values found (excluding diagonal elements):
+  Value: 1.490244 at position (9, 7)
+  Value: 1.112996 at position (10, 7)
+--------------------------------------------------
+File: cue\L\iDTF_100Hz\cue_RT-Down_L_pro_JFXD_iDTF_100Hz.csv
+Movement: RT-Down_L_pro_JFXD_iDTF
+High values found (excluding diagonal elements):
+  Value: 1.935087 at position (0, 4)
+  Value: 1.201151 at position (0, 6)
+  Value: 1.380936 at position (0, 7)
+  Value: 1.146598 at position (5, 4)
+  Value: 1.616051 at position (6, 4)
+  Value: 2.210791 at position (11, 27)
+  Value: 1.055578 at position (19, 11)
+  Value: 1.022269 at position (24, 4)
+  Value: 1.001882 at position (25, 6)
+  Value: 1.958838 at position (27, 11)
+  Value: 1.735873 at position (28, 4)
+  Value: 1.614400 at position (28, 6)
+  Value: 1.965727 at position (30, 4)
+  Value: 1.887810 at position (30, 6)
+  Value: 1.062528 at position (30, 7)
+--------------------------------------------------
+File: cue\L\iDTF_100Hz\cue_RT-Pronation_L_anti_JFXD_iDTF_100Hz.csv
+Movement: RT-Pronation_L_anti_JFXD_iDTF
+High values found (excluding diagonal elements):
+  Value: 1.519374 at position (2, 11)
+  Value: 1.119225 at position (2, 27)
+  Value: 1.112625 at position (3, 10)
+  Value: 1.353491 at position (3, 11)
+  Value: 1.099566 at position (3, 27)
+  Value: 1.235972 at position (5, 6)
+  Value: 1.261193 at position (5, 11)
+  Value: 1.648118 at position (11, 27)
+  Value: 3.195969 at position (13, 11)
+  Value: 2.098254 at position (13, 27)
+  Value: 3.874550 at position (14, 11)
+  Value: 2.591824 at position (14, 27)
+  Value: 1.052734 at position (23, 11)
+  Value: 1.003311 at position (26, 11)
+  Value: 2.118747 at position (27, 11)
+  Value: 2.306314 at position (28, 11)
+  Value: 2.148357 at position (28, 27)
+--------------------------------------------------
+File: cue\L\iDTF_100Hz\cue_RT-Pronation_L_anti_LT_iDTF_100Hz.csv
+Movement: RT-Pronation_L_anti_LT_iDTF
+High values found (excluding diagonal elements):
+  Value: 1.220070 at position (2, 19)
+  Value: 1.648512 at position (2, 23)
+  Value: 1.343378 at position (14, 7)
+  Value: 1.129867 at position (23, 19)
+--------------------------------------------------
+File: cue\L\iDTF_100Hz\cue_RT-Pronation_L_anti_RR_iDTF_100Hz.csv
+Movement: RT-Pronation_L_anti_RR_iDTF
+High values found (excluding diagonal elements):
+  Value: 1.081448 at position (24, 6)
+--------------------------------------------------
+File: cue\L\iDTF_100Hz\cue_RT-Pronation_L_anti_SJB_iDTF_100Hz.csv
+Movement: RT-Pronation_L_anti_SJB_iDTF
+High values found (excluding diagonal elements):
+  Value: 1.039847 at position (5, 4)
+  Value: 1.201382 at position (6, 4)
+--------------------------------------------------
+File: cue\L\iDTF_100Hz\cue_RT-Pronation_L_pro_DOC_iDTF_100Hz.csv
+Movement: RT-Pronation_L_pro_DOC_iDTF
+High values found (excluding diagonal elements):
+  Value: 1.232665 at position (9, 7)
+  Value: 1.290894 at position (10, 7)
+  Value: 1.102586 at position (23, 22)
+--------------------------------------------------
+File: cue\L\iDTF_100Hz\cue_RT-Pronation_L_pro_JDC_iDTF_100Hz.csv
+Movement: RT-Pronation_L_pro_JDC_iDTF
+High values found (excluding diagonal elements):
+  Value: 1.251148 at position (20, 22)
+  Value: 1.102607 at position (20, 23)
+--------------------------------------------------
+File: cue\L\iDTF_100Hz\cue_RT-Pronation_L_pro_JFXD_iDTF_100Hz.csv
+Movement: RT-Pronation_L_pro_JFXD_iDTF
+High values found (excluding diagonal elements):
+  Value: 1.277677 at position (5, 6)
+  Value: 1.014717 at position (11, 27)
+  Value: 2.196338 at position (13, 11)
+  Value: 1.331816 at position (13, 27)
+  Value: 1.394138 at position (27, 11)
+  Value: 1.372087 at position (29, 11)
+  Value: 1.102659 at position (29, 27)
+  Value: 1.026620 at position (30, 11)
+--------------------------------------------------
+File: cue\L\iDTF_100Hz\cue_RT-Pronation_L_pro_LT_iDTF_100Hz.csv
+Movement: RT-Pronation_L_pro_LT_iDTF
+High values found (excluding diagonal elements):
+  Value: 1.049188 at position (0, 19)
+  Value: 1.363909 at position (0, 23)
+  Value: 1.156508 at position (12, 19)
+  Value: 1.158003 at position (13, 23)
+  Value: 1.821146 at position (14, 19)
+  Value: 1.844640 at position (14, 23)
+  Value: 1.245195 at position (16, 19)
+  Value: 1.014877 at position (16, 23)
+  Value: 1.790784 at position (19, 23)
+  Value: 2.945523 at position (23, 19)
+  Value: 2.207214 at position (25, 19)
+  Value: 1.929218 at position (25, 23)
+--------------------------------------------------
+File: cue\L\iDTF_100Hz\cue_RT-Upright_L_anti_JFXD_iDTF_100Hz.csv
+Movement: RT-Upright_L_anti_JFXD_iDTF
+High values found (excluding diagonal elements):
+  Value: 1.449231 at position (0, 19)
+  Value: 1.648669 at position (0, 23)
+  Value: 1.958297 at position (5, 10)
+  Value: 1.490433 at position (8, 10)
+  Value: 1.070647 at position (10, 11)
+  Value: 1.127214 at position (11, 10)
+  Value: 1.322366 at position (11, 27)
+  Value: 2.325070 at position (12, 11)
+  Value: 1.432394 at position (12, 27)
+  Value: 2.753155 at position (13, 10)
+  Value: 1.282258 at position (13, 11)
+  Value: 1.643617 at position (13, 12)
+  Value: 2.313625 at position (14, 10)
+  Value: 2.973864 at position (14, 11)
+  Value: 2.231383 at position (14, 12)
+  Value: 1.662235 at position (14, 27)
+  Value: 2.004333 at position (15, 10)
+  Value: 1.161540 at position (18, 10)
+  Value: 2.531885 at position (18, 11)
+  Value: 1.001282 at position (18, 12)
+  Value: 2.076735 at position (18, 27)
+  Value: 1.332632 at position (19, 11)
+  Value: 1.036480 at position (19, 27)
+  Value: 1.858620 at position (27, 11)
+  Value: 2.140223 at position (28, 10)
+  Value: 1.149688 at position (29, 7)
+  Value: 1.086709 at position (29, 10)
+  Value: 1.194806 at position (29, 11)
+--------------------------------------------------
+File: cue\L\iDTF_100Hz\cue_RT-Upright_L_anti_SJB_iDTF_100Hz.csv
+Movement: RT-Upright_L_anti_SJB_iDTF
+High values found (excluding diagonal elements):
+  Value: 1.032450 at position (5, 4)
+--------------------------------------------------
+File: cue\L\iDTF_100Hz\cue_RT-Upright_L_pro_DOC_iDTF_100Hz.csv
+Movement: RT-Upright_L_pro_DOC_iDTF
+High values found (excluding diagonal elements):
+  Value: 1.218866 at position (9, 7)
+  Value: 1.120440 at position (10, 3)
+  Value: 1.571060 at position (10, 7)
+--------------------------------------------------
+File: cue\L\iDTF_100Hz\cue_RT-Upright_L_pro_JFXD_iDTF_100Hz.csv
+Movement: RT-Upright_L_pro_JFXD_iDTF
+High values found (excluding diagonal elements):
+  Value: 2.068025 at position (0, 11)
+  Value: 1.865937 at position (0, 27)
+  Value: 1.054168 at position (2, 10)
+  Value: 1.957847 at position (2, 11)
+  Value: 1.755617 at position (2, 27)
+  Value: 1.325730 at position (5, 6)
+  Value: 1.321502 at position (5, 10)
+  Value: 1.650644 at position (13, 11)
+  Value: 1.353177 at position (14, 4)
+  Value: 1.025450 at position (14, 6)
+  Value: 1.003698 at position (14, 10)
+  Value: 1.752897 at position (14, 11)
+  Value: 1.250101 at position (14, 12)
+  Value: 1.595676 at position (18, 10)
+  Value: 1.646999 at position (19, 11)
+  Value: 1.237195 at position (19, 27)
+  Value: 1.188843 at position (29, 11)
+  Value: 1.987001 at position (29, 22)
+  Value: 1.227700 at position (30, 22)
+--------------------------------------------------
+File: cue\L\iDTF_100Hz\cue_RT-Upright_L_pro_LT_iDTF_100Hz.csv
+Movement: RT-Upright_L_pro_LT_iDTF
+High values found (excluding diagonal elements):
+  Value: 1.748862 at position (10, 3)
+  Value: 1.112586 at position (10, 7)
+  Value: 2.285668 at position (11, 3)
+  Value: 1.110056 at position (11, 7)
+  Value: 1.467328 at position (11, 9)
+  Value: 1.890709 at position (27, 3)
+  Value: 1.044528 at position (27, 7)
+  Value: 1.065838 at position (27, 9)
+--------------------------------------------------
+File: cue\L\iDTF_100Hz\cue_RT-Upright_L_pro_SJB_iDTF_100Hz.csv
+Movement: RT-Upright_L_pro_SJB_iDTF
+High values found (excluding diagonal elements):
+  Value: 1.043326 at position (6, 4)
+--------------------------------------------------
+
+Analyzing cue/L/iDTF_10Hz
+==================================================
+File: cue\L\iDTF_10Hz\cue_LT-Pronation_L_anti_JDC_iDTF_10Hz.csv
+Movement: LT-Pronation_L_anti_JDC_iDTF
+High values found (excluding diagonal elements):
+  Value: 1.330605 at position (9, 10)
+--------------------------------------------------
+File: cue\L\iDTF_10Hz\cue_LT-Pronation_L_anti_JFXD_iDTF_10Hz.csv
+Movement: LT-Pronation_L_anti_JFXD_iDTF
+High values found (excluding diagonal elements):
+  Value: 1.041685 at position (3, 10)
+  Value: 1.151350 at position (9, 7)
+  Value: 6.868818 at position (13, 4)
+  Value: 2.842345 at position (13, 6)
+  Value: 2.467267 at position (13, 7)
+  Value: 1.003462 at position (13, 22)
+  Value: 1.054204 at position (21, 23)
+  Value: 1.040904 at position (29, 11)
+  Value: 1.075629 at position (31, 24)
+--------------------------------------------------
+File: cue\L\iDTF_10Hz\cue_LT-Pronation_L_anti_LT_iDTF_10Hz.csv
+Movement: LT-Pronation_L_anti_LT_iDTF
+High values found (excluding diagonal elements):
+  Value: 1.338418 at position (23, 19)
+--------------------------------------------------
+File: cue\L\iDTF_10Hz\cue_LT-Pronation_L_pro_JFXD_iDTF_10Hz.csv
+Movement: LT-Pronation_L_pro_JFXD_iDTF
+High values found (excluding diagonal elements):
+  Value: 1.623331 at position (1, 11)
+  Value: 1.166798 at position (1, 27)
+  Value: 1.159771 at position (9, 3)
+  Value: 1.014617 at position (9, 7)
+  Value: 1.465253 at position (11, 4)
+  Value: 1.438508 at position (11, 6)
+  Value: 1.002186 at position (13, 3)
+  Value: 6.133573 at position (13, 4)
+  Value: 2.621713 at position (13, 6)
+  Value: 2.359395 at position (13, 7)
+  Value: 3.029800 at position (13, 11)
+  Value: 1.764548 at position (13, 27)
+  Value: 1.741649 at position (15, 11)
+  Value: 1.669974 at position (15, 27)
+  Value: 2.527023 at position (17, 4)
+  Value: 2.568438 at position (17, 6)
+  Value: 1.030732 at position (17, 11)
+  Value: 1.412971 at position (17, 27)
+  Value: 2.162515 at position (19, 4)
+  Value: 1.094987 at position (19, 6)
+  Value: 1.506791 at position (23, 4)
+  Value: 1.793901 at position (24, 4)
+  Value: 1.204407 at position (24, 6)
+  Value: 1.027482 at position (24, 22)
+  Value: 1.839636 at position (25, 4)
+  Value: 1.430792 at position (25, 6)
+  Value: 1.025490 at position (25, 7)
+  Value: 2.344162 at position (26, 4)
+  Value: 1.583111 at position (26, 6)
+  Value: 1.031492 at position (26, 7)
+  Value: 1.523310 at position (27, 4)
+  Value: 1.534353 at position (27, 6)
+  Value: 1.037027 at position (28, 4)
+  Value: 2.069253 at position (29, 11)
+  Value: 2.204849 at position (29, 27)
+  Value: 1.324475 at position (30, 6)
+  Value: 1.352461 at position (31, 4)
+--------------------------------------------------
+File: cue\L\iDTF_10Hz\cue_LT-Pronation_L_pro_LT_iDTF_10Hz.csv
+Movement: LT-Pronation_L_pro_LT_iDTF
+High values found (excluding diagonal elements):
+  Value: 1.032147 at position (21, 19)
+  Value: 1.453716 at position (23, 19)
+--------------------------------------------------
+File: cue\L\iDTF_10Hz\cue_RT-Down_L_anti_JFXD_iDTF_10Hz.csv
+Movement: RT-Down_L_anti_JFXD_iDTF
+High values found (excluding diagonal elements):
+  Value: 1.068156 at position (0, 6)
+  Value: 1.456412 at position (0, 7)
+  Value: 1.342783 at position (0, 11)
+  Value: 1.063185 at position (0, 27)
+  Value: 1.287063 at position (2, 7)
+  Value: 1.149861 at position (7, 6)
+  Value: 1.394892 at position (9, 7)
+  Value: 1.560933 at position (13, 11)
+  Value: 1.689405 at position (13, 22)
+  Value: 1.371431 at position (13, 27)
+  Value: 1.080511 at position (14, 3)
+  Value: 1.173051 at position (14, 7)
+  Value: 1.078218 at position (15, 6)
+  Value: 1.576242 at position (17, 4)
+  Value: 1.854283 at position (17, 6)
+  Value: 1.002920 at position (19, 4)
+  Value: 1.259206 at position (19, 6)
+  Value: 1.159069 at position (19, 22)
+  Value: 1.076655 at position (21, 11)
+  Value: 1.067896 at position (21, 27)
+  Value: 1.240958 at position (25, 4)
+  Value: 1.596683 at position (25, 6)
+  Value: 1.140354 at position (25, 7)
+  Value: 1.516034 at position (25, 22)
+  Value: 1.058768 at position (26, 4)
+  Value: 1.099174 at position (26, 6)
+--------------------------------------------------
+File: cue\L\iDTF_10Hz\cue_RT-Down_L_pro_JFXD_iDTF_10Hz.csv
+Movement: RT-Down_L_pro_JFXD_iDTF
+High values found (excluding diagonal elements):
+  Value: 1.862930 at position (2, 4)
+  Value: 1.847125 at position (2, 6)
+  Value: 1.290202 at position (2, 7)
+  Value: 1.637719 at position (3, 7)
+  Value: 1.403268 at position (3, 11)
+  Value: 1.161251 at position (3, 27)
+  Value: 1.206289 at position (4, 11)
+  Value: 1.056295 at position (4, 27)
+  Value: 1.271790 at position (7, 3)
+  Value: 2.145447 at position (7, 4)
+  Value: 1.094203 at position (7, 6)
+  Value: 1.778637 at position (7, 11)
+  Value: 1.560970 at position (7, 27)
+  Value: 1.236454 at position (9, 3)
+  Value: 1.399946 at position (9, 4)
+  Value: 2.451302 at position (9, 7)
+  Value: 1.233415 at position (9, 11)
+  Value: 1.007214 at position (9, 27)
+  Value: 1.014377 at position (10, 7)
+  Value: 1.755122 at position (11, 27)
+  Value: 3.330215 at position (13, 4)
+  Value: 2.658690 at position (13, 6)
+  Value: 1.028170 at position (14, 3)
+  Value: 1.587560 at position (14, 7)
+  Value: 1.304658 at position (16, 6)
+  Value: 1.177898 at position (17, 6)
+  Value: 1.606039 at position (18, 4)
+  Value: 1.355058 at position (18, 6)
+  Value: 1.252130 at position (18, 7)
+  Value: 1.029425 at position (19, 4)
+  Value: 1.146771 at position (19, 6)
+  Value: 1.019284 at position (21, 11)
+  Value: 1.154055 at position (21, 23)
+  Value: 1.030850 at position (21, 27)
+  Value: 1.984773 at position (27, 11)
+  Value: 1.274095 at position (29, 4)
+  Value: 1.136241 at position (29, 6)
+  Value: 1.678886 at position (29, 11)
+  Value: 1.571104 at position (29, 27)
+--------------------------------------------------
+File: cue\L\iDTF_10Hz\cue_RT-Pronation_L_anti_JFXD_iDTF_10Hz.csv
+Movement: RT-Pronation_L_anti_JFXD_iDTF
+High values found (excluding diagonal elements):
+  Value: 1.493007 at position (3, 7)
+  Value: 1.304164 at position (7, 3)
+  Value: 1.561422 at position (9, 3)
+  Value: 2.306710 at position (9, 7)
+  Value: 1.090360 at position (10, 3)
+  Value: 1.553425 at position (10, 7)
+  Value: 1.396656 at position (11, 27)
+  Value: 1.130239 at position (14, 3)
+  Value: 1.217433 at position (14, 7)
+  Value: 1.412724 at position (27, 11)
+  Value: 1.206350 at position (28, 10)
+  Value: 1.325303 at position (28, 11)
+  Value: 1.229253 at position (28, 27)
+--------------------------------------------------
+File: cue\L\iDTF_10Hz\cue_RT-Pronation_L_anti_LT_iDTF_10Hz.csv
+Movement: RT-Pronation_L_anti_LT_iDTF
+High values found (excluding diagonal elements):
+  Value: 2.695793 at position (3, 7)
+  Value: 1.366623 at position (9, 7)
+  Value: 2.384698 at position (13, 3)
+  Value: 1.253437 at position (13, 4)
+  Value: 4.172674 at position (13, 5)
+  Value: 6.104794 at position (13, 7)
+  Value: 1.040846 at position (14, 5)
+  Value: 1.636916 at position (15, 7)
+--------------------------------------------------
+File: cue\L\iDTF_10Hz\cue_RT-Pronation_L_pro_DOC_iDTF_10Hz.csv
+Movement: RT-Pronation_L_pro_DOC_iDTF
+High values found (excluding diagonal elements):
+  Value: 1.023630 at position (11, 22)
+--------------------------------------------------
+File: cue\L\iDTF_10Hz\cue_RT-Pronation_L_pro_JFXD_iDTF_10Hz.csv
+Movement: RT-Pronation_L_pro_JFXD_iDTF
+High values found (excluding diagonal elements):
+  Value: 1.115220 at position (8, 7)
+  Value: 1.463856 at position (11, 27)
+  Value: 1.186515 at position (13, 7)
+  Value: 1.159685 at position (13, 11)
+  Value: 1.218990 at position (15, 4)
+  Value: 1.486027 at position (15, 7)
+  Value: 2.239085 at position (27, 11)
+  Value: 1.487761 at position (28, 11)
+  Value: 1.193956 at position (28, 27)
+--------------------------------------------------
+File: cue\L\iDTF_10Hz\cue_RT-Pronation_L_pro_LT_iDTF_10Hz.csv
+Movement: RT-Pronation_L_pro_LT_iDTF
+High values found (excluding diagonal elements):
+  Value: 1.852442 at position (2, 3)
+  Value: 1.588839 at position (2, 4)
+  Value: 3.303829 at position (2, 5)
+  Value: 5.683339 at position (2, 7)
+  Value: 1.118245 at position (3, 5)
+  Value: 3.290982 at position (3, 7)
+  Value: 1.008145 at position (9, 3)
+  Value: 1.272281 at position (9, 5)
+  Value: 2.483245 at position (9, 7)
+  Value: 1.635393 at position (13, 3)
+  Value: 2.624663 at position (13, 5)
+  Value: 4.510755 at position (13, 7)
+  Value: 1.033632 at position (16, 5)
+  Value: 1.824500 at position (16, 7)
+--------------------------------------------------
+File: cue\L\iDTF_10Hz\cue_RT-Upright_L_anti_DOC_iDTF_10Hz.csv
+Movement: RT-Upright_L_anti_DOC_iDTF
+High values found (excluding diagonal elements):
+  Value: 1.116147 at position (9, 7)
+--------------------------------------------------
+File: cue\L\iDTF_10Hz\cue_RT-Upright_L_anti_JFXD_iDTF_10Hz.csv
+Movement: RT-Upright_L_anti_JFXD_iDTF
+High values found (excluding diagonal elements):
+  Value: 1.673192 at position (1, 11)
+  Value: 1.109027 at position (1, 27)
+  Value: 1.422917 at position (2, 6)
+  Value: 1.219415 at position (5, 6)
+  Value: 1.162738 at position (7, 4)
+  Value: 1.233891 at position (9, 4)
+  Value: 1.512241 at position (9, 7)
+  Value: 1.006268 at position (9, 11)
+  Value: 1.123848 at position (10, 11)
+  Value: 2.255829 at position (11, 27)
+  Value: 1.115536 at position (12, 11)
+  Value: 1.478199 at position (13, 4)
+  Value: 1.244293 at position (13, 6)
+  Value: 1.237171 at position (13, 7)
+  Value: 2.907184 at position (13, 10)
+  Value: 1.792928 at position (13, 12)
+  Value: 1.499446 at position (14, 11)
+  Value: 1.055165 at position (14, 27)
+  Value: 1.009432 at position (16, 11)
+  Value: 2.864520 at position (27, 11)
+  Value: 1.089519 at position (29, 10)
+  Value: 1.308896 at position (29, 19)
+  Value: 1.315754 at position (29, 20)
+  Value: 1.632561 at position (29, 22)
+  Value: 1.713145 at position (29, 23)
+--------------------------------------------------
+File: cue\L\iDTF_10Hz\cue_RT-Upright_L_anti_LT_iDTF_10Hz.csv
+Movement: RT-Upright_L_anti_LT_iDTF
+High values found (excluding diagonal elements):
+  Value: 1.007135 at position (0, 22)
+  Value: 1.392083 at position (9, 3)
+  Value: 1.004903 at position (9, 7)
+  Value: 1.172779 at position (10, 3)
+  Value: 1.384207 at position (16, 22)
+  Value: 1.020455 at position (22, 19)
+  Value: 1.261968 at position (27, 3)
+--------------------------------------------------
+File: cue\L\iDTF_10Hz\cue_RT-Upright_L_anti_SJB_iDTF_10Hz.csv
+Movement: RT-Upright_L_anti_SJB_iDTF
+High values found (excluding diagonal elements):
+  Value: 1.102147 at position (0, 4)
+--------------------------------------------------
+File: cue\L\iDTF_10Hz\cue_RT-Upright_L_pro_JFXD_iDTF_10Hz.csv
+Movement: RT-Upright_L_pro_JFXD_iDTF
+High values found (excluding diagonal elements):
+  Value: 1.074434 at position (0, 6)
+  Value: 2.112554 at position (0, 11)
+  Value: 1.994391 at position (0, 27)
+  Value: 1.226890 at position (2, 10)
+  Value: 2.267949 at position (2, 11)
+  Value: 2.000060 at position (2, 27)
+  Value: 1.265775 at position (3, 9)
+  Value: 3.571168 at position (3, 10)
+  Value: 1.399282 at position (5, 10)
+  Value: 1.698875 at position (5, 11)
+  Value: 1.561435 at position (5, 27)
+  Value: 1.439313 at position (6, 10)
+  Value: 1.165316 at position (6, 11)
+  Value: 1.127681 at position (6, 27)
+  Value: 2.516052 at position (7, 10)
+  Value: 1.100728 at position (9, 7)
+  Value: 3.364766 at position (9, 10)
+  Value: 1.429187 at position (11, 27)
+  Value: 1.517139 at position (13, 11)
+  Value: 1.417973 at position (14, 11)
+  Value: 1.109019 at position (14, 27)
+  Value: 2.309777 at position (24, 6)
+  Value: 1.759652 at position (27, 11)
+  Value: 1.048290 at position (28, 11)
+  Value: 1.171187 at position (28, 22)
+--------------------------------------------------
+File: cue\L\iDTF_10Hz\cue_RT-Upright_L_pro_LT_iDTF_10Hz.csv
+Movement: RT-Upright_L_pro_LT_iDTF
+High values found (excluding diagonal elements):
+  Value: 1.144343 at position (0, 22)
+  Value: 1.199606 at position (3, 7)
+  Value: 1.006089 at position (3, 9)
+  Value: 1.082025 at position (7, 3)
+  Value: 2.010867 at position (9, 3)
+  Value: 1.281840 at position (9, 7)
+  Value: 2.061026 at position (16, 22)
+  Value: 1.189757 at position (31, 22)
+--------------------------------------------------
+
+Analyzing cue/L/iDTF_20Hz
+==================================================
+File: cue\L\iDTF_20Hz\cue_LT-Pronation_L_anti_JDC_iDTF_20Hz.csv
+Movement: LT-Pronation_L_anti_JDC_iDTF
+High values found (excluding diagonal elements):
+  Value: 1.134827 at position (3, 9)
+  Value: 1.190982 at position (3, 10)
+  Value: 1.773616 at position (9, 10)
+  Value: 1.361430 at position (10, 9)
+--------------------------------------------------
+File: cue\L\iDTF_20Hz\cue_LT-Pronation_L_anti_JFXD_iDTF_20Hz.csv
+Movement: LT-Pronation_L_anti_JFXD_iDTF
+High values found (excluding diagonal elements):
+  Value: 1.068050 at position (3, 11)
+  Value: 1.141222 at position (4, 6)
+  Value: 1.372132 at position (6, 4)
+  Value: 1.040264 at position (13, 3)
+  Value: 5.523677 at position (13, 4)
+  Value: 1.943499 at position (13, 6)
+  Value: 2.434653 at position (13, 7)
+  Value: 1.000579 at position (19, 6)
+--------------------------------------------------
+File: cue\L\iDTF_20Hz\cue_LT-Pronation_L_pro_JFXD_iDTF_20Hz.csv
+Movement: LT-Pronation_L_pro_JFXD_iDTF
+High values found (excluding diagonal elements):
+  Value: 2.213344 at position (1, 11)
+  Value: 1.603929 at position (1, 27)
+  Value: 1.055254 at position (9, 7)
+  Value: 1.101722 at position (13, 3)
+  Value: 5.892165 at position (13, 4)
+  Value: 2.763348 at position (13, 6)
+  Value: 2.505419 at position (13, 7)
+  Value: 3.112434 at position (13, 11)
+  Value: 1.903744 at position (13, 27)
+  Value: 1.010556 at position (14, 11)
+  Value: 2.050981 at position (19, 4)
+  Value: 1.523359 at position (23, 4)
+  Value: 1.320207 at position (25, 4)
+  Value: 1.326679 at position (26, 4)
+  Value: 2.210359 at position (29, 11)
+  Value: 2.437833 at position (29, 27)
+--------------------------------------------------
+File: cue\L\iDTF_20Hz\cue_LT-Pronation_L_pro_LT_iDTF_20Hz.csv
+Movement: LT-Pronation_L_pro_LT_iDTF
+High values found (excluding diagonal elements):
+  Value: 1.029155 at position (22, 19)
+--------------------------------------------------
+File: cue\L\iDTF_20Hz\cue_RT-Down_L_anti_GB_iDTF_20Hz.csv
+Movement: RT-Down_L_anti_GB_iDTF
+High values found (excluding diagonal elements):
+  Value: 1.226051 at position (15, 6)
+--------------------------------------------------
+File: cue\L\iDTF_20Hz\cue_RT-Down_L_anti_JDC_iDTF_20Hz.csv
+Movement: RT-Down_L_anti_JDC_iDTF
+High values found (excluding diagonal elements):
+  Value: 1.063388 at position (20, 23)
+--------------------------------------------------
+File: cue\L\iDTF_20Hz\cue_RT-Down_L_anti_JFXD_iDTF_20Hz.csv
+Movement: RT-Down_L_anti_JFXD_iDTF
+High values found (excluding diagonal elements):
+  Value: 1.239051 at position (0, 7)
+  Value: 1.713753 at position (0, 11)
+  Value: 1.278731 at position (0, 27)
+  Value: 1.243351 at position (5, 6)
+  Value: 1.013321 at position (6, 4)
+  Value: 1.041048 at position (8, 4)
+  Value: 1.692667 at position (8, 6)
+  Value: 1.325948 at position (8, 10)
+  Value: 1.677384 at position (13, 11)
+  Value: 1.381620 at position (13, 22)
+  Value: 1.430857 at position (13, 27)
+  Value: 1.442791 at position (15, 4)
+  Value: 2.494726 at position (15, 6)
+  Value: 1.553892 at position (15, 10)
+  Value: 1.012648 at position (16, 11)
+  Value: 1.504039 at position (19, 4)
+  Value: 1.385659 at position (19, 6)
+  Value: 1.371985 at position (19, 7)
+  Value: 1.088188 at position (19, 22)
+  Value: 1.127637 at position (23, 4)
+  Value: 1.426264 at position (25, 4)
+  Value: 1.222639 at position (25, 6)
+  Value: 1.351688 at position (25, 7)
+  Value: 1.022018 at position (25, 19)
+  Value: 1.637645 at position (25, 22)
+  Value: 1.021743 at position (26, 4)
+  Value: 1.368866 at position (28, 4)
+  Value: 1.402520 at position (28, 6)
+  Value: 1.485115 at position (28, 10)
+  Value: 1.832093 at position (28, 11)
+  Value: 1.704757 at position (28, 27)
+--------------------------------------------------
+File: cue\L\iDTF_20Hz\cue_RT-Down_L_pro_JFXD_iDTF_20Hz.csv
+Movement: RT-Down_L_pro_JFXD_iDTF
+High values found (excluding diagonal elements):
+  Value: 1.303420 at position (0, 11)
+  Value: 1.006541 at position (0, 27)
+  Value: 1.019883 at position (2, 4)
+  Value: 1.537432 at position (3, 4)
+  Value: 1.093998 at position (3, 7)
+  Value: 1.359638 at position (3, 11)
+  Value: 1.087700 at position (3, 27)
+  Value: 1.619389 at position (4, 11)
+  Value: 1.399869 at position (4, 27)
+  Value: 2.625488 at position (7, 4)
+  Value: 1.421217 at position (7, 6)
+  Value: 1.912152 at position (7, 11)
+  Value: 1.619368 at position (7, 27)
+  Value: 1.040386 at position (8, 4)
+  Value: 1.497578 at position (8, 6)
+  Value: 1.714101 at position (9, 4)
+  Value: 1.626250 at position (9, 7)
+  Value: 1.204590 at position (9, 11)
+  Value: 1.636818 at position (11, 27)
+  Value: 2.017808 at position (13, 4)
+  Value: 1.396579 at position (13, 6)
+  Value: 1.094512 at position (14, 7)
+  Value: 1.020642 at position (18, 3)
+  Value: 2.062887 at position (18, 4)
+  Value: 1.594392 at position (18, 6)
+  Value: 1.482141 at position (18, 7)
+  Value: 1.196589 at position (21, 23)
+  Value: 1.940880 at position (27, 11)
+  Value: 1.550610 at position (29, 11)
+  Value: 1.565052 at position (29, 27)
+--------------------------------------------------
+File: cue\L\iDTF_20Hz\cue_RT-Pronation_L_anti_JFXD_iDTF_20Hz.csv
+Movement: RT-Pronation_L_anti_JFXD_iDTF
+High values found (excluding diagonal elements):
+  Value: 1.143036 at position (19, 11)
+  Value: 1.158661 at position (23, 11)
+  Value: 1.083700 at position (24, 22)
+  Value: 1.868212 at position (25, 11)
+  Value: 1.606613 at position (25, 27)
+  Value: 3.415951 at position (26, 11)
+  Value: 3.005930 at position (26, 27)
+  Value: 1.192041 at position (28, 10)
+  Value: 3.290414 at position (28, 11)
+  Value: 3.033021 at position (28, 27)
+--------------------------------------------------
+File: cue\L\iDTF_20Hz\cue_RT-Pronation_L_anti_LT_iDTF_20Hz.csv
+Movement: RT-Pronation_L_anti_LT_iDTF
+High values found (excluding diagonal elements):
+  Value: 1.200358 at position (0, 19)
+  Value: 1.525964 at position (0, 23)
+  Value: 1.279473 at position (3, 7)
+  Value: 1.576748 at position (9, 7)
+  Value: 1.713420 at position (13, 3)
+  Value: 3.188242 at position (13, 5)
+  Value: 4.752743 at position (13, 7)
+--------------------------------------------------
+File: cue\L\iDTF_20Hz\cue_RT-Pronation_L_anti_SJB_iDTF_20Hz.csv
+Movement: RT-Pronation_L_anti_SJB_iDTF
+High values found (excluding diagonal elements):
+  Value: 1.043979 at position (6, 4)
+--------------------------------------------------
+File: cue\L\iDTF_20Hz\cue_RT-Pronation_L_pro_DOC_iDTF_20Hz.csv
+Movement: RT-Pronation_L_pro_DOC_iDTF
+High values found (excluding diagonal elements):
+  Value: 1.396071 at position (11, 22)
+--------------------------------------------------
+File: cue\L\iDTF_20Hz\cue_RT-Pronation_L_pro_JFXD_iDTF_20Hz.csv
+Movement: RT-Pronation_L_pro_JFXD_iDTF
+High values found (excluding diagonal elements):
+  Value: 1.013511 at position (8, 7)
+  Value: 1.121671 at position (13, 3)
+  Value: 1.124059 at position (13, 7)
+  Value: 1.924935 at position (13, 11)
+  Value: 1.275133 at position (13, 27)
+  Value: 1.158494 at position (15, 4)
+  Value: 1.264138 at position (15, 7)
+  Value: 1.262328 at position (19, 11)
+  Value: 1.195105 at position (19, 27)
+  Value: 2.356671 at position (23, 11)
+  Value: 2.019994 at position (23, 27)
+  Value: 1.680442 at position (26, 11)
+  Value: 1.549417 at position (26, 27)
+  Value: 1.903845 at position (27, 11)
+  Value: 3.905437 at position (28, 11)
+  Value: 3.248267 at position (28, 27)
+--------------------------------------------------
+File: cue\L\iDTF_20Hz\cue_RT-Pronation_L_pro_LT_iDTF_20Hz.csv
+Movement: RT-Pronation_L_pro_LT_iDTF
+High values found (excluding diagonal elements):
+  Value: 1.961470 at position (2, 3)
+  Value: 1.935527 at position (2, 4)
+  Value: 3.415042 at position (2, 5)
+  Value: 5.728027 at position (2, 7)
+  Value: 1.807444 at position (3, 7)
+  Value: 1.719561 at position (9, 7)
+  Value: 1.503250 at position (13, 5)
+  Value: 2.605840 at position (13, 7)
+  Value: 1.307178 at position (16, 7)
+  Value: 1.483433 at position (18, 23)
+--------------------------------------------------
+File: cue\L\iDTF_20Hz\cue_RT-Pronation_L_pro_RR_iDTF_20Hz.csv
+Movement: RT-Pronation_L_pro_RR_iDTF
+High values found (excluding diagonal elements):
+  Value: 1.029852 at position (8, 6)
+--------------------------------------------------
+File: cue\L\iDTF_20Hz\cue_RT-Upright_L_anti_JFXD_iDTF_20Hz.csv
+Movement: RT-Upright_L_anti_JFXD_iDTF
+High values found (excluding diagonal elements):
+  Value: 1.096163 at position (0, 23)
+  Value: 2.630760 at position (1, 11)
+  Value: 1.842343 at position (1, 27)
+  Value: 1.400644 at position (3, 11)
+  Value: 1.063152 at position (5, 11)
+  Value: 1.357902 at position (7, 11)
+  Value: 1.309151 at position (8, 10)
+  Value: 1.699995 at position (9, 11)
+  Value: 1.141885 at position (9, 27)
+  Value: 1.520689 at position (10, 11)
+  Value: 2.866924 at position (11, 27)
+  Value: 1.504672 at position (12, 11)
+  Value: 1.519799 at position (13, 4)
+  Value: 1.124067 at position (13, 6)
+  Value: 1.102388 at position (13, 7)
+  Value: 2.969366 at position (13, 10)
+  Value: 1.746058 at position (13, 12)
+  Value: 2.493413 at position (14, 11)
+  Value: 1.639982 at position (14, 27)
+  Value: 1.279932 at position (15, 10)
+  Value: 1.195954 at position (16, 11)
+  Value: 1.578811 at position (20, 10)
+  Value: 1.184154 at position (23, 10)
+  Value: 1.326360 at position (25, 11)
+  Value: 1.191457 at position (25, 27)
+  Value: 1.348935 at position (26, 11)
+  Value: 1.376681 at position (26, 27)
+  Value: 3.710903 at position (27, 11)
+  Value: 1.057955 at position (29, 7)
+  Value: 1.670877 at position (29, 19)
+  Value: 1.265919 at position (29, 20)
+  Value: 1.632137 at position (29, 22)
+  Value: 1.969974 at position (29, 23)
+--------------------------------------------------
+File: cue\L\iDTF_20Hz\cue_RT-Upright_L_anti_LT_iDTF_20Hz.csv
+Movement: RT-Upright_L_anti_LT_iDTF
+High values found (excluding diagonal elements):
+  Value: 1.247641 at position (9, 3)
+  Value: 1.077736 at position (9, 7)
+  Value: 1.013350 at position (10, 3)
+  Value: 1.520896 at position (11, 3)
+  Value: 1.057350 at position (11, 9)
+  Value: 1.195187 at position (27, 3)
+--------------------------------------------------
+File: cue\L\iDTF_20Hz\cue_RT-Upright_L_anti_SJB_iDTF_20Hz.csv
+Movement: RT-Upright_L_anti_SJB_iDTF
+High values found (excluding diagonal elements):
+  Value: 1.031606 at position (6, 4)
+--------------------------------------------------
+File: cue\L\iDTF_20Hz\cue_RT-Upright_L_pro_DOC_iDTF_20Hz.csv
+Movement: RT-Upright_L_pro_DOC_iDTF
+High values found (excluding diagonal elements):
+  Value: 1.146006 at position (23, 22)
+--------------------------------------------------
+File: cue\L\iDTF_20Hz\cue_RT-Upright_L_pro_JFXD_iDTF_20Hz.csv
+Movement: RT-Upright_L_pro_JFXD_iDTF
+High values found (excluding diagonal elements):
+  Value: 1.781421 at position (0, 11)
+  Value: 1.646154 at position (0, 27)
+  Value: 1.577244 at position (2, 11)
+  Value: 1.384542 at position (2, 27)
+  Value: 1.239234 at position (3, 9)
+  Value: 3.513783 at position (3, 10)
+  Value: 1.509295 at position (3, 11)
+  Value: 1.309991 at position (3, 27)
+  Value: 1.245656 at position (5, 10)
+  Value: 1.563507 at position (5, 11)
+  Value: 1.339370 at position (5, 27)
+  Value: 1.058994 at position (6, 10)
+  Value: 1.384059 at position (6, 11)
+  Value: 1.245782 at position (6, 27)
+  Value: 1.021228 at position (7, 9)
+  Value: 2.603464 at position (7, 10)
+  Value: 1.164347 at position (8, 11)
+  Value: 3.169351 at position (9, 10)
+  Value: 1.640423 at position (9, 11)
+  Value: 1.372563 at position (9, 27)
+  Value: 1.247483 at position (10, 11)
+  Value: 1.082728 at position (10, 27)
+  Value: 2.422134 at position (11, 27)
+  Value: 1.480652 at position (13, 4)
+  Value: 1.109079 at position (13, 7)
+  Value: 2.517143 at position (13, 11)
+  Value: 1.398798 at position (13, 27)
+  Value: 2.783337 at position (14, 11)
+  Value: 2.261035 at position (14, 27)
+  Value: 1.019875 at position (15, 11)
+  Value: 1.053284 at position (16, 4)
+  Value: 1.501135 at position (21, 11)
+  Value: 1.366949 at position (21, 27)
+  Value: 1.237469 at position (23, 11)
+  Value: 1.078626 at position (23, 27)
+  Value: 1.120588 at position (24, 4)
+  Value: 2.244430 at position (24, 6)
+  Value: 2.736429 at position (26, 11)
+  Value: 2.285968 at position (26, 27)
+  Value: 2.845657 at position (27, 11)
+  Value: 1.166856 at position (28, 6)
+  Value: 4.595565 at position (28, 11)
+  Value: 1.271819 at position (28, 22)
+  Value: 4.155461 at position (28, 27)
+--------------------------------------------------
+File: cue\L\iDTF_20Hz\cue_RT-Upright_L_pro_LT_iDTF_20Hz.csv
+Movement: RT-Upright_L_pro_LT_iDTF
+High values found (excluding diagonal elements):
+  Value: 1.310703 at position (3, 7)
+  Value: 1.944106 at position (9, 3)
+  Value: 1.739776 at position (9, 7)
+  Value: 1.149248 at position (10, 3)
+  Value: 1.070019 at position (10, 7)
+  Value: 1.096150 at position (11, 3)
+  Value: 1.532696 at position (12, 3)
+  Value: 1.117476 at position (12, 7)
+  Value: 1.380639 at position (16, 22)
+  Value: 1.144679 at position (29, 19)
+--------------------------------------------------
+File: cue\L\iDTF_20Hz\cue_RT-Upright_L_pro_SJB_iDTF_20Hz.csv
+Movement: RT-Upright_L_pro_SJB_iDTF
+High values found (excluding diagonal elements):
+  Value: 1.201330 at position (5, 4)
+  Value: 1.103715 at position (6, 4)
+--------------------------------------------------
+
+Analyzing cue/L/iPDC_100Hz
+==================================================
+
+Analyzing cue/L/iPDC_10Hz
+==================================================
+
+Analyzing cue/L/iPDC_20Hz
+==================================================
+
+Analyzing cue/R/gDTF_100Hz
+==================================================
+
+Analyzing cue/R/gDTF_10Hz
+==================================================
+
+Analyzing cue/R/gDTF_20Hz
+==================================================
+
+Analyzing cue/R/gPDC_100Hz
+==================================================
+
+Analyzing cue/R/gPDC_10Hz
+==================================================
+
+Analyzing cue/R/gPDC_20Hz
+==================================================
+
+Analyzing cue/R/iDTF_100Hz
+==================================================
+File: cue\R\iDTF_100Hz\cue_LT-Pronation_R_anti_DOC_iDTF_100Hz.csv
+Movement: LT-Pronation_R_anti_DOC_iDTF
+High values found (excluding diagonal elements):
+  Value: 1.233093 at position (17, 22)
+--------------------------------------------------
+File: cue\R\iDTF_100Hz\cue_LT-Pronation_R_anti_JFXD_iDTF_100Hz.csv
+Movement: LT-Pronation_R_anti_JFXD_iDTF
+High values found (excluding diagonal elements):
+  Value: 1.125255 at position (2, 10)
+  Value: 1.063806 at position (4, 6)
+  Value: 1.021109 at position (6, 4)
+  Value: 1.310389 at position (7, 6)
+  Value: 1.490311 at position (13, 11)
+  Value: 1.598956 at position (14, 11)
+  Value: 1.636414 at position (18, 4)
+  Value: 1.876438 at position (18, 6)
+  Value: 3.523693 at position (18, 11)
+  Value: 1.119118 at position (18, 12)
+  Value: 2.882298 at position (18, 27)
+  Value: 1.631627 at position (19, 4)
+  Value: 2.188099 at position (19, 6)
+  Value: 1.028390 at position (19, 22)
+  Value: 1.747000 at position (23, 6)
+  Value: 1.245227 at position (23, 22)
+  Value: 1.529610 at position (25, 4)
+  Value: 1.764691 at position (25, 6)
+  Value: 1.268560 at position (27, 11)
+  Value: 1.027988 at position (29, 6)
+  Value: 1.322190 at position (29, 11)
+  Value: 1.179244 at position (29, 27)
+--------------------------------------------------
+File: cue\R\iDTF_100Hz\cue_LT-Pronation_R_anti_LT_iDTF_100Hz.csv
+Movement: LT-Pronation_R_anti_LT_iDTF
+High values found (excluding diagonal elements):
+  Value: 1.033556 at position (23, 19)
+--------------------------------------------------
+File: cue\R\iDTF_100Hz\cue_LT-Pronation_R_pro_JFXD_iDTF_100Hz.csv
+Movement: LT-Pronation_R_pro_JFXD_iDTF
+High values found (excluding diagonal elements):
+  Value: 1.149123 at position (0, 4)
+  Value: 1.206358 at position (0, 7)
+  Value: 1.921825 at position (1, 4)
+  Value: 1.378716 at position (1, 6)
+  Value: 1.095094 at position (11, 4)
+  Value: 1.002900 at position (11, 7)
+  Value: 1.507136 at position (11, 27)
+  Value: 2.149685 at position (13, 11)
+  Value: 1.428239 at position (13, 27)
+  Value: 1.510021 at position (14, 11)
+  Value: 1.332478 at position (14, 27)
+  Value: 1.723781 at position (18, 4)
+  Value: 1.179943 at position (21, 6)
+  Value: 1.209053 at position (23, 4)
+  Value: 2.038066 at position (23, 6)
+  Value: 1.074458 at position (27, 3)
+  Value: 1.019093 at position (27, 4)
+  Value: 1.134959 at position (27, 7)
+  Value: 1.862442 at position (27, 11)
+  Value: 1.176667 at position (30, 4)
+--------------------------------------------------
+File: cue\R\iDTF_100Hz\cue_RT-Down_R_anti_DOC_iDTF_100Hz.csv
+Movement: RT-Down_R_anti_DOC_iDTF
+High values found (excluding diagonal elements):
+  Value: 1.195237 at position (3, 7)
+  Value: 1.954349 at position (16, 22)
+  Value: 1.312941 at position (21, 22)
+  Value: 2.208524 at position (24, 22)
+--------------------------------------------------
+File: cue\R\iDTF_100Hz\cue_RT-Down_R_anti_JDC_iDTF_100Hz.csv
+Movement: RT-Down_R_anti_JDC_iDTF
+High values found (excluding diagonal elements):
+  Value: 1.117256 at position (20, 23)
+--------------------------------------------------
+File: cue\R\iDTF_100Hz\cue_RT-Down_R_anti_JFXD_iDTF_100Hz.csv
+Movement: RT-Down_R_anti_JFXD_iDTF
+High values found (excluding diagonal elements):
+  Value: 1.107902 at position (5, 4)
+  Value: 1.502038 at position (5, 6)
+  Value: 1.249823 at position (6, 4)
+  Value: 1.264213 at position (7, 6)
+  Value: 1.124455 at position (7, 10)
+  Value: 1.118923 at position (11, 27)
+  Value: 1.802961 at position (13, 10)
+  Value: 1.560583 at position (14, 11)
+  Value: 1.268758 at position (14, 27)
+  Value: 1.810874 at position (16, 6)
+  Value: 2.372039 at position (17, 11)
+  Value: 1.115169 at position (17, 20)
+  Value: 1.788807 at position (17, 22)
+  Value: 1.945481 at position (17, 27)
+  Value: 1.228649 at position (20, 6)
+  Value: 1.059878 at position (21, 8)
+  Value: 1.243942 at position (21, 11)
+  Value: 1.168309 at position (21, 27)
+  Value: 1.008767 at position (26, 22)
+  Value: 1.119088 at position (27, 11)
+  Value: 2.083237 at position (28, 11)
+  Value: 1.001280 at position (28, 20)
+  Value: 1.924635 at position (28, 22)
+  Value: 1.707173 at position (28, 27)
+  Value: 1.670057 at position (31, 11)
+  Value: 1.722585 at position (31, 27)
+--------------------------------------------------
+File: cue\R\iDTF_100Hz\cue_RT-Down_R_pro_DOC_iDTF_100Hz.csv
+Movement: RT-Down_R_pro_DOC_iDTF
+High values found (excluding diagonal elements):
+  Value: 1.016966 at position (10, 7)
+--------------------------------------------------
+File: cue\R\iDTF_100Hz\cue_RT-Down_R_pro_JFXD_iDTF_100Hz.csv
+Movement: RT-Down_R_pro_JFXD_iDTF
+High values found (excluding diagonal elements):
+  Value: 1.413458 at position (0, 6)
+  Value: 1.176322 at position (0, 11)
+  Value: 1.059815 at position (0, 27)
+  Value: 1.430242 at position (1, 22)
+  Value: 1.061470 at position (4, 22)
+  Value: 1.009492 at position (5, 4)
+  Value: 2.248895 at position (6, 4)
+  Value: 1.029167 at position (7, 22)
+  Value: 1.625023 at position (8, 4)
+  Value: 1.185587 at position (8, 6)
+  Value: 1.225389 at position (8, 22)
+  Value: 1.061735 at position (9, 11)
+  Value: 1.037307 at position (9, 27)
+  Value: 1.899998 at position (11, 27)
+  Value: 1.932822 at position (13, 11)
+  Value: 1.437046 at position (13, 27)
+  Value: 1.534291 at position (14, 4)
+  Value: 2.129770 at position (14, 6)
+  Value: 1.439491 at position (14, 7)
+  Value: 1.244765 at position (14, 10)
+  Value: 1.953897 at position (14, 11)
+  Value: 1.525505 at position (14, 27)
+  Value: 1.494656 at position (15, 22)
+  Value: 1.504436 at position (19, 11)
+  Value: 2.097227 at position (19, 22)
+  Value: 1.055829 at position (19, 27)
+  Value: 1.145796 at position (23, 4)
+  Value: 1.261155 at position (23, 6)
+  Value: 1.763246 at position (23, 22)
+  Value: 1.162769 at position (25, 22)
+  Value: 2.479380 at position (27, 11)
+--------------------------------------------------
+File: cue\R\iDTF_100Hz\cue_RT-Pronation_R_anti_DOC_iDTF_100Hz.csv
+Movement: RT-Pronation_R_anti_DOC_iDTF
+High values found (excluding diagonal elements):
+  Value: 1.003514 at position (9, 7)
+--------------------------------------------------
+File: cue\R\iDTF_100Hz\cue_RT-Pronation_R_anti_JFXD_iDTF_100Hz.csv
+Movement: RT-Pronation_R_anti_JFXD_iDTF
+High values found (excluding diagonal elements):
+  Value: 1.142657 at position (2, 7)
+  Value: 1.504352 at position (4, 11)
+  Value: 1.365016 at position (4, 27)
+  Value: 1.249905 at position (5, 11)
+  Value: 1.083950 at position (5, 27)
+  Value: 2.707556 at position (6, 11)
+  Value: 2.338737 at position (6, 27)
+  Value: 3.351192 at position (11, 27)
+  Value: 2.742201 at position (13, 11)
+  Value: 1.790104 at position (13, 27)
+  Value: 3.038683 at position (14, 11)
+  Value: 2.081250 at position (14, 27)
+  Value: 1.008446 at position (18, 6)
+  Value: 1.049271 at position (18, 11)
+  Value: 1.019056 at position (18, 27)
+  Value: 2.347277 at position (19, 11)
+  Value: 2.027477 at position (19, 27)
+  Value: 2.073552 at position (23, 11)
+  Value: 1.676196 at position (23, 27)
+  Value: 1.805279 at position (25, 11)
+  Value: 1.374654 at position (25, 27)
+  Value: 3.547667 at position (26, 11)
+  Value: 2.765958 at position (26, 27)
+  Value: 3.915119 at position (27, 11)
+  Value: 1.221378 at position (29, 11)
+  Value: 1.117315 at position (29, 27)
+--------------------------------------------------
+File: cue\R\iDTF_100Hz\cue_RT-Pronation_R_pro_DOC_iDTF_100Hz.csv
+Movement: RT-Pronation_R_pro_DOC_iDTF
+High values found (excluding diagonal elements):
+  Value: 1.394812 at position (9, 3)
+  Value: 1.634646 at position (9, 7)
+  Value: 1.093709 at position (10, 7)
+--------------------------------------------------
+File: cue\R\iDTF_100Hz\cue_RT-Pronation_R_pro_JFXD_iDTF_100Hz.csv
+Movement: RT-Pronation_R_pro_JFXD_iDTF
+High values found (excluding diagonal elements):
+  Value: 1.712036 at position (13, 4)
+  Value: 1.466892 at position (13, 6)
+  Value: 1.163467 at position (13, 7)
+  Value: 1.565362 at position (13, 10)
+  Value: 1.781865 at position (13, 11)
+  Value: 1.256338 at position (13, 12)
+  Value: 1.234673 at position (13, 27)
+  Value: 1.822862 at position (14, 11)
+  Value: 1.382909 at position (14, 27)
+  Value: 2.318143 at position (19, 11)
+  Value: 1.807283 at position (19, 27)
+  Value: 2.363578 at position (23, 11)
+  Value: 1.773844 at position (23, 27)
+  Value: 1.022973 at position (26, 6)
+  Value: 1.063485 at position (26, 11)
+  Value: 1.217039 at position (27, 11)
+  Value: 1.209478 at position (29, 11)
+  Value: 1.090454 at position (29, 27)
+--------------------------------------------------
+File: cue\R\iDTF_100Hz\cue_RT-Upright_R_anti_JFXD_iDTF_100Hz.csv
+Movement: RT-Upright_R_anti_JFXD_iDTF
+High values found (excluding diagonal elements):
+  Value: 1.660367 at position (9, 11)
+  Value: 1.293982 at position (9, 27)
+  Value: 2.840795 at position (11, 27)
+  Value: 1.642629 at position (13, 11)
+  Value: 2.297907 at position (14, 11)
+  Value: 1.418105 at position (14, 27)
+  Value: 4.362960 at position (18, 11)
+  Value: 3.342848 at position (18, 27)
+  Value: 1.908256 at position (19, 11)
+  Value: 1.500325 at position (19, 27)
+  Value: 1.126278 at position (20, 11)
+  Value: 1.444936 at position (21, 11)
+  Value: 1.178596 at position (21, 27)
+  Value: 1.921315 at position (22, 11)
+  Value: 1.484466 at position (22, 27)
+  Value: 1.807265 at position (25, 10)
+  Value: 2.502352 at position (26, 10)
+  Value: 4.651289 at position (27, 11)
+  Value: 2.711851 at position (29, 11)
+  Value: 2.417844 at position (29, 27)
+  Value: 1.236106 at position (30, 11)
+  Value: 1.114629 at position (30, 27)
+--------------------------------------------------
+File: cue\R\iDTF_100Hz\cue_RT-Upright_R_anti_LT_iDTF_100Hz.csv
+Movement: RT-Upright_R_anti_LT_iDTF
+High values found (excluding diagonal elements):
+  Value: 1.106522 at position (6, 3)
+  Value: 1.924784 at position (11, 3)
+  Value: 1.323593 at position (11, 7)
+  Value: 2.480799 at position (12, 3)
+  Value: 1.470934 at position (12, 7)
+  Value: 1.137214 at position (12, 9)
+  Value: 1.053827 at position (25, 7)
+  Value: 1.200755 at position (26, 3)
+  Value: 1.235083 at position (26, 7)
+  Value: 1.841303 at position (27, 3)
+  Value: 1.291812 at position (27, 7)
+--------------------------------------------------
+File: cue\R\iDTF_100Hz\cue_RT-Upright_R_anti_SJB_iDTF_100Hz.csv
+Movement: RT-Upright_R_anti_SJB_iDTF
+High values found (excluding diagonal elements):
+  Value: 1.062281 at position (9, 4)
+  Value: 1.093124 at position (9, 6)
+  Value: 1.409825 at position (22, 4)
+--------------------------------------------------
+File: cue\R\iDTF_100Hz\cue_RT-Upright_R_pro_JFXD_iDTF_100Hz.csv
+Movement: RT-Upright_R_pro_JFXD_iDTF
+High values found (excluding diagonal elements):
+  Value: 2.076880 at position (2, 11)
+  Value: 1.259407 at position (2, 27)
+  Value: 1.136486 at position (4, 6)
+  Value: 1.980214 at position (4, 11)
+  Value: 1.256102 at position (4, 27)
+  Value: 1.075655 at position (5, 6)
+  Value: 1.752976 at position (5, 11)
+  Value: 1.131043 at position (5, 27)
+  Value: 1.281310 at position (6, 4)
+  Value: 2.873814 at position (6, 11)
+  Value: 1.745963 at position (6, 27)
+  Value: 1.294871 at position (8, 11)
+  Value: 1.413057 at position (12, 4)
+  Value: 1.129365 at position (13, 4)
+  Value: 1.004351 at position (13, 6)
+  Value: 2.148489 at position (13, 11)
+  Value: 1.077659 at position (13, 27)
+  Value: 1.102486 at position (14, 4)
+  Value: 1.881377 at position (14, 11)
+  Value: 1.086133 at position (14, 27)
+  Value: 1.037870 at position (16, 3)
+  Value: 1.117577 at position (17, 6)
+  Value: 2.001804 at position (18, 11)
+  Value: 1.323162 at position (18, 27)
+  Value: 1.512176 at position (19, 11)
+  Value: 1.080491 at position (19, 27)
+  Value: 1.001399 at position (21, 6)
+  Value: 1.171660 at position (21, 10)
+  Value: 1.120692 at position (22, 6)
+  Value: 1.351984 at position (23, 11)
+  Value: 1.059344 at position (25, 20)
+  Value: 1.466421 at position (25, 23)
+  Value: 1.158109 at position (26, 23)
+  Value: 1.543381 at position (27, 11)
+  Value: 3.347738 at position (28, 11)
+  Value: 2.752394 at position (28, 27)
+  Value: 1.003298 at position (29, 6)
+  Value: 2.899550 at position (29, 11)
+  Value: 2.120126 at position (29, 22)
+  Value: 2.087742 at position (29, 27)
+  Value: 3.228581 at position (30, 11)
+  Value: 1.058292 at position (30, 22)
+  Value: 2.342560 at position (30, 27)
+  Value: 1.250082 at position (31, 6)
+  Value: 1.308556 at position (31, 10)
+--------------------------------------------------
+
+Analyzing cue/R/iDTF_10Hz
+==================================================
+File: cue\R\iDTF_10Hz\cue_LT-Pronation_R_anti_JDC_iDTF_10Hz.csv
+Movement: LT-Pronation_R_anti_JDC_iDTF
+High values found (excluding diagonal elements):
+  Value: 1.398171 at position (10, 9)
+--------------------------------------------------
+File: cue\R\iDTF_10Hz\cue_LT-Pronation_R_anti_JFXD_iDTF_10Hz.csv
+Movement: LT-Pronation_R_anti_JFXD_iDTF
+High values found (excluding diagonal elements):
+  Value: 1.073658 at position (9, 4)
+  Value: 1.209843 at position (9, 7)
+  Value: 1.313665 at position (10, 4)
+  Value: 1.182949 at position (11, 27)
+  Value: 3.857825 at position (13, 4)
+  Value: 2.918512 at position (13, 6)
+  Value: 1.941318 at position (13, 11)
+  Value: 1.695309 at position (18, 4)
+  Value: 2.875824 at position (18, 6)
+  Value: 1.089705 at position (18, 7)
+  Value: 1.157282 at position (18, 11)
+  Value: 1.141265 at position (20, 11)
+  Value: 2.427380 at position (21, 11)
+  Value: 2.170062 at position (21, 27)
+  Value: 1.893589 at position (22, 11)
+  Value: 1.704220 at position (22, 27)
+  Value: 1.261629 at position (25, 6)
+  Value: 1.333120 at position (27, 11)
+  Value: 1.184406 at position (29, 11)
+  Value: 1.080920 at position (29, 27)
+--------------------------------------------------
+File: cue\R\iDTF_10Hz\cue_LT-Pronation_R_anti_LT_iDTF_10Hz.csv
+Movement: LT-Pronation_R_anti_LT_iDTF
+High values found (excluding diagonal elements):
+  Value: 1.231654 at position (17, 19)
+--------------------------------------------------
+File: cue\R\iDTF_10Hz\cue_LT-Pronation_R_pro_JFXD_iDTF_10Hz.csv
+Movement: LT-Pronation_R_pro_JFXD_iDTF
+High values found (excluding diagonal elements):
+  Value: 1.453466 at position (4, 6)
+  Value: 1.189353 at position (9, 7)
+  Value: 1.228576 at position (12, 11)
+  Value: 5.462553 at position (13, 4)
+  Value: 2.494160 at position (13, 6)
+  Value: 1.533196 at position (13, 7)
+  Value: 1.404828 at position (15, 6)
+  Value: 1.033840 at position (20, 4)
+  Value: 1.013089 at position (20, 6)
+  Value: 1.577849 at position (20, 22)
+  Value: 1.093764 at position (24, 6)
+  Value: 1.321981 at position (28, 11)
+  Value: 1.054023 at position (30, 11)
+  Value: 1.564914 at position (31, 6)
+--------------------------------------------------
+File: cue\R\iDTF_10Hz\cue_LT-Pronation_R_pro_LT_iDTF_10Hz.csv
+Movement: LT-Pronation_R_pro_LT_iDTF
+High values found (excluding diagonal elements):
+  Value: 1.613855 at position (3, 7)
+  Value: 1.120199 at position (3, 9)
+  Value: 1.155293 at position (4, 3)
+  Value: 1.185884 at position (4, 7)
+  Value: 1.388182 at position (7, 3)
+  Value: 1.145455 at position (7, 9)
+  Value: 3.121533 at position (9, 3)
+  Value: 2.538698 at position (9, 7)
+  Value: 2.372037 at position (10, 3)
+  Value: 1.616824 at position (10, 7)
+  Value: 1.531016 at position (10, 9)
+--------------------------------------------------
+File: cue\R\iDTF_10Hz\cue_RT-Down_R_anti_JFXD_iDTF_10Hz.csv
+Movement: RT-Down_R_anti_JFXD_iDTF
+High values found (excluding diagonal elements):
+  Value: 1.113438 at position (0, 4)
+  Value: 1.600552 at position (0, 6)
+  Value: 1.257773 at position (2, 4)
+  Value: 2.587747 at position (2, 6)
+  Value: 1.081224 at position (2, 7)
+  Value: 1.197280 at position (3, 4)
+  Value: 1.423899 at position (3, 6)
+  Value: 1.922955 at position (7, 4)
+  Value: 3.066804 at position (7, 6)
+  Value: 1.229089 at position (7, 22)
+  Value: 1.202407 at position (9, 4)
+  Value: 1.250969 at position (9, 6)
+  Value: 1.057376 at position (10, 6)
+  Value: 2.020556 at position (13, 6)
+  Value: 1.323581 at position (20, 6)
+  Value: 1.451062 at position (23, 6)
+  Value: 1.030934 at position (24, 4)
+  Value: 1.638253 at position (28, 4)
+  Value: 1.784974 at position (28, 6)
+  Value: 1.119708 at position (28, 7)
+  Value: 1.121701 at position (29, 11)
+  Value: 1.057674 at position (29, 20)
+--------------------------------------------------
+File: cue\R\iDTF_10Hz\cue_RT-Down_R_anti_SJB_iDTF_10Hz.csv
+Movement: RT-Down_R_anti_SJB_iDTF
+High values found (excluding diagonal elements):
+  Value: 1.312719 at position (16, 15)
+--------------------------------------------------
+File: cue\R\iDTF_10Hz\cue_RT-Down_R_pro_DOC_iDTF_10Hz.csv
+Movement: RT-Down_R_pro_DOC_iDTF
+High values found (excluding diagonal elements):
+  Value: 1.004896 at position (9, 7)
+--------------------------------------------------
+File: cue\R\iDTF_10Hz\cue_RT-Down_R_pro_JFXD_iDTF_10Hz.csv
+Movement: RT-Down_R_pro_JFXD_iDTF
+High values found (excluding diagonal elements):
+  Value: 1.076049 at position (0, 7)
+  Value: 2.119913 at position (0, 11)
+  Value: 1.687499 at position (0, 27)
+  Value: 1.499939 at position (1, 6)
+  Value: 1.160778 at position (2, 6)
+  Value: 1.964042 at position (3, 4)
+  Value: 2.301599 at position (3, 6)
+  Value: 1.954406 at position (3, 7)
+  Value: 1.025485 at position (7, 3)
+  Value: 2.319601 at position (7, 4)
+  Value: 3.339847 at position (7, 6)
+  Value: 1.556606 at position (9, 4)
+  Value: 1.728693 at position (9, 6)
+  Value: 1.694329 at position (9, 7)
+  Value: 2.086280 at position (11, 27)
+  Value: 1.087930 at position (13, 3)
+  Value: 3.875025 at position (13, 4)
+  Value: 3.676246 at position (13, 6)
+  Value: 2.847618 at position (13, 7)
+  Value: 1.306004 at position (13, 9)
+  Value: 2.266656 at position (13, 10)
+  Value: 4.009956 at position (13, 11)
+  Value: 3.182910 at position (13, 27)
+  Value: 1.037029 at position (14, 11)
+  Value: 1.027257 at position (14, 27)
+  Value: 1.789215 at position (16, 11)
+  Value: 1.379199 at position (16, 27)
+  Value: 2.239554 at position (27, 11)
+  Value: 1.285396 at position (29, 11)
+  Value: 1.264878 at position (29, 27)
+--------------------------------------------------
+File: cue\R\iDTF_10Hz\cue_RT-Pronation_R_anti_DOC_iDTF_10Hz.csv
+Movement: RT-Pronation_R_anti_DOC_iDTF
+High values found (excluding diagonal elements):
+  Value: 1.018338 at position (9, 3)
+--------------------------------------------------
+File: cue\R\iDTF_10Hz\cue_RT-Pronation_R_anti_JFXD_iDTF_10Hz.csv
+Movement: RT-Pronation_R_anti_JFXD_iDTF
+High values found (excluding diagonal elements):
+  Value: 1.146981 at position (5, 6)
+  Value: 1.451878 at position (8, 4)
+  Value: 1.211897 at position (8, 7)
+  Value: 1.399389 at position (9, 7)
+  Value: 1.021761 at position (11, 27)
+  Value: 3.641569 at position (13, 11)
+  Value: 2.501614 at position (13, 27)
+  Value: 1.042805 at position (14, 7)
+  Value: 1.845274 at position (15, 4)
+  Value: 1.458085 at position (15, 6)
+  Value: 1.245475 at position (15, 7)
+  Value: 1.864954 at position (24, 11)
+  Value: 1.239405 at position (24, 27)
+  Value: 1.491844 at position (27, 11)
+  Value: 1.524032 at position (28, 10)
+  Value: 2.303859 at position (28, 11)
+  Value: 2.140306 at position (28, 27)
+  Value: 1.207998 at position (31, 11)
+--------------------------------------------------
+File: cue\R\iDTF_10Hz\cue_RT-Pronation_R_anti_LT_iDTF_10Hz.csv
+Movement: RT-Pronation_R_anti_LT_iDTF
+High values found (excluding diagonal elements):
+  Value: 1.026294 at position (3, 7)
+--------------------------------------------------
+File: cue\R\iDTF_10Hz\cue_RT-Pronation_R_pro_JFXD_iDTF_10Hz.csv
+Movement: RT-Pronation_R_pro_JFXD_iDTF
+High values found (excluding diagonal elements):
+  Value: 1.109746 at position (3, 9)
+  Value: 1.231938 at position (3, 10)
+  Value: 1.021928 at position (9, 10)
+  Value: 1.080921 at position (10, 9)
+  Value: 1.598562 at position (13, 4)
+  Value: 1.679147 at position (28, 11)
+  Value: 1.507029 at position (28, 27)
+  Value: 1.628685 at position (29, 11)
+  Value: 1.451012 at position (29, 27)
+--------------------------------------------------
+File: cue\R\iDTF_10Hz\cue_RT-Pronation_R_pro_LT_iDTF_10Hz.csv
+Movement: RT-Pronation_R_pro_LT_iDTF
+High values found (excluding diagonal elements):
+  Value: 2.933792 at position (3, 7)
+  Value: 1.152929 at position (3, 9)
+  Value: 2.127015 at position (7, 3)
+  Value: 2.966015 at position (9, 3)
+  Value: 3.005511 at position (9, 7)
+  Value: 2.114636 at position (10, 3)
+  Value: 1.902498 at position (10, 7)
+  Value: 1.946250 at position (13, 3)
+  Value: 2.084068 at position (13, 7)
+--------------------------------------------------
+File: cue\R\iDTF_10Hz\cue_RT-Upright_R_anti_DOC_iDTF_10Hz.csv
+Movement: RT-Upright_R_anti_DOC_iDTF
+High values found (excluding diagonal elements):
+  Value: 1.532405 at position (11, 22)
+  Value: 1.040462 at position (28, 22)
+  Value: 1.522322 at position (30, 22)
+--------------------------------------------------
+File: cue\R\iDTF_10Hz\cue_RT-Upright_R_anti_JDC_iDTF_10Hz.csv
+Movement: RT-Upright_R_anti_JDC_iDTF
+High values found (excluding diagonal elements):
+  Value: 1.017496 at position (8, 22)
+--------------------------------------------------
+File: cue\R\iDTF_10Hz\cue_RT-Upright_R_anti_JFXD_iDTF_10Hz.csv
+Movement: RT-Upright_R_anti_JFXD_iDTF
+High values found (excluding diagonal elements):
+  Value: 1.751774 at position (0, 11)
+  Value: 1.070617 at position (0, 23)
+  Value: 1.243115 at position (0, 27)
+  Value: 1.102890 at position (2, 3)
+  Value: 1.889158 at position (2, 4)
+  Value: 2.533308 at position (2, 6)
+  Value: 1.823908 at position (2, 7)
+  Value: 2.013405 at position (2, 10)
+  Value: 2.308500 at position (2, 11)
+  Value: 1.254305 at position (2, 12)
+  Value: 1.758542 at position (2, 27)
+  Value: 1.082492 at position (3, 7)
+  Value: 1.195818 at position (3, 10)
+  Value: 1.385452 at position (4, 10)
+  Value: 3.625793 at position (4, 11)
+  Value: 1.553282 at position (4, 12)
+  Value: 2.483416 at position (4, 27)
+  Value: 1.420360 at position (5, 4)
+  Value: 2.009168 at position (5, 6)
+  Value: 1.234272 at position (5, 7)
+  Value: 2.120882 at position (5, 10)
+  Value: 3.727668 at position (5, 11)
+  Value: 1.735058 at position (5, 12)
+  Value: 2.634659 at position (5, 27)
+  Value: 1.630295 at position (6, 10)
+  Value: 3.379661 at position (6, 11)
+  Value: 1.413657 at position (6, 12)
+  Value: 2.410227 at position (6, 27)
+  Value: 1.097556 at position (7, 3)
+  Value: 1.026264 at position (8, 4)
+  Value: 1.483310 at position (8, 11)
+  Value: 1.352133 at position (8, 27)
+  Value: 1.145412 at position (9, 10)
+  Value: 2.641149 at position (13, 4)
+  Value: 2.114548 at position (13, 7)
+  Value: 3.512164 at position (13, 11)
+  Value: 1.991145 at position (13, 27)
+  Value: 1.538923 at position (15, 4)
+  Value: 1.237156 at position (15, 6)
+  Value: 1.182826 at position (15, 7)
+  Value: 2.312250 at position (15, 11)
+  Value: 1.973446 at position (15, 27)
+  Value: 1.183746 at position (16, 11)
+  Value: 1.394679 at position (17, 11)
+  Value: 1.064166 at position (17, 27)
+  Value: 2.349651 at position (24, 11)
+  Value: 1.380496 at position (24, 27)
+  Value: 1.253082 at position (26, 11)
+  Value: 1.039690 at position (28, 10)
+  Value: 1.611768 at position (28, 11)
+  Value: 1.181791 at position (28, 27)
+  Value: 1.036453 at position (29, 22)
+  Value: 1.680367 at position (30, 11)
+  Value: 1.044724 at position (30, 27)
+--------------------------------------------------
+File: cue\R\iDTF_10Hz\cue_RT-Upright_R_anti_LT_iDTF_10Hz.csv
+Movement: RT-Upright_R_anti_LT_iDTF
+High values found (excluding diagonal elements):
+  Value: 1.246892 at position (1, 3)
+  Value: 1.088710 at position (9, 3)
+  Value: 1.123241 at position (9, 7)
+  Value: 1.122078 at position (13, 7)
+  Value: 1.618437 at position (14, 3)
+  Value: 1.468055 at position (14, 7)
+--------------------------------------------------
+File: cue\R\iDTF_10Hz\cue_RT-Upright_R_anti_SJB_iDTF_10Hz.csv
+Movement: RT-Upright_R_anti_SJB_iDTF
+High values found (excluding diagonal elements):
+  Value: 1.072622 at position (1, 4)
+--------------------------------------------------
+File: cue\R\iDTF_10Hz\cue_RT-Upright_R_pro_DOC_iDTF_10Hz.csv
+Movement: RT-Upright_R_pro_DOC_iDTF
+High values found (excluding diagonal elements):
+  Value: 1.246744 at position (9, 7)
+--------------------------------------------------
+File: cue\R\iDTF_10Hz\cue_RT-Upright_R_pro_JFXD_iDTF_10Hz.csv
+Movement: RT-Upright_R_pro_JFXD_iDTF
+High values found (excluding diagonal elements):
+  Value: 1.170393 at position (0, 4)
+  Value: 1.723377 at position (0, 6)
+  Value: 1.455574 at position (2, 4)
+  Value: 3.032680 at position (2, 6)
+  Value: 2.361519 at position (2, 11)
+  Value: 1.420468 at position (2, 27)
+  Value: 1.246018 at position (3, 4)
+  Value: 1.443974 at position (3, 6)
+  Value: 1.010716 at position (3, 7)
+  Value: 1.066053 at position (3, 11)
+  Value: 3.765635 at position (4, 6)
+  Value: 1.251730 at position (4, 11)
+  Value: 1.605894 at position (4, 22)
+  Value: 2.308239 at position (5, 4)
+  Value: 4.792632 at position (5, 6)
+  Value: 1.726602 at position (5, 11)
+  Value: 1.216611 at position (5, 22)
+  Value: 1.100756 at position (5, 27)
+  Value: 1.747636 at position (6, 4)
+  Value: 2.013327 at position (6, 11)
+  Value: 1.359162 at position (6, 22)
+  Value: 1.367189 at position (6, 27)
+  Value: 1.784488 at position (7, 4)
+  Value: 2.394262 at position (7, 6)
+  Value: 1.374702 at position (9, 4)
+  Value: 1.471265 at position (9, 6)
+  Value: 1.220956 at position (9, 7)
+  Value: 1.176085 at position (10, 4)
+  Value: 1.352147 at position (10, 6)
+  Value: 1.156430 at position (10, 7)
+  Value: 1.521647 at position (11, 27)
+  Value: 1.399296 at position (12, 4)
+  Value: 1.314092 at position (12, 6)
+  Value: 1.105154 at position (12, 7)
+  Value: 2.836249 at position (13, 4)
+  Value: 1.208538 at position (13, 6)
+  Value: 1.328228 at position (13, 7)
+  Value: 2.666633 at position (13, 11)
+  Value: 1.450096 at position (13, 27)
+  Value: 2.591428 at position (15, 4)
+  Value: 3.389601 at position (15, 6)
+  Value: 1.419847 at position (17, 11)
+  Value: 1.030844 at position (21, 23)
+  Value: 1.038050 at position (22, 6)
+  Value: 1.523009 at position (24, 11)
+  Value: 1.129144 at position (24, 27)
+  Value: 2.309328 at position (27, 11)
+  Value: 1.091105 at position (28, 10)
+  Value: 1.134245 at position (30, 11)
+  Value: 1.115919 at position (30, 27)
+--------------------------------------------------
+File: cue\R\iDTF_10Hz\cue_RT-Upright_R_pro_LT_iDTF_10Hz.csv
+Movement: RT-Upright_R_pro_LT_iDTF
+High values found (excluding diagonal elements):
+  Value: 1.162384 at position (6, 23)
+  Value: 1.016626 at position (9, 3)
+  Value: 1.042664 at position (10, 3)
+--------------------------------------------------
+File: cue\R\iDTF_10Hz\cue_RT-Upright_R_pro_SJB_iDTF_10Hz.csv
+Movement: RT-Upright_R_pro_SJB_iDTF
+High values found (excluding diagonal elements):
+  Value: 1.238272 at position (1, 4)
+--------------------------------------------------
+
+Analyzing cue/R/iDTF_20Hz
+==================================================
+File: cue\R\iDTF_20Hz\cue_LT-Pronation_R_anti_JDC_iDTF_20Hz.csv
+Movement: LT-Pronation_R_anti_JDC_iDTF
+High values found (excluding diagonal elements):
+  Value: 1.302211 at position (3, 9)
+  Value: 1.288737 at position (9, 10)
+  Value: 1.925299 at position (10, 9)
+--------------------------------------------------
+File: cue\R\iDTF_20Hz\cue_LT-Pronation_R_anti_JFXD_iDTF_20Hz.csv
+Movement: LT-Pronation_R_anti_JFXD_iDTF
+High values found (excluding diagonal elements):
+  Value: 1.093852 at position (3, 11)
+  Value: 1.443558 at position (9, 4)
+  Value: 1.166465 at position (9, 7)
+  Value: 1.606422 at position (10, 4)
+  Value: 1.371891 at position (11, 27)
+  Value: 1.006916 at position (12, 4)
+  Value: 2.966090 at position (13, 4)
+  Value: 2.204512 at position (13, 6)
+  Value: 1.051352 at position (13, 10)
+  Value: 2.251355 at position (13, 11)
+  Value: 1.242204 at position (13, 12)
+  Value: 1.229054 at position (13, 27)
+  Value: 1.913848 at position (18, 4)
+  Value: 3.494651 at position (18, 6)
+  Value: 1.549681 at position (18, 7)
+  Value: 1.420126 at position (18, 11)
+  Value: 1.128484 at position (18, 27)
+  Value: 1.171234 at position (20, 11)
+  Value: 2.341157 at position (21, 11)
+  Value: 2.117089 at position (21, 27)
+  Value: 1.893726 at position (22, 11)
+  Value: 1.710123 at position (22, 27)
+  Value: 1.025168 at position (24, 6)
+  Value: 1.074218 at position (25, 4)
+  Value: 1.335672 at position (25, 6)
+  Value: 1.745223 at position (27, 11)
+  Value: 1.795814 at position (29, 11)
+  Value: 1.530919 at position (29, 27)
+  Value: 1.007424 at position (31, 6)
+--------------------------------------------------
+File: cue\R\iDTF_20Hz\cue_LT-Pronation_R_anti_LT_iDTF_20Hz.csv
+Movement: LT-Pronation_R_anti_LT_iDTF
+High values found (excluding diagonal elements):
+  Value: 1.368766 at position (20, 23)
+--------------------------------------------------
+File: cue\R\iDTF_20Hz\cue_LT-Pronation_R_pro_JFXD_iDTF_20Hz.csv
+Movement: LT-Pronation_R_pro_JFXD_iDTF
+High values found (excluding diagonal elements):
+  Value: 1.015336 at position (1, 7)
+  Value: 1.427768 at position (3, 6)
+  Value: 1.777974 at position (4, 6)
+  Value: 1.699120 at position (7, 6)
+  Value: 1.005650 at position (10, 6)
+  Value: 1.558060 at position (11, 4)
+  Value: 1.076522 at position (11, 6)
+  Value: 1.117102 at position (11, 22)
+  Value: 1.108971 at position (12, 4)
+  Value: 1.278097 at position (12, 6)
+  Value: 1.296913 at position (12, 11)
+  Value: 1.023413 at position (12, 27)
+  Value: 5.939484 at position (13, 4)
+  Value: 3.078836 at position (13, 6)
+  Value: 1.267436 at position (13, 7)
+  Value: 1.171118 at position (14, 22)
+  Value: 1.892700 at position (15, 6)
+  Value: 1.176044 at position (20, 4)
+  Value: 1.277685 at position (20, 22)
+  Value: 1.701782 at position (24, 4)
+  Value: 2.180309 at position (24, 6)
+  Value: 1.222442 at position (27, 4)
+  Value: 1.124292 at position (27, 22)
+  Value: 2.073984 at position (28, 11)
+  Value: 1.531646 at position (28, 27)
+  Value: 1.846363 at position (31, 4)
+  Value: 2.807761 at position (31, 6)
+--------------------------------------------------
+File: cue\R\iDTF_20Hz\cue_LT-Pronation_R_pro_LT_iDTF_20Hz.csv
+Movement: LT-Pronation_R_pro_LT_iDTF
+High values found (excluding diagonal elements):
+  Value: 1.349437 at position (3, 7)
+  Value: 1.038933 at position (4, 3)
+  Value: 1.218664 at position (4, 7)
+  Value: 1.034930 at position (7, 3)
+  Value: 1.046127 at position (7, 9)
+  Value: 3.228423 at position (9, 3)
+  Value: 3.060339 at position (9, 7)
+  Value: 2.161716 at position (10, 3)
+  Value: 1.786681 at position (10, 7)
+  Value: 1.443414 at position (10, 9)
+--------------------------------------------------
+File: cue\R\iDTF_20Hz\cue_RT-Down_R_anti_JFXD_iDTF_20Hz.csv
+Movement: RT-Down_R_anti_JFXD_iDTF
+High values found (excluding diagonal elements):
+  Value: 1.294579 at position (0, 4)
+  Value: 2.048242 at position (0, 6)
+  Value: 1.668282 at position (3, 4)
+  Value: 2.278731 at position (3, 6)
+  Value: 1.174320 at position (6, 4)
+  Value: 2.111974 at position (7, 4)
+  Value: 3.342135 at position (7, 6)
+  Value: 1.000998 at position (7, 22)
+  Value: 1.184397 at position (8, 4)
+  Value: 1.154801 at position (8, 6)
+  Value: 1.571335 at position (9, 4)
+  Value: 1.803925 at position (9, 6)
+  Value: 1.011547 at position (10, 4)
+  Value: 1.729981 at position (10, 6)
+  Value: 1.084461 at position (12, 10)
+  Value: 1.219392 at position (13, 4)
+  Value: 2.574437 at position (13, 6)
+  Value: 1.101030 at position (14, 4)
+  Value: 1.014086 at position (14, 7)
+  Value: 1.421192 at position (20, 6)
+  Value: 1.257835 at position (24, 4)
+  Value: 1.064934 at position (24, 6)
+  Value: 2.645240 at position (28, 4)
+  Value: 3.217809 at position (28, 6)
+  Value: 1.708235 at position (28, 7)
+  Value: 1.057722 at position (28, 10)
+--------------------------------------------------
+File: cue\R\iDTF_20Hz\cue_RT-Down_R_pro_JFXD_iDTF_20Hz.csv
+Movement: RT-Down_R_pro_JFXD_iDTF
+High values found (excluding diagonal elements):
+  Value: 1.228796 at position (0, 6)
+  Value: 1.410735 at position (0, 7)
+  Value: 1.032921 at position (0, 11)
+  Value: 1.911305 at position (1, 6)
+  Value: 1.443638 at position (3, 4)
+  Value: 1.604340 at position (3, 6)
+  Value: 1.045182 at position (3, 7)
+  Value: 1.061637 at position (4, 6)
+  Value: 1.213592 at position (5, 4)
+  Value: 1.192727 at position (5, 6)
+  Value: 1.481558 at position (6, 4)
+  Value: 1.616953 at position (7, 4)
+  Value: 2.018864 at position (7, 6)
+  Value: 1.471367 at position (9, 4)
+  Value: 1.714432 at position (9, 6)
+  Value: 1.057114 at position (9, 7)
+  Value: 1.529360 at position (11, 27)
+  Value: 1.167132 at position (13, 3)
+  Value: 2.878430 at position (13, 4)
+  Value: 2.344450 at position (13, 6)
+  Value: 2.396271 at position (13, 7)
+  Value: 1.017715 at position (13, 9)
+  Value: 2.288561 at position (13, 10)
+  Value: 4.289331 at position (13, 11)
+  Value: 1.012502 at position (13, 12)
+  Value: 3.465359 at position (13, 27)
+  Value: 1.439942 at position (16, 11)
+  Value: 1.088487 at position (16, 27)
+  Value: 1.313203 at position (19, 11)
+  Value: 1.703051 at position (27, 11)
+  Value: 1.746737 at position (29, 11)
+  Value: 1.697433 at position (29, 27)
+--------------------------------------------------
+File: cue\R\iDTF_20Hz\cue_RT-Pronation_R_anti_JDC_iDTF_20Hz.csv
+Movement: RT-Pronation_R_anti_JDC_iDTF
+High values found (excluding diagonal elements):
+  Value: 1.056517 at position (20, 23)
+--------------------------------------------------
+File: cue\R\iDTF_20Hz\cue_RT-Pronation_R_anti_JFXD_iDTF_20Hz.csv
+Movement: RT-Pronation_R_anti_JFXD_iDTF
+High values found (excluding diagonal elements):
+  Value: 2.242951 at position (13, 11)
+  Value: 1.375595 at position (13, 27)
+  Value: 1.391584 at position (15, 4)
+  Value: 1.091725 at position (19, 11)
+  Value: 1.196659 at position (23, 11)
+  Value: 1.157448 at position (23, 27)
+  Value: 1.407468 at position (25, 11)
+  Value: 1.220759 at position (25, 27)
+  Value: 2.318367 at position (26, 11)
+  Value: 2.171406 at position (26, 27)
+  Value: 1.824806 at position (28, 10)
+  Value: 5.038528 at position (28, 11)
+  Value: 1.222441 at position (28, 12)
+  Value: 4.714703 at position (28, 27)
+--------------------------------------------------
+File: cue\R\iDTF_20Hz\cue_RT-Pronation_R_anti_LT_iDTF_20Hz.csv
+Movement: RT-Pronation_R_anti_LT_iDTF
+High values found (excluding diagonal elements):
+  Value: 1.009581 at position (9, 4)
+--------------------------------------------------
+File: cue\R\iDTF_20Hz\cue_RT-Pronation_R_pro_JFXD_iDTF_20Hz.csv
+Movement: RT-Pronation_R_pro_JFXD_iDTF
+High values found (excluding diagonal elements):
+  Value: 1.979727 at position (13, 4)
+  Value: 1.159955 at position (13, 6)
+  Value: 1.064342 at position (13, 7)
+  Value: 1.271562 at position (21, 11)
+  Value: 1.161101 at position (21, 27)
+  Value: 1.234654 at position (25, 11)
+  Value: 1.141330 at position (25, 27)
+  Value: 1.652613 at position (26, 11)
+  Value: 1.603066 at position (26, 27)
+  Value: 3.191721 at position (28, 11)
+  Value: 3.011906 at position (28, 27)
+--------------------------------------------------
+File: cue\R\iDTF_20Hz\cue_RT-Pronation_R_pro_LT_iDTF_20Hz.csv
+Movement: RT-Pronation_R_pro_LT_iDTF
+High values found (excluding diagonal elements):
+  Value: 2.329494 at position (3, 7)
+  Value: 2.611252 at position (9, 3)
+  Value: 3.140776 at position (9, 7)
+  Value: 1.663975 at position (10, 3)
+  Value: 1.886550 at position (10, 7)
+  Value: 1.338293 at position (13, 3)
+  Value: 1.645931 at position (13, 7)
+--------------------------------------------------
+File: cue\R\iDTF_20Hz\cue_RT-Upright_R_anti_DOC_iDTF_20Hz.csv
+Movement: RT-Upright_R_anti_DOC_iDTF
+High values found (excluding diagonal elements):
+  Value: 1.047843 at position (30, 22)
+--------------------------------------------------
+File: cue\R\iDTF_20Hz\cue_RT-Upright_R_anti_JFXD_iDTF_20Hz.csv
+Movement: RT-Upright_R_anti_JFXD_iDTF
+High values found (excluding diagonal elements):
+  Value: 1.544920 at position (0, 11)
+  Value: 1.013628 at position (0, 27)
+  Value: 1.358384 at position (1, 4)
+  Value: 1.162015 at position (1, 6)
+  Value: 1.364504 at position (2, 4)
+  Value: 1.711290 at position (2, 6)
+  Value: 1.074662 at position (2, 7)
+  Value: 1.343556 at position (3, 10)
+  Value: 1.584767 at position (4, 11)
+  Value: 1.287098 at position (4, 27)
+  Value: 1.157898 at position (5, 6)
+  Value: 1.633888 at position (5, 11)
+  Value: 1.184636 at position (5, 27)
+  Value: 1.832446 at position (6, 11)
+  Value: 1.430828 at position (6, 27)
+  Value: 1.970985 at position (8, 11)
+  Value: 1.694324 at position (8, 27)
+  Value: 1.109702 at position (9, 10)
+  Value: 1.675247 at position (13, 4)
+  Value: 1.311887 at position (13, 7)
+  Value: 2.833218 at position (13, 11)
+  Value: 1.579328 at position (13, 27)
+  Value: 1.123703 at position (15, 4)
+  Value: 1.999513 at position (15, 11)
+  Value: 1.640565 at position (15, 27)
+  Value: 1.359642 at position (16, 11)
+  Value: 1.011174 at position (16, 27)
+  Value: 2.253261 at position (17, 11)
+  Value: 1.734389 at position (17, 27)
+  Value: 1.270418 at position (25, 11)
+  Value: 1.709450 at position (26, 10)
+  Value: 2.768278 at position (26, 11)
+  Value: 1.974550 at position (26, 27)
+  Value: 1.834502 at position (28, 10)
+  Value: 3.370445 at position (28, 11)
+  Value: 1.063533 at position (28, 12)
+  Value: 2.390087 at position (28, 27)
+  Value: 1.199351 at position (29, 22)
+--------------------------------------------------
+File: cue\R\iDTF_20Hz\cue_RT-Upright_R_anti_LT_iDTF_20Hz.csv
+Movement: RT-Upright_R_anti_LT_iDTF
+High values found (excluding diagonal elements):
+  Value: 1.354801 at position (1, 3)
+  Value: 1.178811 at position (1, 7)
+  Value: 1.410996 at position (9, 3)
+  Value: 1.626078 at position (9, 7)
+  Value: 1.076518 at position (14, 7)
+  Value: 1.107227 at position (29, 19)
+--------------------------------------------------
+File: cue\R\iDTF_20Hz\cue_RT-Upright_R_pro_JFXD_iDTF_20Hz.csv
+Movement: RT-Upright_R_pro_JFXD_iDTF
+High values found (excluding diagonal elements):
+  Value: 1.129756 at position (1, 22)
+  Value: 1.098451 at position (2, 6)
+  Value: 2.273514 at position (2, 11)
+  Value: 1.340789 at position (2, 27)
+  Value: 1.215921 at position (3, 4)
+  Value: 1.135568 at position (3, 6)
+  Value: 1.982138 at position (3, 11)
+  Value: 1.398699 at position (3, 27)
+  Value: 1.162879 at position (4, 6)
+  Value: 1.626008 at position (5, 6)
+  Value: 1.626142 at position (5, 11)
+  Value: 1.061714 at position (5, 27)
+  Value: 1.842024 at position (6, 11)
+  Value: 1.289718 at position (6, 27)
+  Value: 1.242179 at position (7, 4)
+  Value: 1.161139 at position (7, 6)
+  Value: 1.336715 at position (7, 11)
+  Value: 1.356929 at position (9, 4)
+  Value: 1.005825 at position (9, 6)
+  Value: 1.013276 at position (9, 7)
+  Value: 1.613712 at position (9, 11)
+  Value: 1.114414 at position (9, 27)
+  Value: 1.056231 at position (10, 3)
+  Value: 1.944676 at position (10, 4)
+  Value: 1.607246 at position (10, 6)
+  Value: 1.537027 at position (10, 7)
+  Value: 1.347519 at position (10, 11)
+  Value: 1.719195 at position (11, 4)
+  Value: 1.175046 at position (11, 6)
+  Value: 1.142187 at position (11, 7)
+  Value: 2.152895 at position (11, 27)
+  Value: 1.365882 at position (12, 3)
+  Value: 2.635761 at position (12, 4)
+  Value: 2.074060 at position (12, 6)
+  Value: 2.110397 at position (12, 7)
+  Value: 3.808416 at position (13, 4)
+  Value: 2.069251 at position (13, 6)
+  Value: 1.380028 at position (13, 7)
+  Value: 2.131679 at position (13, 11)
+  Value: 1.037147 at position (13, 27)
+  Value: 1.258000 at position (14, 11)
+  Value: 1.405744 at position (15, 4)
+  Value: 1.801962 at position (15, 6)
+  Value: 1.649551 at position (17, 11)
+  Value: 1.121907 at position (17, 27)
+  Value: 1.227149 at position (19, 11)
+  Value: 1.094669 at position (19, 27)
+  Value: 1.120530 at position (21, 11)
+  Value: 1.071048 at position (21, 23)
+  Value: 1.346655 at position (22, 11)
+  Value: 1.242626 at position (22, 27)
+  Value: 1.328253 at position (23, 11)
+  Value: 1.186799 at position (23, 27)
+  Value: 1.731047 at position (26, 11)
+  Value: 1.382031 at position (26, 27)
+  Value: 1.191630 at position (27, 4)
+  Value: 3.230159 at position (27, 11)
+  Value: 1.762427 at position (28, 11)
+  Value: 1.407473 at position (28, 27)
+  Value: 1.045820 at position (29, 11)
+  Value: 1.329892 at position (31, 4)
+  Value: 1.014324 at position (31, 6)
+--------------------------------------------------
+File: cue\R\iDTF_20Hz\cue_RT-Upright_R_pro_LT_iDTF_20Hz.csv
+Movement: RT-Upright_R_pro_LT_iDTF
+High values found (excluding diagonal elements):
+  Value: 1.162854 at position (9, 3)
+  Value: 1.116175 at position (9, 7)
+  Value: 1.138180 at position (10, 3)
+  Value: 1.069549 at position (11, 3)
+--------------------------------------------------
+
+Analyzing cue/R/iPDC_100Hz
+==================================================
+
+Analyzing cue/R/iPDC_10Hz
+==================================================
+
+Analyzing cue/R/iPDC_20Hz
+==================================================
+
+Analyzing mov/L/gDTF_100Hz
+==================================================
+
+Analyzing mov/L/gDTF_10Hz
+==================================================
+
+Analyzing mov/L/gDTF_20Hz
+==================================================
+
+Analyzing mov/L/gPDC_100Hz
+==================================================
+
+Analyzing mov/L/gPDC_10Hz
+==================================================
+
+Analyzing mov/L/gPDC_20Hz
+==================================================
+
+Analyzing mov/L/iDTF_100Hz
+==================================================
+File: mov\L\iDTF_100Hz\mov_LT-Pronation_L_anti_JFXD_iDTF_100Hz.csv
+Movement: LT-Pronation_L_anti_JFXD_iDTF
+High values found (excluding diagonal elements):
+  Value: 1.349062 at position (1, 4)
+  Value: 1.311418 at position (1, 6)
+  Value: 6.480943 at position (2, 4)
+  Value: 4.037572 at position (2, 6)
+  Value: 1.805171 at position (3, 4)
+  Value: 1.212194 at position (3, 10)
+  Value: 1.137540 at position (4, 6)
+  Value: 5.011351 at position (5, 4)
+  Value: 3.509480 at position (5, 6)
+  Value: 1.545239 at position (7, 6)
+  Value: 2.454821 at position (9, 4)
+  Value: 1.186123 at position (9, 6)
+  Value: 1.530447 at position (9, 7)
+  Value: 1.254880 at position (9, 10)
+  Value: 1.082177 at position (10, 4)
+  Value: 1.347652 at position (10, 6)
+  Value: 1.288345 at position (12, 4)
+  Value: 1.582865 at position (12, 6)
+  Value: 2.143217 at position (13, 11)
+  Value: 1.076981 at position (13, 27)
+  Value: 1.209253 at position (14, 11)
+  Value: 1.064466 at position (15, 6)
+  Value: 1.016606 at position (17, 27)
+  Value: 1.271020 at position (20, 4)
+  Value: 1.014782 at position (21, 11)
+  Value: 1.077987 at position (21, 27)
+  Value: 1.237946 at position (22, 4)
+  Value: 1.731227 at position (27, 11)
+  Value: 1.176074 at position (28, 24)
+--------------------------------------------------
+File: mov\L\iDTF_100Hz\mov_LT-Pronation_L_pro_JFXD_iDTF_100Hz.csv
+Movement: LT-Pronation_L_pro_JFXD_iDTF
+High values found (excluding diagonal elements):
+  Value: 1.779903 at position (0, 6)
+  Value: 1.261129 at position (4, 6)
+  Value: 1.388761 at position (11, 4)
+  Value: 1.470715 at position (11, 6)
+  Value: 1.044926 at position (11, 7)
+  Value: 1.957258 at position (13, 11)
+  Value: 1.012010 at position (14, 6)
+  Value: 1.347059 at position (14, 11)
+  Value: 1.658712 at position (16, 4)
+  Value: 1.519962 at position (16, 6)
+  Value: 1.347085 at position (19, 4)
+  Value: 2.496410 at position (19, 6)
+  Value: 3.494511 at position (20, 4)
+  Value: 4.687759 at position (20, 6)
+  Value: 2.327360 at position (23, 4)
+  Value: 3.379075 at position (23, 6)
+  Value: 1.296896 at position (25, 4)
+  Value: 1.381352 at position (27, 4)
+  Value: 1.277419 at position (27, 6)
+  Value: 1.078150 at position (27, 7)
+  Value: 1.216581 at position (28, 4)
+  Value: 1.035374 at position (31, 6)
+  Value: 1.107852 at position (31, 11)
+--------------------------------------------------
+File: mov\L\iDTF_100Hz\mov_RT-Down_L_anti_DOC_iDTF_100Hz.csv
+Movement: RT-Down_L_anti_DOC_iDTF
+High values found (excluding diagonal elements):
+  Value: 1.019282 at position (9, 7)
+  Value: 1.080809 at position (10, 7)
+--------------------------------------------------
+File: mov\L\iDTF_100Hz\mov_RT-Down_L_anti_JFXD_iDTF_100Hz.csv
+Movement: RT-Down_L_anti_JFXD_iDTF
+High values found (excluding diagonal elements):
+  Value: 1.385855 at position (4, 6)
+  Value: 3.406767 at position (5, 4)
+  Value: 2.278223 at position (5, 6)
+  Value: 3.723682 at position (6, 4)
+  Value: 1.457680 at position (11, 22)
+  Value: 1.238468 at position (14, 3)
+  Value: 2.830220 at position (14, 4)
+  Value: 3.536198 at position (14, 6)
+  Value: 1.232078 at position (14, 7)
+  Value: 1.404939 at position (14, 10)
+  Value: 1.551777 at position (14, 11)
+  Value: 1.043383 at position (14, 27)
+  Value: 1.510790 at position (17, 3)
+  Value: 1.955794 at position (17, 4)
+  Value: 1.622442 at position (17, 6)
+  Value: 1.646639 at position (17, 7)
+  Value: 1.453176 at position (17, 10)
+  Value: 1.733018 at position (18, 4)
+  Value: 2.115231 at position (18, 6)
+  Value: 4.662043 at position (19, 4)
+  Value: 4.443350 at position (19, 6)
+  Value: 1.322033 at position (20, 4)
+  Value: 1.059922 at position (20, 6)
+  Value: 4.870072 at position (23, 4)
+  Value: 4.113857 at position (23, 6)
+  Value: 1.346016 at position (23, 7)
+  Value: 1.108809 at position (24, 7)
+  Value: 3.066897 at position (25, 4)
+  Value: 2.697800 at position (25, 6)
+  Value: 2.128734 at position (25, 11)
+  Value: 2.241537 at position (25, 27)
+  Value: 2.181382 at position (26, 4)
+  Value: 1.585545 at position (26, 6)
+  Value: 1.046057 at position (26, 10)
+  Value: 2.036886 at position (26, 11)
+  Value: 2.024555 at position (26, 27)
+  Value: 1.022880 at position (27, 11)
+  Value: 1.244913 at position (27, 22)
+  Value: 4.118046 at position (28, 4)
+  Value: 2.327796 at position (28, 6)
+  Value: 1.699860 at position (28, 7)
+  Value: 1.160823 at position (29, 4)
+  Value: 2.105548 at position (29, 6)
+  Value: 1.044761 at position (30, 6)
+--------------------------------------------------
+File: mov\L\iDTF_100Hz\mov_RT-Down_L_anti_LT_iDTF_100Hz.csv
+Movement: RT-Down_L_anti_LT_iDTF
+High values found (excluding diagonal elements):
+  Value: 1.105643 at position (17, 19)
+  Value: 1.069152 at position (17, 23)
+  Value: 1.008679 at position (25, 23)
+--------------------------------------------------
+File: mov\L\iDTF_100Hz\mov_RT-Down_L_pro_DOC_iDTF_100Hz.csv
+Movement: RT-Down_L_pro_DOC_iDTF
+High values found (excluding diagonal elements):
+  Value: 1.318683 at position (9, 7)
+--------------------------------------------------
+File: mov\L\iDTF_100Hz\mov_RT-Down_L_pro_JFXD_iDTF_100Hz.csv
+Movement: RT-Down_L_pro_JFXD_iDTF
+High values found (excluding diagonal elements):
+  Value: 2.051167 at position (4, 11)
+  Value: 2.029728 at position (4, 27)
+  Value: 1.394723 at position (5, 4)
+  Value: 1.151350 at position (5, 6)
+  Value: 1.436061 at position (6, 4)
+  Value: 1.463377 at position (11, 27)
+  Value: 1.038407 at position (12, 11)
+  Value: 1.643201 at position (13, 11)
+  Value: 1.375486 at position (13, 27)
+  Value: 1.065560 at position (19, 22)
+  Value: 1.249617 at position (20, 22)
+  Value: 2.231136 at position (21, 11)
+  Value: 2.267148 at position (21, 27)
+  Value: 1.209161 at position (22, 11)
+  Value: 1.176463 at position (22, 27)
+  Value: 1.075306 at position (23, 11)
+  Value: 1.271444 at position (23, 22)
+  Value: 1.105886 at position (24, 4)
+  Value: 2.115021 at position (25, 20)
+  Value: 3.733312 at position (25, 22)
+  Value: 1.844842 at position (25, 23)
+  Value: 2.491110 at position (26, 11)
+  Value: 1.600349 at position (26, 20)
+  Value: 2.661582 at position (26, 22)
+  Value: 1.861834 at position (26, 23)
+  Value: 1.947742 at position (26, 27)
+  Value: 1.908430 at position (27, 11)
+  Value: 1.660160 at position (28, 10)
+  Value: 4.744022 at position (28, 11)
+  Value: 1.262361 at position (28, 12)
+  Value: 1.144054 at position (28, 22)
+  Value: 3.950462 at position (28, 27)
+  Value: 1.832984 at position (29, 11)
+  Value: 1.677089 at position (29, 27)
+  Value: 1.135306 at position (30, 11)
+--------------------------------------------------
+File: mov\L\iDTF_100Hz\mov_RT-Down_L_pro_LT_iDTF_100Hz.csv
+Movement: RT-Down_L_pro_LT_iDTF
+High values found (excluding diagonal elements):
+  Value: 1.030984 at position (19, 23)
+  Value: 1.055820 at position (23, 19)
+  Value: 1.088822 at position (25, 23)
+--------------------------------------------------
+File: mov\L\iDTF_100Hz\mov_RT-Pronation_L_anti_BG_iDTF_100Hz.csv
+Movement: RT-Pronation_L_anti_BG_iDTF
+High values found (excluding diagonal elements):
+  Value: 1.146836 at position (2, 4)
+--------------------------------------------------
+File: mov\L\iDTF_100Hz\mov_RT-Pronation_L_anti_JFXD_iDTF_100Hz.csv
+Movement: RT-Pronation_L_anti_JFXD_iDTF
+High values found (excluding diagonal elements):
+  Value: 1.658647 at position (3, 9)
+  Value: 1.232267 at position (3, 10)
+  Value: 1.094464 at position (7, 9)
+  Value: 1.636537 at position (13, 11)
+  Value: 1.219518 at position (13, 27)
+  Value: 2.074927 at position (14, 11)
+  Value: 1.506523 at position (14, 27)
+  Value: 1.331684 at position (19, 11)
+  Value: 1.813613 at position (23, 11)
+  Value: 1.313481 at position (23, 27)
+  Value: 1.656789 at position (27, 11)
+  Value: 2.594935 at position (28, 10)
+  Value: 3.045717 at position (28, 11)
+  Value: 1.241834 at position (28, 12)
+  Value: 2.635607 at position (28, 27)
+  Value: 1.561494 at position (29, 11)
+  Value: 1.182075 at position (29, 27)
+--------------------------------------------------
+File: mov\L\iDTF_100Hz\mov_RT-Pronation_L_anti_LT_iDTF_100Hz.csv
+Movement: RT-Pronation_L_anti_LT_iDTF
+High values found (excluding diagonal elements):
+  Value: 1.056071 at position (8, 7)
+  Value: 1.229066 at position (25, 7)
+  Value: 1.106853 at position (29, 5)
+  Value: 1.645764 at position (29, 7)
+--------------------------------------------------
+File: mov\L\iDTF_100Hz\mov_RT-Pronation_L_anti_RR_iDTF_100Hz.csv
+Movement: RT-Pronation_L_anti_RR_iDTF
+High values found (excluding diagonal elements):
+  Value: 1.679590 at position (8, 4)
+  Value: 1.380083 at position (8, 6)
+  Value: 1.894260 at position (9, 4)
+  Value: 1.032657 at position (9, 6)
+  Value: 1.169697 at position (14, 4)
+--------------------------------------------------
+File: mov\L\iDTF_100Hz\mov_RT-Pronation_L_pro_BG_iDTF_100Hz.csv
+Movement: RT-Pronation_L_pro_BG_iDTF
+High values found (excluding diagonal elements):
+  Value: 1.460439 at position (6, 4)
+--------------------------------------------------
+File: mov\L\iDTF_100Hz\mov_RT-Pronation_L_pro_DOC_iDTF_100Hz.csv
+Movement: RT-Pronation_L_pro_DOC_iDTF
+High values found (excluding diagonal elements):
+  Value: 1.222104 at position (9, 7)
+  Value: 1.331996 at position (10, 7)
+--------------------------------------------------
+File: mov\L\iDTF_100Hz\mov_RT-Pronation_L_pro_JFXD_iDTF_100Hz.csv
+Movement: RT-Pronation_L_pro_JFXD_iDTF
+High values found (excluding diagonal elements):
+  Value: 1.620177 at position (0, 11)
+  Value: 1.349013 at position (0, 27)
+  Value: 1.380447 at position (5, 11)
+  Value: 1.215459 at position (5, 27)
+  Value: 1.221873 at position (6, 11)
+  Value: 1.038699 at position (6, 27)
+  Value: 1.035367 at position (8, 10)
+  Value: 1.260658 at position (11, 27)
+  Value: 3.906777 at position (13, 11)
+  Value: 1.249901 at position (13, 12)
+  Value: 2.525086 at position (13, 27)
+  Value: 1.290896 at position (14, 11)
+  Value: 1.504588 at position (15, 10)
+  Value: 1.570908 at position (15, 11)
+  Value: 1.278972 at position (15, 27)
+  Value: 1.164676 at position (16, 11)
+  Value: 1.085794 at position (16, 27)
+  Value: 1.455865 at position (21, 11)
+  Value: 1.201683 at position (21, 27)
+  Value: 1.495542 at position (25, 11)
+  Value: 1.369128 at position (25, 27)
+  Value: 1.093945 at position (26, 7)
+  Value: 1.792908 at position (27, 11)
+  Value: 1.181649 at position (28, 6)
+  Value: 1.060831 at position (28, 7)
+  Value: 2.030476 at position (29, 11)
+  Value: 1.465421 at position (29, 27)
+  Value: 1.359444 at position (30, 11)
+  Value: 1.108444 at position (30, 27)
+--------------------------------------------------
+File: mov\L\iDTF_100Hz\mov_RT-Pronation_L_pro_LT_iDTF_100Hz.csv
+Movement: RT-Pronation_L_pro_LT_iDTF
+High values found (excluding diagonal elements):
+  Value: 1.482828 at position (9, 3)
+  Value: 1.821731 at position (9, 7)
+  Value: 1.057248 at position (10, 7)
+--------------------------------------------------
+File: mov\L\iDTF_100Hz\mov_RT-Upright_L_anti_JFXD_iDTF_100Hz.csv
+Movement: RT-Upright_L_anti_JFXD_iDTF
+High values found (excluding diagonal elements):
+  Value: 1.895140 at position (2, 11)
+  Value: 1.603200 at position (2, 27)
+  Value: 1.122250 at position (3, 7)
+  Value: 1.345323 at position (4, 10)
+  Value: 1.329024 at position (7, 6)
+  Value: 1.156661 at position (8, 6)
+  Value: 2.939374 at position (8, 10)
+  Value: 1.252760 at position (9, 11)
+  Value: 1.072773 at position (10, 11)
+  Value: 1.744932 at position (13, 4)
+  Value: 2.019545 at position (13, 6)
+  Value: 1.192056 at position (13, 7)
+  Value: 1.530364 at position (13, 11)
+  Value: 1.596099 at position (14, 11)
+  Value: 1.165132 at position (17, 6)
+  Value: 2.430145 at position (18, 11)
+  Value: 2.349445 at position (18, 27)
+  Value: 1.325460 at position (19, 11)
+  Value: 1.378478 at position (23, 11)
+  Value: 1.051663 at position (23, 27)
+  Value: 1.153825 at position (28, 11)
+  Value: 1.073508 at position (28, 27)
+  Value: 1.099835 at position (29, 11)
+--------------------------------------------------
+File: mov\L\iDTF_100Hz\mov_RT-Upright_L_anti_LT_iDTF_100Hz.csv
+Movement: RT-Upright_L_anti_LT_iDTF
+High values found (excluding diagonal elements):
+  Value: 1.233181 at position (3, 9)
+  Value: 2.898235 at position (9, 3)
+  Value: 1.746584 at position (9, 7)
+  Value: 2.691719 at position (10, 3)
+  Value: 1.453743 at position (10, 7)
+  Value: 2.008604 at position (10, 9)
+  Value: 3.490309 at position (11, 3)
+  Value: 2.056325 at position (11, 7)
+  Value: 1.729154 at position (11, 9)
+  Value: 1.269943 at position (25, 3)
+  Value: 1.123805 at position (27, 3)
+  Value: 1.059364 at position (30, 3)
+--------------------------------------------------
+File: mov\L\iDTF_100Hz\mov_RT-Upright_L_pro_DOC_iDTF_100Hz.csv
+Movement: RT-Upright_L_pro_DOC_iDTF
+High values found (excluding diagonal elements):
+  Value: 1.028449 at position (8, 22)
+  Value: 1.132543 at position (9, 7)
+--------------------------------------------------
+File: mov\L\iDTF_100Hz\mov_RT-Upright_L_pro_JDC_iDTF_100Hz.csv
+Movement: RT-Upright_L_pro_JDC_iDTF
+High values found (excluding diagonal elements):
+  Value: 1.129580 at position (20, 23)
+--------------------------------------------------
+File: mov\L\iDTF_100Hz\mov_RT-Upright_L_pro_JFXD_iDTF_100Hz.csv
+Movement: RT-Upright_L_pro_JFXD_iDTF
+High values found (excluding diagonal elements):
+  Value: 1.212623 at position (2, 10)
+  Value: 1.079958 at position (3, 6)
+  Value: 1.076156 at position (3, 9)
+  Value: 2.012435 at position (3, 10)
+  Value: 1.846763 at position (7, 10)
+  Value: 1.071037 at position (9, 6)
+  Value: 1.032172 at position (9, 7)
+  Value: 1.396924 at position (10, 6)
+  Value: 1.345442 at position (12, 6)
+  Value: 1.112367 at position (12, 11)
+  Value: 1.068502 at position (12, 22)
+  Value: 1.028244 at position (13, 10)
+  Value: 1.274698 at position (14, 7)
+  Value: 1.688051 at position (14, 10)
+  Value: 1.330981 at position (17, 10)
+  Value: 1.122251 at position (18, 10)
+  Value: 1.433402 at position (18, 11)
+  Value: 1.145647 at position (19, 11)
+  Value: 1.829089 at position (20, 10)
+  Value: 1.921716 at position (20, 11)
+  Value: 1.171868 at position (20, 12)
+  Value: 1.471380 at position (20, 27)
+  Value: 1.106852 at position (23, 11)
+  Value: 2.130364 at position (24, 10)
+  Value: 1.061023 at position (25, 3)
+  Value: 1.394572 at position (25, 4)
+  Value: 1.899802 at position (25, 6)
+  Value: 1.806760 at position (25, 7)
+  Value: 1.136135 at position (25, 9)
+  Value: 3.859155 at position (25, 10)
+  Value: 1.966309 at position (25, 11)
+  Value: 1.731513 at position (25, 12)
+  Value: 1.321831 at position (25, 27)
+  Value: 2.585740 at position (26, 10)
+  Value: 2.706427 at position (26, 11)
+  Value: 1.455269 at position (26, 12)
+  Value: 2.135928 at position (26, 27)
+  Value: 1.348759 at position (27, 11)
+  Value: 1.015303 at position (28, 11)
+  Value: 2.111884 at position (29, 11)
+  Value: 1.104533 at position (29, 22)
+  Value: 1.387379 at position (29, 27)
+  Value: 1.473666 at position (30, 10)
+  Value: 1.830739 at position (30, 11)
+  Value: 1.345931 at position (30, 27)
+  Value: 2.387138 at position (31, 10)
+--------------------------------------------------
+File: mov\L\iDTF_100Hz\mov_RT-Upright_L_pro_LT_iDTF_100Hz.csv
+Movement: RT-Upright_L_pro_LT_iDTF
+High values found (excluding diagonal elements):
+  Value: 1.365387 at position (9, 3)
+  Value: 1.858747 at position (10, 3)
+  Value: 1.171063 at position (10, 7)
+  Value: 1.315919 at position (10, 9)
+  Value: 1.297312 at position (11, 3)
+  Value: 1.691181 at position (27, 3)
+  Value: 1.004780 at position (27, 9)
+--------------------------------------------------
+File: mov\L\iDTF_100Hz\mov_RT-Upright_L_pro_SJB_iDTF_100Hz.csv
+Movement: RT-Upright_L_pro_SJB_iDTF
+High values found (excluding diagonal elements):
+  Value: 1.566570 at position (6, 4)
+--------------------------------------------------
+
+Analyzing mov/L/iDTF_10Hz
+==================================================
+File: mov\L\iDTF_10Hz\mov_LT-Pronation_L_anti_JDC_iDTF_10Hz.csv
+Movement: LT-Pronation_L_anti_JDC_iDTF
+High values found (excluding diagonal elements):
+  Value: 1.234305 at position (9, 10)
+  Value: 1.032612 at position (10, 9)
+--------------------------------------------------
+File: mov\L\iDTF_10Hz\mov_LT-Pronation_L_anti_JFXD_iDTF_10Hz.csv
+Movement: LT-Pronation_L_anti_JFXD_iDTF
+High values found (excluding diagonal elements):
+  Value: 1.950027 at position (0, 4)
+  Value: 1.633616 at position (1, 4)
+  Value: 1.034605 at position (2, 4)
+  Value: 1.454109 at position (2, 6)
+  Value: 1.951862 at position (3, 4)
+  Value: 2.636691 at position (3, 6)
+  Value: 1.190769 at position (9, 6)
+  Value: 1.281780 at position (13, 3)
+  Value: 10.323253 at position (13, 4)
+  Value: 6.228826 at position (13, 6)
+  Value: 2.880061 at position (13, 7)
+  Value: 1.998558 at position (13, 11)
+  Value: 1.877160 at position (16, 4)
+  Value: 1.010248 at position (31, 24)
+--------------------------------------------------
+File: mov\L\iDTF_10Hz\mov_LT-Pronation_L_pro_DOC_iDTF_10Hz.csv
+Movement: LT-Pronation_L_pro_DOC_iDTF
+High values found (excluding diagonal elements):
+  Value: 1.255763 at position (23, 22)
+  Value: 1.172518 at position (30, 22)
+--------------------------------------------------
+File: mov\L\iDTF_10Hz\mov_LT-Pronation_L_pro_JFXD_iDTF_10Hz.csv
+Movement: LT-Pronation_L_pro_JFXD_iDTF
+High values found (excluding diagonal elements):
+  Value: 1.587057 at position (0, 6)
+  Value: 1.000260 at position (1, 5)
+  Value: 3.057210 at position (4, 6)
+  Value: 1.312128 at position (5, 6)
+  Value: 1.355507 at position (6, 4)
+  Value: 1.413508 at position (7, 6)
+  Value: 1.274999 at position (8, 10)
+  Value: 1.358727 at position (8, 11)
+  Value: 1.605955 at position (11, 6)
+  Value: 1.124916 at position (13, 3)
+  Value: 6.797062 at position (13, 4)
+  Value: 5.553078 at position (13, 6)
+  Value: 2.053673 at position (13, 7)
+  Value: 1.049097 at position (16, 4)
+  Value: 1.667182 at position (16, 6)
+  Value: 1.000839 at position (24, 6)
+  Value: 1.123721 at position (27, 4)
+  Value: 1.595512 at position (27, 6)
+  Value: 1.131869 at position (30, 4)
+  Value: 1.602764 at position (31, 6)
+--------------------------------------------------
+File: mov\L\iDTF_10Hz\mov_RT-Down_L_anti_DOC_iDTF_10Hz.csv
+Movement: RT-Down_L_anti_DOC_iDTF
+High values found (excluding diagonal elements):
+  Value: 1.128930 at position (0, 22)
+  Value: 1.063429 at position (8, 21)
+  Value: 1.635948 at position (8, 22)
+  Value: 1.186147 at position (9, 7)
+  Value: 1.688466 at position (21, 22)
+  Value: 1.202591 at position (22, 21)
+--------------------------------------------------
+File: mov\L\iDTF_10Hz\mov_RT-Down_L_anti_JDC_iDTF_10Hz.csv
+Movement: RT-Down_L_anti_JDC_iDTF
+High values found (excluding diagonal elements):
+  Value: 1.033223 at position (8, 6)
+--------------------------------------------------
+File: mov\L\iDTF_10Hz\mov_RT-Down_L_anti_JFXD_iDTF_10Hz.csv
+Movement: RT-Down_L_anti_JFXD_iDTF
+High values found (excluding diagonal elements):
+  Value: 2.724688 at position (0, 10)
+  Value: 2.185082 at position (0, 11)
+  Value: 1.866083 at position (0, 27)
+  Value: 1.146139 at position (1, 11)
+  Value: 1.370929 at position (3, 9)
+  Value: 2.230533 at position (3, 10)
+  Value: 1.058481 at position (7, 4)
+  Value: 1.252472 at position (7, 9)
+  Value: 2.050207 at position (7, 10)
+  Value: 1.001723 at position (9, 7)
+  Value: 1.845425 at position (9, 10)
+  Value: 1.266117 at position (13, 4)
+  Value: 1.840984 at position (13, 6)
+  Value: 1.202189 at position (14, 3)
+  Value: 1.246874 at position (14, 4)
+  Value: 1.876265 at position (14, 7)
+  Value: 1.575944 at position (16, 10)
+  Value: 1.561922 at position (16, 11)
+  Value: 1.019823 at position (16, 22)
+  Value: 1.454762 at position (16, 27)
+  Value: 1.147289 at position (18, 4)
+  Value: 1.400515 at position (18, 6)
+  Value: 1.269432 at position (18, 10)
+  Value: 1.512155 at position (18, 11)
+  Value: 1.208385 at position (18, 22)
+  Value: 1.546036 at position (18, 27)
+  Value: 2.866138 at position (19, 11)
+  Value: 2.614896 at position (19, 27)
+  Value: 1.052305 at position (23, 4)
+  Value: 1.100036 at position (23, 6)
+  Value: 2.457779 at position (23, 11)
+  Value: 2.330104 at position (23, 27)
+  Value: 1.105892 at position (25, 10)
+  Value: 4.441225 at position (25, 11)
+  Value: 1.014874 at position (25, 12)
+  Value: 3.742772 at position (25, 27)
+  Value: 2.012305 at position (26, 10)
+  Value: 5.069928 at position (26, 11)
+  Value: 1.309413 at position (26, 12)
+  Value: 4.403077 at position (26, 27)
+  Value: 2.305099 at position (28, 10)
+  Value: 4.046464 at position (28, 11)
+  Value: 1.525064 at position (28, 12)
+  Value: 3.818888 at position (28, 27)
+--------------------------------------------------
+File: mov\L\iDTF_10Hz\mov_RT-Down_L_pro_JFXD_iDTF_10Hz.csv
+Movement: RT-Down_L_pro_JFXD_iDTF
+High values found (excluding diagonal elements):
+  Value: 3.226798 at position (0, 4)
+  Value: 3.456791 at position (0, 6)
+  Value: 2.031668 at position (0, 7)
+  Value: 1.182549 at position (0, 11)
+  Value: 1.798311 at position (0, 22)
+  Value: 1.374029 at position (0, 24)
+  Value: 1.108717 at position (0, 31)
+  Value: 1.238739 at position (1, 4)
+  Value: 1.915151 at position (1, 6)
+  Value: 1.492665 at position (2, 4)
+  Value: 2.289051 at position (2, 6)
+  Value: 2.061478 at position (11, 27)
+  Value: 2.776388 at position (13, 4)
+  Value: 2.115104 at position (13, 6)
+  Value: 2.208242 at position (13, 11)
+  Value: 1.587351 at position (13, 27)
+  Value: 1.112084 at position (14, 11)
+  Value: 1.007500 at position (14, 27)
+  Value: 1.904800 at position (15, 6)
+  Value: 1.709133 at position (16, 10)
+  Value: 2.225963 at position (16, 11)
+  Value: 1.896796 at position (16, 27)
+  Value: 1.524679 at position (17, 6)
+  Value: 1.382338 at position (17, 22)
+  Value: 2.299430 at position (19, 20)
+  Value: 3.616227 at position (19, 22)
+  Value: 2.362454 at position (19, 23)
+  Value: 1.363868 at position (20, 6)
+  Value: 1.273092 at position (23, 6)
+  Value: 2.092855 at position (23, 20)
+  Value: 2.528867 at position (23, 22)
+  Value: 1.151376 at position (25, 19)
+  Value: 1.707617 at position (25, 20)
+  Value: 3.255132 at position (25, 22)
+  Value: 1.843239 at position (25, 23)
+  Value: 1.190153 at position (26, 19)
+  Value: 1.734730 at position (26, 20)
+  Value: 2.775776 at position (26, 22)
+  Value: 1.749391 at position (26, 23)
+  Value: 2.120578 at position (27, 11)
+  Value: 1.405686 at position (28, 10)
+  Value: 1.192700 at position (28, 20)
+  Value: 1.557019 at position (28, 22)
+  Value: 1.879698 at position (29, 11)
+  Value: 1.788078 at position (29, 27)
+  Value: 1.130467 at position (30, 22)
+--------------------------------------------------
+File: mov\L\iDTF_10Hz\mov_RT-Down_L_pro_SJB_iDTF_10Hz.csv
+Movement: RT-Down_L_pro_SJB_iDTF
+High values found (excluding diagonal elements):
+  Value: 1.008093 at position (16, 15)
+--------------------------------------------------
+File: mov\L\iDTF_10Hz\mov_RT-Pronation_L_anti_BG_iDTF_10Hz.csv
+Movement: RT-Pronation_L_anti_BG_iDTF
+High values found (excluding diagonal elements):
+  Value: 1.716350 at position (2, 4)
+  Value: 1.098041 at position (2, 6)
+--------------------------------------------------
+File: mov\L\iDTF_10Hz\mov_RT-Pronation_L_anti_DOC_iDTF_10Hz.csv
+Movement: RT-Pronation_L_anti_DOC_iDTF
+High values found (excluding diagonal elements):
+  Value: 1.205294 at position (9, 7)
+--------------------------------------------------
+File: mov\L\iDTF_10Hz\mov_RT-Pronation_L_anti_JFXD_iDTF_10Hz.csv
+Movement: RT-Pronation_L_anti_JFXD_iDTF
+High values found (excluding diagonal elements):
+  Value: 1.172645 at position (2, 6)
+  Value: 1.102379 at position (3, 9)
+  Value: 2.233096 at position (3, 10)
+  Value: 1.141772 at position (5, 6)
+  Value: 1.163792 at position (7, 10)
+  Value: 2.608850 at position (9, 10)
+  Value: 1.156344 at position (10, 9)
+  Value: 1.468431 at position (11, 27)
+  Value: 1.409373 at position (12, 10)
+  Value: 1.308461 at position (13, 7)
+  Value: 1.673829 at position (19, 11)
+  Value: 1.126137 at position (19, 27)
+  Value: 1.089825 at position (23, 11)
+  Value: 2.116458 at position (25, 11)
+  Value: 1.383098 at position (25, 27)
+  Value: 1.592941 at position (26, 11)
+  Value: 1.256828 at position (26, 27)
+  Value: 1.617108 at position (27, 11)
+  Value: 1.013611 at position (28, 11)
+--------------------------------------------------
+File: mov\L\iDTF_10Hz\mov_RT-Pronation_L_anti_LT_iDTF_10Hz.csv
+Movement: RT-Pronation_L_anti_LT_iDTF
+High values found (excluding diagonal elements):
+  Value: 1.337851 at position (3, 5)
+  Value: 4.258586 at position (3, 7)
+  Value: 2.004184 at position (5, 7)
+  Value: 1.482466 at position (7, 3)
+  Value: 1.047339 at position (7, 5)
+  Value: 1.972203 at position (9, 7)
+  Value: 1.269935 at position (10, 7)
+  Value: 4.318333 at position (13, 3)
+  Value: 5.049598 at position (13, 5)
+  Value: 2.011937 at position (13, 6)
+  Value: 9.626819 at position (13, 7)
+  Value: 1.597605 at position (14, 5)
+  Value: 1.553582 at position (14, 7)
+  Value: 1.039956 at position (29, 7)
+--------------------------------------------------
+File: mov\L\iDTF_10Hz\mov_RT-Pronation_L_anti_RR_iDTF_10Hz.csv
+Movement: RT-Pronation_L_anti_RR_iDTF
+High values found (excluding diagonal elements):
+  Value: 1.037328 at position (5, 6)
+  Value: 1.078927 at position (12, 4)
+  Value: 1.600435 at position (13, 4)
+  Value: 1.190957 at position (13, 6)
+  Value: 1.442699 at position (15, 4)
+  Value: 1.012782 at position (22, 8)
+--------------------------------------------------
+File: mov\L\iDTF_10Hz\mov_RT-Pronation_L_pro_BG_iDTF_10Hz.csv
+Movement: RT-Pronation_L_pro_BG_iDTF
+High values found (excluding diagonal elements):
+  Value: 1.063649 at position (1, 4)
+  Value: 1.062646 at position (1, 6)
+  Value: 1.078049 at position (15, 4)
+--------------------------------------------------
+File: mov\L\iDTF_10Hz\mov_RT-Pronation_L_pro_JFXD_iDTF_10Hz.csv
+Movement: RT-Pronation_L_pro_JFXD_iDTF
+High values found (excluding diagonal elements):
+  Value: 1.669835 at position (0, 6)
+  Value: 1.064189 at position (0, 7)
+  Value: 1.368768 at position (0, 22)
+  Value: 1.144804 at position (2, 6)
+  Value: 1.645938 at position (2, 7)
+  Value: 2.537925 at position (2, 11)
+  Value: 1.882153 at position (2, 27)
+  Value: 1.385599 at position (3, 10)
+  Value: 1.215893 at position (5, 11)
+  Value: 1.761520 at position (9, 10)
+  Value: 1.428870 at position (13, 3)
+  Value: 1.325220 at position (13, 7)
+  Value: 1.539670 at position (13, 11)
+  Value: 1.368843 at position (13, 12)
+  Value: 1.033130 at position (16, 6)
+  Value: 1.705510 at position (16, 22)
+  Value: 2.355050 at position (17, 22)
+  Value: 1.212472 at position (21, 6)
+  Value: 1.698710 at position (21, 11)
+  Value: 1.522161 at position (21, 22)
+  Value: 1.712555 at position (21, 27)
+  Value: 1.088416 at position (22, 27)
+  Value: 2.247369 at position (24, 22)
+  Value: 1.191034 at position (28, 11)
+  Value: 1.749464 at position (31, 22)
+--------------------------------------------------
+File: mov\L\iDTF_10Hz\mov_RT-Pronation_L_pro_LT_iDTF_10Hz.csv
+Movement: RT-Pronation_L_pro_LT_iDTF
+High values found (excluding diagonal elements):
+  Value: 1.273864 at position (2, 7)
+  Value: 1.056950 at position (3, 5)
+  Value: 2.084513 at position (3, 6)
+  Value: 4.328489 at position (3, 7)
+  Value: 1.640030 at position (7, 3)
+  Value: 1.174245 at position (7, 6)
+  Value: 2.521942 at position (9, 3)
+  Value: 1.532222 at position (9, 5)
+  Value: 1.470323 at position (9, 6)
+  Value: 4.563058 at position (9, 7)
+  Value: 1.706769 at position (10, 7)
+  Value: 2.625513 at position (13, 3)
+  Value: 1.579801 at position (13, 5)
+  Value: 2.113891 at position (13, 6)
+  Value: 4.276001 at position (13, 7)
+  Value: 1.007807 at position (19, 23)
+  Value: 1.114997 at position (23, 19)
+--------------------------------------------------
+File: mov\L\iDTF_10Hz\mov_RT-Upright_L_anti_DOC_iDTF_10Hz.csv
+Movement: RT-Upright_L_anti_DOC_iDTF
+High values found (excluding diagonal elements):
+  Value: 1.007475 at position (9, 7)
+--------------------------------------------------
+File: mov\L\iDTF_10Hz\mov_RT-Upright_L_anti_JFXD_iDTF_10Hz.csv
+Movement: RT-Upright_L_anti_JFXD_iDTF
+High values found (excluding diagonal elements):
+  Value: 1.342608 at position (0, 10)
+  Value: 1.117355 at position (1, 4)
+  Value: 1.154525 at position (1, 6)
+  Value: 1.044244 at position (2, 4)
+  Value: 1.238380 at position (2, 6)
+  Value: 1.178754 at position (3, 10)
+  Value: 1.194129 at position (5, 10)
+  Value: 1.310962 at position (6, 10)
+  Value: 1.029896 at position (9, 10)
+  Value: 1.429464 at position (11, 27)
+  Value: 1.032134 at position (14, 3)
+  Value: 1.189759 at position (16, 11)
+  Value: 1.403576 at position (24, 11)
+  Value: 1.089806 at position (24, 27)
+  Value: 1.402155 at position (25, 19)
+  Value: 1.876300 at position (27, 11)
+  Value: 2.420795 at position (28, 10)
+  Value: 1.564160 at position (28, 11)
+  Value: 1.283120 at position (28, 12)
+  Value: 1.163893 at position (28, 27)
+  Value: 2.258093 at position (29, 4)
+  Value: 1.933754 at position (29, 6)
+  Value: 1.103315 at position (29, 7)
+  Value: 2.053243 at position (29, 11)
+  Value: 1.428755 at position (29, 27)
+--------------------------------------------------
+File: mov\L\iDTF_10Hz\mov_RT-Upright_L_pro_JFXD_iDTF_10Hz.csv
+Movement: RT-Upright_L_pro_JFXD_iDTF
+High values found (excluding diagonal elements):
+  Value: 1.917126 at position (0, 11)
+  Value: 1.354586 at position (0, 27)
+  Value: 2.602222 at position (3, 10)
+  Value: 1.357057 at position (6, 11)
+  Value: 1.923110 at position (7, 10)
+  Value: 1.407190 at position (8, 11)
+  Value: 1.466029 at position (11, 27)
+  Value: 1.998592 at position (14, 10)
+  Value: 1.443220 at position (14, 12)
+  Value: 1.535711 at position (15, 11)
+  Value: 1.061781 at position (17, 10)
+  Value: 1.042586 at position (18, 23)
+  Value: 1.139417 at position (19, 10)
+  Value: 1.249663 at position (19, 11)
+  Value: 2.139121 at position (20, 11)
+  Value: 1.681498 at position (20, 27)
+  Value: 1.311637 at position (21, 11)
+  Value: 1.710708 at position (22, 11)
+  Value: 1.175677 at position (22, 27)
+  Value: 1.236213 at position (23, 10)
+  Value: 1.325670 at position (23, 11)
+  Value: 1.154293 at position (25, 3)
+  Value: 1.303868 at position (25, 7)
+  Value: 2.725353 at position (25, 10)
+  Value: 1.031333 at position (26, 6)
+  Value: 1.035014 at position (26, 7)
+  Value: 2.186478 at position (26, 10)
+  Value: 1.692928 at position (27, 11)
+  Value: 1.189360 at position (28, 6)
+  Value: 1.539994 at position (29, 10)
+  Value: 1.095827 at position (30, 10)
+--------------------------------------------------
+File: mov\L\iDTF_10Hz\mov_RT-Upright_L_pro_LT_iDTF_10Hz.csv
+Movement: RT-Upright_L_pro_LT_iDTF
+High values found (excluding diagonal elements):
+  Value: 1.037584 at position (9, 3)
+  Value: 1.012806 at position (16, 22)
+--------------------------------------------------
+
+Analyzing mov/L/iDTF_20Hz
+==================================================
+File: mov\L\iDTF_20Hz\mov_LT-Pronation_L_anti_JDC_iDTF_20Hz.csv
+Movement: LT-Pronation_L_anti_JDC_iDTF
+High values found (excluding diagonal elements):
+  Value: 1.397953 at position (9, 10)
+  Value: 1.241816 at position (10, 9)
+--------------------------------------------------
+File: mov\L\iDTF_20Hz\mov_LT-Pronation_L_anti_JFXD_iDTF_20Hz.csv
+Movement: LT-Pronation_L_anti_JFXD_iDTF
+High values found (excluding diagonal elements):
+  Value: 1.051783 at position (0, 4)
+  Value: 1.307516 at position (1, 4)
+  Value: 1.029744 at position (2, 4)
+  Value: 1.360493 at position (2, 6)
+  Value: 1.483703 at position (3, 4)
+  Value: 2.129566 at position (3, 6)
+  Value: 1.865456 at position (13, 3)
+  Value: 10.530295 at position (13, 4)
+  Value: 5.330250 at position (13, 6)
+  Value: 3.294560 at position (13, 7)
+  Value: 1.172395 at position (13, 10)
+  Value: 2.413145 at position (13, 11)
+  Value: 1.102798 at position (13, 27)
+  Value: 1.059135 at position (14, 6)
+--------------------------------------------------
+File: mov\L\iDTF_20Hz\mov_LT-Pronation_L_pro_JDC_iDTF_20Hz.csv
+Movement: LT-Pronation_L_pro_JDC_iDTF
+High values found (excluding diagonal elements):
+  Value: 1.085480 at position (10, 9)
+--------------------------------------------------
+File: mov\L\iDTF_20Hz\mov_LT-Pronation_L_pro_JFXD_iDTF_20Hz.csv
+Movement: LT-Pronation_L_pro_JFXD_iDTF
+High values found (excluding diagonal elements):
+  Value: 1.754183 at position (0, 6)
+  Value: 4.040327 at position (4, 6)
+  Value: 1.177688 at position (5, 4)
+  Value: 2.163792 at position (5, 6)
+  Value: 2.433664 at position (6, 4)
+  Value: 1.090194 at position (7, 6)
+  Value: 1.206246 at position (8, 10)
+  Value: 1.127617 at position (11, 24)
+  Value: 1.418478 at position (13, 3)
+  Value: 6.937982 at position (13, 4)
+  Value: 5.943584 at position (13, 6)
+  Value: 2.342111 at position (13, 7)
+  Value: 1.108844 at position (16, 4)
+  Value: 1.812491 at position (16, 6)
+  Value: 1.490979 at position (24, 6)
+  Value: 1.346220 at position (27, 24)
+  Value: 1.284241 at position (28, 4)
+  Value: 1.231338 at position (31, 5)
+  Value: 2.236943 at position (31, 6)
+--------------------------------------------------
+File: mov\L\iDTF_20Hz\mov_RT-Down_L_anti_DOC_iDTF_20Hz.csv
+Movement: RT-Down_L_anti_DOC_iDTF
+High values found (excluding diagonal elements):
+  Value: 1.124933 at position (8, 21)
+  Value: 1.768659 at position (8, 22)
+  Value: 1.188059 at position (9, 7)
+--------------------------------------------------
+File: mov\L\iDTF_20Hz\mov_RT-Down_L_anti_JFXD_iDTF_20Hz.csv
+Movement: RT-Down_L_anti_JFXD_iDTF
+High values found (excluding diagonal elements):
+  Value: 1.863192 at position (0, 10)
+  Value: 2.445977 at position (0, 11)
+  Value: 2.009021 at position (0, 27)
+  Value: 1.201236 at position (1, 11)
+  Value: 1.534239 at position (3, 10)
+  Value: 1.020783 at position (7, 4)
+  Value: 1.548205 at position (7, 10)
+  Value: 1.318105 at position (9, 10)
+  Value: 1.536761 at position (13, 4)
+  Value: 2.042507 at position (13, 6)
+  Value: 1.194765 at position (16, 10)
+  Value: 2.107539 at position (16, 11)
+  Value: 1.942747 at position (16, 27)
+  Value: 1.196172 at position (17, 4)
+  Value: 1.341263 at position (17, 6)
+  Value: 1.926146 at position (18, 10)
+  Value: 1.261183 at position (18, 11)
+  Value: 1.193389 at position (18, 27)
+  Value: 1.010609 at position (19, 6)
+  Value: 3.176485 at position (19, 11)
+  Value: 2.959350 at position (19, 27)
+  Value: 1.432423 at position (23, 4)
+  Value: 2.082154 at position (23, 6)
+  Value: 3.307232 at position (23, 11)
+  Value: 3.186005 at position (23, 27)
+  Value: 1.689431 at position (24, 6)
+  Value: 1.491072 at position (25, 10)
+  Value: 4.672311 at position (25, 11)
+  Value: 1.079351 at position (25, 12)
+  Value: 4.079153 at position (25, 27)
+  Value: 1.821352 at position (26, 10)
+  Value: 6.556369 at position (26, 11)
+  Value: 1.271243 at position (26, 12)
+  Value: 5.877235 at position (26, 27)
+  Value: 1.779094 at position (28, 10)
+  Value: 6.414685 at position (28, 11)
+  Value: 1.390628 at position (28, 12)
+  Value: 5.923177 at position (28, 27)
+  Value: 1.607686 at position (29, 6)
+  Value: 1.179540 at position (29, 22)
+--------------------------------------------------
+File: mov\L\iDTF_20Hz\mov_RT-Down_L_pro_BG_iDTF_20Hz.csv
+Movement: RT-Down_L_pro_BG_iDTF
+High values found (excluding diagonal elements):
+  Value: 1.061079 at position (7, 4)
+  Value: 1.057736 at position (15, 4)
+--------------------------------------------------
+File: mov\L\iDTF_20Hz\mov_RT-Down_L_pro_JFXD_iDTF_20Hz.csv
+Movement: RT-Down_L_pro_JFXD_iDTF
+High values found (excluding diagonal elements):
+  Value: 3.057989 at position (0, 4)
+  Value: 3.422423 at position (0, 6)
+  Value: 1.323933 at position (0, 7)
+  Value: 1.565813 at position (0, 11)
+  Value: 2.286421 at position (0, 22)
+  Value: 1.468006 at position (0, 24)
+  Value: 1.157961 at position (0, 27)
+  Value: 1.156066 at position (0, 31)
+  Value: 2.316095 at position (1, 4)
+  Value: 3.225633 at position (1, 6)
+  Value: 1.084124 at position (1, 11)
+  Value: 1.082912 at position (4, 6)
+  Value: 1.613517 at position (5, 4)
+  Value: 1.741929 at position (5, 6)
+  Value: 1.061892 at position (6, 4)
+  Value: 1.712101 at position (11, 27)
+  Value: 2.384896 at position (13, 4)
+  Value: 1.611859 at position (13, 6)
+  Value: 2.038026 at position (13, 11)
+  Value: 1.561595 at position (13, 27)
+  Value: 1.368986 at position (14, 11)
+  Value: 1.251298 at position (14, 27)
+  Value: 1.538027 at position (16, 10)
+  Value: 2.133850 at position (16, 11)
+  Value: 1.833680 at position (16, 27)
+  Value: 1.017129 at position (17, 22)
+  Value: 1.819272 at position (19, 20)
+  Value: 2.669665 at position (19, 22)
+  Value: 1.857898 at position (19, 23)
+  Value: 1.620747 at position (23, 20)
+  Value: 1.690176 at position (23, 22)
+  Value: 1.469048 at position (25, 19)
+  Value: 1.720496 at position (25, 20)
+  Value: 2.980653 at position (25, 22)
+  Value: 1.964981 at position (25, 23)
+  Value: 1.154160 at position (26, 19)
+  Value: 1.499654 at position (26, 20)
+  Value: 2.202533 at position (26, 22)
+  Value: 1.497910 at position (26, 23)
+  Value: 1.699632 at position (27, 11)
+  Value: 1.325316 at position (28, 10)
+  Value: 1.403014 at position (28, 20)
+  Value: 1.856678 at position (28, 22)
+  Value: 1.656129 at position (30, 22)
+--------------------------------------------------
+File: mov\L\iDTF_20Hz\mov_RT-Down_L_pro_SJB_iDTF_20Hz.csv
+Movement: RT-Down_L_pro_SJB_iDTF
+High values found (excluding diagonal elements):
+  Value: 1.019724 at position (5, 7)
+--------------------------------------------------
+File: mov\L\iDTF_20Hz\mov_RT-Pronation_L_anti_BG_iDTF_20Hz.csv
+Movement: RT-Pronation_L_anti_BG_iDTF
+High values found (excluding diagonal elements):
+  Value: 2.070695 at position (2, 4)
+  Value: 1.363726 at position (2, 6)
+--------------------------------------------------
+File: mov\L\iDTF_20Hz\mov_RT-Pronation_L_anti_DOC_iDTF_20Hz.csv
+Movement: RT-Pronation_L_anti_DOC_iDTF
+High values found (excluding diagonal elements):
+  Value: 1.266605 at position (9, 7)
+--------------------------------------------------
+File: mov\L\iDTF_20Hz\mov_RT-Pronation_L_anti_JDC_iDTF_20Hz.csv
+Movement: RT-Pronation_L_anti_JDC_iDTF
+High values found (excluding diagonal elements):
+  Value: 1.155715 at position (24, 4)
+--------------------------------------------------
+File: mov\L\iDTF_20Hz\mov_RT-Pronation_L_anti_JFXD_iDTF_20Hz.csv
+Movement: RT-Pronation_L_anti_JFXD_iDTF
+High values found (excluding diagonal elements):
+  Value: 1.051817 at position (13, 3)
+  Value: 1.616088 at position (13, 7)
+  Value: 2.459643 at position (19, 11)
+  Value: 1.979921 at position (19, 27)
+  Value: 1.871554 at position (23, 11)
+  Value: 1.548255 at position (23, 27)
+  Value: 3.076525 at position (25, 11)
+  Value: 2.508388 at position (25, 27)
+  Value: 3.523832 at position (26, 11)
+  Value: 3.129724 at position (26, 27)
+  Value: 1.016338 at position (28, 10)
+  Value: 3.050728 at position (28, 11)
+  Value: 2.871199 at position (28, 27)
+--------------------------------------------------
+File: mov\L\iDTF_20Hz\mov_RT-Pronation_L_anti_LT_iDTF_20Hz.csv
+Movement: RT-Pronation_L_anti_LT_iDTF
+High values found (excluding diagonal elements):
+  Value: 1.074277 at position (0, 23)
+  Value: 2.334202 at position (3, 7)
+  Value: 1.141683 at position (9, 3)
+  Value: 1.846254 at position (9, 5)
+  Value: 3.222520 at position (9, 7)
+  Value: 1.729015 at position (10, 7)
+  Value: 2.812331 at position (13, 3)
+  Value: 3.836672 at position (13, 5)
+  Value: 1.365186 at position (13, 6)
+  Value: 6.955226 at position (13, 7)
+  Value: 1.000803 at position (29, 5)
+  Value: 1.293425 at position (29, 7)
+  Value: 1.022881 at position (30, 7)
+--------------------------------------------------
+File: mov\L\iDTF_20Hz\mov_RT-Pronation_L_anti_RR_iDTF_20Hz.csv
+Movement: RT-Pronation_L_anti_RR_iDTF
+High values found (excluding diagonal elements):
+  Value: 1.056562 at position (6, 4)
+  Value: 1.259995 at position (10, 4)
+  Value: 1.053102 at position (13, 4)
+  Value: 1.438880 at position (15, 4)
+  Value: 1.302250 at position (22, 8)
+--------------------------------------------------
+File: mov\L\iDTF_20Hz\mov_RT-Pronation_L_pro_BG_iDTF_20Hz.csv
+Movement: RT-Pronation_L_pro_BG_iDTF
+High values found (excluding diagonal elements):
+  Value: 1.158499 at position (2, 4)
+  Value: 1.027976 at position (5, 4)
+  Value: 1.428243 at position (15, 4)
+--------------------------------------------------
+File: mov\L\iDTF_20Hz\mov_RT-Pronation_L_pro_JFXD_iDTF_20Hz.csv
+Movement: RT-Pronation_L_pro_JFXD_iDTF
+High values found (excluding diagonal elements):
+  Value: 2.936603 at position (2, 11)
+  Value: 2.260837 at position (2, 27)
+  Value: 1.367881 at position (5, 11)
+  Value: 1.083109 at position (5, 27)
+  Value: 1.391981 at position (8, 10)
+  Value: 1.611197 at position (13, 3)
+  Value: 1.363397 at position (13, 7)
+  Value: 1.079445 at position (13, 10)
+  Value: 1.916067 at position (13, 11)
+  Value: 1.602643 at position (13, 12)
+  Value: 1.067782 at position (13, 27)
+  Value: 1.791712 at position (17, 22)
+  Value: 1.827302 at position (19, 11)
+  Value: 1.564601 at position (19, 27)
+  Value: 1.228923 at position (20, 11)
+  Value: 1.155885 at position (20, 27)
+  Value: 1.007714 at position (21, 6)
+  Value: 2.091421 at position (21, 11)
+  Value: 1.285987 at position (21, 22)
+  Value: 2.069288 at position (21, 27)
+  Value: 1.223682 at position (22, 11)
+  Value: 1.344283 at position (22, 27)
+  Value: 2.774680 at position (23, 11)
+  Value: 2.272370 at position (23, 27)
+  Value: 1.146618 at position (24, 22)
+  Value: 2.699119 at position (26, 11)
+  Value: 2.081884 at position (26, 27)
+  Value: 3.425078 at position (28, 11)
+  Value: 2.892624 at position (28, 27)
+  Value: 1.758363 at position (29, 11)
+  Value: 1.413360 at position (29, 27)
+--------------------------------------------------
+File: mov\L\iDTF_20Hz\mov_RT-Pronation_L_pro_LT_iDTF_20Hz.csv
+Movement: RT-Pronation_L_pro_LT_iDTF
+High values found (excluding diagonal elements):
+  Value: 1.036676 at position (1, 5)
+  Value: 1.229649 at position (1, 6)
+  Value: 1.587162 at position (1, 7)
+  Value: 1.866762 at position (2, 3)
+  Value: 1.044116 at position (2, 5)
+  Value: 2.859957 at position (2, 7)
+  Value: 1.724495 at position (3, 6)
+  Value: 3.235501 at position (3, 7)
+  Value: 1.135932 at position (4, 5)
+  Value: 1.059494 at position (4, 7)
+  Value: 1.056278 at position (8, 23)
+  Value: 3.054626 at position (9, 3)
+  Value: 2.331391 at position (9, 5)
+  Value: 2.534140 at position (9, 6)
+  Value: 5.896678 at position (9, 7)
+  Value: 1.123484 at position (10, 3)
+  Value: 2.330596 at position (10, 7)
+  Value: 2.212807 at position (13, 3)
+  Value: 1.390145 at position (13, 5)
+  Value: 2.115280 at position (13, 6)
+  Value: 3.710303 at position (13, 7)
+  Value: 1.536695 at position (14, 7)
+  Value: 1.293200 at position (19, 7)
+  Value: 1.198249 at position (19, 23)
+  Value: 1.150451 at position (23, 7)
+  Value: 1.045241 at position (23, 19)
+  Value: 1.062185 at position (25, 7)
+--------------------------------------------------
+File: mov\L\iDTF_20Hz\mov_RT-Pronation_L_pro_SJB_iDTF_20Hz.csv
+Movement: RT-Pronation_L_pro_SJB_iDTF
+High values found (excluding diagonal elements):
+  Value: 1.380153 at position (1, 4)
+--------------------------------------------------
+File: mov\L\iDTF_20Hz\mov_RT-Upright_L_anti_JFXD_iDTF_20Hz.csv
+Movement: RT-Upright_L_anti_JFXD_iDTF
+High values found (excluding diagonal elements):
+  Value: 1.133602 at position (1, 4)
+  Value: 1.035551 at position (2, 11)
+  Value: 1.029679 at position (11, 27)
+  Value: 1.338466 at position (19, 11)
+  Value: 1.029313 at position (19, 27)
+  Value: 1.104114 at position (23, 11)
+  Value: 1.216322 at position (24, 11)
+  Value: 1.457097 at position (25, 19)
+  Value: 1.692353 at position (26, 11)
+  Value: 1.374067 at position (26, 27)
+  Value: 1.444139 at position (27, 11)
+  Value: 3.353072 at position (28, 10)
+  Value: 3.012374 at position (28, 11)
+  Value: 1.762640 at position (28, 12)
+  Value: 2.362314 at position (28, 27)
+  Value: 2.298116 at position (29, 4)
+  Value: 2.206789 at position (29, 6)
+  Value: 1.196412 at position (29, 7)
+  Value: 1.233578 at position (29, 11)
+--------------------------------------------------
+File: mov\L\iDTF_20Hz\mov_RT-Upright_L_anti_LT_iDTF_20Hz.csv
+Movement: RT-Upright_L_anti_LT_iDTF
+High values found (excluding diagonal elements):
+  Value: 1.032203 at position (9, 7)
+--------------------------------------------------
+File: mov\L\iDTF_20Hz\mov_RT-Upright_L_anti_SJB_iDTF_20Hz.csv
+Movement: RT-Upright_L_anti_SJB_iDTF
+High values found (excluding diagonal elements):
+  Value: 1.131854 at position (6, 4)
+--------------------------------------------------
+File: mov\L\iDTF_20Hz\mov_RT-Upright_L_pro_JFXD_iDTF_20Hz.csv
+Movement: RT-Upright_L_pro_JFXD_iDTF
+High values found (excluding diagonal elements):
+  Value: 2.611036 at position (0, 11)
+  Value: 1.800032 at position (0, 27)
+  Value: 2.728152 at position (3, 10)
+  Value: 1.435074 at position (3, 11)
+  Value: 1.152954 at position (3, 27)
+  Value: 1.156056 at position (6, 11)
+  Value: 2.107126 at position (7, 10)
+  Value: 1.172592 at position (7, 11)
+  Value: 1.042275 at position (11, 27)
+  Value: 1.188255 at position (13, 10)
+  Value: 2.384320 at position (14, 10)
+  Value: 1.642279 at position (14, 12)
+  Value: 1.259743 at position (15, 11)
+  Value: 1.704823 at position (19, 11)
+  Value: 1.074080 at position (19, 27)
+  Value: 2.458577 at position (20, 11)
+  Value: 1.890773 at position (20, 27)
+  Value: 1.770911 at position (21, 11)
+  Value: 1.132817 at position (21, 27)
+  Value: 1.729705 at position (22, 11)
+  Value: 1.175956 at position (22, 27)
+  Value: 2.106451 at position (23, 11)
+  Value: 1.487039 at position (23, 27)
+  Value: 1.039018 at position (25, 10)
+  Value: 1.250579 at position (27, 11)
+  Value: 1.047515 at position (28, 6)
+  Value: 2.100311 at position (28, 11)
+  Value: 1.674216 at position (28, 27)
+--------------------------------------------------
+File: mov\L\iDTF_20Hz\mov_RT-Upright_L_pro_LT_iDTF_20Hz.csv
+Movement: RT-Upright_L_pro_LT_iDTF
+High values found (excluding diagonal elements):
+  Value: 1.018594 at position (3, 7)
+  Value: 1.380297 at position (9, 3)
+  Value: 1.559778 at position (9, 7)
+  Value: 1.163562 at position (10, 3)
+  Value: 1.108069 at position (10, 7)
+  Value: 1.084412 at position (11, 3)
+  Value: 1.812018 at position (12, 3)
+  Value: 1.225246 at position (12, 7)
+  Value: 1.303107 at position (12, 9)
+--------------------------------------------------
+File: mov\L\iDTF_20Hz\mov_RT-Upright_L_pro_RR_iDTF_20Hz.csv
+Movement: RT-Upright_L_pro_RR_iDTF
+High values found (excluding diagonal elements):
+  Value: 1.031208 at position (15, 4)
+--------------------------------------------------
+
+Analyzing mov/L/iPDC_100Hz
+==================================================
+
+Analyzing mov/L/iPDC_10Hz
+==================================================
+
+Analyzing mov/L/iPDC_20Hz
+==================================================
+
+Analyzing mov/R/gDTF_100Hz
+==================================================
+
+Analyzing mov/R/gDTF_10Hz
+==================================================
+
+Analyzing mov/R/gDTF_20Hz
+==================================================
+
+Analyzing mov/R/gPDC_100Hz
+==================================================
+
+Analyzing mov/R/gPDC_10Hz
+==================================================
+
+Analyzing mov/R/gPDC_20Hz
+==================================================
+
+Analyzing mov/R/iDTF_100Hz
+==================================================
+File: mov\R\iDTF_100Hz\mov_LT-Pronation_R_anti_DOC_iDTF_100Hz.csv
+Movement: LT-Pronation_R_anti_DOC_iDTF
+High values found (excluding diagonal elements):
+  Value: 1.020592 at position (15, 22)
+--------------------------------------------------
+File: mov\R\iDTF_100Hz\mov_LT-Pronation_R_anti_JFXD_iDTF_100Hz.csv
+Movement: LT-Pronation_R_anti_JFXD_iDTF
+High values found (excluding diagonal elements):
+  Value: 1.299942 at position (2, 4)
+  Value: 1.024879 at position (4, 6)
+  Value: 1.305680 at position (4, 7)
+  Value: 1.172359 at position (5, 4)
+  Value: 1.919163 at position (6, 4)
+  Value: 1.109521 at position (6, 7)
+  Value: 1.235012 at position (8, 10)
+  Value: 1.748161 at position (8, 11)
+  Value: 1.319524 at position (8, 12)
+  Value: 1.076953 at position (8, 27)
+  Value: 1.227885 at position (11, 6)
+  Value: 1.274732 at position (12, 11)
+  Value: 1.313087 at position (13, 4)
+  Value: 1.951431 at position (13, 6)
+  Value: 1.249233 at position (13, 11)
+  Value: 2.499028 at position (14, 4)
+  Value: 3.331996 at position (14, 6)
+  Value: 1.400536 at position (14, 11)
+  Value: 1.679941 at position (27, 6)
+  Value: 1.518789 at position (27, 11)
+  Value: 1.896873 at position (29, 4)
+  Value: 2.940250 at position (29, 6)
+  Value: 1.627002 at position (30, 4)
+  Value: 1.921325 at position (30, 6)
+  Value: 1.015862 at position (30, 7)
+  Value: 1.145227 at position (30, 27)
+  Value: 1.063959 at position (31, 6)
+--------------------------------------------------
+File: mov\R\iDTF_100Hz\mov_LT-Pronation_R_anti_LT_iDTF_100Hz.csv
+Movement: LT-Pronation_R_anti_LT_iDTF
+High values found (excluding diagonal elements):
+  Value: 1.155939 at position (17, 19)
+  Value: 1.019128 at position (17, 23)
+--------------------------------------------------
+File: mov\R\iDTF_100Hz\mov_LT-Pronation_R_pro_JFXD_iDTF_100Hz.csv
+Movement: LT-Pronation_R_pro_JFXD_iDTF
+High values found (excluding diagonal elements):
+  Value: 1.095165 at position (11, 4)
+  Value: 1.470977 at position (11, 6)
+  Value: 1.121253 at position (12, 6)
+  Value: 1.199903 at position (13, 11)
+  Value: 1.136432 at position (14, 11)
+  Value: 1.356086 at position (27, 4)
+  Value: 1.644979 at position (27, 6)
+  Value: 1.086868 at position (27, 11)
+  Value: 1.377072 at position (28, 6)
+--------------------------------------------------
+File: mov\R\iDTF_100Hz\mov_LT-Pronation_R_pro_LT_iDTF_100Hz.csv
+Movement: LT-Pronation_R_pro_LT_iDTF
+High values found (excluding diagonal elements):
+  Value: 1.008130 at position (3, 9)
+  Value: 1.026393 at position (6, 7)
+  Value: 1.187046 at position (22, 3)
+--------------------------------------------------
+File: mov\R\iDTF_100Hz\mov_RT-Down_R_anti_DOC_iDTF_100Hz.csv
+Movement: RT-Down_R_anti_DOC_iDTF
+High values found (excluding diagonal elements):
+  Value: 1.093239 at position (9, 7)
+  Value: 1.139396 at position (22, 21)
+--------------------------------------------------
+File: mov\R\iDTF_100Hz\mov_RT-Down_R_anti_JDC_iDTF_100Hz.csv
+Movement: RT-Down_R_anti_JDC_iDTF
+High values found (excluding diagonal elements):
+  Value: 1.112192 at position (20, 23)
+--------------------------------------------------
+File: mov\R\iDTF_100Hz\mov_RT-Down_R_anti_JFXD_iDTF_100Hz.csv
+Movement: RT-Down_R_anti_JFXD_iDTF
+High values found (excluding diagonal elements):
+  Value: 2.983603 at position (0, 10)
+  Value: 1.808505 at position (1, 10)
+  Value: 1.019530 at position (6, 4)
+  Value: 1.512811 at position (8, 22)
+  Value: 1.098845 at position (11, 6)
+  Value: 1.178806 at position (13, 7)
+  Value: 1.187989 at position (13, 10)
+  Value: 1.444721 at position (13, 22)
+  Value: 1.272797 at position (15, 10)
+  Value: 1.157012 at position (15, 22)
+  Value: 3.284309 at position (16, 4)
+  Value: 3.747382 at position (16, 6)
+  Value: 1.249674 at position (16, 7)
+  Value: 1.204604 at position (16, 22)
+  Value: 1.263392 at position (17, 6)
+  Value: 1.244243 at position (17, 22)
+  Value: 1.680908 at position (18, 10)
+  Value: 1.280966 at position (19, 10)
+  Value: 1.216045 at position (19, 11)
+  Value: 1.110018 at position (19, 20)
+  Value: 2.500166 at position (19, 22)
+  Value: 1.314320 at position (19, 27)
+  Value: 2.066840 at position (21, 10)
+  Value: 1.489596 at position (25, 4)
+  Value: 1.207658 at position (25, 6)
+  Value: 1.132319 at position (25, 7)
+  Value: 2.062194 at position (26, 4)
+  Value: 1.976992 at position (26, 6)
+  Value: 1.416120 at position (26, 7)
+  Value: 1.087112 at position (26, 11)
+  Value: 1.005768 at position (26, 27)
+  Value: 1.469709 at position (29, 22)
+  Value: 1.649110 at position (30, 3)
+  Value: 2.050895 at position (30, 4)
+  Value: 2.645329 at position (30, 6)
+  Value: 1.439862 at position (30, 7)
+  Value: 3.092931 at position (30, 10)
+--------------------------------------------------
+File: mov\R\iDTF_100Hz\mov_RT-Down_R_pro_JFXD_iDTF_100Hz.csv
+Movement: RT-Down_R_pro_JFXD_iDTF
+High values found (excluding diagonal elements):
+  Value: 1.295594 at position (0, 11)
+  Value: 1.624146 at position (2, 10)
+  Value: 1.339570 at position (3, 6)
+  Value: 1.325819 at position (5, 4)
+  Value: 1.227326 at position (5, 6)
+  Value: 3.573447 at position (6, 4)
+  Value: 1.471912 at position (6, 7)
+  Value: 1.310804 at position (7, 4)
+  Value: 1.726611 at position (7, 6)
+  Value: 1.414513 at position (8, 3)
+  Value: 4.002734 at position (8, 4)
+  Value: 3.886063 at position (8, 6)
+  Value: 3.765066 at position (8, 7)
+  Value: 1.267210 at position (9, 6)
+  Value: 1.132414 at position (9, 7)
+  Value: 1.008898 at position (11, 8)
+  Value: 1.235384 at position (11, 20)
+  Value: 2.418927 at position (11, 22)
+  Value: 1.051263 at position (12, 22)
+  Value: 1.295489 at position (13, 7)
+  Value: 1.006212 at position (13, 11)
+  Value: 1.345820 at position (13, 22)
+  Value: 1.235026 at position (14, 3)
+  Value: 1.586778 at position (14, 7)
+  Value: 1.730864 at position (14, 10)
+  Value: 3.096567 at position (15, 4)
+  Value: 3.066613 at position (15, 6)
+  Value: 2.415358 at position (15, 7)
+  Value: 1.082365 at position (18, 10)
+  Value: 2.624680 at position (19, 11)
+  Value: 2.058695 at position (19, 27)
+  Value: 1.207085 at position (20, 11)
+  Value: 1.492259 at position (21, 11)
+  Value: 1.398802 at position (21, 27)
+  Value: 3.186729 at position (23, 11)
+  Value: 2.728289 at position (23, 27)
+  Value: 1.893548 at position (24, 3)
+  Value: 3.133784 at position (24, 4)
+  Value: 3.032890 at position (24, 6)
+  Value: 4.136348 at position (24, 7)
+  Value: 1.345055 at position (26, 7)
+  Value: 1.064765 at position (27, 8)
+  Value: 1.040077 at position (27, 11)
+  Value: 1.239736 at position (27, 20)
+  Value: 2.374568 at position (27, 22)
+  Value: 1.358619 at position (28, 4)
+  Value: 1.948767 at position (28, 7)
+  Value: 1.053929 at position (28, 10)
+  Value: 1.082479 at position (29, 10)
+  Value: 1.787154 at position (30, 22)
+  Value: 2.226918 at position (31, 3)
+  Value: 3.106055 at position (31, 4)
+  Value: 3.069743 at position (31, 6)
+  Value: 3.760161 at position (31, 7)
+  Value: 2.301909 at position (31, 10)
+--------------------------------------------------
+File: mov\R\iDTF_100Hz\mov_RT-Down_R_pro_LT_iDTF_100Hz.csv
+Movement: RT-Down_R_pro_LT_iDTF
+High values found (excluding diagonal elements):
+  Value: 1.367546 at position (25, 19)
+--------------------------------------------------
+File: mov\R\iDTF_100Hz\mov_RT-Pronation_R_anti_JFXD_iDTF_100Hz.csv
+Movement: RT-Pronation_R_anti_JFXD_iDTF
+High values found (excluding diagonal elements):
+  Value: 3.173646 at position (3, 11)
+  Value: 2.635413 at position (3, 27)
+  Value: 1.196129 at position (5, 6)
+  Value: 2.270732 at position (7, 11)
+  Value: 1.779966 at position (7, 27)
+  Value: 2.358322 at position (9, 11)
+  Value: 2.149160 at position (9, 27)
+  Value: 1.525901 at position (11, 27)
+  Value: 2.219138 at position (13, 11)
+  Value: 1.465415 at position (13, 27)
+  Value: 2.972784 at position (14, 11)
+  Value: 2.254532 at position (14, 27)
+  Value: 1.175086 at position (18, 9)
+  Value: 1.031271 at position (18, 10)
+  Value: 1.910431 at position (18, 11)
+  Value: 1.308783 at position (18, 27)
+  Value: 3.376633 at position (19, 11)
+  Value: 2.616124 at position (19, 27)
+  Value: 1.022902 at position (20, 9)
+  Value: 1.123707 at position (21, 6)
+  Value: 3.106824 at position (23, 11)
+  Value: 2.462029 at position (23, 27)
+  Value: 1.179614 at position (24, 3)
+  Value: 1.666330 at position (24, 7)
+  Value: 2.697322 at position (24, 11)
+  Value: 2.382543 at position (24, 27)
+  Value: 1.533474 at position (25, 11)
+  Value: 1.129673 at position (25, 27)
+  Value: 1.466342 at position (26, 11)
+  Value: 1.136274 at position (26, 27)
+  Value: 2.740791 at position (27, 11)
+  Value: 2.439048 at position (29, 11)
+  Value: 1.910421 at position (29, 27)
+  Value: 1.297434 at position (30, 11)
+  Value: 1.198464 at position (30, 27)
+  Value: 3.492413 at position (31, 11)
+  Value: 2.841734 at position (31, 27)
+--------------------------------------------------
+File: mov\R\iDTF_100Hz\mov_RT-Pronation_R_anti_RR_iDTF_100Hz.csv
+Movement: RT-Pronation_R_anti_RR_iDTF
+High values found (excluding diagonal elements):
+  Value: 1.032305 at position (6, 4)
+--------------------------------------------------
+File: mov\R\iDTF_100Hz\mov_RT-Pronation_R_pro_JFXD_iDTF_100Hz.csv
+Movement: RT-Pronation_R_pro_JFXD_iDTF
+High values found (excluding diagonal elements):
+  Value: 1.090872 at position (7, 10)
+  Value: 1.084529 at position (13, 7)
+  Value: 1.000452 at position (15, 3)
+  Value: 1.177279 at position (15, 7)
+  Value: 1.529530 at position (19, 11)
+  Value: 1.196527 at position (19, 27)
+  Value: 1.641228 at position (23, 11)
+  Value: 1.311505 at position (23, 27)
+  Value: 1.018951 at position (25, 22)
+  Value: 1.198091 at position (27, 11)
+  Value: 2.872106 at position (29, 11)
+  Value: 1.898269 at position (29, 27)
+--------------------------------------------------
+File: mov\R\iDTF_100Hz\mov_RT-Pronation_R_pro_LT_iDTF_100Hz.csv
+Movement: RT-Pronation_R_pro_LT_iDTF
+High values found (excluding diagonal elements):
+  Value: 1.010908 at position (9, 3)
+  Value: 1.074143 at position (9, 7)
+  Value: 1.055674 at position (10, 7)
+--------------------------------------------------
+File: mov\R\iDTF_100Hz\mov_RT-Upright_R_anti_DOC_iDTF_100Hz.csv
+Movement: RT-Upright_R_anti_DOC_iDTF
+High values found (excluding diagonal elements):
+  Value: 1.059620 at position (9, 7)
+  Value: 1.548985 at position (30, 22)
+--------------------------------------------------
+File: mov\R\iDTF_100Hz\mov_RT-Upright_R_anti_JFXD_iDTF_100Hz.csv
+Movement: RT-Upright_R_anti_JFXD_iDTF
+High values found (excluding diagonal elements):
+  Value: 2.336461 at position (0, 11)
+  Value: 1.950441 at position (0, 27)
+  Value: 1.711723 at position (1, 11)
+  Value: 1.112869 at position (1, 27)
+  Value: 1.411899 at position (7, 11)
+  Value: 1.018255 at position (8, 10)
+  Value: 1.123651 at position (12, 11)
+  Value: 1.001066 at position (12, 27)
+  Value: 1.845192 at position (13, 11)
+  Value: 1.852354 at position (14, 11)
+  Value: 2.021230 at position (18, 11)
+  Value: 1.148286 at position (18, 22)
+  Value: 1.491142 at position (18, 27)
+  Value: 1.282361 at position (19, 10)
+  Value: 1.439355 at position (23, 10)
+  Value: 1.174176 at position (23, 22)
+  Value: 1.951497 at position (27, 11)
+  Value: 1.261483 at position (28, 11)
+  Value: 1.114446 at position (28, 23)
+  Value: 1.333987 at position (28, 27)
+  Value: 3.294459 at position (29, 11)
+  Value: 2.540617 at position (29, 27)
+  Value: 2.809040 at position (30, 11)
+  Value: 2.394879 at position (30, 27)
+--------------------------------------------------
+File: mov\R\iDTF_100Hz\mov_RT-Upright_R_anti_SJB_iDTF_100Hz.csv
+Movement: RT-Upright_R_anti_SJB_iDTF
+High values found (excluding diagonal elements):
+  Value: 1.681946 at position (6, 4)
+--------------------------------------------------
+File: mov\R\iDTF_100Hz\mov_RT-Upright_R_pro_DOC_iDTF_100Hz.csv
+Movement: RT-Upright_R_pro_DOC_iDTF
+High values found (excluding diagonal elements):
+  Value: 1.304844 at position (9, 7)
+  Value: 1.337936 at position (10, 7)
+--------------------------------------------------
+File: mov\R\iDTF_100Hz\mov_RT-Upright_R_pro_JFXD_iDTF_100Hz.csv
+Movement: RT-Upright_R_pro_JFXD_iDTF
+High values found (excluding diagonal elements):
+  Value: 1.146588 at position (4, 7)
+  Value: 1.230719 at position (5, 6)
+  Value: 1.383025 at position (7, 11)
+  Value: 2.931091 at position (8, 11)
+  Value: 2.355046 at position (8, 27)
+  Value: 1.152400 at position (9, 11)
+  Value: 2.297331 at position (10, 11)
+  Value: 1.677978 at position (10, 27)
+  Value: 1.469723 at position (11, 27)
+  Value: 2.195699 at position (12, 11)
+  Value: 1.727036 at position (12, 27)
+  Value: 1.961032 at position (13, 11)
+  Value: 1.055066 at position (15, 4)
+  Value: 2.046847 at position (15, 6)
+  Value: 1.436307 at position (15, 11)
+  Value: 2.465353 at position (16, 10)
+  Value: 3.346474 at position (17, 11)
+  Value: 2.879836 at position (17, 27)
+  Value: 1.345093 at position (18, 10)
+  Value: 1.878729 at position (18, 11)
+  Value: 1.071632 at position (18, 12)
+  Value: 1.335697 at position (18, 27)
+  Value: 1.570104 at position (19, 10)
+  Value: 4.299731 at position (19, 11)
+  Value: 1.477876 at position (19, 12)
+  Value: 3.135035 at position (19, 27)
+  Value: 1.818700 at position (21, 11)
+  Value: 1.107507 at position (21, 27)
+  Value: 1.029566 at position (23, 10)
+  Value: 2.347753 at position (23, 11)
+  Value: 1.565643 at position (23, 27)
+  Value: 1.618092 at position (24, 10)
+  Value: 1.065872 at position (25, 6)
+  Value: 1.034809 at position (25, 11)
+  Value: 1.110037 at position (26, 11)
+  Value: 1.427697 at position (27, 11)
+  Value: 1.620505 at position (29, 10)
+  Value: 1.943303 at position (29, 11)
+  Value: 1.432289 at position (29, 27)
+  Value: 1.222632 at position (30, 7)
+--------------------------------------------------
+File: mov\R\iDTF_100Hz\mov_RT-Upright_R_pro_LT_iDTF_100Hz.csv
+Movement: RT-Upright_R_pro_LT_iDTF
+High values found (excluding diagonal elements):
+  Value: 1.096761 at position (10, 3)
+--------------------------------------------------
+
+Analyzing mov/R/iDTF_10Hz
+==================================================
+File: mov\R\iDTF_10Hz\mov_LT-Pronation_R_anti_DOC_iDTF_10Hz.csv
+Movement: LT-Pronation_R_anti_DOC_iDTF
+High values found (excluding diagonal elements):
+  Value: 1.315005 at position (15, 22)
+  Value: 1.077727 at position (30, 22)
+--------------------------------------------------
+File: mov\R\iDTF_10Hz\mov_LT-Pronation_R_anti_JFXD_iDTF_10Hz.csv
+Movement: LT-Pronation_R_anti_JFXD_iDTF
+High values found (excluding diagonal elements):
+  Value: 1.010522 at position (3, 6)
+  Value: 1.609439 at position (8, 11)
+  Value: 1.113943 at position (8, 27)
+  Value: 1.648335 at position (11, 6)
+  Value: 1.585889 at position (11, 27)
+  Value: 1.913700 at position (13, 3)
+  Value: 7.367013 at position (13, 4)
+  Value: 6.922235 at position (13, 6)
+  Value: 3.892790 at position (13, 7)
+  Value: 1.518968 at position (14, 6)
+  Value: 1.699345 at position (27, 6)
+  Value: 1.193425 at position (27, 11)
+  Value: 1.663324 at position (29, 6)
+  Value: 1.625330 at position (29, 11)
+  Value: 1.328637 at position (29, 27)
+--------------------------------------------------
+File: mov\R\iDTF_10Hz\mov_LT-Pronation_R_anti_LT_iDTF_10Hz.csv
+Movement: LT-Pronation_R_anti_LT_iDTF
+High values found (excluding diagonal elements):
+  Value: 1.141665 at position (4, 19)
+  Value: 1.794291 at position (21, 19)
+--------------------------------------------------
+File: mov\R\iDTF_10Hz\mov_LT-Pronation_R_pro_JFXD_iDTF_10Hz.csv
+Movement: LT-Pronation_R_pro_JFXD_iDTF
+High values found (excluding diagonal elements):
+  Value: 1.007808 at position (2, 4)
+  Value: 1.005304 at position (3, 7)
+  Value: 1.124919 at position (4, 6)
+  Value: 2.375870 at position (6, 4)
+  Value: 1.010844 at position (8, 4)
+  Value: 1.030405 at position (8, 7)
+  Value: 1.571356 at position (9, 7)
+  Value: 4.866556 at position (13, 4)
+  Value: 1.504506 at position (13, 6)
+  Value: 2.070024 at position (13, 7)
+  Value: 1.469640 at position (29, 11)
+  Value: 1.085911 at position (29, 27)
+  Value: 1.745319 at position (31, 24)
+--------------------------------------------------
+File: mov\R\iDTF_10Hz\mov_LT-Pronation_R_pro_LT_iDTF_10Hz.csv
+Movement: LT-Pronation_R_pro_LT_iDTF
+High values found (excluding diagonal elements):
+  Value: 1.110261 at position (3, 7)
+  Value: 1.540472 at position (3, 9)
+  Value: 1.850114 at position (7, 3)
+  Value: 1.565935 at position (7, 9)
+  Value: 1.736149 at position (9, 3)
+  Value: 1.062013 at position (9, 7)
+  Value: 1.038521 at position (10, 3)
+  Value: 1.485918 at position (19, 23)
+  Value: 1.097378 at position (22, 11)
+  Value: 1.046346 at position (22, 27)
+  Value: 2.000948 at position (23, 19)
+--------------------------------------------------
+File: mov\R\iDTF_10Hz\mov_RT-Down_R_anti_DOC_iDTF_10Hz.csv
+Movement: RT-Down_R_anti_DOC_iDTF
+High values found (excluding diagonal elements):
+  Value: 1.838140 at position (16, 22)
+--------------------------------------------------
+File: mov\R\iDTF_10Hz\mov_RT-Down_R_anti_JFXD_iDTF_10Hz.csv
+Movement: RT-Down_R_anti_JFXD_iDTF
+High values found (excluding diagonal elements):
+  Value: 1.552372 at position (0, 10)
+  Value: 1.969865 at position (8, 22)
+  Value: 1.438013 at position (8, 31)
+  Value: 1.553926 at position (13, 4)
+  Value: 1.985594 at position (13, 6)
+  Value: 2.100154 at position (13, 10)
+  Value: 2.578916 at position (13, 22)
+  Value: 1.098639 at position (14, 3)
+  Value: 2.611630 at position (14, 10)
+  Value: 1.119821 at position (19, 11)
+  Value: 1.085394 at position (19, 27)
+  Value: 1.301748 at position (21, 23)
+  Value: 1.192242 at position (22, 23)
+  Value: 1.003358 at position (25, 4)
+  Value: 1.172094 at position (25, 6)
+  Value: 1.483678 at position (25, 10)
+  Value: 1.170069 at position (25, 11)
+  Value: 1.043884 at position (25, 27)
+  Value: 1.038272 at position (26, 3)
+  Value: 1.933466 at position (26, 4)
+  Value: 2.310937 at position (26, 6)
+  Value: 1.383691 at position (26, 7)
+  Value: 2.478201 at position (26, 10)
+  Value: 1.341457 at position (26, 11)
+  Value: 1.118628 at position (26, 12)
+  Value: 1.214318 at position (26, 27)
+  Value: 2.264323 at position (28, 4)
+  Value: 2.160856 at position (28, 6)
+  Value: 1.651393 at position (28, 7)
+  Value: 2.598831 at position (28, 10)
+  Value: 1.801787 at position (29, 11)
+  Value: 1.664767 at position (29, 27)
+  Value: 1.229504 at position (30, 4)
+  Value: 1.716526 at position (30, 6)
+  Value: 1.031357 at position (30, 7)
+  Value: 2.436062 at position (30, 10)
+--------------------------------------------------
+File: mov\R\iDTF_10Hz\mov_RT-Down_R_pro_JFXD_iDTF_10Hz.csv
+Movement: RT-Down_R_pro_JFXD_iDTF
+High values found (excluding diagonal elements):
+  Value: 2.630318 at position (0, 4)
+  Value: 3.284386 at position (0, 6)
+  Value: 3.343486 at position (0, 7)
+  Value: 2.131130 at position (0, 11)
+  Value: 1.633924 at position (0, 27)
+  Value: 1.677646 at position (2, 4)
+  Value: 2.859639 at position (2, 6)
+  Value: 1.638127 at position (2, 7)
+  Value: 1.506027 at position (3, 7)
+  Value: 1.393222 at position (7, 4)
+  Value: 1.623036 at position (7, 6)
+  Value: 1.005182 at position (8, 6)
+  Value: 1.121729 at position (9, 4)
+  Value: 1.989371 at position (9, 7)
+  Value: 1.042058 at position (9, 27)
+  Value: 1.005243 at position (11, 27)
+  Value: 1.015588 at position (13, 8)
+  Value: 1.276551 at position (13, 11)
+  Value: 1.566229 at position (13, 22)
+  Value: 1.211606 at position (13, 27)
+  Value: 1.850326 at position (14, 3)
+  Value: 1.844643 at position (14, 4)
+  Value: 1.877883 at position (14, 6)
+  Value: 2.110743 at position (14, 7)
+  Value: 1.043678 at position (14, 10)
+  Value: 1.680775 at position (15, 6)
+  Value: 1.012774 at position (16, 10)
+  Value: 1.077903 at position (16, 11)
+  Value: 2.433378 at position (16, 22)
+  Value: 1.357495 at position (17, 4)
+  Value: 2.444761 at position (17, 6)
+  Value: 1.125332 at position (17, 22)
+  Value: 1.040425 at position (18, 10)
+  Value: 1.807502 at position (19, 11)
+  Value: 1.276985 at position (19, 27)
+  Value: 1.923534 at position (23, 11)
+  Value: 1.540177 at position (23, 27)
+  Value: 1.657172 at position (24, 6)
+  Value: 1.808386 at position (25, 11)
+  Value: 1.226082 at position (25, 27)
+  Value: 1.407265 at position (26, 11)
+  Value: 1.102309 at position (26, 27)
+  Value: 1.120339 at position (28, 10)
+  Value: 1.371504 at position (28, 11)
+  Value: 1.283938 at position (28, 27)
+  Value: 1.139425 at position (29, 4)
+  Value: 1.335851 at position (29, 6)
+--------------------------------------------------
+File: mov\R\iDTF_10Hz\mov_RT-Down_R_pro_SJB_iDTF_10Hz.csv
+Movement: RT-Down_R_pro_SJB_iDTF
+High values found (excluding diagonal elements):
+  Value: 1.153501 at position (1, 7)
+  Value: 1.059538 at position (5, 3)
+--------------------------------------------------
+File: mov\R\iDTF_10Hz\mov_RT-Pronation_R_anti_JDC_iDTF_10Hz.csv
+Movement: RT-Pronation_R_anti_JDC_iDTF
+High values found (excluding diagonal elements):
+  Value: 1.421724 at position (8, 22)
+  Value: 1.209075 at position (16, 22)
+--------------------------------------------------
+File: mov\R\iDTF_10Hz\mov_RT-Pronation_R_anti_JFXD_iDTF_10Hz.csv
+Movement: RT-Pronation_R_anti_JFXD_iDTF
+High values found (excluding diagonal elements):
+  Value: 1.124636 at position (1, 4)
+  Value: 1.347442 at position (2, 6)
+  Value: 1.393028 at position (2, 7)
+  Value: 1.018564 at position (2, 11)
+  Value: 1.002745 at position (2, 27)
+  Value: 1.314411 at position (3, 9)
+  Value: 1.451979 at position (3, 10)
+  Value: 1.417056 at position (5, 6)
+  Value: 1.021016 at position (7, 10)
+  Value: 1.315914 at position (9, 10)
+  Value: 1.553654 at position (11, 27)
+  Value: 1.207560 at position (13, 3)
+  Value: 1.286509 at position (13, 4)
+  Value: 2.036711 at position (13, 7)
+  Value: 4.461862 at position (13, 11)
+  Value: 3.319029 at position (13, 27)
+  Value: 1.152774 at position (14, 11)
+  Value: 1.074142 at position (14, 27)
+  Value: 1.529858 at position (15, 4)
+  Value: 1.471672 at position (15, 7)
+  Value: 1.491449 at position (27, 11)
+--------------------------------------------------
+File: mov\R\iDTF_10Hz\mov_RT-Pronation_R_anti_LT_iDTF_10Hz.csv
+Movement: RT-Pronation_R_anti_LT_iDTF
+High values found (excluding diagonal elements):
+  Value: 1.917753 at position (3, 7)
+  Value: 1.037933 at position (13, 3)
+  Value: 1.124545 at position (13, 5)
+  Value: 1.929586 at position (13, 7)
+--------------------------------------------------
+File: mov\R\iDTF_10Hz\mov_RT-Pronation_R_pro_JDC_iDTF_10Hz.csv
+Movement: RT-Pronation_R_pro_JDC_iDTF
+High values found (excluding diagonal elements):
+  Value: 1.001966 at position (3, 11)
+--------------------------------------------------
+File: mov\R\iDTF_10Hz\mov_RT-Pronation_R_pro_JFXD_iDTF_10Hz.csv
+Movement: RT-Pronation_R_pro_JFXD_iDTF
+High values found (excluding diagonal elements):
+  Value: 1.262132 at position (2, 7)
+  Value: 1.437065 at position (11, 27)
+  Value: 1.220395 at position (14, 11)
+  Value: 1.365537 at position (16, 11)
+  Value: 1.205752 at position (16, 27)
+  Value: 1.263364 at position (17, 11)
+  Value: 1.030424 at position (23, 11)
+  Value: 1.186873 at position (25, 11)
+  Value: 1.039595 at position (25, 27)
+  Value: 1.732851 at position (26, 11)
+  Value: 1.548333 at position (26, 27)
+  Value: 1.860108 at position (27, 11)
+  Value: 2.221538 at position (28, 10)
+  Value: 2.498993 at position (28, 11)
+  Value: 1.133696 at position (28, 12)
+  Value: 2.218131 at position (28, 27)
+  Value: 1.018522 at position (29, 10)
+  Value: 3.405112 at position (29, 11)
+  Value: 2.617767 at position (29, 27)
+  Value: 1.002163 at position (30, 27)
+--------------------------------------------------
+File: mov\R\iDTF_10Hz\mov_RT-Pronation_R_pro_LT_iDTF_10Hz.csv
+Movement: RT-Pronation_R_pro_LT_iDTF
+High values found (excluding diagonal elements):
+  Value: 1.630909 at position (3, 7)
+  Value: 1.855601 at position (7, 3)
+  Value: 1.836169 at position (13, 3)
+  Value: 2.181160 at position (13, 7)
+  Value: 1.190080 at position (24, 3)
+  Value: 1.268596 at position (24, 7)
+--------------------------------------------------
+File: mov\R\iDTF_10Hz\mov_RT-Pronation_R_pro_RR_iDTF_10Hz.csv
+Movement: RT-Pronation_R_pro_RR_iDTF
+High values found (excluding diagonal elements):
+  Value: 1.044327 at position (6, 4)
+  Value: 1.071970 at position (11, 4)
+  Value: 1.173773 at position (13, 4)
+  Value: 1.040630 at position (27, 4)
+--------------------------------------------------
+File: mov\R\iDTF_10Hz\mov_RT-Pronation_R_pro_SJB_iDTF_10Hz.csv
+Movement: RT-Pronation_R_pro_SJB_iDTF
+High values found (excluding diagonal elements):
+  Value: 1.247402 at position (17, 6)
+--------------------------------------------------
+File: mov\R\iDTF_10Hz\mov_RT-Upright_R_anti_JFXD_iDTF_10Hz.csv
+Movement: RT-Upright_R_anti_JFXD_iDTF
+High values found (excluding diagonal elements):
+  Value: 1.609248 at position (1, 11)
+  Value: 1.224331 at position (2, 3)
+  Value: 1.087381 at position (2, 4)
+  Value: 1.477041 at position (2, 6)
+  Value: 2.119489 at position (2, 7)
+  Value: 1.354221 at position (2, 10)
+  Value: 1.116822 at position (3, 9)
+  Value: 2.406529 at position (4, 11)
+  Value: 1.467006 at position (4, 27)
+  Value: 1.143013 at position (5, 11)
+  Value: 1.265135 at position (6, 11)
+  Value: 1.025136 at position (8, 4)
+  Value: 1.000862 at position (13, 3)
+  Value: 2.022110 at position (13, 4)
+  Value: 2.520507 at position (13, 7)
+  Value: 2.945849 at position (13, 11)
+  Value: 1.549532 at position (13, 27)
+  Value: 1.422405 at position (15, 4)
+  Value: 1.149885 at position (15, 6)
+  Value: 1.107276 at position (19, 23)
+  Value: 1.182177 at position (21, 23)
+  Value: 1.051528 at position (24, 11)
+  Value: 1.883430 at position (29, 11)
+  Value: 1.237356 at position (29, 22)
+  Value: 1.504889 at position (29, 27)
+--------------------------------------------------
+File: mov\R\iDTF_10Hz\mov_RT-Upright_R_anti_LT_iDTF_10Hz.csv
+Movement: RT-Upright_R_anti_LT_iDTF
+High values found (excluding diagonal elements):
+  Value: 1.181999 at position (4, 3)
+  Value: 1.801598 at position (6, 3)
+  Value: 1.008142 at position (6, 7)
+  Value: 1.010448 at position (13, 7)
+  Value: 1.153271 at position (20, 22)
+--------------------------------------------------
+File: mov\R\iDTF_10Hz\mov_RT-Upright_R_pro_JFXD_iDTF_10Hz.csv
+Movement: RT-Upright_R_pro_JFXD_iDTF
+High values found (excluding diagonal elements):
+  Value: 1.709253 at position (1, 4)
+  Value: 1.430564 at position (1, 6)
+  Value: 1.056578 at position (1, 7)
+  Value: 1.252922 at position (2, 4)
+  Value: 1.352777 at position (2, 6)
+  Value: 1.250262 at position (2, 7)
+  Value: 2.659420 at position (8, 10)
+  Value: 1.116425 at position (12, 11)
+  Value: 1.272497 at position (13, 11)
+  Value: 2.243631 at position (15, 10)
+  Value: 1.685149 at position (17, 10)
+  Value: 1.423415 at position (21, 11)
+  Value: 1.151939 at position (21, 27)
+  Value: 1.120651 at position (28, 10)
+  Value: 1.751366 at position (28, 11)
+  Value: 1.449070 at position (28, 27)
+  Value: 1.689406 at position (29, 19)
+--------------------------------------------------
+
+Analyzing mov/R/iDTF_20Hz
+==================================================
+File: mov\R\iDTF_20Hz\mov_LT-Pronation_R_anti_JDC_iDTF_20Hz.csv
+Movement: LT-Pronation_R_anti_JDC_iDTF
+High values found (excluding diagonal elements):
+  Value: 1.064944 at position (10, 9)
+--------------------------------------------------
+File: mov\R\iDTF_20Hz\mov_LT-Pronation_R_anti_JFXD_iDTF_20Hz.csv
+Movement: LT-Pronation_R_anti_JFXD_iDTF
+High values found (excluding diagonal elements):
+  Value: 1.475614 at position (8, 11)
+  Value: 2.115813 at position (11, 6)
+  Value: 1.244770 at position (11, 27)
+  Value: 1.961067 at position (13, 3)
+  Value: 7.597034 at position (13, 4)
+  Value: 7.481242 at position (13, 6)
+  Value: 3.841086 at position (13, 7)
+  Value: 1.489480 at position (14, 4)
+  Value: 2.406870 at position (14, 6)
+  Value: 2.043560 at position (27, 6)
+  Value: 1.029799 at position (27, 11)
+  Value: 1.725717 at position (29, 6)
+  Value: 1.457598 at position (29, 11)
+  Value: 1.104084 at position (29, 27)
+--------------------------------------------------
+File: mov\R\iDTF_20Hz\mov_LT-Pronation_R_anti_LT_iDTF_20Hz.csv
+Movement: LT-Pronation_R_anti_LT_iDTF
+High values found (excluding diagonal elements):
+  Value: 1.665039 at position (21, 19)
+  Value: 1.047562 at position (22, 19)
+--------------------------------------------------
+File: mov\R\iDTF_20Hz\mov_LT-Pronation_R_pro_JFXD_iDTF_20Hz.csv
+Movement: LT-Pronation_R_pro_JFXD_iDTF
+High values found (excluding diagonal elements):
+  Value: 1.198140 at position (4, 6)
+  Value: 1.180662 at position (4, 22)
+  Value: 1.111630 at position (5, 4)
+  Value: 2.069567 at position (6, 4)
+  Value: 1.242998 at position (8, 7)
+  Value: 1.041313 at position (9, 7)
+  Value: 4.812153 at position (13, 4)
+  Value: 1.397944 at position (13, 6)
+  Value: 1.709658 at position (13, 7)
+  Value: 2.087850 at position (29, 11)
+  Value: 1.473420 at position (29, 27)
+--------------------------------------------------
+File: mov\R\iDTF_20Hz\mov_LT-Pronation_R_pro_LT_iDTF_20Hz.csv
+Movement: LT-Pronation_R_pro_LT_iDTF
+High values found (excluding diagonal elements):
+  Value: 1.258779 at position (3, 7)
+  Value: 1.697996 at position (3, 9)
+  Value: 2.052969 at position (7, 3)
+  Value: 1.740581 at position (7, 9)
+  Value: 1.709764 at position (9, 3)
+  Value: 1.155383 at position (9, 7)
+--------------------------------------------------
+File: mov\R\iDTF_20Hz\mov_RT-Down_R_anti_DOC_iDTF_20Hz.csv
+Movement: RT-Down_R_anti_DOC_iDTF
+High values found (excluding diagonal elements):
+  Value: 2.194794 at position (16, 22)
+  Value: 1.004746 at position (18, 22)
+--------------------------------------------------
+File: mov\R\iDTF_20Hz\mov_RT-Down_R_anti_JFXD_iDTF_20Hz.csv
+Movement: RT-Down_R_anti_JFXD_iDTF
+High values found (excluding diagonal elements):
+  Value: 1.123007 at position (4, 7)
+  Value: 1.699905 at position (5, 4)
+  Value: 1.689662 at position (5, 6)
+  Value: 1.020094 at position (5, 7)
+  Value: 1.699655 at position (5, 22)
+  Value: 1.704695 at position (6, 4)
+  Value: 1.390730 at position (6, 22)
+  Value: 1.877081 at position (8, 6)
+  Value: 1.305931 at position (8, 22)
+  Value: 1.297231 at position (8, 31)
+  Value: 2.043107 at position (13, 4)
+  Value: 1.648501 at position (13, 6)
+  Value: 2.228918 at position (13, 10)
+  Value: 1.539104 at position (13, 22)
+  Value: 1.206367 at position (14, 3)
+  Value: 3.078034 at position (14, 10)
+  Value: 1.143770 at position (14, 12)
+  Value: 1.084336 at position (15, 6)
+  Value: 1.237521 at position (15, 22)
+  Value: 1.304811 at position (19, 11)
+  Value: 1.304429 at position (19, 27)
+  Value: 1.122697 at position (21, 23)
+  Value: 1.123264 at position (22, 23)
+  Value: 1.162869 at position (23, 11)
+  Value: 1.132878 at position (23, 27)
+  Value: 1.258166 at position (25, 3)
+  Value: 1.945123 at position (25, 4)
+  Value: 1.870836 at position (25, 6)
+  Value: 1.582881 at position (25, 7)
+  Value: 1.731749 at position (25, 10)
+  Value: 1.315718 at position (25, 11)
+  Value: 1.243065 at position (25, 27)
+  Value: 1.489686 at position (26, 3)
+  Value: 2.573732 at position (26, 4)
+  Value: 2.417796 at position (26, 6)
+  Value: 1.908097 at position (26, 7)
+  Value: 2.841752 at position (26, 10)
+  Value: 2.050464 at position (26, 11)
+  Value: 1.337916 at position (26, 12)
+  Value: 1.924231 at position (26, 27)
+  Value: 1.063083 at position (27, 6)
+  Value: 1.161916 at position (27, 10)
+  Value: 1.285880 at position (28, 3)
+  Value: 3.737790 at position (28, 4)
+  Value: 3.316712 at position (28, 6)
+  Value: 2.306486 at position (28, 7)
+  Value: 3.110529 at position (28, 10)
+  Value: 1.484410 at position (28, 11)
+  Value: 1.249418 at position (28, 12)
+  Value: 1.381373 at position (28, 27)
+  Value: 1.186823 at position (29, 6)
+  Value: 1.535713 at position (30, 3)
+  Value: 1.996702 at position (30, 4)
+  Value: 2.514276 at position (30, 6)
+  Value: 1.750146 at position (30, 7)
+  Value: 2.924859 at position (30, 10)
+--------------------------------------------------
+File: mov\R\iDTF_20Hz\mov_RT-Down_R_pro_JFXD_iDTF_20Hz.csv
+Movement: RT-Down_R_pro_JFXD_iDTF
+High values found (excluding diagonal elements):
+  Value: 3.406918 at position (0, 4)
+  Value: 5.172077 at position (0, 6)
+  Value: 2.858917 at position (0, 7)
+  Value: 1.663977 at position (1, 6)
+  Value: 1.102157 at position (1, 10)
+  Value: 1.265638 at position (2, 4)
+  Value: 1.942912 at position (2, 6)
+  Value: 1.006523 at position (2, 7)
+  Value: 1.084852 at position (2, 22)
+  Value: 1.418815 at position (3, 4)
+  Value: 1.449786 at position (3, 6)
+  Value: 1.534879 at position (3, 7)
+  Value: 1.387131 at position (4, 6)
+  Value: 1.012856 at position (5, 6)
+  Value: 1.971287 at position (7, 4)
+  Value: 2.185794 at position (7, 6)
+  Value: 1.682964 at position (9, 4)
+  Value: 1.618372 at position (9, 6)
+  Value: 1.754662 at position (9, 7)
+  Value: 1.295325 at position (13, 8)
+  Value: 1.189853 at position (13, 20)
+  Value: 2.144317 at position (13, 22)
+  Value: 1.935367 at position (14, 3)
+  Value: 2.837357 at position (14, 4)
+  Value: 3.390710 at position (14, 6)
+  Value: 2.354942 at position (14, 7)
+  Value: 1.641281 at position (14, 10)
+  Value: 1.133538 at position (16, 22)
+  Value: 1.854354 at position (17, 6)
+  Value: 2.365560 at position (19, 11)
+  Value: 1.656399 at position (19, 27)
+  Value: 1.553203 at position (20, 11)
+  Value: 1.242676 at position (20, 27)
+  Value: 3.364785 at position (23, 11)
+  Value: 2.663988 at position (23, 27)
+  Value: 1.740810 at position (24, 4)
+  Value: 2.623121 at position (24, 6)
+  Value: 1.582431 at position (25, 11)
+  Value: 1.060317 at position (25, 27)
+  Value: 1.870600 at position (26, 11)
+  Value: 1.550484 at position (26, 27)
+  Value: 1.284753 at position (28, 10)
+  Value: 3.020214 at position (28, 11)
+  Value: 1.067140 at position (28, 12)
+  Value: 2.810930 at position (28, 27)
+  Value: 1.017261 at position (29, 4)
+  Value: 1.189634 at position (29, 6)
+  Value: 1.361847 at position (31, 4)
+  Value: 1.759383 at position (31, 6)
+  Value: 1.180935 at position (31, 24)
+--------------------------------------------------
+File: mov\R\iDTF_20Hz\mov_RT-Down_R_pro_JZ_iDTF_20Hz.csv
+Movement: RT-Down_R_pro_JZ_iDTF
+High values found (excluding diagonal elements):
+  Value: 1.056639 at position (9, 4)
+--------------------------------------------------
+File: mov\R\iDTF_20Hz\mov_RT-Down_R_pro_SJB_iDTF_20Hz.csv
+Movement: RT-Down_R_pro_SJB_iDTF
+High values found (excluding diagonal elements):
+  Value: 1.427046 at position (1, 7)
+  Value: 1.557370 at position (5, 3)
+--------------------------------------------------
+File: mov\R\iDTF_20Hz\mov_RT-Pronation_R_anti_JDC_iDTF_20Hz.csv
+Movement: RT-Pronation_R_anti_JDC_iDTF
+High values found (excluding diagonal elements):
+  Value: 1.056934 at position (8, 22)
+  Value: 1.079315 at position (16, 22)
+  Value: 1.043303 at position (20, 23)
+--------------------------------------------------
+File: mov\R\iDTF_20Hz\mov_RT-Pronation_R_anti_JFXD_iDTF_20Hz.csv
+Movement: RT-Pronation_R_anti_JFXD_iDTF
+High values found (excluding diagonal elements):
+  Value: 1.214664 at position (13, 3)
+  Value: 1.296107 at position (13, 4)
+  Value: 1.906879 at position (13, 7)
+  Value: 3.671814 at position (13, 11)
+  Value: 2.609128 at position (13, 27)
+  Value: 1.160442 at position (15, 4)
+  Value: 1.035615 at position (15, 10)
+  Value: 1.009187 at position (23, 27)
+  Value: 2.050847 at position (26, 11)
+  Value: 2.272747 at position (26, 27)
+  Value: 1.112259 at position (27, 11)
+  Value: 3.338139 at position (28, 11)
+  Value: 3.741340 at position (28, 27)
+--------------------------------------------------
+File: mov\R\iDTF_20Hz\mov_RT-Pronation_R_anti_LT_iDTF_20Hz.csv
+Movement: RT-Pronation_R_anti_LT_iDTF
+High values found (excluding diagonal elements):
+  Value: 1.483543 at position (3, 7)
+  Value: 1.122416 at position (9, 7)
+  Value: 1.462552 at position (13, 7)
+--------------------------------------------------
+File: mov\R\iDTF_20Hz\mov_RT-Pronation_R_anti_RR_iDTF_20Hz.csv
+Movement: RT-Pronation_R_anti_RR_iDTF
+High values found (excluding diagonal elements):
+  Value: 1.285648 at position (8, 6)
+--------------------------------------------------
+File: mov\R\iDTF_20Hz\mov_RT-Pronation_R_pro_JDC_iDTF_20Hz.csv
+Movement: RT-Pronation_R_pro_JDC_iDTF
+High values found (excluding diagonal elements):
+  Value: 1.007471 at position (10, 9)
+--------------------------------------------------
+File: mov\R\iDTF_20Hz\mov_RT-Pronation_R_pro_JFXD_iDTF_20Hz.csv
+Movement: RT-Pronation_R_pro_JFXD_iDTF
+High values found (excluding diagonal elements):
+  Value: 1.149872 at position (2, 7)
+  Value: 1.104553 at position (18, 11)
+  Value: 2.523217 at position (19, 11)
+  Value: 2.042866 at position (19, 27)
+  Value: 2.252076 at position (23, 11)
+  Value: 2.005033 at position (23, 27)
+  Value: 3.728196 at position (25, 11)
+  Value: 3.075330 at position (25, 27)
+  Value: 4.519925 at position (26, 11)
+  Value: 4.010256 at position (26, 27)
+  Value: 1.063448 at position (28, 10)
+  Value: 5.461528 at position (28, 11)
+  Value: 1.003696 at position (28, 12)
+  Value: 4.918052 at position (28, 27)
+  Value: 1.226782 at position (29, 11)
+  Value: 1.085368 at position (29, 19)
+  Value: 1.034061 at position (30, 27)
+--------------------------------------------------
+File: mov\R\iDTF_20Hz\mov_RT-Pronation_R_pro_LT_iDTF_20Hz.csv
+Movement: RT-Pronation_R_pro_LT_iDTF
+High values found (excluding diagonal elements):
+  Value: 1.321724 at position (3, 7)
+  Value: 1.146158 at position (9, 7)
+  Value: 1.321125 at position (13, 3)
+  Value: 1.697254 at position (13, 7)
+--------------------------------------------------
+File: mov\R\iDTF_20Hz\mov_RT-Pronation_R_pro_RR_iDTF_20Hz.csv
+Movement: RT-Pronation_R_pro_RR_iDTF
+High values found (excluding diagonal elements):
+  Value: 1.046712 at position (4, 6)
+  Value: 1.499902 at position (6, 4)
+--------------------------------------------------
+File: mov\R\iDTF_20Hz\mov_RT-Upright_R_anti_JDC_iDTF_20Hz.csv
+Movement: RT-Upright_R_anti_JDC_iDTF
+High values found (excluding diagonal elements):
+  Value: 1.084307 at position (20, 23)
+--------------------------------------------------
+File: mov\R\iDTF_20Hz\mov_RT-Upright_R_anti_JFXD_iDTF_20Hz.csv
+Movement: RT-Upright_R_anti_JFXD_iDTF
+High values found (excluding diagonal elements):
+  Value: 1.120554 at position (1, 11)
+  Value: 1.146445 at position (2, 7)
+  Value: 1.016065 at position (3, 9)
+  Value: 1.013920 at position (3, 10)
+  Value: 1.678762 at position (4, 11)
+  Value: 1.046258 at position (4, 27)
+  Value: 1.176798 at position (5, 11)
+  Value: 1.299104 at position (6, 11)
+  Value: 1.166066 at position (13, 3)
+  Value: 1.829889 at position (13, 4)
+  Value: 2.464458 at position (13, 7)
+  Value: 1.631787 at position (13, 10)
+  Value: 3.897655 at position (13, 11)
+  Value: 1.122628 at position (13, 12)
+  Value: 2.214279 at position (13, 27)
+  Value: 1.057127 at position (19, 22)
+  Value: 1.201555 at position (19, 23)
+  Value: 1.413684 at position (20, 11)
+  Value: 1.100760 at position (20, 27)
+  Value: 1.245283 at position (21, 23)
+  Value: 1.092743 at position (22, 23)
+  Value: 1.117928 at position (23, 11)
+  Value: 1.060436 at position (24, 11)
+  Value: 1.227105 at position (27, 11)
+  Value: 2.059592 at position (28, 11)
+  Value: 1.556480 at position (28, 27)
+  Value: 2.708073 at position (29, 11)
+  Value: 1.713335 at position (29, 22)
+  Value: 1.296723 at position (29, 23)
+  Value: 1.985204 at position (29, 27)
+--------------------------------------------------
+File: mov\R\iDTF_20Hz\mov_RT-Upright_R_anti_LT_iDTF_20Hz.csv
+Movement: RT-Upright_R_anti_LT_iDTF
+High values found (excluding diagonal elements):
+  Value: 1.496313 at position (4, 3)
+  Value: 1.159194 at position (4, 7)
+  Value: 1.996103 at position (6, 3)
+  Value: 1.235905 at position (6, 7)
+  Value: 1.557405 at position (20, 22)
+--------------------------------------------------
+File: mov\R\iDTF_20Hz\mov_RT-Upright_R_pro_JDC_iDTF_20Hz.csv
+Movement: RT-Upright_R_pro_JDC_iDTF
+High values found (excluding diagonal elements):
+  Value: 1.006187 at position (24, 4)
+--------------------------------------------------
+File: mov\R\iDTF_20Hz\mov_RT-Upright_R_pro_JFXD_iDTF_20Hz.csv
+Movement: RT-Upright_R_pro_JFXD_iDTF
+High values found (excluding diagonal elements):
+  Value: 1.341651 at position (1, 4)
+  Value: 2.379638 at position (8, 10)
+  Value: 1.385205 at position (12, 10)
+  Value: 1.638510 at position (12, 11)
+  Value: 1.271635 at position (12, 27)
+  Value: 1.129933 at position (13, 4)
+  Value: 1.053232 at position (14, 10)
+  Value: 1.992332 at position (15, 10)
+  Value: 1.592671 at position (21, 11)
+  Value: 1.044102 at position (21, 23)
+  Value: 1.329452 at position (21, 27)
+  Value: 1.105510 at position (22, 23)
+  Value: 2.416056 at position (26, 11)
+  Value: 1.936207 at position (26, 27)
+  Value: 1.667119 at position (28, 10)
+  Value: 4.285576 at position (28, 11)
+  Value: 1.054879 at position (28, 12)
+  Value: 3.431497 at position (28, 27)
+  Value: 2.154168 at position (29, 19)
+  Value: 1.325138 at position (29, 23)
+--------------------------------------------------
+File: mov\R\iDTF_20Hz\mov_RT-Upright_R_pro_LT_iDTF_20Hz.csv
+Movement: RT-Upright_R_pro_LT_iDTF
+High values found (excluding diagonal elements):
+  Value: 1.016604 at position (9, 3)
+  Value: 1.156078 at position (9, 7)
+  Value: 1.569360 at position (11, 3)
+  Value: 1.204298 at position (11, 7)
+  Value: 1.039930 at position (27, 3)
+--------------------------------------------------
+
+Analyzing mov/R/iPDC_100Hz
+==================================================
+
+Analyzing mov/R/iPDC_10Hz
+==================================================
+
+Analyzing mov/R/iPDC_20Hz
+==================================================
+
+Analysis Summary
+===============
+Total number of values >= 1 found: 3029
+
+Analysis completed at: 2025-02-04 15:19:26

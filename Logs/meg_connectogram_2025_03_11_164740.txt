@@ -1,0 +1,79 @@
+MEG Circular Connectogram Visualization
+=====================================
+Selected dataset: DataSet5_Align_cue_626_to_938_unc
+Analysis type: Wilcoxon
+Selected analysis folder: Wilcoxon_03102025-1305
+Process started at: 2025-03-11 16:47:40
+---------------------
+
+Processing all folders in Wilcoxon_03102025-1305...
+Processing Cue_gDTF_100Hz...
+Matrix shape: (31, 31)
+Matrix columns: ['0.0.1', '0.0.2', '0.0.3', '0.0.4', '0.0.5', '0.0.6', '0.0.7', '0.0.8', '0.0.9', '0.0.10', '0.0.11', '0.0.12', '0.0.13', '0.0.14', '0.0.15', '0.0.16', '0.0.17', '0.0.18', '0.0.19', '0.0.20', '0.0.21', '0.0.22', '0.0.23', '0.0.24', '0.0.25', '0.0.26', '0.0.27', '0.0.28', '0.0.29', '0.0.30', '0.0.31']
+Matrix indices: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, -0.0011740207651821, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+Created connectogram for gDTF_100Hz in Cue_gDTF_100Hz
+Saved PNG: Data\DataSet5_Align_cue_626_to_938_unc\Wilcoxon_03102025-1305\Cue_gDTF_100Hz\gDTF_100Hz_L-R_wilcoxon_circular_connectogram_20250311-1647.png
+Saved SVG: Data\DataSet5_Align_cue_626_to_938_unc\Wilcoxon_03102025-1305\Cue_gDTF_100Hz\gDTF_100Hz_L-R_wilcoxon_circular_connectogram_20250311-1647.svg
+Processing Cue_gDTF_10Hz...
+Matrix shape: (31, 31)
+Matrix columns: ['0.0.1', '0.0.2', '0.0.3', '0.0.4', '0.0.5', '0.0.6', '0.0.7', '0.0.8', '0.0.9', '0.0.10', '0.0.11', '0.0.12', '0.0.13', '0.0.14', '0.0.15', '0.0.16', '0.0.17', '0.0.18', '0.0.19', '0.0.20', '0.0.21', '0.0.22', '0.0.23', '0.0.24', '0.0.25', '0.0.26', '0.0.27', '0.0.28', '0.0009998228891697', '0.0031322680324312', '0.0.29']
+Matrix indices: [0.0, 0.0, -0.0009508260393245, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, -0.0026860450001123, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, -0.0009441774350091, -0.0009371838076644, -0.0012783501522545, 0.0, 0.0, -0.0007878854651283, 0.0]
+Created connectogram for gDTF_10Hz in Cue_gDTF_10Hz
+Saved PNG: Data\DataSet5_Align_cue_626_to_938_unc\Wilcoxon_03102025-1305\Cue_gDTF_10Hz\gDTF_10Hz_L-R_wilcoxon_circular_connectogram_20250311-1647.png
+Saved SVG: Data\DataSet5_Align_cue_626_to_938_unc\Wilcoxon_03102025-1305\Cue_gDTF_10Hz\gDTF_10Hz_L-R_wilcoxon_circular_connectogram_20250311-1647.svg
+Processing Cue_gDTF_20Hz...
+Matrix shape: (31, 31)
+Matrix columns: ['0.0044133988251191', '0.0.1', '0.0.2', '0.0.3', '0.0.4', '0.0.5', '0.0.6', '0.0.7', '0.0.8', '0.0.9', '0.0.10', '0.0.11', '0.0.12', '0.0.13', '0.0.14', '0.0.15', '0.0.16', '0.0.17', '0.0.18', '0.0.19', '0.0.20', '0.0.21', '0.0.22', '0.0.23', '0.0.24', '0.0.25', '0.0.26', '0.0.27', '0.0.28', '0.0.29', '0.0.30']
+Matrix indices: [0.0, 0.0, 0.0, -0.000917924545864, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+Created connectogram for gDTF_20Hz in Cue_gDTF_20Hz
+Saved PNG: Data\DataSet5_Align_cue_626_to_938_unc\Wilcoxon_03102025-1305\Cue_gDTF_20Hz\gDTF_20Hz_L-R_wilcoxon_circular_connectogram_20250311-1647.png
+Saved SVG: Data\DataSet5_Align_cue_626_to_938_unc\Wilcoxon_03102025-1305\Cue_gDTF_20Hz\gDTF_20Hz_L-R_wilcoxon_circular_connectogram_20250311-1647.svg
+Processing Cue_gPDC_100Hz...
+Matrix shape: (31, 31)
+Matrix columns: ['0.0.1', '0.0.2', '0.0.3', '0.0.4', '0.0.5', '0.0.6', '0.0.7', '0.0.8', '0.0.9', '0.0.10', '0.0.11', '0.0.12', '0.0.13', '0.0.14', '0.0.15', '0.0.16', '0.0.17', '0.0.18', '0.0.19', '0.0.20', '0.0.21', '0.0.22', '0.0.23', '0.0.24', '0.0.25', '0.0.26', '0.0.27', '0.0.28', '0.0.29', '0.0.30', '0.0.31']
+Matrix indices: [0.0021729213379447, 0.0, 0.0, 0.0, 0.0, 0.0011218338169594, 0.0, 0.0, 0.0, 0.0, 0.0, -0.0018546624986687, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+Created connectogram for gPDC_100Hz in Cue_gPDC_100Hz
+Saved PNG: Data\DataSet5_Align_cue_626_to_938_unc\Wilcoxon_03102025-1305\Cue_gPDC_100Hz\gPDC_100Hz_L-R_wilcoxon_circular_connectogram_20250311-1647.png
+Saved SVG: Data\DataSet5_Align_cue_626_to_938_unc\Wilcoxon_03102025-1305\Cue_gPDC_100Hz\gPDC_100Hz_L-R_wilcoxon_circular_connectogram_20250311-1647.svg
+Processing Cue_gPDC_10Hz...
+Matrix shape: (31, 31)
+Matrix columns: ['0.0.1', '0.0.2', '0.0.3', '0.0.4', '0.0.5', '0.0.6', '-0.0087440494033913', '0.0.7', '0.0.8', '0.0.9', '0.0.10', '0.0.11', '0.0.12', '0.0.13', '0.0.14', '0.0.15', '0.0.16', '0.0.17', '0.0.18', '0.0.19', '0.0.20', '0.0.21', '0.0.22', '0.0.23', '0.0.24', '0.0.25', '0.0.26', '0.0.27', '0.0010033090748142', '0.0.28', '0.0.29']
+Matrix indices: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, -0.0020287856865031, 0.0, 0.0, 0.0, -0.0023167538156459, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, -0.0032245312778025, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, -0.0022648396711759, 0.0, 0.0, 0.0, 0.0]
+Created connectogram for gPDC_10Hz in Cue_gPDC_10Hz
+Saved PNG: Data\DataSet5_Align_cue_626_to_938_unc\Wilcoxon_03102025-1305\Cue_gPDC_10Hz\gPDC_10Hz_L-R_wilcoxon_circular_connectogram_20250311-1647.png
+Saved SVG: Data\DataSet5_Align_cue_626_to_938_unc\Wilcoxon_03102025-1305\Cue_gPDC_10Hz\gPDC_10Hz_L-R_wilcoxon_circular_connectogram_20250311-1647.svg
+Processing Cue_gPDC_20Hz...
+Matrix shape: (31, 31)
+Matrix columns: ['0.0.1', '0.0.2', '0.0.3', '-0.0069155567312259', '0.0.4', '0.0.5', '0.0.6', '0.0.7', '0.0.8', '-0.0018621906329486', '0.0.9', '-0.0016486283392579', '0.0.10', '0.0.11', '0.0.12', '0.0.13', '0.0.14', '0.0.15', '0.0.16', '0.0.17', '0.0.18', '0.0.19', '0.0.20', '0.0.21', '0.0.22', '0.0.23', '0.0.24', '0.0.25', '0.0.26', '0.0.27', '0.0.28']
+Matrix indices: [0.0, 0.0, 0.0, -0.0017820993692522, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, -0.0027891537084719, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, -0.0030039513768824, 0.0, 0.0, -0.001304247473611, 0.0, 0.0, 0.0, 0.0]
+Created connectogram for gPDC_20Hz in Cue_gPDC_20Hz
+Saved PNG: Data\DataSet5_Align_cue_626_to_938_unc\Wilcoxon_03102025-1305\Cue_gPDC_20Hz\gPDC_20Hz_L-R_wilcoxon_circular_connectogram_20250311-1647.png
+Saved SVG: Data\DataSet5_Align_cue_626_to_938_unc\Wilcoxon_03102025-1305\Cue_gPDC_20Hz\gPDC_20Hz_L-R_wilcoxon_circular_connectogram_20250311-1647.svg
+Processing Cue_iPDC_100Hz...
+Matrix shape: (31, 31)
+Matrix columns: ['0.0.1', '0.0.2', '0.0.3', '0.0.4', '0.0.5', '0.0.6', '0.0.7', '0.0.8', '0.0.9', '0.0.10', '0.0.11', '0.0.12', '0.0.13', '0.0.14', '0.0.15', '0.0.16', '0.0.17', '0.0.18', '0.0.19', '0.0.20', '0.0.21', '0.0.22', '0.0.23', '0.0.24', '0.0.25', '0.0.26', '0.0.27', '0.0.28', '0.0.29', '0.0.30', '0.0.31']
+Matrix indices: [0.0014294121355249, 0.0, 0.0, 0.0, 0.0008411118965931, 0.0007775348906363, 0.0, 0.0, 0.0, 0.0, 0.0, -0.0008408565086681, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0008376150982836, 0.0]
+Created connectogram for iPDC_100Hz in Cue_iPDC_100Hz
+Saved PNG: Data\DataSet5_Align_cue_626_to_938_unc\Wilcoxon_03102025-1305\Cue_iPDC_100Hz\iPDC_100Hz_L-R_wilcoxon_circular_connectogram_20250311-1647.png
+Saved SVG: Data\DataSet5_Align_cue_626_to_938_unc\Wilcoxon_03102025-1305\Cue_iPDC_100Hz\iPDC_100Hz_L-R_wilcoxon_circular_connectogram_20250311-1647.svg
+Processing Cue_iPDC_10Hz...
+Matrix shape: (31, 31)
+Matrix columns: ['0.0.1', '0.0.2', '0.0.3', '0.0.4', '0.0.5', '0.0.6', '0.0.7', '0.0.8', '0.0.9', '0.0.10', '0.0.11', '0.0.12', '0.0.13', '0.0.14', '0.0.15', '0.0.16', '0.0.17', '0.0.18', '0.0.19', '0.0.20', '0.0.21', '0.0.22', '0.0.23', '0.0.24', '0.0.25', '0.0.26', '0.0.27', '0.0.28', '0.0006301831503985', '0.0.29', '0.0.30']
+Matrix indices: [0.0, 0.0, -0.0008687449064592, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, -0.0013413292172575, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+Created connectogram for iPDC_10Hz in Cue_iPDC_10Hz
+Saved PNG: Data\DataSet5_Align_cue_626_to_938_unc\Wilcoxon_03102025-1305\Cue_iPDC_10Hz\iPDC_10Hz_L-R_wilcoxon_circular_connectogram_20250311-1647.png
+Saved SVG: Data\DataSet5_Align_cue_626_to_938_unc\Wilcoxon_03102025-1305\Cue_iPDC_10Hz\iPDC_10Hz_L-R_wilcoxon_circular_connectogram_20250311-1647.svg
+Processing Cue_iPDC_20Hz...
+Matrix shape: (31, 31)
+Matrix columns: ['0.0.1', '0.0.2', '0.0.3', '0.0.4', '0.0.5', '0.0.6', '0.0.7', '0.0.8', '0.0.9', '-0.0003897034070008', '0.0.10', '-0.0003472089240339', '0.0.11', '0.0.12', '0.0.13', '0.0.14', '0.0.15', '0.0.16', '0.0.17', '0.0.18', '0.0.19', '0.0.20', '0.0.21', '0.0.22', '0.0.23', '0.0.24', '0.0.25', '0.0.26', '0.0.27', '0.0.28', '0.0.29']
+Matrix indices: [0.0, 0.0, 0.0, -0.0007239441136372, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, -0.0004242170480047, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, -0.0016724089670819, 0.0, 0.0, -0.0004784878761795, 0.0, 0.0, 0.0, 0.0]
+Created connectogram for iPDC_20Hz in Cue_iPDC_20Hz
+Saved PNG: Data\DataSet5_Align_cue_626_to_938_unc\Wilcoxon_03102025-1305\Cue_iPDC_20Hz\iPDC_20Hz_L-R_wilcoxon_circular_connectogram_20250311-1647.png
+Saved SVG: Data\DataSet5_Align_cue_626_to_938_unc\Wilcoxon_03102025-1305\Cue_iPDC_20Hz\iPDC_20Hz_L-R_wilcoxon_circular_connectogram_20250311-1647.svg
+
+---------------------
+Processing complete!
+Folders processed: 9
+Visualizations created: 9
+Errors encountered: 0
+Process completed at: 2025-03-11 16:47:48

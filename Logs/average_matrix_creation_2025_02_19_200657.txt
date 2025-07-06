@@ -1,0 +1,1344 @@
+MEG Signal Analysis - Enhanced Average Matrix Creation
+==================================================
+Selected dataset: DataSet8_MEG_20250130_group_project_cat
+Excluding iDTF: True
+Process started at: 2025-02-19 20:06:57
+--------------------------------------------------
+
+Processing dataset...
+
+Processing alignment: cue
+Processing target: L
+Found method_freq directory: Data\DataSet8_MEG_20250130_group_project_cat\cue\L\gDTF_100Hz
+Found method_freq directory: Data\DataSet8_MEG_20250130_group_project_cat\cue\L\gDTF_10Hz
+Found method_freq directory: Data\DataSet8_MEG_20250130_group_project_cat\cue\L\gDTF_20Hz
+Found method_freq directory: Data\DataSet8_MEG_20250130_group_project_cat\cue\L\gPDC_100Hz
+Found method_freq directory: Data\DataSet8_MEG_20250130_group_project_cat\cue\L\gPDC_10Hz
+Found method_freq directory: Data\DataSet8_MEG_20250130_group_project_cat\cue\L\gPDC_20Hz
+Found method_freq directory: Data\DataSet8_MEG_20250130_group_project_cat\cue\L\iDTF_100Hz
+Found method_freq directory: Data\DataSet8_MEG_20250130_group_project_cat\cue\L\iDTF_10Hz
+Found method_freq directory: Data\DataSet8_MEG_20250130_group_project_cat\cue\L\iDTF_20Hz
+Found method_freq directory: Data\DataSet8_MEG_20250130_group_project_cat\cue\L\iPDC_100Hz
+Found method_freq directory: Data\DataSet8_MEG_20250130_group_project_cat\cue\L\iPDC_10Hz
+Found method_freq directory: Data\DataSet8_MEG_20250130_group_project_cat\cue\L\iPDC_20Hz
+Processing target: R
+Found method_freq directory: Data\DataSet8_MEG_20250130_group_project_cat\cue\R\gDTF_100Hz
+Found method_freq directory: Data\DataSet8_MEG_20250130_group_project_cat\cue\R\gDTF_10Hz
+Found method_freq directory: Data\DataSet8_MEG_20250130_group_project_cat\cue\R\gDTF_20Hz
+Found method_freq directory: Data\DataSet8_MEG_20250130_group_project_cat\cue\R\gPDC_100Hz
+Found method_freq directory: Data\DataSet8_MEG_20250130_group_project_cat\cue\R\gPDC_10Hz
+Found method_freq directory: Data\DataSet8_MEG_20250130_group_project_cat\cue\R\gPDC_20Hz
+Found method_freq directory: Data\DataSet8_MEG_20250130_group_project_cat\cue\R\iDTF_100Hz
+Found method_freq directory: Data\DataSet8_MEG_20250130_group_project_cat\cue\R\iDTF_10Hz
+Found method_freq directory: Data\DataSet8_MEG_20250130_group_project_cat\cue\R\iDTF_20Hz
+Found method_freq directory: Data\DataSet8_MEG_20250130_group_project_cat\cue\R\iPDC_100Hz
+Found method_freq directory: Data\DataSet8_MEG_20250130_group_project_cat\cue\R\iPDC_10Hz
+Found method_freq directory: Data\DataSet8_MEG_20250130_group_project_cat\cue\R\iPDC_20Hz
+
+Processing L gDTF_100Hz
+Looking for files in: Data\DataSet8_MEG_20250130_group_project_cat\cue\L\gDTF_100Hz
+Found 0 files
+No matrices found for L gDTF_100Hz
+
+Processing subject: BG
+No matrices found for subject BG
+
+Processing subject: DOC
+No matrices found for subject DOC
+
+Processing subject: GB
+No matrices found for subject GB
+
+Processing subject: JDC
+No matrices found for subject JDC
+
+Processing subject: JFXD
+No matrices found for subject JFXD
+
+Processing subject: JZ
+No matrices found for subject JZ
+
+Processing subject: LT
+No matrices found for subject LT
+
+Processing subject: NvA
+No matrices found for subject NvA
+
+Processing subject: RR
+No matrices found for subject RR
+
+Processing subject: SJB
+No matrices found for subject SJB
+
+Processing L gDTF_10Hz
+Looking for files in: Data\DataSet8_MEG_20250130_group_project_cat\cue\L\gDTF_10Hz
+Found 0 files
+No matrices found for L gDTF_10Hz
+
+Processing subject: BG
+No matrices found for subject BG
+
+Processing subject: DOC
+No matrices found for subject DOC
+
+Processing subject: GB
+No matrices found for subject GB
+
+Processing subject: JDC
+No matrices found for subject JDC
+
+Processing subject: JFXD
+No matrices found for subject JFXD
+
+Processing subject: JZ
+No matrices found for subject JZ
+
+Processing subject: LT
+No matrices found for subject LT
+
+Processing subject: NvA
+No matrices found for subject NvA
+
+Processing subject: RR
+No matrices found for subject RR
+
+Processing subject: SJB
+No matrices found for subject SJB
+
+Processing L gDTF_20Hz
+Looking for files in: Data\DataSet8_MEG_20250130_group_project_cat\cue\L\gDTF_20Hz
+Found 0 files
+No matrices found for L gDTF_20Hz
+
+Processing subject: BG
+No matrices found for subject BG
+
+Processing subject: DOC
+No matrices found for subject DOC
+
+Processing subject: GB
+No matrices found for subject GB
+
+Processing subject: JDC
+No matrices found for subject JDC
+
+Processing subject: JFXD
+No matrices found for subject JFXD
+
+Processing subject: JZ
+No matrices found for subject JZ
+
+Processing subject: LT
+No matrices found for subject LT
+
+Processing subject: NvA
+No matrices found for subject NvA
+
+Processing subject: RR
+No matrices found for subject RR
+
+Processing subject: SJB
+No matrices found for subject SJB
+
+Processing L gPDC_100Hz
+Looking for files in: Data\DataSet8_MEG_20250130_group_project_cat\cue\L\gPDC_100Hz
+Found 0 files
+No matrices found for L gPDC_100Hz
+
+Processing subject: BG
+No matrices found for subject BG
+
+Processing subject: DOC
+No matrices found for subject DOC
+
+Processing subject: GB
+No matrices found for subject GB
+
+Processing subject: JDC
+No matrices found for subject JDC
+
+Processing subject: JFXD
+No matrices found for subject JFXD
+
+Processing subject: JZ
+No matrices found for subject JZ
+
+Processing subject: LT
+No matrices found for subject LT
+
+Processing subject: NvA
+No matrices found for subject NvA
+
+Processing subject: RR
+No matrices found for subject RR
+
+Processing subject: SJB
+No matrices found for subject SJB
+
+Processing L gPDC_10Hz
+Looking for files in: Data\DataSet8_MEG_20250130_group_project_cat\cue\L\gPDC_10Hz
+Found 0 files
+No matrices found for L gPDC_10Hz
+
+Processing subject: BG
+No matrices found for subject BG
+
+Processing subject: DOC
+No matrices found for subject DOC
+
+Processing subject: GB
+No matrices found for subject GB
+
+Processing subject: JDC
+No matrices found for subject JDC
+
+Processing subject: JFXD
+No matrices found for subject JFXD
+
+Processing subject: JZ
+No matrices found for subject JZ
+
+Processing subject: LT
+No matrices found for subject LT
+
+Processing subject: NvA
+No matrices found for subject NvA
+
+Processing subject: RR
+No matrices found for subject RR
+
+Processing subject: SJB
+No matrices found for subject SJB
+
+Processing L gPDC_20Hz
+Looking for files in: Data\DataSet8_MEG_20250130_group_project_cat\cue\L\gPDC_20Hz
+Found 0 files
+No matrices found for L gPDC_20Hz
+
+Processing subject: BG
+No matrices found for subject BG
+
+Processing subject: DOC
+No matrices found for subject DOC
+
+Processing subject: GB
+No matrices found for subject GB
+
+Processing subject: JDC
+No matrices found for subject JDC
+
+Processing subject: JFXD
+No matrices found for subject JFXD
+
+Processing subject: JZ
+No matrices found for subject JZ
+
+Processing subject: LT
+No matrices found for subject LT
+
+Processing subject: NvA
+No matrices found for subject NvA
+
+Processing subject: RR
+No matrices found for subject RR
+
+Processing subject: SJB
+No matrices found for subject SJB
+Skipping iDTF method as requested
+Skipping iDTF method as requested
+Skipping iDTF method as requested
+
+Processing L iPDC_100Hz
+Looking for files in: Data\DataSet8_MEG_20250130_group_project_cat\cue\L\iPDC_100Hz
+Found 0 files
+No matrices found for L iPDC_100Hz
+
+Processing subject: BG
+No matrices found for subject BG
+
+Processing subject: DOC
+No matrices found for subject DOC
+
+Processing subject: GB
+No matrices found for subject GB
+
+Processing subject: JDC
+No matrices found for subject JDC
+
+Processing subject: JFXD
+No matrices found for subject JFXD
+
+Processing subject: JZ
+No matrices found for subject JZ
+
+Processing subject: LT
+No matrices found for subject LT
+
+Processing subject: NvA
+No matrices found for subject NvA
+
+Processing subject: RR
+No matrices found for subject RR
+
+Processing subject: SJB
+No matrices found for subject SJB
+
+Processing L iPDC_10Hz
+Looking for files in: Data\DataSet8_MEG_20250130_group_project_cat\cue\L\iPDC_10Hz
+Found 0 files
+No matrices found for L iPDC_10Hz
+
+Processing subject: BG
+No matrices found for subject BG
+
+Processing subject: DOC
+No matrices found for subject DOC
+
+Processing subject: GB
+No matrices found for subject GB
+
+Processing subject: JDC
+No matrices found for subject JDC
+
+Processing subject: JFXD
+No matrices found for subject JFXD
+
+Processing subject: JZ
+No matrices found for subject JZ
+
+Processing subject: LT
+No matrices found for subject LT
+
+Processing subject: NvA
+No matrices found for subject NvA
+
+Processing subject: RR
+No matrices found for subject RR
+
+Processing subject: SJB
+No matrices found for subject SJB
+
+Processing L iPDC_20Hz
+Looking for files in: Data\DataSet8_MEG_20250130_group_project_cat\cue\L\iPDC_20Hz
+Found 0 files
+No matrices found for L iPDC_20Hz
+
+Processing subject: BG
+No matrices found for subject BG
+
+Processing subject: DOC
+No matrices found for subject DOC
+
+Processing subject: GB
+No matrices found for subject GB
+
+Processing subject: JDC
+No matrices found for subject JDC
+
+Processing subject: JFXD
+No matrices found for subject JFXD
+
+Processing subject: JZ
+No matrices found for subject JZ
+
+Processing subject: LT
+No matrices found for subject LT
+
+Processing subject: NvA
+No matrices found for subject NvA
+
+Processing subject: RR
+No matrices found for subject RR
+
+Processing subject: SJB
+No matrices found for subject SJB
+
+Processing R gDTF_100Hz
+Looking for files in: Data\DataSet8_MEG_20250130_group_project_cat\cue\R\gDTF_100Hz
+Found 0 files
+No matrices found for R gDTF_100Hz
+
+Processing subject: BG
+No matrices found for subject BG
+
+Processing subject: DOC
+No matrices found for subject DOC
+
+Processing subject: GB
+No matrices found for subject GB
+
+Processing subject: JDC
+No matrices found for subject JDC
+
+Processing subject: JFXD
+No matrices found for subject JFXD
+
+Processing subject: JZ
+No matrices found for subject JZ
+
+Processing subject: LT
+No matrices found for subject LT
+
+Processing subject: NvA
+No matrices found for subject NvA
+
+Processing subject: RR
+No matrices found for subject RR
+
+Processing subject: SJB
+No matrices found for subject SJB
+
+Processing R gDTF_10Hz
+Looking for files in: Data\DataSet8_MEG_20250130_group_project_cat\cue\R\gDTF_10Hz
+Found 0 files
+No matrices found for R gDTF_10Hz
+
+Processing subject: BG
+No matrices found for subject BG
+
+Processing subject: DOC
+No matrices found for subject DOC
+
+Processing subject: GB
+No matrices found for subject GB
+
+Processing subject: JDC
+No matrices found for subject JDC
+
+Processing subject: JFXD
+No matrices found for subject JFXD
+
+Processing subject: JZ
+No matrices found for subject JZ
+
+Processing subject: LT
+No matrices found for subject LT
+
+Processing subject: NvA
+No matrices found for subject NvA
+
+Processing subject: RR
+No matrices found for subject RR
+
+Processing subject: SJB
+No matrices found for subject SJB
+
+Processing R gDTF_20Hz
+Looking for files in: Data\DataSet8_MEG_20250130_group_project_cat\cue\R\gDTF_20Hz
+Found 0 files
+No matrices found for R gDTF_20Hz
+
+Processing subject: BG
+No matrices found for subject BG
+
+Processing subject: DOC
+No matrices found for subject DOC
+
+Processing subject: GB
+No matrices found for subject GB
+
+Processing subject: JDC
+No matrices found for subject JDC
+
+Processing subject: JFXD
+No matrices found for subject JFXD
+
+Processing subject: JZ
+No matrices found for subject JZ
+
+Processing subject: LT
+No matrices found for subject LT
+
+Processing subject: NvA
+No matrices found for subject NvA
+
+Processing subject: RR
+No matrices found for subject RR
+
+Processing subject: SJB
+No matrices found for subject SJB
+
+Processing R gPDC_100Hz
+Looking for files in: Data\DataSet8_MEG_20250130_group_project_cat\cue\R\gPDC_100Hz
+Found 0 files
+No matrices found for R gPDC_100Hz
+
+Processing subject: BG
+No matrices found for subject BG
+
+Processing subject: DOC
+No matrices found for subject DOC
+
+Processing subject: GB
+No matrices found for subject GB
+
+Processing subject: JDC
+No matrices found for subject JDC
+
+Processing subject: JFXD
+No matrices found for subject JFXD
+
+Processing subject: JZ
+No matrices found for subject JZ
+
+Processing subject: LT
+No matrices found for subject LT
+
+Processing subject: NvA
+No matrices found for subject NvA
+
+Processing subject: RR
+No matrices found for subject RR
+
+Processing subject: SJB
+No matrices found for subject SJB
+
+Processing R gPDC_10Hz
+Looking for files in: Data\DataSet8_MEG_20250130_group_project_cat\cue\R\gPDC_10Hz
+Found 0 files
+No matrices found for R gPDC_10Hz
+
+Processing subject: BG
+No matrices found for subject BG
+
+Processing subject: DOC
+No matrices found for subject DOC
+
+Processing subject: GB
+No matrices found for subject GB
+
+Processing subject: JDC
+No matrices found for subject JDC
+
+Processing subject: JFXD
+No matrices found for subject JFXD
+
+Processing subject: JZ
+No matrices found for subject JZ
+
+Processing subject: LT
+No matrices found for subject LT
+
+Processing subject: NvA
+No matrices found for subject NvA
+
+Processing subject: RR
+No matrices found for subject RR
+
+Processing subject: SJB
+No matrices found for subject SJB
+
+Processing R gPDC_20Hz
+Looking for files in: Data\DataSet8_MEG_20250130_group_project_cat\cue\R\gPDC_20Hz
+Found 0 files
+No matrices found for R gPDC_20Hz
+
+Processing subject: BG
+No matrices found for subject BG
+
+Processing subject: DOC
+No matrices found for subject DOC
+
+Processing subject: GB
+No matrices found for subject GB
+
+Processing subject: JDC
+No matrices found for subject JDC
+
+Processing subject: JFXD
+No matrices found for subject JFXD
+
+Processing subject: JZ
+No matrices found for subject JZ
+
+Processing subject: LT
+No matrices found for subject LT
+
+Processing subject: NvA
+No matrices found for subject NvA
+
+Processing subject: RR
+No matrices found for subject RR
+
+Processing subject: SJB
+No matrices found for subject SJB
+Skipping iDTF method as requested
+Skipping iDTF method as requested
+Skipping iDTF method as requested
+
+Processing R iPDC_100Hz
+Looking for files in: Data\DataSet8_MEG_20250130_group_project_cat\cue\R\iPDC_100Hz
+Found 0 files
+No matrices found for R iPDC_100Hz
+
+Processing subject: BG
+No matrices found for subject BG
+
+Processing subject: DOC
+No matrices found for subject DOC
+
+Processing subject: GB
+No matrices found for subject GB
+
+Processing subject: JDC
+No matrices found for subject JDC
+
+Processing subject: JFXD
+No matrices found for subject JFXD
+
+Processing subject: JZ
+No matrices found for subject JZ
+
+Processing subject: LT
+No matrices found for subject LT
+
+Processing subject: NvA
+No matrices found for subject NvA
+
+Processing subject: RR
+No matrices found for subject RR
+
+Processing subject: SJB
+No matrices found for subject SJB
+
+Processing R iPDC_10Hz
+Looking for files in: Data\DataSet8_MEG_20250130_group_project_cat\cue\R\iPDC_10Hz
+Found 0 files
+No matrices found for R iPDC_10Hz
+
+Processing subject: BG
+No matrices found for subject BG
+
+Processing subject: DOC
+No matrices found for subject DOC
+
+Processing subject: GB
+No matrices found for subject GB
+
+Processing subject: JDC
+No matrices found for subject JDC
+
+Processing subject: JFXD
+No matrices found for subject JFXD
+
+Processing subject: JZ
+No matrices found for subject JZ
+
+Processing subject: LT
+No matrices found for subject LT
+
+Processing subject: NvA
+No matrices found for subject NvA
+
+Processing subject: RR
+No matrices found for subject RR
+
+Processing subject: SJB
+No matrices found for subject SJB
+
+Processing R iPDC_20Hz
+Looking for files in: Data\DataSet8_MEG_20250130_group_project_cat\cue\R\iPDC_20Hz
+Found 0 files
+No matrices found for R iPDC_20Hz
+
+Processing subject: BG
+No matrices found for subject BG
+
+Processing subject: DOC
+No matrices found for subject DOC
+
+Processing subject: GB
+No matrices found for subject GB
+
+Processing subject: JDC
+No matrices found for subject JDC
+
+Processing subject: JFXD
+No matrices found for subject JFXD
+
+Processing subject: JZ
+No matrices found for subject JZ
+
+Processing subject: LT
+No matrices found for subject LT
+
+Processing subject: NvA
+No matrices found for subject NvA
+
+Processing subject: RR
+No matrices found for subject RR
+
+Processing subject: SJB
+No matrices found for subject SJB
+
+Processing alignment: mov
+Processing target: L
+Found method_freq directory: Data\DataSet8_MEG_20250130_group_project_cat\mov\L\gDTF_100Hz
+Found method_freq directory: Data\DataSet8_MEG_20250130_group_project_cat\mov\L\gDTF_10Hz
+Found method_freq directory: Data\DataSet8_MEG_20250130_group_project_cat\mov\L\gDTF_20Hz
+Found method_freq directory: Data\DataSet8_MEG_20250130_group_project_cat\mov\L\gPDC_100Hz
+Found method_freq directory: Data\DataSet8_MEG_20250130_group_project_cat\mov\L\gPDC_10Hz
+Found method_freq directory: Data\DataSet8_MEG_20250130_group_project_cat\mov\L\gPDC_20Hz
+Found method_freq directory: Data\DataSet8_MEG_20250130_group_project_cat\mov\L\iDTF_100Hz
+Found method_freq directory: Data\DataSet8_MEG_20250130_group_project_cat\mov\L\iDTF_10Hz
+Found method_freq directory: Data\DataSet8_MEG_20250130_group_project_cat\mov\L\iDTF_20Hz
+Found method_freq directory: Data\DataSet8_MEG_20250130_group_project_cat\mov\L\iPDC_100Hz
+Found method_freq directory: Data\DataSet8_MEG_20250130_group_project_cat\mov\L\iPDC_10Hz
+Found method_freq directory: Data\DataSet8_MEG_20250130_group_project_cat\mov\L\iPDC_20Hz
+Processing target: R
+Found method_freq directory: Data\DataSet8_MEG_20250130_group_project_cat\mov\R\gDTF_100Hz
+Found method_freq directory: Data\DataSet8_MEG_20250130_group_project_cat\mov\R\gDTF_10Hz
+Found method_freq directory: Data\DataSet8_MEG_20250130_group_project_cat\mov\R\gDTF_20Hz
+Found method_freq directory: Data\DataSet8_MEG_20250130_group_project_cat\mov\R\gPDC_100Hz
+Found method_freq directory: Data\DataSet8_MEG_20250130_group_project_cat\mov\R\gPDC_10Hz
+Found method_freq directory: Data\DataSet8_MEG_20250130_group_project_cat\mov\R\gPDC_20Hz
+Found method_freq directory: Data\DataSet8_MEG_20250130_group_project_cat\mov\R\iDTF_100Hz
+Found method_freq directory: Data\DataSet8_MEG_20250130_group_project_cat\mov\R\iDTF_10Hz
+Found method_freq directory: Data\DataSet8_MEG_20250130_group_project_cat\mov\R\iDTF_20Hz
+Found method_freq directory: Data\DataSet8_MEG_20250130_group_project_cat\mov\R\iPDC_100Hz
+Found method_freq directory: Data\DataSet8_MEG_20250130_group_project_cat\mov\R\iPDC_10Hz
+Found method_freq directory: Data\DataSet8_MEG_20250130_group_project_cat\mov\R\iPDC_20Hz
+
+Processing L gDTF_100Hz
+Looking for files in: Data\DataSet8_MEG_20250130_group_project_cat\mov\L\gDTF_100Hz
+Found 0 files
+No matrices found for L gDTF_100Hz
+
+Processing subject: BG
+No matrices found for subject BG
+
+Processing subject: DOC
+No matrices found for subject DOC
+
+Processing subject: GB
+No matrices found for subject GB
+
+Processing subject: JDC
+No matrices found for subject JDC
+
+Processing subject: JFXD
+No matrices found for subject JFXD
+
+Processing subject: JZ
+No matrices found for subject JZ
+
+Processing subject: LT
+No matrices found for subject LT
+
+Processing subject: NvA
+No matrices found for subject NvA
+
+Processing subject: RR
+No matrices found for subject RR
+
+Processing subject: SJB
+No matrices found for subject SJB
+
+Processing L gDTF_10Hz
+Looking for files in: Data\DataSet8_MEG_20250130_group_project_cat\mov\L\gDTF_10Hz
+Found 0 files
+No matrices found for L gDTF_10Hz
+
+Processing subject: BG
+No matrices found for subject BG
+
+Processing subject: DOC
+No matrices found for subject DOC
+
+Processing subject: GB
+No matrices found for subject GB
+
+Processing subject: JDC
+No matrices found for subject JDC
+
+Processing subject: JFXD
+No matrices found for subject JFXD
+
+Processing subject: JZ
+No matrices found for subject JZ
+
+Processing subject: LT
+No matrices found for subject LT
+
+Processing subject: NvA
+No matrices found for subject NvA
+
+Processing subject: RR
+No matrices found for subject RR
+
+Processing subject: SJB
+No matrices found for subject SJB
+
+Processing L gDTF_20Hz
+Looking for files in: Data\DataSet8_MEG_20250130_group_project_cat\mov\L\gDTF_20Hz
+Found 0 files
+No matrices found for L gDTF_20Hz
+
+Processing subject: BG
+No matrices found for subject BG
+
+Processing subject: DOC
+No matrices found for subject DOC
+
+Processing subject: GB
+No matrices found for subject GB
+
+Processing subject: JDC
+No matrices found for subject JDC
+
+Processing subject: JFXD
+No matrices found for subject JFXD
+
+Processing subject: JZ
+No matrices found for subject JZ
+
+Processing subject: LT
+No matrices found for subject LT
+
+Processing subject: NvA
+No matrices found for subject NvA
+
+Processing subject: RR
+No matrices found for subject RR
+
+Processing subject: SJB
+No matrices found for subject SJB
+
+Processing L gPDC_100Hz
+Looking for files in: Data\DataSet8_MEG_20250130_group_project_cat\mov\L\gPDC_100Hz
+Found 0 files
+No matrices found for L gPDC_100Hz
+
+Processing subject: BG
+No matrices found for subject BG
+
+Processing subject: DOC
+No matrices found for subject DOC
+
+Processing subject: GB
+No matrices found for subject GB
+
+Processing subject: JDC
+No matrices found for subject JDC
+
+Processing subject: JFXD
+No matrices found for subject JFXD
+
+Processing subject: JZ
+No matrices found for subject JZ
+
+Processing subject: LT
+No matrices found for subject LT
+
+Processing subject: NvA
+No matrices found for subject NvA
+
+Processing subject: RR
+No matrices found for subject RR
+
+Processing subject: SJB
+No matrices found for subject SJB
+
+Processing L gPDC_10Hz
+Looking for files in: Data\DataSet8_MEG_20250130_group_project_cat\mov\L\gPDC_10Hz
+Found 0 files
+No matrices found for L gPDC_10Hz
+
+Processing subject: BG
+No matrices found for subject BG
+
+Processing subject: DOC
+No matrices found for subject DOC
+
+Processing subject: GB
+No matrices found for subject GB
+
+Processing subject: JDC
+No matrices found for subject JDC
+
+Processing subject: JFXD
+No matrices found for subject JFXD
+
+Processing subject: JZ
+No matrices found for subject JZ
+
+Processing subject: LT
+No matrices found for subject LT
+
+Processing subject: NvA
+No matrices found for subject NvA
+
+Processing subject: RR
+No matrices found for subject RR
+
+Processing subject: SJB
+No matrices found for subject SJB
+
+Processing L gPDC_20Hz
+Looking for files in: Data\DataSet8_MEG_20250130_group_project_cat\mov\L\gPDC_20Hz
+Found 0 files
+No matrices found for L gPDC_20Hz
+
+Processing subject: BG
+No matrices found for subject BG
+
+Processing subject: DOC
+No matrices found for subject DOC
+
+Processing subject: GB
+No matrices found for subject GB
+
+Processing subject: JDC
+No matrices found for subject JDC
+
+Processing subject: JFXD
+No matrices found for subject JFXD
+
+Processing subject: JZ
+No matrices found for subject JZ
+
+Processing subject: LT
+No matrices found for subject LT
+
+Processing subject: NvA
+No matrices found for subject NvA
+
+Processing subject: RR
+No matrices found for subject RR
+
+Processing subject: SJB
+No matrices found for subject SJB
+Skipping iDTF method as requested
+Skipping iDTF method as requested
+Skipping iDTF method as requested
+
+Processing L iPDC_100Hz
+Looking for files in: Data\DataSet8_MEG_20250130_group_project_cat\mov\L\iPDC_100Hz
+Found 0 files
+No matrices found for L iPDC_100Hz
+
+Processing subject: BG
+No matrices found for subject BG
+
+Processing subject: DOC
+No matrices found for subject DOC
+
+Processing subject: GB
+No matrices found for subject GB
+
+Processing subject: JDC
+No matrices found for subject JDC
+
+Processing subject: JFXD
+No matrices found for subject JFXD
+
+Processing subject: JZ
+No matrices found for subject JZ
+
+Processing subject: LT
+No matrices found for subject LT
+
+Processing subject: NvA
+No matrices found for subject NvA
+
+Processing subject: RR
+No matrices found for subject RR
+
+Processing subject: SJB
+No matrices found for subject SJB
+
+Processing L iPDC_10Hz
+Looking for files in: Data\DataSet8_MEG_20250130_group_project_cat\mov\L\iPDC_10Hz
+Found 0 files
+No matrices found for L iPDC_10Hz
+
+Processing subject: BG
+No matrices found for subject BG
+
+Processing subject: DOC
+No matrices found for subject DOC
+
+Processing subject: GB
+No matrices found for subject GB
+
+Processing subject: JDC
+No matrices found for subject JDC
+
+Processing subject: JFXD
+No matrices found for subject JFXD
+
+Processing subject: JZ
+No matrices found for subject JZ
+
+Processing subject: LT
+No matrices found for subject LT
+
+Processing subject: NvA
+No matrices found for subject NvA
+
+Processing subject: RR
+No matrices found for subject RR
+
+Processing subject: SJB
+No matrices found for subject SJB
+
+Processing L iPDC_20Hz
+Looking for files in: Data\DataSet8_MEG_20250130_group_project_cat\mov\L\iPDC_20Hz
+Found 0 files
+No matrices found for L iPDC_20Hz
+
+Processing subject: BG
+No matrices found for subject BG
+
+Processing subject: DOC
+No matrices found for subject DOC
+
+Processing subject: GB
+No matrices found for subject GB
+
+Processing subject: JDC
+No matrices found for subject JDC
+
+Processing subject: JFXD
+No matrices found for subject JFXD
+
+Processing subject: JZ
+No matrices found for subject JZ
+
+Processing subject: LT
+No matrices found for subject LT
+
+Processing subject: NvA
+No matrices found for subject NvA
+
+Processing subject: RR
+No matrices found for subject RR
+
+Processing subject: SJB
+No matrices found for subject SJB
+
+Processing R gDTF_100Hz
+Looking for files in: Data\DataSet8_MEG_20250130_group_project_cat\mov\R\gDTF_100Hz
+Found 0 files
+No matrices found for R gDTF_100Hz
+
+Processing subject: BG
+No matrices found for subject BG
+
+Processing subject: DOC
+No matrices found for subject DOC
+
+Processing subject: GB
+No matrices found for subject GB
+
+Processing subject: JDC
+No matrices found for subject JDC
+
+Processing subject: JFXD
+No matrices found for subject JFXD
+
+Processing subject: JZ
+No matrices found for subject JZ
+
+Processing subject: LT
+No matrices found for subject LT
+
+Processing subject: NvA
+No matrices found for subject NvA
+
+Processing subject: RR
+No matrices found for subject RR
+
+Processing subject: SJB
+No matrices found for subject SJB
+
+Processing R gDTF_10Hz
+Looking for files in: Data\DataSet8_MEG_20250130_group_project_cat\mov\R\gDTF_10Hz
+Found 0 files
+No matrices found for R gDTF_10Hz
+
+Processing subject: BG
+No matrices found for subject BG
+
+Processing subject: DOC
+No matrices found for subject DOC
+
+Processing subject: GB
+No matrices found for subject GB
+
+Processing subject: JDC
+No matrices found for subject JDC
+
+Processing subject: JFXD
+No matrices found for subject JFXD
+
+Processing subject: JZ
+No matrices found for subject JZ
+
+Processing subject: LT
+No matrices found for subject LT
+
+Processing subject: NvA
+No matrices found for subject NvA
+
+Processing subject: RR
+No matrices found for subject RR
+
+Processing subject: SJB
+No matrices found for subject SJB
+
+Processing R gDTF_20Hz
+Looking for files in: Data\DataSet8_MEG_20250130_group_project_cat\mov\R\gDTF_20Hz
+Found 0 files
+No matrices found for R gDTF_20Hz
+
+Processing subject: BG
+No matrices found for subject BG
+
+Processing subject: DOC
+No matrices found for subject DOC
+
+Processing subject: GB
+No matrices found for subject GB
+
+Processing subject: JDC
+No matrices found for subject JDC
+
+Processing subject: JFXD
+No matrices found for subject JFXD
+
+Processing subject: JZ
+No matrices found for subject JZ
+
+Processing subject: LT
+No matrices found for subject LT
+
+Processing subject: NvA
+No matrices found for subject NvA
+
+Processing subject: RR
+No matrices found for subject RR
+
+Processing subject: SJB
+No matrices found for subject SJB
+
+Processing R gPDC_100Hz
+Looking for files in: Data\DataSet8_MEG_20250130_group_project_cat\mov\R\gPDC_100Hz
+Found 0 files
+No matrices found for R gPDC_100Hz
+
+Processing subject: BG
+No matrices found for subject BG
+
+Processing subject: DOC
+No matrices found for subject DOC
+
+Processing subject: GB
+No matrices found for subject GB
+
+Processing subject: JDC
+No matrices found for subject JDC
+
+Processing subject: JFXD
+No matrices found for subject JFXD
+
+Processing subject: JZ
+No matrices found for subject JZ
+
+Processing subject: LT
+No matrices found for subject LT
+
+Processing subject: NvA
+No matrices found for subject NvA
+
+Processing subject: RR
+No matrices found for subject RR
+
+Processing subject: SJB
+No matrices found for subject SJB
+
+Processing R gPDC_10Hz
+Looking for files in: Data\DataSet8_MEG_20250130_group_project_cat\mov\R\gPDC_10Hz
+Found 0 files
+No matrices found for R gPDC_10Hz
+
+Processing subject: BG
+No matrices found for subject BG
+
+Processing subject: DOC
+No matrices found for subject DOC
+
+Processing subject: GB
+No matrices found for subject GB
+
+Processing subject: JDC
+No matrices found for subject JDC
+
+Processing subject: JFXD
+No matrices found for subject JFXD
+
+Processing subject: JZ
+No matrices found for subject JZ
+
+Processing subject: LT
+No matrices found for subject LT
+
+Processing subject: NvA
+No matrices found for subject NvA
+
+Processing subject: RR
+No matrices found for subject RR
+
+Processing subject: SJB
+No matrices found for subject SJB
+
+Processing R gPDC_20Hz
+Looking for files in: Data\DataSet8_MEG_20250130_group_project_cat\mov\R\gPDC_20Hz
+Found 0 files
+No matrices found for R gPDC_20Hz
+
+Processing subject: BG
+No matrices found for subject BG
+
+Processing subject: DOC
+No matrices found for subject DOC
+
+Processing subject: GB
+No matrices found for subject GB
+
+Processing subject: JDC
+No matrices found for subject JDC
+
+Processing subject: JFXD
+No matrices found for subject JFXD
+
+Processing subject: JZ
+No matrices found for subject JZ
+
+Processing subject: LT
+No matrices found for subject LT
+
+Processing subject: NvA
+No matrices found for subject NvA
+
+Processing subject: RR
+No matrices found for subject RR
+
+Processing subject: SJB
+No matrices found for subject SJB
+Skipping iDTF method as requested
+Skipping iDTF method as requested
+Skipping iDTF method as requested
+
+Processing R iPDC_100Hz
+Looking for files in: Data\DataSet8_MEG_20250130_group_project_cat\mov\R\iPDC_100Hz
+Found 0 files
+No matrices found for R iPDC_100Hz
+
+Processing subject: BG
+No matrices found for subject BG
+
+Processing subject: DOC
+No matrices found for subject DOC
+
+Processing subject: GB
+No matrices found for subject GB
+
+Processing subject: JDC
+No matrices found for subject JDC
+
+Processing subject: JFXD
+No matrices found for subject JFXD
+
+Processing subject: JZ
+No matrices found for subject JZ
+
+Processing subject: LT
+No matrices found for subject LT
+
+Processing subject: NvA
+No matrices found for subject NvA
+
+Processing subject: RR
+No matrices found for subject RR
+
+Processing subject: SJB
+No matrices found for subject SJB
+
+Processing R iPDC_10Hz
+Looking for files in: Data\DataSet8_MEG_20250130_group_project_cat\mov\R\iPDC_10Hz
+Found 0 files
+No matrices found for R iPDC_10Hz
+
+Processing subject: BG
+No matrices found for subject BG
+
+Processing subject: DOC
+No matrices found for subject DOC
+
+Processing subject: GB
+No matrices found for subject GB
+
+Processing subject: JDC
+No matrices found for subject JDC
+
+Processing subject: JFXD
+No matrices found for subject JFXD
+
+Processing subject: JZ
+No matrices found for subject JZ
+
+Processing subject: LT
+No matrices found for subject LT
+
+Processing subject: NvA
+No matrices found for subject NvA
+
+Processing subject: RR
+No matrices found for subject RR
+
+Processing subject: SJB
+No matrices found for subject SJB
+
+Processing R iPDC_20Hz
+Looking for files in: Data\DataSet8_MEG_20250130_group_project_cat\mov\R\iPDC_20Hz
+Found 0 files
+No matrices found for R iPDC_20Hz
+
+Processing subject: BG
+No matrices found for subject BG
+
+Processing subject: DOC
+No matrices found for subject DOC
+
+Processing subject: GB
+No matrices found for subject GB
+
+Processing subject: JDC
+No matrices found for subject JDC
+
+Processing subject: JFXD
+No matrices found for subject JFXD
+
+Processing subject: JZ
+No matrices found for subject JZ
+
+Processing subject: LT
+No matrices found for subject LT
+
+Processing subject: NvA
+No matrices found for subject NvA
+
+Processing subject: RR
+No matrices found for subject RR
+
+Processing subject: SJB
+No matrices found for subject SJB
+
+Operation Summary
+================
+Total matrices processed: 0
+Total averages created: 0
+Errors encountered: 0
+
+Process completed at: 2025-02-19 20:06:57

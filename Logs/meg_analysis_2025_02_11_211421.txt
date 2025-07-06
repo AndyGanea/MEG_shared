@@ -1,0 +1,19 @@
+MEG Analysis Framework
+=====================
+Selected dataset: DataSet3_Align_cue_1_to_625_unc
+Process started at: 2025-02-11 21:14:21
+---------------------
+
+Analyzing dataset structure...
+Error analyzing dataset structure: not enough values to unpack (expected 2, got 1)
+Starting Top 10 Analysis...
+
+Analysis complete. Created 0 plots.
+
+Operation Summary
+================
+Files processed: 0
+Plots created: 0
+Errors encountered: 1
+
+Process completed at: 2025-02-11 21:14:21

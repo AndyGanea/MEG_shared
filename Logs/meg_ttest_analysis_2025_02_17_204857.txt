@@ -1,0 +1,153 @@
+MEG T-test Analysis
+==================
+Selected dataset: DataSet3_Align_cue_1_to_625_unc
+Excluding iDTF: True
+Process started at: 2025-02-17 20:48:57
+---------------------
+
+Starting T-test analysis...
+Starting to process folder: cue_gDTF_100Hz
+
+Processing: cue_gDTF_100Hz
+Found overall matrix: cue_gDTF_100Hz_L-R_overall.csv
+Starting to read subject matrices...
+Read subject matrix: cue_gDTF_100Hz_L-R_BG.csv
+Read subject matrix: cue_gDTF_100Hz_L-R_DOC.csv
+Read subject matrix: cue_gDTF_100Hz_L-R_GB.csv
+Read subject matrix: cue_gDTF_100Hz_L-R_JDC.csv
+Read subject matrix: cue_gDTF_100Hz_L-R_JFXD.csv
+Read subject matrix: cue_gDTF_100Hz_L-R_JZ.csv
+Read subject matrix: cue_gDTF_100Hz_L-R_LT.csv
+Read subject matrix: cue_gDTF_100Hz_L-R_NvA.csv
+Read subject matrix: cue_gDTF_100Hz_L-R_RR.csv
+Read subject matrix: cue_gDTF_100Hz_L-R_SJB.csv
+Starting to process folder: cue_gDTF_10Hz
+
+Processing: cue_gDTF_10Hz
+Found overall matrix: cue_gDTF_10Hz_L-R_overall.csv
+Starting to read subject matrices...
+Read subject matrix: cue_gDTF_10Hz_L-R_BG.csv
+Read subject matrix: cue_gDTF_10Hz_L-R_DOC.csv
+Read subject matrix: cue_gDTF_10Hz_L-R_GB.csv
+Read subject matrix: cue_gDTF_10Hz_L-R_JDC.csv
+Read subject matrix: cue_gDTF_10Hz_L-R_JFXD.csv
+Read subject matrix: cue_gDTF_10Hz_L-R_JZ.csv
+Read subject matrix: cue_gDTF_10Hz_L-R_LT.csv
+Read subject matrix: cue_gDTF_10Hz_L-R_NvA.csv
+Read subject matrix: cue_gDTF_10Hz_L-R_RR.csv
+Read subject matrix: cue_gDTF_10Hz_L-R_SJB.csv
+Starting to process folder: cue_gDTF_20Hz
+
+Processing: cue_gDTF_20Hz
+Found overall matrix: cue_gDTF_20Hz_L-R_overall.csv
+Starting to read subject matrices...
+Read subject matrix: cue_gDTF_20Hz_L-R_BG.csv
+Read subject matrix: cue_gDTF_20Hz_L-R_DOC.csv
+Read subject matrix: cue_gDTF_20Hz_L-R_GB.csv
+Read subject matrix: cue_gDTF_20Hz_L-R_JDC.csv
+Read subject matrix: cue_gDTF_20Hz_L-R_JFXD.csv
+Read subject matrix: cue_gDTF_20Hz_L-R_JZ.csv
+Read subject matrix: cue_gDTF_20Hz_L-R_LT.csv
+Read subject matrix: cue_gDTF_20Hz_L-R_NvA.csv
+Read subject matrix: cue_gDTF_20Hz_L-R_RR.csv
+Read subject matrix: cue_gDTF_20Hz_L-R_SJB.csv
+Starting to process folder: cue_gPDC_100Hz
+
+Processing: cue_gPDC_100Hz
+Found overall matrix: cue_gPDC_100Hz_L-R_overall.csv
+Starting to read subject matrices...
+Read subject matrix: cue_gPDC_100Hz_L-R_BG.csv
+Read subject matrix: cue_gPDC_100Hz_L-R_DOC.csv
+Read subject matrix: cue_gPDC_100Hz_L-R_GB.csv
+Read subject matrix: cue_gPDC_100Hz_L-R_JDC.csv
+Read subject matrix: cue_gPDC_100Hz_L-R_JFXD.csv
+Read subject matrix: cue_gPDC_100Hz_L-R_JZ.csv
+Read subject matrix: cue_gPDC_100Hz_L-R_LT.csv
+Read subject matrix: cue_gPDC_100Hz_L-R_NvA.csv
+Read subject matrix: cue_gPDC_100Hz_L-R_RR.csv
+Read subject matrix: cue_gPDC_100Hz_L-R_SJB.csv
+Starting to process folder: cue_gPDC_10Hz
+
+Processing: cue_gPDC_10Hz
+Found overall matrix: cue_gPDC_10Hz_L-R_overall.csv
+Starting to read subject matrices...
+Read subject matrix: cue_gPDC_10Hz_L-R_BG.csv
+Read subject matrix: cue_gPDC_10Hz_L-R_DOC.csv
+Read subject matrix: cue_gPDC_10Hz_L-R_GB.csv
+Read subject matrix: cue_gPDC_10Hz_L-R_JDC.csv
+Read subject matrix: cue_gPDC_10Hz_L-R_JFXD.csv
+Read subject matrix: cue_gPDC_10Hz_L-R_JZ.csv
+Read subject matrix: cue_gPDC_10Hz_L-R_LT.csv
+Read subject matrix: cue_gPDC_10Hz_L-R_NvA.csv
+Read subject matrix: cue_gPDC_10Hz_L-R_RR.csv
+Read subject matrix: cue_gPDC_10Hz_L-R_SJB.csv
+Starting to process folder: cue_gPDC_20Hz
+
+Processing: cue_gPDC_20Hz
+Found overall matrix: cue_gPDC_20Hz_L-R_overall.csv
+Starting to read subject matrices...
+Read subject matrix: cue_gPDC_20Hz_L-R_BG.csv
+Read subject matrix: cue_gPDC_20Hz_L-R_DOC.csv
+Read subject matrix: cue_gPDC_20Hz_L-R_GB.csv
+Read subject matrix: cue_gPDC_20Hz_L-R_JDC.csv
+Read subject matrix: cue_gPDC_20Hz_L-R_JFXD.csv
+Read subject matrix: cue_gPDC_20Hz_L-R_JZ.csv
+Read subject matrix: cue_gPDC_20Hz_L-R_LT.csv
+Read subject matrix: cue_gPDC_20Hz_L-R_NvA.csv
+Read subject matrix: cue_gPDC_20Hz_L-R_RR.csv
+Read subject matrix: cue_gPDC_20Hz_L-R_SJB.csv
+Starting to process folder: cue_iPDC_100Hz
+
+Processing: cue_iPDC_100Hz
+Found overall matrix: cue_iPDC_100Hz_L-R_overall.csv
+Starting to read subject matrices...
+Read subject matrix: cue_iPDC_100Hz_L-R_BG.csv
+Read subject matrix: cue_iPDC_100Hz_L-R_DOC.csv
+Read subject matrix: cue_iPDC_100Hz_L-R_GB.csv
+Read subject matrix: cue_iPDC_100Hz_L-R_JDC.csv
+Read subject matrix: cue_iPDC_100Hz_L-R_JFXD.csv
+Read subject matrix: cue_iPDC_100Hz_L-R_JZ.csv
+Read subject matrix: cue_iPDC_100Hz_L-R_LT.csv
+Read subject matrix: cue_iPDC_100Hz_L-R_NvA.csv
+Read subject matrix: cue_iPDC_100Hz_L-R_RR.csv
+Read subject matrix: cue_iPDC_100Hz_L-R_SJB.csv
+Starting to process folder: cue_iPDC_10Hz
+
+Processing: cue_iPDC_10Hz
+Found overall matrix: cue_iPDC_10Hz_L-R_overall.csv
+Starting to read subject matrices...
+Read subject matrix: cue_iPDC_10Hz_L-R_BG.csv
+Read subject matrix: cue_iPDC_10Hz_L-R_DOC.csv
+Read subject matrix: cue_iPDC_10Hz_L-R_GB.csv
+Read subject matrix: cue_iPDC_10Hz_L-R_JDC.csv
+Read subject matrix: cue_iPDC_10Hz_L-R_JFXD.csv
+Read subject matrix: cue_iPDC_10Hz_L-R_JZ.csv
+Read subject matrix: cue_iPDC_10Hz_L-R_LT.csv
+Read subject matrix: cue_iPDC_10Hz_L-R_NvA.csv
+Read subject matrix: cue_iPDC_10Hz_L-R_RR.csv
+Read subject matrix: cue_iPDC_10Hz_L-R_SJB.csv
+Starting to process folder: cue_iPDC_20Hz
+
+Processing: cue_iPDC_20Hz
+Found overall matrix: cue_iPDC_20Hz_L-R_overall.csv
+Starting to read subject matrices...
+Read subject matrix: cue_iPDC_20Hz_L-R_BG.csv
+Read subject matrix: cue_iPDC_20Hz_L-R_DOC.csv
+Read subject matrix: cue_iPDC_20Hz_L-R_GB.csv
+Read subject matrix: cue_iPDC_20Hz_L-R_JDC.csv
+Read subject matrix: cue_iPDC_20Hz_L-R_JFXD.csv
+Read subject matrix: cue_iPDC_20Hz_L-R_JZ.csv
+Read subject matrix: cue_iPDC_20Hz_L-R_LT.csv
+Read subject matrix: cue_iPDC_20Hz_L-R_NvA.csv
+Read subject matrix: cue_iPDC_20Hz_L-R_RR.csv
+Read subject matrix: cue_iPDC_20Hz_L-R_SJB.csv
+
+Analysis complete!
+
+Operation Summary
+================
+Folders processed: 9
+Matrices created: 9
+Errors encountered: 0
+
+Process completed at: 2025-02-17 20:49:07

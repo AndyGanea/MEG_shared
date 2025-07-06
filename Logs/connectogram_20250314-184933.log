@@ -1,0 +1,76 @@
+2025-03-14 18:49:33,968 - INFO - Starting MEG Connectogram Visualization V2
+2025-03-14 18:49:33,969 - INFO - Selected dataset: DataSet5_Align_cue_626_to_938_unc
+2025-03-14 18:49:33,969 - INFO - Selected analysis type: Wilcoxon
+2025-03-14 18:49:33,969 - INFO - Selected analysis folder: Wilcoxon_03102025-1305
+2025-03-14 18:49:33,969 - INFO - Log file: Logs\connectogram_20250314-184933.log
+2025-03-14 18:49:33,969 - INFO - Processing all folders in Wilcoxon_03102025-1305...
+2025-03-14 18:49:33,970 - INFO - Processing Cue_gDTF_100Hz...
+2025-03-14 18:49:33,970 - INFO - Processing folder: Cue_gDTF_100Hz
+2025-03-14 18:49:33,971 - INFO - Found 1 statistical test files
+2025-03-14 18:49:33,971 - INFO - Processing gDTF_100Hz_L-R (wilcoxon)
+2025-03-14 18:49:33,971 - INFO - Reading connectivity matrix from gDTF_100Hz_L-R_wilcoxon.csv
+2025-03-14 18:49:33,973 - WARNING - Requested visualization type 3D-mayavi not available. Falling back to 2D.
+2025-03-14 18:49:34,121 - WARNING - Requested visualization type 3D-mayavi not available. Falling back to 2D.
+2025-03-14 18:49:34,240 - INFO - Processing Cue_gDTF_10Hz...
+2025-03-14 18:49:34,240 - INFO - Processing folder: Cue_gDTF_10Hz
+2025-03-14 18:49:34,240 - INFO - Found 1 statistical test files
+2025-03-14 18:49:34,240 - INFO - Processing gDTF_10Hz_L-R (wilcoxon)
+2025-03-14 18:49:34,241 - INFO - Reading connectivity matrix from gDTF_10Hz_L-R_wilcoxon.csv
+2025-03-14 18:49:34,242 - WARNING - Requested visualization type 3D-mayavi not available. Falling back to 2D.
+2025-03-14 18:49:34,363 - WARNING - Requested visualization type 3D-mayavi not available. Falling back to 2D.
+2025-03-14 18:49:34,483 - INFO - Processing Cue_gDTF_20Hz...
+2025-03-14 18:49:34,483 - INFO - Processing folder: Cue_gDTF_20Hz
+2025-03-14 18:49:34,483 - INFO - Found 1 statistical test files
+2025-03-14 18:49:34,484 - INFO - Processing gDTF_20Hz_L-R (wilcoxon)
+2025-03-14 18:49:34,484 - INFO - Reading connectivity matrix from gDTF_20Hz_L-R_wilcoxon.csv
+2025-03-14 18:49:34,485 - WARNING - Requested visualization type 3D-mayavi not available. Falling back to 2D.
+2025-03-14 18:49:34,606 - WARNING - Requested visualization type 3D-mayavi not available. Falling back to 2D.
+2025-03-14 18:49:34,725 - INFO - Processing Cue_gPDC_100Hz...
+2025-03-14 18:49:34,725 - INFO - Processing folder: Cue_gPDC_100Hz
+2025-03-14 18:49:34,726 - INFO - Found 1 statistical test files
+2025-03-14 18:49:34,726 - INFO - Processing gPDC_100Hz_L-R (wilcoxon)
+2025-03-14 18:49:34,726 - INFO - Reading connectivity matrix from gPDC_100Hz_L-R_wilcoxon.csv
+2025-03-14 18:49:34,728 - WARNING - Requested visualization type 3D-mayavi not available. Falling back to 2D.
+2025-03-14 18:49:34,847 - WARNING - Requested visualization type 3D-mayavi not available. Falling back to 2D.
+2025-03-14 18:49:34,966 - INFO - Processing Cue_gPDC_10Hz...
+2025-03-14 18:49:34,966 - INFO - Processing folder: Cue_gPDC_10Hz
+2025-03-14 18:49:34,967 - INFO - Found 1 statistical test files
+2025-03-14 18:49:34,967 - INFO - Processing gPDC_10Hz_L-R (wilcoxon)
+2025-03-14 18:49:34,967 - INFO - Reading connectivity matrix from gPDC_10Hz_L-R_wilcoxon.csv
+2025-03-14 18:49:34,968 - WARNING - Requested visualization type 3D-mayavi not available. Falling back to 2D.
+2025-03-14 18:49:35,087 - WARNING - Requested visualization type 3D-mayavi not available. Falling back to 2D.
+2025-03-14 18:49:35,206 - INFO - Processing Cue_gPDC_20Hz...
+2025-03-14 18:49:35,207 - INFO - Processing folder: Cue_gPDC_20Hz
+2025-03-14 18:49:35,207 - INFO - Found 1 statistical test files
+2025-03-14 18:49:35,208 - INFO - Processing gPDC_20Hz_L-R (wilcoxon)
+2025-03-14 18:49:35,208 - INFO - Reading connectivity matrix from gPDC_20Hz_L-R_wilcoxon.csv
+2025-03-14 18:49:35,209 - WARNING - Requested visualization type 3D-mayavi not available. Falling back to 2D.
+2025-03-14 18:49:35,332 - WARNING - Requested visualization type 3D-mayavi not available. Falling back to 2D.
+2025-03-14 18:49:35,451 - INFO - Processing Cue_iPDC_100Hz...
+2025-03-14 18:49:35,451 - INFO - Processing folder: Cue_iPDC_100Hz
+2025-03-14 18:49:35,451 - INFO - Found 1 statistical test files
+2025-03-14 18:49:35,452 - INFO - Processing iPDC_100Hz_L-R (wilcoxon)
+2025-03-14 18:49:35,452 - INFO - Reading connectivity matrix from iPDC_100Hz_L-R_wilcoxon.csv
+2025-03-14 18:49:35,453 - WARNING - Requested visualization type 3D-mayavi not available. Falling back to 2D.
+2025-03-14 18:49:35,586 - WARNING - Requested visualization type 3D-mayavi not available. Falling back to 2D.
+2025-03-14 18:49:35,726 - INFO - Processing Cue_iPDC_10Hz...
+2025-03-14 18:49:35,726 - INFO - Processing folder: Cue_iPDC_10Hz
+2025-03-14 18:49:35,726 - INFO - Found 1 statistical test files
+2025-03-14 18:49:35,727 - INFO - Processing iPDC_10Hz_L-R (wilcoxon)
+2025-03-14 18:49:35,727 - INFO - Reading connectivity matrix from iPDC_10Hz_L-R_wilcoxon.csv
+2025-03-14 18:49:35,728 - WARNING - Requested visualization type 3D-mayavi not available. Falling back to 2D.
+2025-03-14 18:49:35,848 - WARNING - Requested visualization type 3D-mayavi not available. Falling back to 2D.
+2025-03-14 18:49:35,969 - INFO - Processing Cue_iPDC_20Hz...
+2025-03-14 18:49:35,969 - INFO - Processing folder: Cue_iPDC_20Hz
+2025-03-14 18:49:35,969 - INFO - Found 1 statistical test files
+2025-03-14 18:49:35,969 - INFO - Processing iPDC_20Hz_L-R (wilcoxon)
+2025-03-14 18:49:35,970 - INFO - Reading connectivity matrix from iPDC_20Hz_L-R_wilcoxon.csv
+2025-03-14 18:49:35,971 - WARNING - Requested visualization type 3D-mayavi not available. Falling back to 2D.
+2025-03-14 18:49:36,093 - WARNING - Requested visualization type 3D-mayavi not available. Falling back to 2D.
+2025-03-14 18:49:36,210 - INFO - 
+---------------------
+2025-03-14 18:49:36,211 - INFO - Processing complete!
+2025-03-14 18:49:36,211 - INFO - Folders processed: 9
+2025-03-14 18:49:36,211 - INFO - Visualizations created: 18
+2025-03-14 18:49:36,211 - INFO - Errors encountered: 0
+2025-03-14 18:49:36,211 - INFO - Process completed at: 2025-03-14 18:49:36

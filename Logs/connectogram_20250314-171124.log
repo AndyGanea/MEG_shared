@@ -1,0 +1,364 @@
+2025-03-14 17:11:24,589 - INFO - Starting MEG Connectogram Visualization V2
+2025-03-14 17:11:24,589 - INFO - Selected dataset: DataSet5_Align_cue_626_to_938_unc
+2025-03-14 17:11:24,589 - INFO - Selected analysis type: Wilcoxon
+2025-03-14 17:11:24,590 - INFO - Selected analysis folder: Wilcoxon_03102025-1305
+2025-03-14 17:11:24,590 - INFO - Log file: Logs\connectogram_20250314-171124.log
+2025-03-14 17:11:24,590 - INFO - Processing all folders in Wilcoxon_03102025-1305...
+2025-03-14 17:11:24,590 - INFO - Processing Cue_gDTF_100Hz...
+2025-03-14 17:11:24,591 - INFO - Processing folder: Cue_gDTF_100Hz
+2025-03-14 17:11:24,591 - INFO - Found 12 CSV files
+2025-03-14 17:11:24,591 - INFO - Processing gDTF 100Hz_L-R_BG
+2025-03-14 17:11:24,592 - INFO - Reading connectivity matrix from gDTF_100Hz_L-R_BG.csv
+2025-03-14 17:11:25,048 - ERROR - Error processing gDTF_100Hz_L-R_BG.csv: s must be a scalar, or float array-like with the same size as x and y
+2025-03-14 17:11:25,048 - INFO - Processing gDTF 100Hz_L-R_DOC
+2025-03-14 17:11:25,049 - INFO - Reading connectivity matrix from gDTF_100Hz_L-R_DOC.csv
+2025-03-14 17:11:25,436 - ERROR - Error processing gDTF_100Hz_L-R_DOC.csv: s must be a scalar, or float array-like with the same size as x and y
+2025-03-14 17:11:25,436 - INFO - Processing gDTF 100Hz_L-R_GB
+2025-03-14 17:11:25,436 - INFO - Reading connectivity matrix from gDTF_100Hz_L-R_GB.csv
+2025-03-14 17:11:25,809 - ERROR - Error processing gDTF_100Hz_L-R_GB.csv: s must be a scalar, or float array-like with the same size as x and y
+2025-03-14 17:11:25,810 - INFO - Processing gDTF 100Hz_L-R_JDC
+2025-03-14 17:11:25,810 - INFO - Reading connectivity matrix from gDTF_100Hz_L-R_JDC.csv
+2025-03-14 17:11:26,176 - ERROR - Error processing gDTF_100Hz_L-R_JDC.csv: s must be a scalar, or float array-like with the same size as x and y
+2025-03-14 17:11:26,176 - INFO - Processing gDTF 100Hz_L-R_JFXD
+2025-03-14 17:11:26,176 - INFO - Reading connectivity matrix from gDTF_100Hz_L-R_JFXD.csv
+2025-03-14 17:11:26,550 - ERROR - Error processing gDTF_100Hz_L-R_JFXD.csv: s must be a scalar, or float array-like with the same size as x and y
+2025-03-14 17:11:26,551 - INFO - Processing gDTF 100Hz_L-R_JZ
+2025-03-14 17:11:26,551 - INFO - Reading connectivity matrix from gDTF_100Hz_L-R_JZ.csv
+2025-03-14 17:11:26,934 - ERROR - Error processing gDTF_100Hz_L-R_JZ.csv: s must be a scalar, or float array-like with the same size as x and y
+2025-03-14 17:11:26,934 - INFO - Processing gDTF 100Hz_L-R_LT
+2025-03-14 17:11:26,935 - INFO - Reading connectivity matrix from gDTF_100Hz_L-R_LT.csv
+2025-03-14 17:11:27,323 - ERROR - Error processing gDTF_100Hz_L-R_LT.csv: s must be a scalar, or float array-like with the same size as x and y
+2025-03-14 17:11:27,323 - INFO - Processing gDTF 100Hz_L-R_NvA
+2025-03-14 17:11:27,323 - INFO - Reading connectivity matrix from gDTF_100Hz_L-R_NvA.csv
+2025-03-14 17:11:27,716 - ERROR - Error processing gDTF_100Hz_L-R_NvA.csv: s must be a scalar, or float array-like with the same size as x and y
+2025-03-14 17:11:27,717 - INFO - Processing gDTF 100Hz_L-R_overall
+2025-03-14 17:11:27,717 - INFO - Reading connectivity matrix from gDTF_100Hz_L-R_overall.csv
+2025-03-14 17:11:28,255 - ERROR - Error processing gDTF_100Hz_L-R_overall.csv: s must be a scalar, or float array-like with the same size as x and y
+2025-03-14 17:11:28,256 - INFO - Processing gDTF 100Hz_L-R_RR
+2025-03-14 17:11:28,256 - INFO - Reading connectivity matrix from gDTF_100Hz_L-R_RR.csv
+2025-03-14 17:11:28,654 - ERROR - Error processing gDTF_100Hz_L-R_RR.csv: s must be a scalar, or float array-like with the same size as x and y
+2025-03-14 17:11:28,654 - INFO - Processing gDTF 100Hz_L-R_SJB
+2025-03-14 17:11:28,655 - INFO - Reading connectivity matrix from gDTF_100Hz_L-R_SJB.csv
+2025-03-14 17:11:29,101 - ERROR - Error processing gDTF_100Hz_L-R_SJB.csv: s must be a scalar, or float array-like with the same size as x and y
+2025-03-14 17:11:29,101 - INFO - Processing gDTF 100Hz_L-R_wilcoxon
+2025-03-14 17:11:29,101 - INFO - Reading connectivity matrix from gDTF_100Hz_L-R_wilcoxon.csv
+2025-03-14 17:11:29,518 - ERROR - Error processing gDTF_100Hz_L-R_wilcoxon.csv: s must be a scalar, or float array-like with the same size as x and y
+2025-03-14 17:11:29,518 - INFO - Processing Cue_gDTF_10Hz...
+2025-03-14 17:11:29,518 - INFO - Processing folder: Cue_gDTF_10Hz
+2025-03-14 17:11:29,519 - INFO - Found 12 CSV files
+2025-03-14 17:11:29,519 - INFO - Processing gDTF 10Hz_L-R_BG
+2025-03-14 17:11:29,519 - INFO - Reading connectivity matrix from gDTF_10Hz_L-R_BG.csv
+2025-03-14 17:11:29,926 - ERROR - Error processing gDTF_10Hz_L-R_BG.csv: s must be a scalar, or float array-like with the same size as x and y
+2025-03-14 17:11:29,926 - INFO - Processing gDTF 10Hz_L-R_DOC
+2025-03-14 17:11:29,926 - INFO - Reading connectivity matrix from gDTF_10Hz_L-R_DOC.csv
+2025-03-14 17:11:30,336 - ERROR - Error processing gDTF_10Hz_L-R_DOC.csv: s must be a scalar, or float array-like with the same size as x and y
+2025-03-14 17:11:30,337 - INFO - Processing gDTF 10Hz_L-R_GB
+2025-03-14 17:11:30,337 - INFO - Reading connectivity matrix from gDTF_10Hz_L-R_GB.csv
+2025-03-14 17:11:30,757 - ERROR - Error processing gDTF_10Hz_L-R_GB.csv: s must be a scalar, or float array-like with the same size as x and y
+2025-03-14 17:11:30,758 - INFO - Processing gDTF 10Hz_L-R_JDC
+2025-03-14 17:11:30,758 - INFO - Reading connectivity matrix from gDTF_10Hz_L-R_JDC.csv
+2025-03-14 17:11:31,180 - ERROR - Error processing gDTF_10Hz_L-R_JDC.csv: s must be a scalar, or float array-like with the same size as x and y
+2025-03-14 17:11:31,180 - INFO - Processing gDTF 10Hz_L-R_JFXD
+2025-03-14 17:11:31,180 - INFO - Reading connectivity matrix from gDTF_10Hz_L-R_JFXD.csv
+2025-03-14 17:11:31,614 - ERROR - Error processing gDTF_10Hz_L-R_JFXD.csv: s must be a scalar, or float array-like with the same size as x and y
+2025-03-14 17:11:31,615 - INFO - Processing gDTF 10Hz_L-R_JZ
+2025-03-14 17:11:31,615 - INFO - Reading connectivity matrix from gDTF_10Hz_L-R_JZ.csv
+2025-03-14 17:11:32,043 - ERROR - Error processing gDTF_10Hz_L-R_JZ.csv: s must be a scalar, or float array-like with the same size as x and y
+2025-03-14 17:11:32,043 - INFO - Processing gDTF 10Hz_L-R_LT
+2025-03-14 17:11:32,044 - INFO - Reading connectivity matrix from gDTF_10Hz_L-R_LT.csv
+2025-03-14 17:11:32,513 - ERROR - Error processing gDTF_10Hz_L-R_LT.csv: s must be a scalar, or float array-like with the same size as x and y
+2025-03-14 17:11:32,514 - INFO - Processing gDTF 10Hz_L-R_NvA
+2025-03-14 17:11:32,514 - INFO - Reading connectivity matrix from gDTF_10Hz_L-R_NvA.csv
+2025-03-14 17:11:32,957 - ERROR - Error processing gDTF_10Hz_L-R_NvA.csv: s must be a scalar, or float array-like with the same size as x and y
+2025-03-14 17:11:32,957 - INFO - Processing gDTF 10Hz_L-R_overall
+2025-03-14 17:11:32,957 - INFO - Reading connectivity matrix from gDTF_10Hz_L-R_overall.csv
+2025-03-14 17:11:33,402 - ERROR - Error processing gDTF_10Hz_L-R_overall.csv: s must be a scalar, or float array-like with the same size as x and y
+2025-03-14 17:11:33,403 - INFO - Processing gDTF 10Hz_L-R_RR
+2025-03-14 17:11:33,403 - INFO - Reading connectivity matrix from gDTF_10Hz_L-R_RR.csv
+2025-03-14 17:11:33,877 - ERROR - Error processing gDTF_10Hz_L-R_RR.csv: s must be a scalar, or float array-like with the same size as x and y
+2025-03-14 17:11:33,877 - INFO - Processing gDTF 10Hz_L-R_SJB
+2025-03-14 17:11:33,877 - INFO - Reading connectivity matrix from gDTF_10Hz_L-R_SJB.csv
+2025-03-14 17:11:34,347 - ERROR - Error processing gDTF_10Hz_L-R_SJB.csv: s must be a scalar, or float array-like with the same size as x and y
+2025-03-14 17:11:34,348 - INFO - Processing gDTF 10Hz_L-R_wilcoxon
+2025-03-14 17:11:34,348 - INFO - Reading connectivity matrix from gDTF_10Hz_L-R_wilcoxon.csv
+2025-03-14 17:11:34,801 - ERROR - Error processing gDTF_10Hz_L-R_wilcoxon.csv: s must be a scalar, or float array-like with the same size as x and y
+2025-03-14 17:11:34,802 - INFO - Processing Cue_gDTF_20Hz...
+2025-03-14 17:11:34,802 - INFO - Processing folder: Cue_gDTF_20Hz
+2025-03-14 17:11:34,802 - INFO - Found 12 CSV files
+2025-03-14 17:11:34,803 - INFO - Processing gDTF 20Hz_L-R_BG
+2025-03-14 17:11:34,803 - INFO - Reading connectivity matrix from gDTF_20Hz_L-R_BG.csv
+2025-03-14 17:11:35,269 - ERROR - Error processing gDTF_20Hz_L-R_BG.csv: s must be a scalar, or float array-like with the same size as x and y
+2025-03-14 17:11:35,270 - INFO - Processing gDTF 20Hz_L-R_DOC
+2025-03-14 17:11:35,270 - INFO - Reading connectivity matrix from gDTF_20Hz_L-R_DOC.csv
+2025-03-14 17:11:35,762 - ERROR - Error processing gDTF_20Hz_L-R_DOC.csv: s must be a scalar, or float array-like with the same size as x and y
+2025-03-14 17:11:35,763 - INFO - Processing gDTF 20Hz_L-R_GB
+2025-03-14 17:11:35,763 - INFO - Reading connectivity matrix from gDTF_20Hz_L-R_GB.csv
+2025-03-14 17:11:36,350 - ERROR - Error processing gDTF_20Hz_L-R_GB.csv: s must be a scalar, or float array-like with the same size as x and y
+2025-03-14 17:11:36,350 - INFO - Processing gDTF 20Hz_L-R_JDC
+2025-03-14 17:11:36,351 - INFO - Reading connectivity matrix from gDTF_20Hz_L-R_JDC.csv
+2025-03-14 17:11:36,869 - ERROR - Error processing gDTF_20Hz_L-R_JDC.csv: s must be a scalar, or float array-like with the same size as x and y
+2025-03-14 17:11:36,869 - INFO - Processing gDTF 20Hz_L-R_JFXD
+2025-03-14 17:11:36,870 - INFO - Reading connectivity matrix from gDTF_20Hz_L-R_JFXD.csv
+2025-03-14 17:11:37,359 - ERROR - Error processing gDTF_20Hz_L-R_JFXD.csv: s must be a scalar, or float array-like with the same size as x and y
+2025-03-14 17:11:37,359 - INFO - Processing gDTF 20Hz_L-R_JZ
+2025-03-14 17:11:37,359 - INFO - Reading connectivity matrix from gDTF_20Hz_L-R_JZ.csv
+2025-03-14 17:11:37,858 - ERROR - Error processing gDTF_20Hz_L-R_JZ.csv: s must be a scalar, or float array-like with the same size as x and y
+2025-03-14 17:11:37,859 - INFO - Processing gDTF 20Hz_L-R_LT
+2025-03-14 17:11:37,859 - INFO - Reading connectivity matrix from gDTF_20Hz_L-R_LT.csv
+2025-03-14 17:11:38,367 - ERROR - Error processing gDTF_20Hz_L-R_LT.csv: s must be a scalar, or float array-like with the same size as x and y
+2025-03-14 17:11:38,368 - INFO - Processing gDTF 20Hz_L-R_NvA
+2025-03-14 17:11:38,368 - INFO - Reading connectivity matrix from gDTF_20Hz_L-R_NvA.csv
+2025-03-14 17:11:38,875 - ERROR - Error processing gDTF_20Hz_L-R_NvA.csv: s must be a scalar, or float array-like with the same size as x and y
+2025-03-14 17:11:38,875 - INFO - Processing gDTF 20Hz_L-R_overall
+2025-03-14 17:11:38,876 - INFO - Reading connectivity matrix from gDTF_20Hz_L-R_overall.csv
+2025-03-14 17:11:39,389 - ERROR - Error processing gDTF_20Hz_L-R_overall.csv: s must be a scalar, or float array-like with the same size as x and y
+2025-03-14 17:11:39,389 - INFO - Processing gDTF 20Hz_L-R_RR
+2025-03-14 17:11:39,389 - INFO - Reading connectivity matrix from gDTF_20Hz_L-R_RR.csv
+2025-03-14 17:11:39,897 - ERROR - Error processing gDTF_20Hz_L-R_RR.csv: s must be a scalar, or float array-like with the same size as x and y
+2025-03-14 17:11:39,897 - INFO - Processing gDTF 20Hz_L-R_SJB
+2025-03-14 17:11:39,897 - INFO - Reading connectivity matrix from gDTF_20Hz_L-R_SJB.csv
+2025-03-14 17:11:40,426 - ERROR - Error processing gDTF_20Hz_L-R_SJB.csv: s must be a scalar, or float array-like with the same size as x and y
+2025-03-14 17:11:40,426 - INFO - Processing gDTF 20Hz_L-R_wilcoxon
+2025-03-14 17:11:40,426 - INFO - Reading connectivity matrix from gDTF_20Hz_L-R_wilcoxon.csv
+2025-03-14 17:11:40,939 - ERROR - Error processing gDTF_20Hz_L-R_wilcoxon.csv: s must be a scalar, or float array-like with the same size as x and y
+2025-03-14 17:11:40,939 - INFO - Processing Cue_gPDC_100Hz...
+2025-03-14 17:11:40,939 - INFO - Processing folder: Cue_gPDC_100Hz
+2025-03-14 17:11:40,940 - INFO - Found 12 CSV files
+2025-03-14 17:11:40,940 - INFO - Processing gPDC 100Hz_L-R_BG
+2025-03-14 17:11:40,940 - INFO - Reading connectivity matrix from gPDC_100Hz_L-R_BG.csv
+2025-03-14 17:11:41,468 - ERROR - Error processing gPDC_100Hz_L-R_BG.csv: s must be a scalar, or float array-like with the same size as x and y
+2025-03-14 17:11:41,469 - INFO - Processing gPDC 100Hz_L-R_DOC
+2025-03-14 17:11:41,469 - INFO - Reading connectivity matrix from gPDC_100Hz_L-R_DOC.csv
+2025-03-14 17:11:42,016 - ERROR - Error processing gPDC_100Hz_L-R_DOC.csv: s must be a scalar, or float array-like with the same size as x and y
+2025-03-14 17:11:42,016 - INFO - Processing gPDC 100Hz_L-R_GB
+2025-03-14 17:11:42,016 - INFO - Reading connectivity matrix from gPDC_100Hz_L-R_GB.csv
+2025-03-14 17:11:42,569 - ERROR - Error processing gPDC_100Hz_L-R_GB.csv: s must be a scalar, or float array-like with the same size as x and y
+2025-03-14 17:11:42,569 - INFO - Processing gPDC 100Hz_L-R_JDC
+2025-03-14 17:11:42,569 - INFO - Reading connectivity matrix from gPDC_100Hz_L-R_JDC.csv
+2025-03-14 17:11:43,110 - ERROR - Error processing gPDC_100Hz_L-R_JDC.csv: s must be a scalar, or float array-like with the same size as x and y
+2025-03-14 17:11:43,110 - INFO - Processing gPDC 100Hz_L-R_JFXD
+2025-03-14 17:11:43,110 - INFO - Reading connectivity matrix from gPDC_100Hz_L-R_JFXD.csv
+2025-03-14 17:11:43,661 - ERROR - Error processing gPDC_100Hz_L-R_JFXD.csv: s must be a scalar, or float array-like with the same size as x and y
+2025-03-14 17:11:43,661 - INFO - Processing gPDC 100Hz_L-R_JZ
+2025-03-14 17:11:43,661 - INFO - Reading connectivity matrix from gPDC_100Hz_L-R_JZ.csv
+2025-03-14 17:11:44,219 - ERROR - Error processing gPDC_100Hz_L-R_JZ.csv: s must be a scalar, or float array-like with the same size as x and y
+2025-03-14 17:11:44,219 - INFO - Processing gPDC 100Hz_L-R_LT
+2025-03-14 17:11:44,219 - INFO - Reading connectivity matrix from gPDC_100Hz_L-R_LT.csv
+2025-03-14 17:11:44,780 - ERROR - Error processing gPDC_100Hz_L-R_LT.csv: s must be a scalar, or float array-like with the same size as x and y
+2025-03-14 17:11:44,780 - INFO - Processing gPDC 100Hz_L-R_NvA
+2025-03-14 17:11:44,780 - INFO - Reading connectivity matrix from gPDC_100Hz_L-R_NvA.csv
+2025-03-14 17:11:45,346 - ERROR - Error processing gPDC_100Hz_L-R_NvA.csv: s must be a scalar, or float array-like with the same size as x and y
+2025-03-14 17:11:45,346 - INFO - Processing gPDC 100Hz_L-R_overall
+2025-03-14 17:11:45,346 - INFO - Reading connectivity matrix from gPDC_100Hz_L-R_overall.csv
+2025-03-14 17:11:45,945 - ERROR - Error processing gPDC_100Hz_L-R_overall.csv: s must be a scalar, or float array-like with the same size as x and y
+2025-03-14 17:11:45,946 - INFO - Processing gPDC 100Hz_L-R_RR
+2025-03-14 17:11:45,946 - INFO - Reading connectivity matrix from gPDC_100Hz_L-R_RR.csv
+2025-03-14 17:11:46,549 - ERROR - Error processing gPDC_100Hz_L-R_RR.csv: s must be a scalar, or float array-like with the same size as x and y
+2025-03-14 17:11:46,550 - INFO - Processing gPDC 100Hz_L-R_SJB
+2025-03-14 17:11:46,550 - INFO - Reading connectivity matrix from gPDC_100Hz_L-R_SJB.csv
+2025-03-14 17:11:47,164 - ERROR - Error processing gPDC_100Hz_L-R_SJB.csv: s must be a scalar, or float array-like with the same size as x and y
+2025-03-14 17:11:47,164 - INFO - Processing gPDC 100Hz_L-R_wilcoxon
+2025-03-14 17:11:47,164 - INFO - Reading connectivity matrix from gPDC_100Hz_L-R_wilcoxon.csv
+2025-03-14 17:11:47,747 - ERROR - Error processing gPDC_100Hz_L-R_wilcoxon.csv: s must be a scalar, or float array-like with the same size as x and y
+2025-03-14 17:11:47,747 - INFO - Processing Cue_gPDC_10Hz...
+2025-03-14 17:11:47,748 - INFO - Processing folder: Cue_gPDC_10Hz
+2025-03-14 17:11:47,748 - INFO - Found 12 CSV files
+2025-03-14 17:11:47,749 - INFO - Processing gPDC 10Hz_L-R_BG
+2025-03-14 17:11:47,749 - INFO - Reading connectivity matrix from gPDC_10Hz_L-R_BG.csv
+2025-03-14 17:11:48,345 - ERROR - Error processing gPDC_10Hz_L-R_BG.csv: s must be a scalar, or float array-like with the same size as x and y
+2025-03-14 17:11:48,346 - INFO - Processing gPDC 10Hz_L-R_DOC
+2025-03-14 17:11:48,346 - INFO - Reading connectivity matrix from gPDC_10Hz_L-R_DOC.csv
+2025-03-14 17:11:48,969 - ERROR - Error processing gPDC_10Hz_L-R_DOC.csv: s must be a scalar, or float array-like with the same size as x and y
+2025-03-14 17:11:48,970 - INFO - Processing gPDC 10Hz_L-R_GB
+2025-03-14 17:11:48,970 - INFO - Reading connectivity matrix from gPDC_10Hz_L-R_GB.csv
+2025-03-14 17:11:49,585 - ERROR - Error processing gPDC_10Hz_L-R_GB.csv: s must be a scalar, or float array-like with the same size as x and y
+2025-03-14 17:11:49,585 - INFO - Processing gPDC 10Hz_L-R_JDC
+2025-03-14 17:11:49,585 - INFO - Reading connectivity matrix from gPDC_10Hz_L-R_JDC.csv
+2025-03-14 17:11:50,204 - ERROR - Error processing gPDC_10Hz_L-R_JDC.csv: s must be a scalar, or float array-like with the same size as x and y
+2025-03-14 17:11:50,204 - INFO - Processing gPDC 10Hz_L-R_JFXD
+2025-03-14 17:11:50,205 - INFO - Reading connectivity matrix from gPDC_10Hz_L-R_JFXD.csv
+2025-03-14 17:11:50,826 - ERROR - Error processing gPDC_10Hz_L-R_JFXD.csv: s must be a scalar, or float array-like with the same size as x and y
+2025-03-14 17:11:50,826 - INFO - Processing gPDC 10Hz_L-R_JZ
+2025-03-14 17:11:50,826 - INFO - Reading connectivity matrix from gPDC_10Hz_L-R_JZ.csv
+2025-03-14 17:11:51,485 - ERROR - Error processing gPDC_10Hz_L-R_JZ.csv: s must be a scalar, or float array-like with the same size as x and y
+2025-03-14 17:11:51,485 - INFO - Processing gPDC 10Hz_L-R_LT
+2025-03-14 17:11:51,485 - INFO - Reading connectivity matrix from gPDC_10Hz_L-R_LT.csv
+2025-03-14 17:11:52,134 - ERROR - Error processing gPDC_10Hz_L-R_LT.csv: s must be a scalar, or float array-like with the same size as x and y
+2025-03-14 17:11:52,135 - INFO - Processing gPDC 10Hz_L-R_NvA
+2025-03-14 17:11:52,135 - INFO - Reading connectivity matrix from gPDC_10Hz_L-R_NvA.csv
+2025-03-14 17:11:52,772 - ERROR - Error processing gPDC_10Hz_L-R_NvA.csv: s must be a scalar, or float array-like with the same size as x and y
+2025-03-14 17:11:52,772 - INFO - Processing gPDC 10Hz_L-R_overall
+2025-03-14 17:11:52,773 - INFO - Reading connectivity matrix from gPDC_10Hz_L-R_overall.csv
+2025-03-14 17:11:53,430 - ERROR - Error processing gPDC_10Hz_L-R_overall.csv: s must be a scalar, or float array-like with the same size as x and y
+2025-03-14 17:11:53,431 - INFO - Processing gPDC 10Hz_L-R_RR
+2025-03-14 17:11:53,431 - INFO - Reading connectivity matrix from gPDC_10Hz_L-R_RR.csv
+2025-03-14 17:11:54,088 - ERROR - Error processing gPDC_10Hz_L-R_RR.csv: s must be a scalar, or float array-like with the same size as x and y
+2025-03-14 17:11:54,088 - INFO - Processing gPDC 10Hz_L-R_SJB
+2025-03-14 17:11:54,088 - INFO - Reading connectivity matrix from gPDC_10Hz_L-R_SJB.csv
+2025-03-14 17:11:54,749 - ERROR - Error processing gPDC_10Hz_L-R_SJB.csv: s must be a scalar, or float array-like with the same size as x and y
+2025-03-14 17:11:54,750 - INFO - Processing gPDC 10Hz_L-R_wilcoxon
+2025-03-14 17:11:54,750 - INFO - Reading connectivity matrix from gPDC_10Hz_L-R_wilcoxon.csv
+2025-03-14 17:11:55,414 - ERROR - Error processing gPDC_10Hz_L-R_wilcoxon.csv: s must be a scalar, or float array-like with the same size as x and y
+2025-03-14 17:11:55,414 - INFO - Processing Cue_gPDC_20Hz...
+2025-03-14 17:11:55,414 - INFO - Processing folder: Cue_gPDC_20Hz
+2025-03-14 17:11:55,415 - INFO - Found 12 CSV files
+2025-03-14 17:11:55,415 - INFO - Processing gPDC 20Hz_L-R_BG
+2025-03-14 17:11:55,415 - INFO - Reading connectivity matrix from gPDC_20Hz_L-R_BG.csv
+2025-03-14 17:11:56,117 - ERROR - Error processing gPDC_20Hz_L-R_BG.csv: s must be a scalar, or float array-like with the same size as x and y
+2025-03-14 17:11:56,117 - INFO - Processing gPDC 20Hz_L-R_DOC
+2025-03-14 17:11:56,117 - INFO - Reading connectivity matrix from gPDC_20Hz_L-R_DOC.csv
+2025-03-14 17:11:56,803 - ERROR - Error processing gPDC_20Hz_L-R_DOC.csv: s must be a scalar, or float array-like with the same size as x and y
+2025-03-14 17:11:56,804 - INFO - Processing gPDC 20Hz_L-R_GB
+2025-03-14 17:11:56,804 - INFO - Reading connectivity matrix from gPDC_20Hz_L-R_GB.csv
+2025-03-14 17:11:57,497 - ERROR - Error processing gPDC_20Hz_L-R_GB.csv: s must be a scalar, or float array-like with the same size as x and y
+2025-03-14 17:11:57,498 - INFO - Processing gPDC 20Hz_L-R_JDC
+2025-03-14 17:11:57,498 - INFO - Reading connectivity matrix from gPDC_20Hz_L-R_JDC.csv
+2025-03-14 17:11:58,217 - ERROR - Error processing gPDC_20Hz_L-R_JDC.csv: s must be a scalar, or float array-like with the same size as x and y
+2025-03-14 17:11:58,217 - INFO - Processing gPDC 20Hz_L-R_JFXD
+2025-03-14 17:11:58,217 - INFO - Reading connectivity matrix from gPDC_20Hz_L-R_JFXD.csv
+2025-03-14 17:11:58,922 - ERROR - Error processing gPDC_20Hz_L-R_JFXD.csv: s must be a scalar, or float array-like with the same size as x and y
+2025-03-14 17:11:58,922 - INFO - Processing gPDC 20Hz_L-R_JZ
+2025-03-14 17:11:58,922 - INFO - Reading connectivity matrix from gPDC_20Hz_L-R_JZ.csv
+2025-03-14 17:11:59,707 - ERROR - Error processing gPDC_20Hz_L-R_JZ.csv: s must be a scalar, or float array-like with the same size as x and y
+2025-03-14 17:11:59,707 - INFO - Processing gPDC 20Hz_L-R_LT
+2025-03-14 17:11:59,708 - INFO - Reading connectivity matrix from gPDC_20Hz_L-R_LT.csv
+2025-03-14 17:12:00,692 - ERROR - Error processing gPDC_20Hz_L-R_LT.csv: s must be a scalar, or float array-like with the same size as x and y
+2025-03-14 17:12:00,692 - INFO - Processing gPDC 20Hz_L-R_NvA
+2025-03-14 17:12:00,693 - INFO - Reading connectivity matrix from gPDC_20Hz_L-R_NvA.csv
+2025-03-14 17:12:01,429 - ERROR - Error processing gPDC_20Hz_L-R_NvA.csv: s must be a scalar, or float array-like with the same size as x and y
+2025-03-14 17:12:01,429 - INFO - Processing gPDC 20Hz_L-R_overall
+2025-03-14 17:12:01,429 - INFO - Reading connectivity matrix from gPDC_20Hz_L-R_overall.csv
+2025-03-14 17:12:02,198 - ERROR - Error processing gPDC_20Hz_L-R_overall.csv: s must be a scalar, or float array-like with the same size as x and y
+2025-03-14 17:12:02,199 - INFO - Processing gPDC 20Hz_L-R_RR
+2025-03-14 17:12:02,199 - INFO - Reading connectivity matrix from gPDC_20Hz_L-R_RR.csv
+2025-03-14 17:12:02,967 - ERROR - Error processing gPDC_20Hz_L-R_RR.csv: s must be a scalar, or float array-like with the same size as x and y
+2025-03-14 17:12:02,967 - INFO - Processing gPDC 20Hz_L-R_SJB
+2025-03-14 17:12:02,967 - INFO - Reading connectivity matrix from gPDC_20Hz_L-R_SJB.csv
+2025-03-14 17:12:03,742 - ERROR - Error processing gPDC_20Hz_L-R_SJB.csv: s must be a scalar, or float array-like with the same size as x and y
+2025-03-14 17:12:03,743 - INFO - Processing gPDC 20Hz_L-R_wilcoxon
+2025-03-14 17:12:03,743 - INFO - Reading connectivity matrix from gPDC_20Hz_L-R_wilcoxon.csv
+2025-03-14 17:12:04,575 - ERROR - Error processing gPDC_20Hz_L-R_wilcoxon.csv: s must be a scalar, or float array-like with the same size as x and y
+2025-03-14 17:12:04,575 - INFO - Processing Cue_iPDC_100Hz...
+2025-03-14 17:12:04,576 - INFO - Processing folder: Cue_iPDC_100Hz
+2025-03-14 17:12:04,576 - INFO - Found 12 CSV files
+2025-03-14 17:12:04,576 - INFO - Processing iPDC 100Hz_L-R_BG
+2025-03-14 17:12:04,576 - INFO - Reading connectivity matrix from iPDC_100Hz_L-R_BG.csv
+2025-03-14 17:12:05,392 - ERROR - Error processing iPDC_100Hz_L-R_BG.csv: s must be a scalar, or float array-like with the same size as x and y
+2025-03-14 17:12:05,393 - INFO - Processing iPDC 100Hz_L-R_DOC
+2025-03-14 17:12:05,393 - INFO - Reading connectivity matrix from iPDC_100Hz_L-R_DOC.csv
+2025-03-14 17:12:06,318 - ERROR - Error processing iPDC_100Hz_L-R_DOC.csv: s must be a scalar, or float array-like with the same size as x and y
+2025-03-14 17:12:06,319 - INFO - Processing iPDC 100Hz_L-R_GB
+2025-03-14 17:12:06,319 - INFO - Reading connectivity matrix from iPDC_100Hz_L-R_GB.csv
+2025-03-14 17:12:07,178 - ERROR - Error processing iPDC_100Hz_L-R_GB.csv: s must be a scalar, or float array-like with the same size as x and y
+2025-03-14 17:12:07,178 - INFO - Processing iPDC 100Hz_L-R_JDC
+2025-03-14 17:12:07,178 - INFO - Reading connectivity matrix from iPDC_100Hz_L-R_JDC.csv
+2025-03-14 17:12:08,004 - ERROR - Error processing iPDC_100Hz_L-R_JDC.csv: s must be a scalar, or float array-like with the same size as x and y
+2025-03-14 17:12:08,004 - INFO - Processing iPDC 100Hz_L-R_JFXD
+2025-03-14 17:12:08,004 - INFO - Reading connectivity matrix from iPDC_100Hz_L-R_JFXD.csv
+2025-03-14 17:12:08,860 - ERROR - Error processing iPDC_100Hz_L-R_JFXD.csv: s must be a scalar, or float array-like with the same size as x and y
+2025-03-14 17:12:08,861 - INFO - Processing iPDC 100Hz_L-R_JZ
+2025-03-14 17:12:08,861 - INFO - Reading connectivity matrix from iPDC_100Hz_L-R_JZ.csv
+2025-03-14 17:12:09,812 - ERROR - Error processing iPDC_100Hz_L-R_JZ.csv: s must be a scalar, or float array-like with the same size as x and y
+2025-03-14 17:12:09,813 - INFO - Processing iPDC 100Hz_L-R_LT
+2025-03-14 17:12:09,813 - INFO - Reading connectivity matrix from iPDC_100Hz_L-R_LT.csv
+2025-03-14 17:12:10,672 - ERROR - Error processing iPDC_100Hz_L-R_LT.csv: s must be a scalar, or float array-like with the same size as x and y
+2025-03-14 17:12:10,672 - INFO - Processing iPDC 100Hz_L-R_NvA
+2025-03-14 17:12:10,672 - INFO - Reading connectivity matrix from iPDC_100Hz_L-R_NvA.csv
+2025-03-14 17:12:11,644 - ERROR - Error processing iPDC_100Hz_L-R_NvA.csv: s must be a scalar, or float array-like with the same size as x and y
+2025-03-14 17:12:11,645 - INFO - Processing iPDC 100Hz_L-R_overall
+2025-03-14 17:12:11,645 - INFO - Reading connectivity matrix from iPDC_100Hz_L-R_overall.csv
+2025-03-14 17:12:12,726 - ERROR - Error processing iPDC_100Hz_L-R_overall.csv: s must be a scalar, or float array-like with the same size as x and y
+2025-03-14 17:12:12,727 - INFO - Processing iPDC 100Hz_L-R_RR
+2025-03-14 17:12:12,727 - INFO - Reading connectivity matrix from iPDC_100Hz_L-R_RR.csv
+2025-03-14 17:12:13,630 - ERROR - Error processing iPDC_100Hz_L-R_RR.csv: s must be a scalar, or float array-like with the same size as x and y
+2025-03-14 17:12:13,630 - INFO - Processing iPDC 100Hz_L-R_SJB
+2025-03-14 17:12:13,630 - INFO - Reading connectivity matrix from iPDC_100Hz_L-R_SJB.csv
+2025-03-14 17:12:14,492 - ERROR - Error processing iPDC_100Hz_L-R_SJB.csv: s must be a scalar, or float array-like with the same size as x and y
+2025-03-14 17:12:14,492 - INFO - Processing iPDC 100Hz_L-R_wilcoxon
+2025-03-14 17:12:14,492 - INFO - Reading connectivity matrix from iPDC_100Hz_L-R_wilcoxon.csv
+2025-03-14 17:12:15,373 - ERROR - Error processing iPDC_100Hz_L-R_wilcoxon.csv: s must be a scalar, or float array-like with the same size as x and y
+2025-03-14 17:12:15,373 - INFO - Processing Cue_iPDC_10Hz...
+2025-03-14 17:12:15,373 - INFO - Processing folder: Cue_iPDC_10Hz
+2025-03-14 17:12:15,374 - INFO - Found 12 CSV files
+2025-03-14 17:12:15,374 - INFO - Processing iPDC 10Hz_L-R_BG
+2025-03-14 17:12:15,374 - INFO - Reading connectivity matrix from iPDC_10Hz_L-R_BG.csv
+2025-03-14 17:12:16,261 - ERROR - Error processing iPDC_10Hz_L-R_BG.csv: s must be a scalar, or float array-like with the same size as x and y
+2025-03-14 17:12:16,262 - INFO - Processing iPDC 10Hz_L-R_DOC
+2025-03-14 17:12:16,262 - INFO - Reading connectivity matrix from iPDC_10Hz_L-R_DOC.csv
+2025-03-14 17:12:17,128 - ERROR - Error processing iPDC_10Hz_L-R_DOC.csv: s must be a scalar, or float array-like with the same size as x and y
+2025-03-14 17:12:17,129 - INFO - Processing iPDC 10Hz_L-R_GB
+2025-03-14 17:12:17,129 - INFO - Reading connectivity matrix from iPDC_10Hz_L-R_GB.csv
+2025-03-14 17:12:18,003 - ERROR - Error processing iPDC_10Hz_L-R_GB.csv: s must be a scalar, or float array-like with the same size as x and y
+2025-03-14 17:12:18,003 - INFO - Processing iPDC 10Hz_L-R_JDC
+2025-03-14 17:12:18,003 - INFO - Reading connectivity matrix from iPDC_10Hz_L-R_JDC.csv
+2025-03-14 17:12:18,871 - ERROR - Error processing iPDC_10Hz_L-R_JDC.csv: s must be a scalar, or float array-like with the same size as x and y
+2025-03-14 17:12:18,871 - INFO - Processing iPDC 10Hz_L-R_JFXD
+2025-03-14 17:12:18,871 - INFO - Reading connectivity matrix from iPDC_10Hz_L-R_JFXD.csv
+2025-03-14 17:12:19,798 - ERROR - Error processing iPDC_10Hz_L-R_JFXD.csv: s must be a scalar, or float array-like with the same size as x and y
+2025-03-14 17:12:19,798 - INFO - Processing iPDC 10Hz_L-R_JZ
+2025-03-14 17:12:19,798 - INFO - Reading connectivity matrix from iPDC_10Hz_L-R_JZ.csv
+2025-03-14 17:12:20,683 - ERROR - Error processing iPDC_10Hz_L-R_JZ.csv: s must be a scalar, or float array-like with the same size as x and y
+2025-03-14 17:12:20,683 - INFO - Processing iPDC 10Hz_L-R_LT
+2025-03-14 17:12:20,684 - INFO - Reading connectivity matrix from iPDC_10Hz_L-R_LT.csv
+2025-03-14 17:12:21,582 - ERROR - Error processing iPDC_10Hz_L-R_LT.csv: s must be a scalar, or float array-like with the same size as x and y
+2025-03-14 17:12:21,582 - INFO - Processing iPDC 10Hz_L-R_NvA
+2025-03-14 17:12:21,582 - INFO - Reading connectivity matrix from iPDC_10Hz_L-R_NvA.csv
+2025-03-14 17:12:22,504 - ERROR - Error processing iPDC_10Hz_L-R_NvA.csv: s must be a scalar, or float array-like with the same size as x and y
+2025-03-14 17:12:22,505 - INFO - Processing iPDC 10Hz_L-R_overall
+2025-03-14 17:12:22,505 - INFO - Reading connectivity matrix from iPDC_10Hz_L-R_overall.csv
+2025-03-14 17:12:23,418 - ERROR - Error processing iPDC_10Hz_L-R_overall.csv: s must be a scalar, or float array-like with the same size as x and y
+2025-03-14 17:12:23,418 - INFO - Processing iPDC 10Hz_L-R_RR
+2025-03-14 17:12:23,418 - INFO - Reading connectivity matrix from iPDC_10Hz_L-R_RR.csv
+2025-03-14 17:12:24,374 - ERROR - Error processing iPDC_10Hz_L-R_RR.csv: s must be a scalar, or float array-like with the same size as x and y
+2025-03-14 17:12:24,374 - INFO - Processing iPDC 10Hz_L-R_SJB
+2025-03-14 17:12:24,374 - INFO - Reading connectivity matrix from iPDC_10Hz_L-R_SJB.csv
+2025-03-14 17:12:25,293 - ERROR - Error processing iPDC_10Hz_L-R_SJB.csv: s must be a scalar, or float array-like with the same size as x and y
+2025-03-14 17:12:25,293 - INFO - Processing iPDC 10Hz_L-R_wilcoxon
+2025-03-14 17:12:25,293 - INFO - Reading connectivity matrix from iPDC_10Hz_L-R_wilcoxon.csv
+2025-03-14 17:12:26,250 - ERROR - Error processing iPDC_10Hz_L-R_wilcoxon.csv: s must be a scalar, or float array-like with the same size as x and y
+2025-03-14 17:12:26,251 - INFO - Processing Cue_iPDC_20Hz...
+2025-03-14 17:12:26,251 - INFO - Processing folder: Cue_iPDC_20Hz
+2025-03-14 17:12:26,251 - INFO - Found 12 CSV files
+2025-03-14 17:12:26,252 - INFO - Processing iPDC 20Hz_L-R_BG
+2025-03-14 17:12:26,252 - INFO - Reading connectivity matrix from iPDC_20Hz_L-R_BG.csv
+2025-03-14 17:12:27,190 - ERROR - Error processing iPDC_20Hz_L-R_BG.csv: s must be a scalar, or float array-like with the same size as x and y
+2025-03-14 17:12:27,191 - INFO - Processing iPDC 20Hz_L-R_DOC
+2025-03-14 17:12:27,191 - INFO - Reading connectivity matrix from iPDC_20Hz_L-R_DOC.csv
+2025-03-14 17:12:28,172 - ERROR - Error processing iPDC_20Hz_L-R_DOC.csv: s must be a scalar, or float array-like with the same size as x and y
+2025-03-14 17:12:28,172 - INFO - Processing iPDC 20Hz_L-R_GB
+2025-03-14 17:12:28,173 - INFO - Reading connectivity matrix from iPDC_20Hz_L-R_GB.csv
+2025-03-14 17:12:29,251 - ERROR - Error processing iPDC_20Hz_L-R_GB.csv: s must be a scalar, or float array-like with the same size as x and y
+2025-03-14 17:12:29,251 - INFO - Processing iPDC 20Hz_L-R_JDC
+2025-03-14 17:12:29,251 - INFO - Reading connectivity matrix from iPDC_20Hz_L-R_JDC.csv
+2025-03-14 17:12:30,229 - ERROR - Error processing iPDC_20Hz_L-R_JDC.csv: s must be a scalar, or float array-like with the same size as x and y
+2025-03-14 17:12:30,229 - INFO - Processing iPDC 20Hz_L-R_JFXD
+2025-03-14 17:12:30,229 - INFO - Reading connectivity matrix from iPDC_20Hz_L-R_JFXD.csv
+2025-03-14 17:12:31,232 - ERROR - Error processing iPDC_20Hz_L-R_JFXD.csv: s must be a scalar, or float array-like with the same size as x and y
+2025-03-14 17:12:31,233 - INFO - Processing iPDC 20Hz_L-R_JZ
+2025-03-14 17:12:31,233 - INFO - Reading connectivity matrix from iPDC_20Hz_L-R_JZ.csv
+2025-03-14 17:12:32,228 - ERROR - Error processing iPDC_20Hz_L-R_JZ.csv: s must be a scalar, or float array-like with the same size as x and y
+2025-03-14 17:12:32,229 - INFO - Processing iPDC 20Hz_L-R_LT
+2025-03-14 17:12:32,229 - INFO - Reading connectivity matrix from iPDC_20Hz_L-R_LT.csv
+2025-03-14 17:12:33,243 - ERROR - Error processing iPDC_20Hz_L-R_LT.csv: s must be a scalar, or float array-like with the same size as x and y
+2025-03-14 17:12:33,243 - INFO - Processing iPDC 20Hz_L-R_NvA
+2025-03-14 17:12:33,243 - INFO - Reading connectivity matrix from iPDC_20Hz_L-R_NvA.csv
+2025-03-14 17:12:34,261 - ERROR - Error processing iPDC_20Hz_L-R_NvA.csv: s must be a scalar, or float array-like with the same size as x and y
+2025-03-14 17:12:34,262 - INFO - Processing iPDC 20Hz_L-R_overall
+2025-03-14 17:12:34,262 - INFO - Reading connectivity matrix from iPDC_20Hz_L-R_overall.csv
+2025-03-14 17:12:35,278 - ERROR - Error processing iPDC_20Hz_L-R_overall.csv: s must be a scalar, or float array-like with the same size as x and y
+2025-03-14 17:12:35,278 - INFO - Processing iPDC 20Hz_L-R_RR
+2025-03-14 17:12:35,279 - INFO - Reading connectivity matrix from iPDC_20Hz_L-R_RR.csv
+2025-03-14 17:12:36,325 - ERROR - Error processing iPDC_20Hz_L-R_RR.csv: s must be a scalar, or float array-like with the same size as x and y
+2025-03-14 17:12:36,325 - INFO - Processing iPDC 20Hz_L-R_SJB
+2025-03-14 17:12:36,326 - INFO - Reading connectivity matrix from iPDC_20Hz_L-R_SJB.csv
+2025-03-14 17:12:37,398 - ERROR - Error processing iPDC_20Hz_L-R_SJB.csv: s must be a scalar, or float array-like with the same size as x and y
+2025-03-14 17:12:37,398 - INFO - Processing iPDC 20Hz_L-R_wilcoxon
+2025-03-14 17:12:37,399 - INFO - Reading connectivity matrix from iPDC_20Hz_L-R_wilcoxon.csv
+2025-03-14 17:12:38,502 - ERROR - Error processing iPDC_20Hz_L-R_wilcoxon.csv: s must be a scalar, or float array-like with the same size as x and y
+2025-03-14 17:12:38,502 - INFO - 
+---------------------
+2025-03-14 17:12:38,502 - INFO - Processing complete!
+2025-03-14 17:12:38,503 - INFO - Folders processed: 9
+2025-03-14 17:12:38,503 - INFO - Visualizations created: 0
+2025-03-14 17:12:38,503 - INFO - Errors encountered: 108
+2025-03-14 17:12:38,503 - INFO - Process completed at: 2025-03-14 17:12:38

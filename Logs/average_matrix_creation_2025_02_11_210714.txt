@@ -1,0 +1,62 @@
+MEG Signal Analysis - Enhanced Average Matrix Creation
+==================================================
+Selected dataset: DataSet4_Align_cue_626_to_1250_unc
+Excluding iDTF: True
+Process started at: 2025-02-11 21:07:14
+--------------------------------------------------
+
+Processing dataset...
+
+Processing alignment: cue
+Processing target: L
+Created average matrix: Data\DataSet4_Align_cue_626_to_1250_unc\cue\L\DataSet4_Align_cue_626_to_1250_unc_cue_average.csv
+Processing subject: BG
+Created average matrix: Data\DataSet4_Align_cue_626_to_1250_unc\cue\L\BG\DataSet4_Align_cue_626_to_1250_unc_cue_BG_average.csv
+Processing subject: DOC
+Created average matrix: Data\DataSet4_Align_cue_626_to_1250_unc\cue\L\DOC\DataSet4_Align_cue_626_to_1250_unc_cue_DOC_average.csv
+Processing subject: GB
+Created average matrix: Data\DataSet4_Align_cue_626_to_1250_unc\cue\L\GB\DataSet4_Align_cue_626_to_1250_unc_cue_GB_average.csv
+Processing subject: JDC
+Created average matrix: Data\DataSet4_Align_cue_626_to_1250_unc\cue\L\JDC\DataSet4_Align_cue_626_to_1250_unc_cue_JDC_average.csv
+Processing subject: JFXD
+Created average matrix: Data\DataSet4_Align_cue_626_to_1250_unc\cue\L\JFXD\DataSet4_Align_cue_626_to_1250_unc_cue_JFXD_average.csv
+Processing subject: JZ
+Created average matrix: Data\DataSet4_Align_cue_626_to_1250_unc\cue\L\JZ\DataSet4_Align_cue_626_to_1250_unc_cue_JZ_average.csv
+Processing subject: LT
+Created average matrix: Data\DataSet4_Align_cue_626_to_1250_unc\cue\L\LT\DataSet4_Align_cue_626_to_1250_unc_cue_LT_average.csv
+Processing subject: NvA
+Created average matrix: Data\DataSet4_Align_cue_626_to_1250_unc\cue\L\NvA\DataSet4_Align_cue_626_to_1250_unc_cue_NvA_average.csv
+Processing subject: RR
+Created average matrix: Data\DataSet4_Align_cue_626_to_1250_unc\cue\L\RR\DataSet4_Align_cue_626_to_1250_unc_cue_RR_average.csv
+Processing subject: SJB
+Created average matrix: Data\DataSet4_Align_cue_626_to_1250_unc\cue\L\SJB\DataSet4_Align_cue_626_to_1250_unc_cue_SJB_average.csv
+Processing target: R
+Created average matrix: Data\DataSet4_Align_cue_626_to_1250_unc\cue\R\DataSet4_Align_cue_626_to_1250_unc_cue_average.csv
+Processing subject: BG
+Created average matrix: Data\DataSet4_Align_cue_626_to_1250_unc\cue\R\BG\DataSet4_Align_cue_626_to_1250_unc_cue_BG_average.csv
+Processing subject: DOC
+Created average matrix: Data\DataSet4_Align_cue_626_to_1250_unc\cue\R\DOC\DataSet4_Align_cue_626_to_1250_unc_cue_DOC_average.csv
+Processing subject: GB
+Created average matrix: Data\DataSet4_Align_cue_626_to_1250_unc\cue\R\GB\DataSet4_Align_cue_626_to_1250_unc_cue_GB_average.csv
+Processing subject: JDC
+Created average matrix: Data\DataSet4_Align_cue_626_to_1250_unc\cue\R\JDC\DataSet4_Align_cue_626_to_1250_unc_cue_JDC_average.csv
+Processing subject: JFXD
+Created average matrix: Data\DataSet4_Align_cue_626_to_1250_unc\cue\R\JFXD\DataSet4_Align_cue_626_to_1250_unc_cue_JFXD_average.csv
+Processing subject: JZ
+Created average matrix: Data\DataSet4_Align_cue_626_to_1250_unc\cue\R\JZ\DataSet4_Align_cue_626_to_1250_unc_cue_JZ_average.csv
+Processing subject: LT
+Created average matrix: Data\DataSet4_Align_cue_626_to_1250_unc\cue\R\LT\DataSet4_Align_cue_626_to_1250_unc_cue_LT_average.csv
+Processing subject: NvA
+Created average matrix: Data\DataSet4_Align_cue_626_to_1250_unc\cue\R\NvA\DataSet4_Align_cue_626_to_1250_unc_cue_NvA_average.csv
+Processing subject: RR
+Created average matrix: Data\DataSet4_Align_cue_626_to_1250_unc\cue\R\RR\DataSet4_Align_cue_626_to_1250_unc_cue_RR_average.csv
+Processing subject: SJB
+Created average matrix: Data\DataSet4_Align_cue_626_to_1250_unc\cue\R\SJB\DataSet4_Align_cue_626_to_1250_unc_cue_SJB_average.csv
+
+Operation Summary
+================
+Total matrices processed: 360
+Total averages created: 22
+Errors encountered: 0
+
+Process completed at: 2025-02-11 21:07:15

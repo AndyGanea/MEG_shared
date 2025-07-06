@@ -1,0 +1,58 @@
+2025-03-14 18:28:18,269 - INFO - Starting MEG Connectogram Visualization V2
+2025-03-14 18:28:18,269 - INFO - Selected dataset: DataSet5_Align_cue_626_to_938_unc
+2025-03-14 18:28:18,269 - INFO - Selected analysis type: Wilcoxon
+2025-03-14 18:28:18,270 - INFO - Selected analysis folder: Wilcoxon_03102025-1305
+2025-03-14 18:28:18,270 - INFO - Log file: Logs\connectogram_20250314-182818.log
+2025-03-14 18:28:18,270 - INFO - Processing all folders in Wilcoxon_03102025-1305...
+2025-03-14 18:28:18,270 - INFO - Processing Cue_gDTF_100Hz...
+2025-03-14 18:28:18,270 - INFO - Processing folder: Cue_gDTF_100Hz
+2025-03-14 18:28:18,272 - INFO - Found 1 statistical test files
+2025-03-14 18:28:18,272 - INFO - Processing gDTF_100Hz_L-R (wilcoxon)
+2025-03-14 18:28:18,272 - INFO - Reading connectivity matrix from gDTF_100Hz_L-R_wilcoxon.csv
+2025-03-14 18:28:18,275 - INFO - Processing Cue_gDTF_10Hz...
+2025-03-14 18:28:18,275 - INFO - Processing folder: Cue_gDTF_10Hz
+2025-03-14 18:28:18,275 - INFO - Found 1 statistical test files
+2025-03-14 18:28:18,275 - INFO - Processing gDTF_10Hz_L-R (wilcoxon)
+2025-03-14 18:28:18,276 - INFO - Reading connectivity matrix from gDTF_10Hz_L-R_wilcoxon.csv
+2025-03-14 18:28:18,277 - INFO - Processing Cue_gDTF_20Hz...
+2025-03-14 18:28:18,277 - INFO - Processing folder: Cue_gDTF_20Hz
+2025-03-14 18:28:18,278 - INFO - Found 1 statistical test files
+2025-03-14 18:28:18,278 - INFO - Processing gDTF_20Hz_L-R (wilcoxon)
+2025-03-14 18:28:18,278 - INFO - Reading connectivity matrix from gDTF_20Hz_L-R_wilcoxon.csv
+2025-03-14 18:28:18,279 - INFO - Processing Cue_gPDC_100Hz...
+2025-03-14 18:28:18,279 - INFO - Processing folder: Cue_gPDC_100Hz
+2025-03-14 18:28:18,280 - INFO - Found 1 statistical test files
+2025-03-14 18:28:18,280 - INFO - Processing gPDC_100Hz_L-R (wilcoxon)
+2025-03-14 18:28:18,280 - INFO - Reading connectivity matrix from gPDC_100Hz_L-R_wilcoxon.csv
+2025-03-14 18:28:18,281 - INFO - Processing Cue_gPDC_10Hz...
+2025-03-14 18:28:18,281 - INFO - Processing folder: Cue_gPDC_10Hz
+2025-03-14 18:28:18,282 - INFO - Found 1 statistical test files
+2025-03-14 18:28:18,282 - INFO - Processing gPDC_10Hz_L-R (wilcoxon)
+2025-03-14 18:28:18,282 - INFO - Reading connectivity matrix from gPDC_10Hz_L-R_wilcoxon.csv
+2025-03-14 18:28:18,283 - INFO - Processing Cue_gPDC_20Hz...
+2025-03-14 18:28:18,283 - INFO - Processing folder: Cue_gPDC_20Hz
+2025-03-14 18:28:18,284 - INFO - Found 1 statistical test files
+2025-03-14 18:28:18,284 - INFO - Processing gPDC_20Hz_L-R (wilcoxon)
+2025-03-14 18:28:18,284 - INFO - Reading connectivity matrix from gPDC_20Hz_L-R_wilcoxon.csv
+2025-03-14 18:28:18,285 - INFO - Processing Cue_iPDC_100Hz...
+2025-03-14 18:28:18,286 - INFO - Processing folder: Cue_iPDC_100Hz
+2025-03-14 18:28:18,286 - INFO - Found 1 statistical test files
+2025-03-14 18:28:18,286 - INFO - Processing iPDC_100Hz_L-R (wilcoxon)
+2025-03-14 18:28:18,286 - INFO - Reading connectivity matrix from iPDC_100Hz_L-R_wilcoxon.csv
+2025-03-14 18:28:18,287 - INFO - Processing Cue_iPDC_10Hz...
+2025-03-14 18:28:18,288 - INFO - Processing folder: Cue_iPDC_10Hz
+2025-03-14 18:28:18,288 - INFO - Found 1 statistical test files
+2025-03-14 18:28:18,288 - INFO - Processing iPDC_10Hz_L-R (wilcoxon)
+2025-03-14 18:28:18,288 - INFO - Reading connectivity matrix from iPDC_10Hz_L-R_wilcoxon.csv
+2025-03-14 18:28:18,290 - INFO - Processing Cue_iPDC_20Hz...
+2025-03-14 18:28:18,290 - INFO - Processing folder: Cue_iPDC_20Hz
+2025-03-14 18:28:18,290 - INFO - Found 1 statistical test files
+2025-03-14 18:28:18,290 - INFO - Processing iPDC_20Hz_L-R (wilcoxon)
+2025-03-14 18:28:18,291 - INFO - Reading connectivity matrix from iPDC_20Hz_L-R_wilcoxon.csv
+2025-03-14 18:28:18,292 - INFO - 
+---------------------
+2025-03-14 18:28:18,292 - INFO - Processing complete!
+2025-03-14 18:28:18,292 - INFO - Folders processed: 9
+2025-03-14 18:28:18,292 - INFO - Visualizations created: 0
+2025-03-14 18:28:18,292 - INFO - Errors encountered: 0
+2025-03-14 18:28:18,292 - INFO - Process completed at: 2025-03-14 18:28:18

@@ -1,0 +1,68 @@
+2025-03-15 18:46:49,803 - INFO - Starting MEG Visualization V1
+2025-03-15 18:47:14,881 - INFO - Selected dataset: DataSet5_Align_cue_626_to_938_unc
+2025-03-15 18:47:14,881 - INFO - Selected analysis type: Wilcoxon
+2025-03-15 18:47:14,881 - INFO - Selected analysis folder: Wilcoxon_03102025-1305
+2025-03-15 18:47:14,882 - INFO - Selected visualization type: circular
+2025-03-15 18:47:14,882 - INFO - Connection display mode: separate
+2025-03-15 18:47:14,882 - INFO - Processing all folders in Wilcoxon_03102025-1305...
+2025-03-15 18:47:14,882 - INFO - Found 9 folders to process
+2025-03-15 18:47:14,883 - INFO - Processing folder 1/9: Cue_gDTF_100Hz
+2025-03-15 18:47:14,883 - INFO - Reading connectivity matrix from gDTF_100Hz_L-R_wilcoxon.csv
+2025-03-15 18:47:14,886 - INFO - Created connectivity report: Data\DataSet5_Align_cue_626_to_938_unc\Wilcoxon_03102025-1305\Cue_gDTF_100Hz\gDTF_100Hz_L-R_wilcoxon_connectivity_report.txt
+2025-03-15 18:47:15,765 - INFO - Created circular connectogram: Data\DataSet5_Align_cue_626_to_938_unc\Wilcoxon_03102025-1305\Cue_gDTF_100Hz\gDTF_100Hz_L-R_wilcoxon_circular_connectogram_positive_20250315_184714.png
+2025-03-15 18:47:16,542 - INFO - Created circular connectogram: Data\DataSet5_Align_cue_626_to_938_unc\Wilcoxon_03102025-1305\Cue_gDTF_100Hz\gDTF_100Hz_L-R_wilcoxon_circular_connectogram_negative_20250315_184714.png
+2025-03-15 18:47:16,542 - INFO - Progress: 1/9 folders completed
+2025-03-15 18:47:16,542 - INFO - Processing folder 2/9: Cue_gDTF_10Hz
+2025-03-15 18:47:16,543 - INFO - Reading connectivity matrix from gDTF_10Hz_L-R_wilcoxon.csv
+2025-03-15 18:47:16,545 - INFO - Created connectivity report: Data\DataSet5_Align_cue_626_to_938_unc\Wilcoxon_03102025-1305\Cue_gDTF_10Hz\gDTF_10Hz_L-R_wilcoxon_connectivity_report.txt
+2025-03-15 18:47:17,454 - INFO - Created circular connectogram: Data\DataSet5_Align_cue_626_to_938_unc\Wilcoxon_03102025-1305\Cue_gDTF_10Hz\gDTF_10Hz_L-R_wilcoxon_circular_connectogram_positive_20250315_184716.png
+2025-03-15 18:47:18,309 - INFO - Created circular connectogram: Data\DataSet5_Align_cue_626_to_938_unc\Wilcoxon_03102025-1305\Cue_gDTF_10Hz\gDTF_10Hz_L-R_wilcoxon_circular_connectogram_negative_20250315_184716.png
+2025-03-15 18:47:18,310 - INFO - Progress: 2/9 folders completed
+2025-03-15 18:47:18,310 - INFO - Processing folder 3/9: Cue_gDTF_20Hz
+2025-03-15 18:47:18,311 - INFO - Reading connectivity matrix from gDTF_20Hz_L-R_wilcoxon.csv
+2025-03-15 18:47:18,313 - INFO - Created connectivity report: Data\DataSet5_Align_cue_626_to_938_unc\Wilcoxon_03102025-1305\Cue_gDTF_20Hz\gDTF_20Hz_L-R_wilcoxon_connectivity_report.txt
+2025-03-15 18:47:19,188 - INFO - Created circular connectogram: Data\DataSet5_Align_cue_626_to_938_unc\Wilcoxon_03102025-1305\Cue_gDTF_20Hz\gDTF_20Hz_L-R_wilcoxon_circular_connectogram_positive_20250315_184718.png
+2025-03-15 18:47:20,009 - INFO - Created circular connectogram: Data\DataSet5_Align_cue_626_to_938_unc\Wilcoxon_03102025-1305\Cue_gDTF_20Hz\gDTF_20Hz_L-R_wilcoxon_circular_connectogram_negative_20250315_184718.png
+2025-03-15 18:47:20,010 - INFO - Progress: 3/9 folders completed
+2025-03-15 18:47:20,010 - INFO - Processing folder 4/9: Cue_gPDC_100Hz
+2025-03-15 18:47:20,011 - INFO - Reading connectivity matrix from gPDC_100Hz_L-R_wilcoxon.csv
+2025-03-15 18:47:20,013 - INFO - Created connectivity report: Data\DataSet5_Align_cue_626_to_938_unc\Wilcoxon_03102025-1305\Cue_gPDC_100Hz\gPDC_100Hz_L-R_wilcoxon_connectivity_report.txt
+2025-03-15 18:47:21,013 - INFO - Created circular connectogram: Data\DataSet5_Align_cue_626_to_938_unc\Wilcoxon_03102025-1305\Cue_gPDC_100Hz\gPDC_100Hz_L-R_wilcoxon_circular_connectogram_positive_20250315_184720.png
+2025-03-15 18:47:21,854 - INFO - Created circular connectogram: Data\DataSet5_Align_cue_626_to_938_unc\Wilcoxon_03102025-1305\Cue_gPDC_100Hz\gPDC_100Hz_L-R_wilcoxon_circular_connectogram_negative_20250315_184720.png
+2025-03-15 18:47:21,854 - INFO - Progress: 4/9 folders completed
+2025-03-15 18:47:21,854 - INFO - Processing folder 5/9: Cue_gPDC_10Hz
+2025-03-15 18:47:21,855 - INFO - Reading connectivity matrix from gPDC_10Hz_L-R_wilcoxon.csv
+2025-03-15 18:47:21,857 - INFO - Created connectivity report: Data\DataSet5_Align_cue_626_to_938_unc\Wilcoxon_03102025-1305\Cue_gPDC_10Hz\gPDC_10Hz_L-R_wilcoxon_connectivity_report.txt
+2025-03-15 18:47:22,833 - INFO - Created circular connectogram: Data\DataSet5_Align_cue_626_to_938_unc\Wilcoxon_03102025-1305\Cue_gPDC_10Hz\gPDC_10Hz_L-R_wilcoxon_circular_connectogram_positive_20250315_184721.png
+2025-03-15 18:47:23,665 - INFO - Created circular connectogram: Data\DataSet5_Align_cue_626_to_938_unc\Wilcoxon_03102025-1305\Cue_gPDC_10Hz\gPDC_10Hz_L-R_wilcoxon_circular_connectogram_negative_20250315_184721.png
+2025-03-15 18:47:23,665 - INFO - Progress: 5/9 folders completed
+2025-03-15 18:47:23,665 - INFO - Processing folder 6/9: Cue_gPDC_20Hz
+2025-03-15 18:47:23,666 - INFO - Reading connectivity matrix from gPDC_20Hz_L-R_wilcoxon.csv
+2025-03-15 18:47:23,668 - INFO - Created connectivity report: Data\DataSet5_Align_cue_626_to_938_unc\Wilcoxon_03102025-1305\Cue_gPDC_20Hz\gPDC_20Hz_L-R_wilcoxon_connectivity_report.txt
+2025-03-15 18:47:24,539 - INFO - Created circular connectogram: Data\DataSet5_Align_cue_626_to_938_unc\Wilcoxon_03102025-1305\Cue_gPDC_20Hz\gPDC_20Hz_L-R_wilcoxon_circular_connectogram_positive_20250315_184723.png
+2025-03-15 18:47:25,544 - INFO - Created circular connectogram: Data\DataSet5_Align_cue_626_to_938_unc\Wilcoxon_03102025-1305\Cue_gPDC_20Hz\gPDC_20Hz_L-R_wilcoxon_circular_connectogram_negative_20250315_184723.png
+2025-03-15 18:47:25,545 - INFO - Progress: 6/9 folders completed
+2025-03-15 18:47:25,545 - INFO - Processing folder 7/9: Cue_iPDC_100Hz
+2025-03-15 18:47:25,546 - INFO - Reading connectivity matrix from iPDC_100Hz_L-R_wilcoxon.csv
+2025-03-15 18:47:25,548 - INFO - Created connectivity report: Data\DataSet5_Align_cue_626_to_938_unc\Wilcoxon_03102025-1305\Cue_iPDC_100Hz\iPDC_100Hz_L-R_wilcoxon_connectivity_report.txt
+2025-03-15 18:47:26,430 - INFO - Created circular connectogram: Data\DataSet5_Align_cue_626_to_938_unc\Wilcoxon_03102025-1305\Cue_iPDC_100Hz\iPDC_100Hz_L-R_wilcoxon_circular_connectogram_positive_20250315_184725.png
+2025-03-15 18:47:27,395 - INFO - Created circular connectogram: Data\DataSet5_Align_cue_626_to_938_unc\Wilcoxon_03102025-1305\Cue_iPDC_100Hz\iPDC_100Hz_L-R_wilcoxon_circular_connectogram_negative_20250315_184725.png
+2025-03-15 18:47:27,395 - INFO - Progress: 7/9 folders completed
+2025-03-15 18:47:27,395 - INFO - Processing folder 8/9: Cue_iPDC_10Hz
+2025-03-15 18:47:27,396 - INFO - Reading connectivity matrix from iPDC_10Hz_L-R_wilcoxon.csv
+2025-03-15 18:47:27,398 - INFO - Created connectivity report: Data\DataSet5_Align_cue_626_to_938_unc\Wilcoxon_03102025-1305\Cue_iPDC_10Hz\iPDC_10Hz_L-R_wilcoxon_connectivity_report.txt
+2025-03-15 18:47:28,368 - INFO - Created circular connectogram: Data\DataSet5_Align_cue_626_to_938_unc\Wilcoxon_03102025-1305\Cue_iPDC_10Hz\iPDC_10Hz_L-R_wilcoxon_circular_connectogram_positive_20250315_184727.png
+2025-03-15 18:47:29,212 - INFO - Created circular connectogram: Data\DataSet5_Align_cue_626_to_938_unc\Wilcoxon_03102025-1305\Cue_iPDC_10Hz\iPDC_10Hz_L-R_wilcoxon_circular_connectogram_negative_20250315_184727.png
+2025-03-15 18:47:29,213 - INFO - Progress: 8/9 folders completed
+2025-03-15 18:47:29,213 - INFO - Processing folder 9/9: Cue_iPDC_20Hz
+2025-03-15 18:47:29,214 - INFO - Reading connectivity matrix from iPDC_20Hz_L-R_wilcoxon.csv
+2025-03-15 18:47:29,216 - INFO - Created connectivity report: Data\DataSet5_Align_cue_626_to_938_unc\Wilcoxon_03102025-1305\Cue_iPDC_20Hz\iPDC_20Hz_L-R_wilcoxon_connectivity_report.txt
+2025-03-15 18:47:30,184 - INFO - Created circular connectogram: Data\DataSet5_Align_cue_626_to_938_unc\Wilcoxon_03102025-1305\Cue_iPDC_20Hz\iPDC_20Hz_L-R_wilcoxon_circular_connectogram_positive_20250315_184729.png
+2025-03-15 18:47:31,077 - INFO - Created circular connectogram: Data\DataSet5_Align_cue_626_to_938_unc\Wilcoxon_03102025-1305\Cue_iPDC_20Hz\iPDC_20Hz_L-R_wilcoxon_circular_connectogram_negative_20250315_184729.png
+2025-03-15 18:47:31,077 - INFO - Progress: 9/9 folders completed
+2025-03-15 18:47:31,077 - INFO - 
+=== Processing Summary ===
+2025-03-15 18:47:31,078 - INFO - Folders processed: 9
+2025-03-15 18:47:31,078 - INFO - Visualizations created: 18
+2025-03-15 18:47:31,078 - INFO - Errors encountered: 0
+2025-03-15 18:47:31,078 - INFO - Process completed at: 2025-03-15 18:47:31

@@ -1,0 +1,19 @@
+MEG Signal Analysis - Enhanced Heatmaps Comparison
+===============================================
+Selected dataset: DataSet2_unc
+Output directory: Heatmaps\DataSet2_unc\Heatmaps_Comparison_normalized
+Process started at: 2025-02-06 10:08:44
+-----------------------------------------------
+
+
+Processing alignment: cue
+
+Processing alignment: mov
+
+Operation Summary
+================
+Total comparisons created: 0
+Errors encountered: 0
+
+Output directory: Heatmaps\DataSet2_unc\Heatmaps_Comparison_normalized
+Process completed at: 2025-02-06 10:08:44

@@ -1,0 +1,2210 @@
+2025-01-27 18:14:17,394 - INFO - Starting matrix averaging process
+2025-01-27 18:14:17,394 - INFO - 
+Processing: cue/L/iDTF_10Hz
+2025-01-27 18:14:18,494 - INFO - Created overall average: cue_L_iDTF_10Hz_average.csv
+2025-01-27 18:14:18,502 - INFO - Created average for subject DOC: cue_L_iDTF_10Hz_DOC_average.csv
+2025-01-27 18:14:18,502 - INFO - Subject DOC: Averaged 8 files
+2025-01-27 18:14:18,514 - INFO - Created average for subject GB: cue_L_iDTF_10Hz_GB_average.csv
+2025-01-27 18:14:18,514 - INFO - Subject GB: Averaged 8 files
+2025-01-27 18:14:18,522 - INFO - Created average for subject JDC: cue_L_iDTF_10Hz_JDC_average.csv
+2025-01-27 18:14:18,524 - INFO - Subject JDC: Averaged 8 files
+2025-01-27 18:14:18,533 - INFO - Created average for subject JFXD: cue_L_iDTF_10Hz_JFXD_average.csv
+2025-01-27 18:14:18,534 - INFO - Subject JFXD: Averaged 8 files
+2025-01-27 18:14:18,538 - INFO - Created average for subject JZ: cue_L_iDTF_10Hz_JZ_average.csv
+2025-01-27 18:14:18,538 - INFO - Subject JZ: Averaged 8 files
+2025-01-27 18:14:18,553 - INFO - Created average for subject LT: cue_L_iDTF_10Hz_LT_average.csv
+2025-01-27 18:14:18,553 - INFO - Subject LT: Averaged 8 files
+2025-01-27 18:14:18,566 - INFO - Created average for subject NvA: cue_L_iDTF_10Hz_NvA_average.csv
+2025-01-27 18:14:18,566 - INFO - Subject NvA: Averaged 8 files
+2025-01-27 18:14:18,570 - INFO - Created average for subject RR: cue_L_iDTF_10Hz_RR_average.csv
+2025-01-27 18:14:18,570 - INFO - Subject RR: Averaged 8 files
+2025-01-27 18:14:18,582 - INFO - Created average for subject SJB: cue_L_iDTF_10Hz_SJB_average.csv
+2025-01-27 18:14:18,582 - INFO - Subject SJB: Averaged 8 files
+2025-01-27 18:14:18,592 - INFO - Created average for subject BG: cue_L_iDTF_10Hz_BG_average.csv
+2025-01-27 18:14:18,592 - INFO - Subject BG: Averaged 6 files
+2025-01-27 18:14:18,595 - INFO - 
+Processing: cue/L/iDTF_20Hz
+2025-01-27 18:14:19,681 - INFO - Created overall average: cue_L_iDTF_20Hz_average.csv
+2025-01-27 18:14:19,690 - INFO - Created average for subject DOC: cue_L_iDTF_20Hz_DOC_average.csv
+2025-01-27 18:14:19,690 - INFO - Subject DOC: Averaged 8 files
+2025-01-27 18:14:19,700 - INFO - Created average for subject GB: cue_L_iDTF_20Hz_GB_average.csv
+2025-01-27 18:14:19,700 - INFO - Subject GB: Averaged 8 files
+2025-01-27 18:14:19,712 - INFO - Created average for subject JDC: cue_L_iDTF_20Hz_JDC_average.csv
+2025-01-27 18:14:19,713 - INFO - Subject JDC: Averaged 8 files
+2025-01-27 18:14:19,716 - INFO - Created average for subject JFXD: cue_L_iDTF_20Hz_JFXD_average.csv
+2025-01-27 18:14:19,716 - INFO - Subject JFXD: Averaged 8 files
+2025-01-27 18:14:19,731 - INFO - Created average for subject JZ: cue_L_iDTF_20Hz_JZ_average.csv
+2025-01-27 18:14:19,731 - INFO - Subject JZ: Averaged 8 files
+2025-01-27 18:14:19,735 - INFO - Created average for subject LT: cue_L_iDTF_20Hz_LT_average.csv
+2025-01-27 18:14:19,735 - INFO - Subject LT: Averaged 8 files
+2025-01-27 18:14:19,749 - INFO - Created average for subject NvA: cue_L_iDTF_20Hz_NvA_average.csv
+2025-01-27 18:14:19,749 - INFO - Subject NvA: Averaged 8 files
+2025-01-27 18:14:19,758 - INFO - Created average for subject RR: cue_L_iDTF_20Hz_RR_average.csv
+2025-01-27 18:14:19,758 - INFO - Subject RR: Averaged 8 files
+2025-01-27 18:14:19,766 - INFO - Created average for subject SJB: cue_L_iDTF_20Hz_SJB_average.csv
+2025-01-27 18:14:19,766 - INFO - Subject SJB: Averaged 8 files
+2025-01-27 18:14:19,777 - INFO - Created average for subject BG: cue_L_iDTF_20Hz_BG_average.csv
+2025-01-27 18:14:19,779 - INFO - Subject BG: Averaged 6 files
+2025-01-27 18:14:19,779 - INFO - 
+Processing: cue/L/iDTF_100Hz
+2025-01-27 18:14:20,806 - INFO - Created overall average: cue_L_iDTF_100Hz_average.csv
+2025-01-27 18:14:20,815 - INFO - Created average for subject DOC: cue_L_iDTF_100Hz_DOC_average.csv
+2025-01-27 18:14:20,816 - INFO - Subject DOC: Averaged 8 files
+2025-01-27 18:14:20,820 - INFO - Created average for subject GB: cue_L_iDTF_100Hz_GB_average.csv
+2025-01-27 18:14:20,820 - INFO - Subject GB: Averaged 8 files
+2025-01-27 18:14:20,834 - INFO - Created average for subject JDC: cue_L_iDTF_100Hz_JDC_average.csv
+2025-01-27 18:14:20,834 - INFO - Subject JDC: Averaged 8 files
+2025-01-27 18:14:20,844 - INFO - Created average for subject JFXD: cue_L_iDTF_100Hz_JFXD_average.csv
+2025-01-27 18:14:20,844 - INFO - Subject JFXD: Averaged 8 files
+2025-01-27 18:14:20,851 - INFO - Created average for subject JZ: cue_L_iDTF_100Hz_JZ_average.csv
+2025-01-27 18:14:20,851 - INFO - Subject JZ: Averaged 8 files
+2025-01-27 18:14:20,863 - INFO - Created average for subject LT: cue_L_iDTF_100Hz_LT_average.csv
+2025-01-27 18:14:20,863 - INFO - Subject LT: Averaged 8 files
+2025-01-27 18:14:20,876 - INFO - Created average for subject NvA: cue_L_iDTF_100Hz_NvA_average.csv
+2025-01-27 18:14:20,876 - INFO - Subject NvA: Averaged 8 files
+2025-01-27 18:14:20,878 - INFO - Created average for subject RR: cue_L_iDTF_100Hz_RR_average.csv
+2025-01-27 18:14:20,878 - INFO - Subject RR: Averaged 8 files
+2025-01-27 18:14:20,897 - INFO - Created average for subject SJB: cue_L_iDTF_100Hz_SJB_average.csv
+2025-01-27 18:14:20,897 - INFO - Subject SJB: Averaged 8 files
+2025-01-27 18:14:20,906 - INFO - Created average for subject BG: cue_L_iDTF_100Hz_BG_average.csv
+2025-01-27 18:14:20,906 - INFO - Subject BG: Averaged 6 files
+2025-01-27 18:14:20,907 - INFO - 
+Processing: cue/L/gDTF_10Hz
+2025-01-27 18:14:21,875 - INFO - Created overall average: cue_L_gDTF_10Hz_average.csv
+2025-01-27 18:14:21,881 - INFO - Created average for subject DOC: cue_L_gDTF_10Hz_DOC_average.csv
+2025-01-27 18:14:21,881 - INFO - Subject DOC: Averaged 8 files
+2025-01-27 18:14:21,898 - INFO - Created average for subject GB: cue_L_gDTF_10Hz_GB_average.csv
+2025-01-27 18:14:21,899 - INFO - Subject GB: Averaged 8 files
+2025-01-27 18:14:21,911 - INFO - Created average for subject JDC: cue_L_gDTF_10Hz_JDC_average.csv
+2025-01-27 18:14:21,911 - INFO - Subject JDC: Averaged 8 files
+2025-01-27 18:14:21,915 - INFO - Created average for subject JFXD: cue_L_gDTF_10Hz_JFXD_average.csv
+2025-01-27 18:14:21,915 - INFO - Subject JFXD: Averaged 8 files
+2025-01-27 18:14:21,926 - INFO - Created average for subject JZ: cue_L_gDTF_10Hz_JZ_average.csv
+2025-01-27 18:14:21,926 - INFO - Subject JZ: Averaged 8 files
+2025-01-27 18:14:21,936 - INFO - Created average for subject LT: cue_L_gDTF_10Hz_LT_average.csv
+2025-01-27 18:14:21,936 - INFO - Subject LT: Averaged 8 files
+2025-01-27 18:14:21,948 - INFO - Created average for subject NvA: cue_L_gDTF_10Hz_NvA_average.csv
+2025-01-27 18:14:21,948 - INFO - Subject NvA: Averaged 8 files
+2025-01-27 18:14:21,954 - INFO - Created average for subject RR: cue_L_gDTF_10Hz_RR_average.csv
+2025-01-27 18:14:21,954 - INFO - Subject RR: Averaged 8 files
+2025-01-27 18:14:21,967 - INFO - Created average for subject SJB: cue_L_gDTF_10Hz_SJB_average.csv
+2025-01-27 18:14:21,969 - INFO - Subject SJB: Averaged 8 files
+2025-01-27 18:14:21,975 - INFO - Created average for subject BG: cue_L_gDTF_10Hz_BG_average.csv
+2025-01-27 18:14:21,975 - INFO - Subject BG: Averaged 6 files
+2025-01-27 18:14:21,979 - INFO - 
+Processing: cue/L/gDTF_20Hz
+2025-01-27 18:14:23,025 - INFO - Created overall average: cue_L_gDTF_20Hz_average.csv
+2025-01-27 18:14:23,035 - INFO - Created average for subject DOC: cue_L_gDTF_20Hz_DOC_average.csv
+2025-01-27 18:14:23,035 - INFO - Subject DOC: Averaged 8 files
+2025-01-27 18:14:23,041 - INFO - Created average for subject GB: cue_L_gDTF_20Hz_GB_average.csv
+2025-01-27 18:14:23,041 - INFO - Subject GB: Averaged 8 files
+2025-01-27 18:14:23,056 - INFO - Created average for subject JDC: cue_L_gDTF_20Hz_JDC_average.csv
+2025-01-27 18:14:23,056 - INFO - Subject JDC: Averaged 8 files
+2025-01-27 18:14:23,063 - INFO - Created average for subject JFXD: cue_L_gDTF_20Hz_JFXD_average.csv
+2025-01-27 18:14:23,063 - INFO - Subject JFXD: Averaged 8 files
+2025-01-27 18:14:23,068 - INFO - Created average for subject JZ: cue_L_gDTF_20Hz_JZ_average.csv
+2025-01-27 18:14:23,068 - INFO - Subject JZ: Averaged 8 files
+2025-01-27 18:14:23,081 - INFO - Created average for subject LT: cue_L_gDTF_20Hz_LT_average.csv
+2025-01-27 18:14:23,085 - INFO - Subject LT: Averaged 8 files
+2025-01-27 18:14:23,099 - INFO - Created average for subject NvA: cue_L_gDTF_20Hz_NvA_average.csv
+2025-01-27 18:14:23,099 - INFO - Subject NvA: Averaged 8 files
+2025-01-27 18:14:23,103 - INFO - Created average for subject RR: cue_L_gDTF_20Hz_RR_average.csv
+2025-01-27 18:14:23,103 - INFO - Subject RR: Averaged 8 files
+2025-01-27 18:14:23,119 - INFO - Created average for subject SJB: cue_L_gDTF_20Hz_SJB_average.csv
+2025-01-27 18:14:23,120 - INFO - Subject SJB: Averaged 8 files
+2025-01-27 18:14:23,126 - INFO - Created average for subject BG: cue_L_gDTF_20Hz_BG_average.csv
+2025-01-27 18:14:23,126 - INFO - Subject BG: Averaged 6 files
+2025-01-27 18:14:23,130 - INFO - 
+Processing: cue/L/gDTF_100Hz
+2025-01-27 18:14:24,122 - INFO - Created overall average: cue_L_gDTF_100Hz_average.csv
+2025-01-27 18:14:24,139 - INFO - Created average for subject DOC: cue_L_gDTF_100Hz_DOC_average.csv
+2025-01-27 18:14:24,139 - INFO - Subject DOC: Averaged 8 files
+2025-01-27 18:14:24,151 - INFO - Created average for subject GB: cue_L_gDTF_100Hz_GB_average.csv
+2025-01-27 18:14:24,152 - INFO - Subject GB: Averaged 8 files
+2025-01-27 18:14:24,163 - INFO - Created average for subject JDC: cue_L_gDTF_100Hz_JDC_average.csv
+2025-01-27 18:14:24,163 - INFO - Subject JDC: Averaged 8 files
+2025-01-27 18:14:24,173 - INFO - Created average for subject JFXD: cue_L_gDTF_100Hz_JFXD_average.csv
+2025-01-27 18:14:24,173 - INFO - Subject JFXD: Averaged 8 files
+2025-01-27 18:14:24,186 - INFO - Created average for subject JZ: cue_L_gDTF_100Hz_JZ_average.csv
+2025-01-27 18:14:24,186 - INFO - Subject JZ: Averaged 8 files
+2025-01-27 18:14:24,190 - INFO - Created average for subject LT: cue_L_gDTF_100Hz_LT_average.csv
+2025-01-27 18:14:24,190 - INFO - Subject LT: Averaged 8 files
+2025-01-27 18:14:24,207 - INFO - Created average for subject NvA: cue_L_gDTF_100Hz_NvA_average.csv
+2025-01-27 18:14:24,207 - INFO - Subject NvA: Averaged 8 files
+2025-01-27 18:14:24,217 - INFO - Created average for subject RR: cue_L_gDTF_100Hz_RR_average.csv
+2025-01-27 18:14:24,218 - INFO - Subject RR: Averaged 8 files
+2025-01-27 18:14:24,227 - INFO - Created average for subject SJB: cue_L_gDTF_100Hz_SJB_average.csv
+2025-01-27 18:14:24,227 - INFO - Subject SJB: Averaged 8 files
+2025-01-27 18:14:24,235 - INFO - Created average for subject BG: cue_L_gDTF_100Hz_BG_average.csv
+2025-01-27 18:14:24,235 - INFO - Subject BG: Averaged 6 files
+2025-01-27 18:14:24,237 - INFO - 
+Processing: cue/L/iPDC_10Hz
+2025-01-27 18:14:25,308 - INFO - Created overall average: cue_L_iPDC_10Hz_average.csv
+2025-01-27 18:14:25,312 - INFO - Created average for subject DOC: cue_L_iPDC_10Hz_DOC_average.csv
+2025-01-27 18:14:25,312 - INFO - Subject DOC: Averaged 8 files
+2025-01-27 18:14:25,325 - INFO - Created average for subject GB: cue_L_iPDC_10Hz_GB_average.csv
+2025-01-27 18:14:25,325 - INFO - Subject GB: Averaged 8 files
+2025-01-27 18:14:25,339 - INFO - Created average for subject JDC: cue_L_iPDC_10Hz_JDC_average.csv
+2025-01-27 18:14:25,339 - INFO - Subject JDC: Averaged 8 files
+2025-01-27 18:14:25,346 - INFO - Created average for subject JFXD: cue_L_iPDC_10Hz_JFXD_average.csv
+2025-01-27 18:14:25,346 - INFO - Subject JFXD: Averaged 8 files
+2025-01-27 18:14:25,360 - INFO - Created average for subject JZ: cue_L_iPDC_10Hz_JZ_average.csv
+2025-01-27 18:14:25,360 - INFO - Subject JZ: Averaged 8 files
+2025-01-27 18:14:25,372 - INFO - Created average for subject LT: cue_L_iPDC_10Hz_LT_average.csv
+2025-01-27 18:14:25,373 - INFO - Subject LT: Averaged 8 files
+2025-01-27 18:14:25,380 - INFO - Created average for subject NvA: cue_L_iPDC_10Hz_NvA_average.csv
+2025-01-27 18:14:25,380 - INFO - Subject NvA: Averaged 8 files
+2025-01-27 18:14:25,387 - INFO - Created average for subject RR: cue_L_iPDC_10Hz_RR_average.csv
+2025-01-27 18:14:25,387 - INFO - Subject RR: Averaged 8 files
+2025-01-27 18:14:25,405 - INFO - Created average for subject SJB: cue_L_iPDC_10Hz_SJB_average.csv
+2025-01-27 18:14:25,406 - INFO - Subject SJB: Averaged 8 files
+2025-01-27 18:14:25,414 - INFO - Created average for subject BG: cue_L_iPDC_10Hz_BG_average.csv
+2025-01-27 18:14:25,414 - INFO - Subject BG: Averaged 6 files
+2025-01-27 18:14:25,415 - INFO - 
+Processing: cue/L/iPDC_20Hz
+2025-01-27 18:14:26,435 - INFO - Created overall average: cue_L_iPDC_20Hz_average.csv
+2025-01-27 18:14:26,435 - INFO - Created average for subject DOC: cue_L_iPDC_20Hz_DOC_average.csv
+2025-01-27 18:14:26,450 - INFO - Subject DOC: Averaged 8 files
+2025-01-27 18:14:26,457 - INFO - Created average for subject GB: cue_L_iPDC_20Hz_GB_average.csv
+2025-01-27 18:14:26,462 - INFO - Subject GB: Averaged 8 files
+2025-01-27 18:14:26,473 - INFO - Created average for subject JDC: cue_L_iPDC_20Hz_JDC_average.csv
+2025-01-27 18:14:26,474 - INFO - Subject JDC: Averaged 8 files
+2025-01-27 18:14:26,475 - INFO - Created average for subject JFXD: cue_L_iPDC_20Hz_JFXD_average.csv
+2025-01-27 18:14:26,475 - INFO - Subject JFXD: Averaged 8 files
+2025-01-27 18:14:26,488 - INFO - Created average for subject JZ: cue_L_iPDC_20Hz_JZ_average.csv
+2025-01-27 18:14:26,488 - INFO - Subject JZ: Averaged 8 files
+2025-01-27 18:14:26,502 - INFO - Created average for subject LT: cue_L_iPDC_20Hz_LT_average.csv
+2025-01-27 18:14:26,502 - INFO - Subject LT: Averaged 8 files
+2025-01-27 18:14:26,510 - INFO - Created average for subject NvA: cue_L_iPDC_20Hz_NvA_average.csv
+2025-01-27 18:14:26,510 - INFO - Subject NvA: Averaged 8 files
+2025-01-27 18:14:26,520 - INFO - Created average for subject RR: cue_L_iPDC_20Hz_RR_average.csv
+2025-01-27 18:14:26,520 - INFO - Subject RR: Averaged 8 files
+2025-01-27 18:14:26,527 - INFO - Created average for subject SJB: cue_L_iPDC_20Hz_SJB_average.csv
+2025-01-27 18:14:26,535 - INFO - Subject SJB: Averaged 8 files
+2025-01-27 18:14:26,540 - INFO - Created average for subject BG: cue_L_iPDC_20Hz_BG_average.csv
+2025-01-27 18:14:26,540 - INFO - Subject BG: Averaged 6 files
+2025-01-27 18:14:26,540 - INFO - 
+Processing: cue/L/iPDC_100Hz
+2025-01-27 18:14:27,525 - INFO - Created overall average: cue_L_iPDC_100Hz_average.csv
+2025-01-27 18:14:27,533 - INFO - Created average for subject DOC: cue_L_iPDC_100Hz_DOC_average.csv
+2025-01-27 18:14:27,533 - INFO - Subject DOC: Averaged 8 files
+2025-01-27 18:14:27,547 - INFO - Created average for subject GB: cue_L_iPDC_100Hz_GB_average.csv
+2025-01-27 18:14:27,547 - INFO - Subject GB: Averaged 8 files
+2025-01-27 18:14:27,559 - INFO - Created average for subject JDC: cue_L_iPDC_100Hz_JDC_average.csv
+2025-01-27 18:14:27,559 - INFO - Subject JDC: Averaged 8 files
+2025-01-27 18:14:27,571 - INFO - Created average for subject JFXD: cue_L_iPDC_100Hz_JFXD_average.csv
+2025-01-27 18:14:27,571 - INFO - Subject JFXD: Averaged 8 files
+2025-01-27 18:14:27,578 - INFO - Created average for subject JZ: cue_L_iPDC_100Hz_JZ_average.csv
+2025-01-27 18:14:27,578 - INFO - Subject JZ: Averaged 8 files
+2025-01-27 18:14:27,590 - INFO - Created average for subject LT: cue_L_iPDC_100Hz_LT_average.csv
+2025-01-27 18:14:27,590 - INFO - Subject LT: Averaged 8 files
+2025-01-27 18:14:27,600 - INFO - Created average for subject NvA: cue_L_iPDC_100Hz_NvA_average.csv
+2025-01-27 18:14:27,600 - INFO - Subject NvA: Averaged 8 files
+2025-01-27 18:14:27,607 - INFO - Created average for subject RR: cue_L_iPDC_100Hz_RR_average.csv
+2025-01-27 18:14:27,607 - INFO - Subject RR: Averaged 8 files
+2025-01-27 18:14:27,621 - INFO - Created average for subject SJB: cue_L_iPDC_100Hz_SJB_average.csv
+2025-01-27 18:14:27,621 - INFO - Subject SJB: Averaged 8 files
+2025-01-27 18:14:27,626 - INFO - Created average for subject BG: cue_L_iPDC_100Hz_BG_average.csv
+2025-01-27 18:14:27,626 - INFO - Subject BG: Averaged 6 files
+2025-01-27 18:14:27,630 - INFO - 
+Processing: cue/L/gPDC_10Hz
+2025-01-27 18:14:28,594 - INFO - Created overall average: cue_L_gPDC_10Hz_average.csv
+2025-01-27 18:14:28,597 - INFO - Created average for subject DOC: cue_L_gPDC_10Hz_DOC_average.csv
+2025-01-27 18:14:28,597 - INFO - Subject DOC: Averaged 8 files
+2025-01-27 18:14:28,617 - INFO - Created average for subject GB: cue_L_gPDC_10Hz_GB_average.csv
+2025-01-27 18:14:28,617 - INFO - Subject GB: Averaged 8 files
+2025-01-27 18:14:28,628 - INFO - Created average for subject JDC: cue_L_gPDC_10Hz_JDC_average.csv
+2025-01-27 18:14:28,628 - INFO - Subject JDC: Averaged 8 files
+2025-01-27 18:14:28,632 - INFO - Created average for subject JFXD: cue_L_gPDC_10Hz_JFXD_average.csv
+2025-01-27 18:14:28,632 - INFO - Subject JFXD: Averaged 8 files
+2025-01-27 18:14:28,644 - INFO - Created average for subject JZ: cue_L_gPDC_10Hz_JZ_average.csv
+2025-01-27 18:14:28,644 - INFO - Subject JZ: Averaged 8 files
+2025-01-27 18:14:28,658 - INFO - Created average for subject LT: cue_L_gPDC_10Hz_LT_average.csv
+2025-01-27 18:14:28,658 - INFO - Subject LT: Averaged 8 files
+2025-01-27 18:14:28,670 - INFO - Created average for subject NvA: cue_L_gPDC_10Hz_NvA_average.csv
+2025-01-27 18:14:28,670 - INFO - Subject NvA: Averaged 8 files
+2025-01-27 18:14:28,678 - INFO - Created average for subject RR: cue_L_gPDC_10Hz_RR_average.csv
+2025-01-27 18:14:28,678 - INFO - Subject RR: Averaged 8 files
+2025-01-27 18:14:28,700 - INFO - Created average for subject SJB: cue_L_gPDC_10Hz_SJB_average.csv
+2025-01-27 18:14:28,700 - INFO - Subject SJB: Averaged 8 files
+2025-01-27 18:14:28,719 - INFO - Created average for subject BG: cue_L_gPDC_10Hz_BG_average.csv
+2025-01-27 18:14:28,720 - INFO - Subject BG: Averaged 6 files
+2025-01-27 18:14:28,721 - INFO - 
+Processing: cue/L/gPDC_20Hz
+2025-01-27 18:14:29,964 - INFO - Created overall average: cue_L_gPDC_20Hz_average.csv
+2025-01-27 18:14:29,967 - INFO - Created average for subject DOC: cue_L_gPDC_20Hz_DOC_average.csv
+2025-01-27 18:14:29,967 - INFO - Subject DOC: Averaged 8 files
+2025-01-27 18:14:29,984 - INFO - Created average for subject GB: cue_L_gPDC_20Hz_GB_average.csv
+2025-01-27 18:14:29,984 - INFO - Subject GB: Averaged 8 files
+2025-01-27 18:14:30,012 - INFO - Created average for subject JDC: cue_L_gPDC_20Hz_JDC_average.csv
+2025-01-27 18:14:30,012 - INFO - Subject JDC: Averaged 8 files
+2025-01-27 18:14:30,029 - INFO - Created average for subject JFXD: cue_L_gPDC_20Hz_JFXD_average.csv
+2025-01-27 18:14:30,030 - INFO - Subject JFXD: Averaged 8 files
+2025-01-27 18:14:30,034 - INFO - Created average for subject JZ: cue_L_gPDC_20Hz_JZ_average.csv
+2025-01-27 18:14:30,034 - INFO - Subject JZ: Averaged 8 files
+2025-01-27 18:14:30,050 - INFO - Created average for subject LT: cue_L_gPDC_20Hz_LT_average.csv
+2025-01-27 18:14:30,050 - INFO - Subject LT: Averaged 8 files
+2025-01-27 18:14:30,065 - INFO - Created average for subject NvA: cue_L_gPDC_20Hz_NvA_average.csv
+2025-01-27 18:14:30,065 - INFO - Subject NvA: Averaged 8 files
+2025-01-27 18:14:30,069 - INFO - Created average for subject RR: cue_L_gPDC_20Hz_RR_average.csv
+2025-01-27 18:14:30,069 - INFO - Subject RR: Averaged 8 files
+2025-01-27 18:14:30,086 - INFO - Created average for subject SJB: cue_L_gPDC_20Hz_SJB_average.csv
+2025-01-27 18:14:30,087 - INFO - Subject SJB: Averaged 8 files
+2025-01-27 18:14:30,095 - INFO - Created average for subject BG: cue_L_gPDC_20Hz_BG_average.csv
+2025-01-27 18:14:30,096 - INFO - Subject BG: Averaged 6 files
+2025-01-27 18:14:30,096 - INFO - 
+Processing: cue/L/gPDC_100Hz
+2025-01-27 18:14:31,263 - INFO - Created overall average: cue_L_gPDC_100Hz_average.csv
+2025-01-27 18:14:31,282 - INFO - Created average for subject DOC: cue_L_gPDC_100Hz_DOC_average.csv
+2025-01-27 18:14:31,283 - INFO - Subject DOC: Averaged 8 files
+2025-01-27 18:14:31,290 - INFO - Created average for subject GB: cue_L_gPDC_100Hz_GB_average.csv
+2025-01-27 18:14:31,290 - INFO - Subject GB: Averaged 8 files
+2025-01-27 18:14:31,299 - INFO - Created average for subject JDC: cue_L_gPDC_100Hz_JDC_average.csv
+2025-01-27 18:14:31,299 - INFO - Subject JDC: Averaged 8 files
+2025-01-27 18:14:31,311 - INFO - Created average for subject JFXD: cue_L_gPDC_100Hz_JFXD_average.csv
+2025-01-27 18:14:31,312 - INFO - Subject JFXD: Averaged 8 files
+2025-01-27 18:14:31,314 - INFO - Created average for subject JZ: cue_L_gPDC_100Hz_JZ_average.csv
+2025-01-27 18:14:31,314 - INFO - Subject JZ: Averaged 8 files
+2025-01-27 18:14:31,327 - INFO - Created average for subject LT: cue_L_gPDC_100Hz_LT_average.csv
+2025-01-27 18:14:31,327 - INFO - Subject LT: Averaged 8 files
+2025-01-27 18:14:31,339 - INFO - Created average for subject NvA: cue_L_gPDC_100Hz_NvA_average.csv
+2025-01-27 18:14:31,339 - INFO - Subject NvA: Averaged 8 files
+2025-01-27 18:14:31,349 - INFO - Created average for subject RR: cue_L_gPDC_100Hz_RR_average.csv
+2025-01-27 18:14:31,349 - INFO - Subject RR: Averaged 8 files
+2025-01-27 18:14:31,358 - INFO - Created average for subject SJB: cue_L_gPDC_100Hz_SJB_average.csv
+2025-01-27 18:14:31,358 - INFO - Subject SJB: Averaged 8 files
+2025-01-27 18:14:31,367 - INFO - Created average for subject BG: cue_L_gPDC_100Hz_BG_average.csv
+2025-01-27 18:14:31,367 - INFO - Subject BG: Averaged 6 files
+2025-01-27 18:14:31,368 - INFO - 
+Processing: cue/R/iDTF_10Hz
+2025-01-27 18:14:32,476 - INFO - Created overall average: cue_R_iDTF_10Hz_average.csv
+2025-01-27 18:14:32,481 - INFO - Created average for subject DOC: cue_R_iDTF_10Hz_DOC_average.csv
+2025-01-27 18:14:32,481 - INFO - Subject DOC: Averaged 8 files
+2025-01-27 18:14:32,499 - INFO - Created average for subject GB: cue_R_iDTF_10Hz_GB_average.csv
+2025-01-27 18:14:32,499 - INFO - Subject GB: Averaged 8 files
+2025-01-27 18:14:32,510 - INFO - Created average for subject JDC: cue_R_iDTF_10Hz_JDC_average.csv
+2025-01-27 18:14:32,510 - INFO - Subject JDC: Averaged 8 files
+2025-01-27 18:14:32,515 - INFO - Created average for subject JFXD: cue_R_iDTF_10Hz_JFXD_average.csv
+2025-01-27 18:14:32,515 - INFO - Subject JFXD: Averaged 8 files
+2025-01-27 18:14:32,527 - INFO - Created average for subject JZ: cue_R_iDTF_10Hz_JZ_average.csv
+2025-01-27 18:14:32,527 - INFO - Subject JZ: Averaged 8 files
+2025-01-27 18:14:32,534 - INFO - Created average for subject LT: cue_R_iDTF_10Hz_LT_average.csv
+2025-01-27 18:14:32,534 - INFO - Subject LT: Averaged 8 files
+2025-01-27 18:14:32,545 - INFO - Created average for subject NvA: cue_R_iDTF_10Hz_NvA_average.csv
+2025-01-27 18:14:32,545 - INFO - Subject NvA: Averaged 8 files
+2025-01-27 18:14:32,562 - INFO - Created average for subject RR: cue_R_iDTF_10Hz_RR_average.csv
+2025-01-27 18:14:32,562 - INFO - Subject RR: Averaged 8 files
+2025-01-27 18:14:32,569 - INFO - Created average for subject SJB: cue_R_iDTF_10Hz_SJB_average.csv
+2025-01-27 18:14:32,569 - INFO - Subject SJB: Averaged 8 files
+2025-01-27 18:14:32,581 - INFO - Created average for subject BG: cue_R_iDTF_10Hz_BG_average.csv
+2025-01-27 18:14:32,581 - INFO - Subject BG: Averaged 6 files
+2025-01-27 18:14:32,584 - INFO - 
+Processing: cue/R/iDTF_20Hz
+2025-01-27 18:14:33,699 - INFO - Created overall average: cue_R_iDTF_20Hz_average.csv
+2025-01-27 18:14:33,707 - INFO - Created average for subject DOC: cue_R_iDTF_20Hz_DOC_average.csv
+2025-01-27 18:14:33,707 - INFO - Subject DOC: Averaged 8 files
+2025-01-27 18:14:33,716 - INFO - Created average for subject GB: cue_R_iDTF_20Hz_GB_average.csv
+2025-01-27 18:14:33,716 - INFO - Subject GB: Averaged 8 files
+2025-01-27 18:14:33,725 - INFO - Created average for subject JDC: cue_R_iDTF_20Hz_JDC_average.csv
+2025-01-27 18:14:33,725 - INFO - Subject JDC: Averaged 8 files
+2025-01-27 18:14:33,734 - INFO - Created average for subject JFXD: cue_R_iDTF_20Hz_JFXD_average.csv
+2025-01-27 18:14:33,734 - INFO - Subject JFXD: Averaged 8 files
+2025-01-27 18:14:33,746 - INFO - Created average for subject JZ: cue_R_iDTF_20Hz_JZ_average.csv
+2025-01-27 18:14:33,746 - INFO - Subject JZ: Averaged 8 files
+2025-01-27 18:14:33,752 - INFO - Created average for subject LT: cue_R_iDTF_20Hz_LT_average.csv
+2025-01-27 18:14:33,752 - INFO - Subject LT: Averaged 8 files
+2025-01-27 18:14:33,762 - INFO - Created average for subject NvA: cue_R_iDTF_20Hz_NvA_average.csv
+2025-01-27 18:14:33,762 - INFO - Subject NvA: Averaged 8 files
+2025-01-27 18:14:33,771 - INFO - Created average for subject RR: cue_R_iDTF_20Hz_RR_average.csv
+2025-01-27 18:14:33,771 - INFO - Subject RR: Averaged 8 files
+2025-01-27 18:14:33,785 - INFO - Created average for subject SJB: cue_R_iDTF_20Hz_SJB_average.csv
+2025-01-27 18:14:33,785 - INFO - Subject SJB: Averaged 8 files
+2025-01-27 18:14:33,789 - INFO - Created average for subject BG: cue_R_iDTF_20Hz_BG_average.csv
+2025-01-27 18:14:33,789 - INFO - Subject BG: Averaged 6 files
+2025-01-27 18:14:33,793 - INFO - 
+Processing: cue/R/iDTF_100Hz
+2025-01-27 18:14:34,870 - INFO - Created overall average: cue_R_iDTF_100Hz_average.csv
+2025-01-27 18:14:34,870 - INFO - Created average for subject DOC: cue_R_iDTF_100Hz_DOC_average.csv
+2025-01-27 18:14:34,870 - INFO - Subject DOC: Averaged 8 files
+2025-01-27 18:14:34,893 - INFO - Created average for subject GB: cue_R_iDTF_100Hz_GB_average.csv
+2025-01-27 18:14:34,893 - INFO - Subject GB: Averaged 8 files
+2025-01-27 18:14:34,913 - INFO - Created average for subject JDC: cue_R_iDTF_100Hz_JDC_average.csv
+2025-01-27 18:14:34,913 - INFO - Subject JDC: Averaged 8 files
+2025-01-27 18:14:34,921 - INFO - Created average for subject JFXD: cue_R_iDTF_100Hz_JFXD_average.csv
+2025-01-27 18:14:34,921 - INFO - Subject JFXD: Averaged 8 files
+2025-01-27 18:14:34,938 - INFO - Created average for subject JZ: cue_R_iDTF_100Hz_JZ_average.csv
+2025-01-27 18:14:34,939 - INFO - Subject JZ: Averaged 8 files
+2025-01-27 18:14:34,945 - INFO - Created average for subject LT: cue_R_iDTF_100Hz_LT_average.csv
+2025-01-27 18:14:34,945 - INFO - Subject LT: Averaged 8 files
+2025-01-27 18:14:34,957 - INFO - Created average for subject NvA: cue_R_iDTF_100Hz_NvA_average.csv
+2025-01-27 18:14:34,957 - INFO - Subject NvA: Averaged 8 files
+2025-01-27 18:14:34,971 - INFO - Created average for subject RR: cue_R_iDTF_100Hz_RR_average.csv
+2025-01-27 18:14:34,971 - INFO - Subject RR: Averaged 8 files
+2025-01-27 18:14:34,978 - INFO - Created average for subject SJB: cue_R_iDTF_100Hz_SJB_average.csv
+2025-01-27 18:14:34,978 - INFO - Subject SJB: Averaged 8 files
+2025-01-27 18:14:34,989 - INFO - Created average for subject BG: cue_R_iDTF_100Hz_BG_average.csv
+2025-01-27 18:14:34,989 - INFO - Subject BG: Averaged 6 files
+2025-01-27 18:14:34,989 - INFO - 
+Processing: cue/R/gDTF_10Hz
+2025-01-27 18:14:36,182 - INFO - Created overall average: cue_R_gDTF_10Hz_average.csv
+2025-01-27 18:14:36,198 - INFO - Created average for subject DOC: cue_R_gDTF_10Hz_DOC_average.csv
+2025-01-27 18:14:36,198 - INFO - Subject DOC: Averaged 8 files
+2025-01-27 18:14:36,220 - INFO - Created average for subject GB: cue_R_gDTF_10Hz_GB_average.csv
+2025-01-27 18:14:36,220 - INFO - Subject GB: Averaged 8 files
+2025-01-27 18:14:36,221 - INFO - Created average for subject JDC: cue_R_gDTF_10Hz_JDC_average.csv
+2025-01-27 18:14:36,221 - INFO - Subject JDC: Averaged 8 files
+2025-01-27 18:14:36,235 - INFO - Created average for subject JFXD: cue_R_gDTF_10Hz_JFXD_average.csv
+2025-01-27 18:14:36,235 - INFO - Subject JFXD: Averaged 8 files
+2025-01-27 18:14:36,246 - INFO - Created average for subject JZ: cue_R_gDTF_10Hz_JZ_average.csv
+2025-01-27 18:14:36,247 - INFO - Subject JZ: Averaged 8 files
+2025-01-27 18:14:36,257 - INFO - Created average for subject LT: cue_R_gDTF_10Hz_LT_average.csv
+2025-01-27 18:14:36,257 - INFO - Subject LT: Averaged 8 files
+2025-01-27 18:14:36,266 - INFO - Created average for subject NvA: cue_R_gDTF_10Hz_NvA_average.csv
+2025-01-27 18:14:36,266 - INFO - Subject NvA: Averaged 8 files
+2025-01-27 18:14:36,276 - INFO - Created average for subject RR: cue_R_gDTF_10Hz_RR_average.csv
+2025-01-27 18:14:36,276 - INFO - Subject RR: Averaged 8 files
+2025-01-27 18:14:36,284 - INFO - Created average for subject SJB: cue_R_gDTF_10Hz_SJB_average.csv
+2025-01-27 18:14:36,284 - INFO - Subject SJB: Averaged 8 files
+2025-01-27 18:14:36,293 - INFO - Created average for subject BG: cue_R_gDTF_10Hz_BG_average.csv
+2025-01-27 18:14:36,293 - INFO - Subject BG: Averaged 6 files
+2025-01-27 18:14:36,293 - INFO - 
+Processing: cue/R/gDTF_20Hz
+2025-01-27 18:14:37,265 - INFO - Created overall average: cue_R_gDTF_20Hz_average.csv
+2025-01-27 18:14:37,270 - INFO - Created average for subject DOC: cue_R_gDTF_20Hz_DOC_average.csv
+2025-01-27 18:14:37,275 - INFO - Subject DOC: Averaged 8 files
+2025-01-27 18:14:37,285 - INFO - Created average for subject GB: cue_R_gDTF_20Hz_GB_average.csv
+2025-01-27 18:14:37,285 - INFO - Subject GB: Averaged 8 files
+2025-01-27 18:14:37,289 - INFO - Created average for subject JDC: cue_R_gDTF_20Hz_JDC_average.csv
+2025-01-27 18:14:37,289 - INFO - Subject JDC: Averaged 8 files
+2025-01-27 18:14:37,306 - INFO - Created average for subject JFXD: cue_R_gDTF_20Hz_JFXD_average.csv
+2025-01-27 18:14:37,306 - INFO - Subject JFXD: Averaged 8 files
+2025-01-27 18:14:37,313 - INFO - Created average for subject JZ: cue_R_gDTF_20Hz_JZ_average.csv
+2025-01-27 18:14:37,313 - INFO - Subject JZ: Averaged 8 files
+2025-01-27 18:14:37,326 - INFO - Created average for subject LT: cue_R_gDTF_20Hz_LT_average.csv
+2025-01-27 18:14:37,326 - INFO - Subject LT: Averaged 8 files
+2025-01-27 18:14:37,329 - INFO - Created average for subject NvA: cue_R_gDTF_20Hz_NvA_average.csv
+2025-01-27 18:14:37,329 - INFO - Subject NvA: Averaged 8 files
+2025-01-27 18:14:37,342 - INFO - Created average for subject RR: cue_R_gDTF_20Hz_RR_average.csv
+2025-01-27 18:14:37,342 - INFO - Subject RR: Averaged 8 files
+2025-01-27 18:14:37,354 - INFO - Created average for subject SJB: cue_R_gDTF_20Hz_SJB_average.csv
+2025-01-27 18:14:37,354 - INFO - Subject SJB: Averaged 8 files
+2025-01-27 18:14:37,363 - INFO - Created average for subject BG: cue_R_gDTF_20Hz_BG_average.csv
+2025-01-27 18:14:37,363 - INFO - Subject BG: Averaged 6 files
+2025-01-27 18:14:37,364 - INFO - 
+Processing: cue/R/gDTF_100Hz
+2025-01-27 18:14:38,344 - INFO - Created overall average: cue_R_gDTF_100Hz_average.csv
+2025-01-27 18:14:38,362 - INFO - Created average for subject DOC: cue_R_gDTF_100Hz_DOC_average.csv
+2025-01-27 18:14:38,362 - INFO - Subject DOC: Averaged 8 files
+2025-01-27 18:14:38,373 - INFO - Created average for subject GB: cue_R_gDTF_100Hz_GB_average.csv
+2025-01-27 18:14:38,374 - INFO - Subject GB: Averaged 8 files
+2025-01-27 18:14:38,376 - INFO - Created average for subject JDC: cue_R_gDTF_100Hz_JDC_average.csv
+2025-01-27 18:14:38,376 - INFO - Subject JDC: Averaged 8 files
+2025-01-27 18:14:38,389 - INFO - Created average for subject JFXD: cue_R_gDTF_100Hz_JFXD_average.csv
+2025-01-27 18:14:38,389 - INFO - Subject JFXD: Averaged 8 files
+2025-01-27 18:14:38,401 - INFO - Created average for subject JZ: cue_R_gDTF_100Hz_JZ_average.csv
+2025-01-27 18:14:38,401 - INFO - Subject JZ: Averaged 8 files
+2025-01-27 18:14:38,412 - INFO - Created average for subject LT: cue_R_gDTF_100Hz_LT_average.csv
+2025-01-27 18:14:38,412 - INFO - Subject LT: Averaged 8 files
+2025-01-27 18:14:38,413 - INFO - Created average for subject NvA: cue_R_gDTF_100Hz_NvA_average.csv
+2025-01-27 18:14:38,413 - INFO - Subject NvA: Averaged 8 files
+2025-01-27 18:14:38,427 - INFO - Created average for subject RR: cue_R_gDTF_100Hz_RR_average.csv
+2025-01-27 18:14:38,427 - INFO - Subject RR: Averaged 8 files
+2025-01-27 18:14:38,440 - INFO - Created average for subject SJB: cue_R_gDTF_100Hz_SJB_average.csv
+2025-01-27 18:14:38,440 - INFO - Subject SJB: Averaged 8 files
+2025-01-27 18:14:38,447 - INFO - Created average for subject BG: cue_R_gDTF_100Hz_BG_average.csv
+2025-01-27 18:14:38,447 - INFO - Subject BG: Averaged 6 files
+2025-01-27 18:14:38,448 - INFO - 
+Processing: cue/R/iPDC_10Hz
+2025-01-27 18:14:39,524 - INFO - Created overall average: cue_R_iPDC_10Hz_average.csv
+2025-01-27 18:14:39,528 - INFO - Created average for subject DOC: cue_R_iPDC_10Hz_DOC_average.csv
+2025-01-27 18:14:39,528 - INFO - Subject DOC: Averaged 8 files
+2025-01-27 18:14:39,541 - INFO - Created average for subject GB: cue_R_iPDC_10Hz_GB_average.csv
+2025-01-27 18:14:39,541 - INFO - Subject GB: Averaged 8 files
+2025-01-27 18:14:39,549 - INFO - Created average for subject JDC: cue_R_iPDC_10Hz_JDC_average.csv
+2025-01-27 18:14:39,549 - INFO - Subject JDC: Averaged 8 files
+2025-01-27 18:14:39,564 - INFO - Created average for subject JFXD: cue_R_iPDC_10Hz_JFXD_average.csv
+2025-01-27 18:14:39,564 - INFO - Subject JFXD: Averaged 8 files
+2025-01-27 18:14:39,569 - INFO - Created average for subject JZ: cue_R_iPDC_10Hz_JZ_average.csv
+2025-01-27 18:14:39,569 - INFO - Subject JZ: Averaged 8 files
+2025-01-27 18:14:39,582 - INFO - Created average for subject LT: cue_R_iPDC_10Hz_LT_average.csv
+2025-01-27 18:14:39,582 - INFO - Subject LT: Averaged 8 files
+2025-01-27 18:14:39,592 - INFO - Created average for subject NvA: cue_R_iPDC_10Hz_NvA_average.csv
+2025-01-27 18:14:39,592 - INFO - Subject NvA: Averaged 8 files
+2025-01-27 18:14:39,601 - INFO - Created average for subject RR: cue_R_iPDC_10Hz_RR_average.csv
+2025-01-27 18:14:39,601 - INFO - Subject RR: Averaged 8 files
+2025-01-27 18:14:39,609 - INFO - Created average for subject SJB: cue_R_iPDC_10Hz_SJB_average.csv
+2025-01-27 18:14:39,609 - INFO - Subject SJB: Averaged 8 files
+2025-01-27 18:14:39,619 - INFO - Created average for subject BG: cue_R_iPDC_10Hz_BG_average.csv
+2025-01-27 18:14:39,620 - INFO - Subject BG: Averaged 6 files
+2025-01-27 18:14:39,620 - INFO - 
+Processing: cue/R/iPDC_20Hz
+2025-01-27 18:14:40,714 - INFO - Created overall average: cue_R_iPDC_20Hz_average.csv
+2025-01-27 18:14:40,717 - INFO - Created average for subject DOC: cue_R_iPDC_20Hz_DOC_average.csv
+2025-01-27 18:14:40,717 - INFO - Subject DOC: Averaged 8 files
+2025-01-27 18:14:40,735 - INFO - Created average for subject GB: cue_R_iPDC_20Hz_GB_average.csv
+2025-01-27 18:14:40,736 - INFO - Subject GB: Averaged 8 files
+2025-01-27 18:14:40,746 - INFO - Created average for subject JDC: cue_R_iPDC_20Hz_JDC_average.csv
+2025-01-27 18:14:40,746 - INFO - Subject JDC: Averaged 8 files
+2025-01-27 18:14:40,757 - INFO - Created average for subject JFXD: cue_R_iPDC_20Hz_JFXD_average.csv
+2025-01-27 18:14:40,757 - INFO - Subject JFXD: Averaged 8 files
+2025-01-27 18:14:40,763 - INFO - Created average for subject JZ: cue_R_iPDC_20Hz_JZ_average.csv
+2025-01-27 18:14:40,763 - INFO - Subject JZ: Averaged 8 files
+2025-01-27 18:14:40,776 - INFO - Created average for subject LT: cue_R_iPDC_20Hz_LT_average.csv
+2025-01-27 18:14:40,777 - INFO - Subject LT: Averaged 8 files
+2025-01-27 18:14:40,787 - INFO - Created average for subject NvA: cue_R_iPDC_20Hz_NvA_average.csv
+2025-01-27 18:14:40,787 - INFO - Subject NvA: Averaged 8 files
+2025-01-27 18:14:40,794 - INFO - Created average for subject RR: cue_R_iPDC_20Hz_RR_average.csv
+2025-01-27 18:14:40,794 - INFO - Subject RR: Averaged 8 files
+2025-01-27 18:14:40,807 - INFO - Created average for subject SJB: cue_R_iPDC_20Hz_SJB_average.csv
+2025-01-27 18:14:40,808 - INFO - Subject SJB: Averaged 8 files
+2025-01-27 18:14:40,816 - INFO - Created average for subject BG: cue_R_iPDC_20Hz_BG_average.csv
+2025-01-27 18:14:40,819 - INFO - Subject BG: Averaged 6 files
+2025-01-27 18:14:40,819 - INFO - 
+Processing: cue/R/iPDC_100Hz
+2025-01-27 18:14:41,780 - INFO - Created overall average: cue_R_iPDC_100Hz_average.csv
+2025-01-27 18:14:41,789 - INFO - Created average for subject DOC: cue_R_iPDC_100Hz_DOC_average.csv
+2025-01-27 18:14:41,789 - INFO - Subject DOC: Averaged 8 files
+2025-01-27 18:14:41,800 - INFO - Created average for subject GB: cue_R_iPDC_100Hz_GB_average.csv
+2025-01-27 18:14:41,800 - INFO - Subject GB: Averaged 8 files
+2025-01-27 18:14:41,809 - INFO - Created average for subject JDC: cue_R_iPDC_100Hz_JDC_average.csv
+2025-01-27 18:14:41,809 - INFO - Subject JDC: Averaged 8 files
+2025-01-27 18:14:41,820 - INFO - Created average for subject JFXD: cue_R_iPDC_100Hz_JFXD_average.csv
+2025-01-27 18:14:41,820 - INFO - Subject JFXD: Averaged 8 files
+2025-01-27 18:14:41,829 - INFO - Created average for subject JZ: cue_R_iPDC_100Hz_JZ_average.csv
+2025-01-27 18:14:41,829 - INFO - Subject JZ: Averaged 8 files
+2025-01-27 18:14:41,840 - INFO - Created average for subject LT: cue_R_iPDC_100Hz_LT_average.csv
+2025-01-27 18:14:41,840 - INFO - Subject LT: Averaged 8 files
+2025-01-27 18:14:41,849 - INFO - Created average for subject NvA: cue_R_iPDC_100Hz_NvA_average.csv
+2025-01-27 18:14:41,849 - INFO - Subject NvA: Averaged 8 files
+2025-01-27 18:14:41,858 - INFO - Created average for subject RR: cue_R_iPDC_100Hz_RR_average.csv
+2025-01-27 18:14:41,858 - INFO - Subject RR: Averaged 8 files
+2025-01-27 18:14:41,870 - INFO - Created average for subject SJB: cue_R_iPDC_100Hz_SJB_average.csv
+2025-01-27 18:14:41,871 - INFO - Subject SJB: Averaged 8 files
+2025-01-27 18:14:41,877 - INFO - Created average for subject BG: cue_R_iPDC_100Hz_BG_average.csv
+2025-01-27 18:14:41,877 - INFO - Subject BG: Averaged 6 files
+2025-01-27 18:14:41,879 - INFO - 
+Processing: cue/R/gPDC_10Hz
+2025-01-27 18:14:42,826 - INFO - Created overall average: cue_R_gPDC_10Hz_average.csv
+2025-01-27 18:14:42,826 - INFO - Created average for subject DOC: cue_R_gPDC_10Hz_DOC_average.csv
+2025-01-27 18:14:42,826 - INFO - Subject DOC: Averaged 8 files
+2025-01-27 18:14:42,844 - INFO - Created average for subject GB: cue_R_gPDC_10Hz_GB_average.csv
+2025-01-27 18:14:42,844 - INFO - Subject GB: Averaged 8 files
+2025-01-27 18:14:42,854 - INFO - Created average for subject JDC: cue_R_gPDC_10Hz_JDC_average.csv
+2025-01-27 18:14:42,854 - INFO - Subject JDC: Averaged 8 files
+2025-01-27 18:14:42,861 - INFO - Created average for subject JFXD: cue_R_gPDC_10Hz_JFXD_average.csv
+2025-01-27 18:14:42,861 - INFO - Subject JFXD: Averaged 8 files
+2025-01-27 18:14:42,874 - INFO - Created average for subject JZ: cue_R_gPDC_10Hz_JZ_average.csv
+2025-01-27 18:14:42,875 - INFO - Subject JZ: Averaged 8 files
+2025-01-27 18:14:42,877 - INFO - Created average for subject LT: cue_R_gPDC_10Hz_LT_average.csv
+2025-01-27 18:14:42,877 - INFO - Subject LT: Averaged 8 files
+2025-01-27 18:14:42,890 - INFO - Created average for subject NvA: cue_R_gPDC_10Hz_NvA_average.csv
+2025-01-27 18:14:42,890 - INFO - Subject NvA: Averaged 8 files
+2025-01-27 18:14:42,901 - INFO - Created average for subject RR: cue_R_gPDC_10Hz_RR_average.csv
+2025-01-27 18:14:42,901 - INFO - Subject RR: Averaged 8 files
+2025-01-27 18:14:42,913 - INFO - Created average for subject SJB: cue_R_gPDC_10Hz_SJB_average.csv
+2025-01-27 18:14:42,913 - INFO - Subject SJB: Averaged 8 files
+2025-01-27 18:14:42,920 - INFO - Created average for subject BG: cue_R_gPDC_10Hz_BG_average.csv
+2025-01-27 18:14:42,920 - INFO - Subject BG: Averaged 6 files
+2025-01-27 18:14:42,921 - INFO - 
+Processing: cue/R/gPDC_20Hz
+2025-01-27 18:14:44,051 - INFO - Created overall average: cue_R_gPDC_20Hz_average.csv
+2025-01-27 18:14:44,063 - INFO - Created average for subject DOC: cue_R_gPDC_20Hz_DOC_average.csv
+2025-01-27 18:14:44,064 - INFO - Subject DOC: Averaged 8 files
+2025-01-27 18:14:44,064 - INFO - Created average for subject GB: cue_R_gPDC_20Hz_GB_average.csv
+2025-01-27 18:14:44,064 - INFO - Subject GB: Averaged 8 files
+2025-01-27 18:14:44,081 - INFO - Created average for subject JDC: cue_R_gPDC_20Hz_JDC_average.csv
+2025-01-27 18:14:44,081 - INFO - Subject JDC: Averaged 8 files
+2025-01-27 18:14:44,091 - INFO - Created average for subject JFXD: cue_R_gPDC_20Hz_JFXD_average.csv
+2025-01-27 18:14:44,091 - INFO - Subject JFXD: Averaged 8 files
+2025-01-27 18:14:44,098 - INFO - Created average for subject JZ: cue_R_gPDC_20Hz_JZ_average.csv
+2025-01-27 18:14:44,098 - INFO - Subject JZ: Averaged 8 files
+2025-01-27 18:14:44,107 - INFO - Created average for subject LT: cue_R_gPDC_20Hz_LT_average.csv
+2025-01-27 18:14:44,107 - INFO - Subject LT: Averaged 8 files
+2025-01-27 18:14:44,119 - INFO - Created average for subject NvA: cue_R_gPDC_20Hz_NvA_average.csv
+2025-01-27 18:14:44,119 - INFO - Subject NvA: Averaged 8 files
+2025-01-27 18:14:44,131 - INFO - Created average for subject RR: cue_R_gPDC_20Hz_RR_average.csv
+2025-01-27 18:14:44,131 - INFO - Subject RR: Averaged 8 files
+2025-01-27 18:14:44,132 - INFO - Created average for subject SJB: cue_R_gPDC_20Hz_SJB_average.csv
+2025-01-27 18:14:44,132 - INFO - Subject SJB: Averaged 8 files
+2025-01-27 18:14:44,146 - INFO - Created average for subject BG: cue_R_gPDC_20Hz_BG_average.csv
+2025-01-27 18:14:44,146 - INFO - Subject BG: Averaged 6 files
+2025-01-27 18:14:44,148 - INFO - 
+Processing: cue/R/gPDC_100Hz
+2025-01-27 18:14:45,371 - INFO - Created overall average: cue_R_gPDC_100Hz_average.csv
+2025-01-27 18:14:45,374 - INFO - Created average for subject DOC: cue_R_gPDC_100Hz_DOC_average.csv
+2025-01-27 18:14:45,374 - INFO - Subject DOC: Averaged 8 files
+2025-01-27 18:14:45,395 - INFO - Created average for subject GB: cue_R_gPDC_100Hz_GB_average.csv
+2025-01-27 18:14:45,396 - INFO - Subject GB: Averaged 8 files
+2025-01-27 18:14:45,405 - INFO - Created average for subject JDC: cue_R_gPDC_100Hz_JDC_average.csv
+2025-01-27 18:14:45,405 - INFO - Subject JDC: Averaged 8 files
+2025-01-27 18:14:45,413 - INFO - Created average for subject JFXD: cue_R_gPDC_100Hz_JFXD_average.csv
+2025-01-27 18:14:45,413 - INFO - Subject JFXD: Averaged 8 files
+2025-01-27 18:14:45,426 - INFO - Created average for subject JZ: cue_R_gPDC_100Hz_JZ_average.csv
+2025-01-27 18:14:45,426 - INFO - Subject JZ: Averaged 8 files
+2025-01-27 18:14:45,433 - INFO - Created average for subject LT: cue_R_gPDC_100Hz_LT_average.csv
+2025-01-27 18:14:45,433 - INFO - Subject LT: Averaged 8 files
+2025-01-27 18:14:45,443 - INFO - Created average for subject NvA: cue_R_gPDC_100Hz_NvA_average.csv
+2025-01-27 18:14:45,443 - INFO - Subject NvA: Averaged 8 files
+2025-01-27 18:14:45,460 - INFO - Created average for subject RR: cue_R_gPDC_100Hz_RR_average.csv
+2025-01-27 18:14:45,461 - INFO - Subject RR: Averaged 8 files
+2025-01-27 18:14:45,472 - INFO - Created average for subject SJB: cue_R_gPDC_100Hz_SJB_average.csv
+2025-01-27 18:14:45,473 - INFO - Subject SJB: Averaged 8 files
+2025-01-27 18:14:45,476 - INFO - Created average for subject BG: cue_R_gPDC_100Hz_BG_average.csv
+2025-01-27 18:14:45,476 - INFO - Subject BG: Averaged 6 files
+2025-01-27 18:14:45,476 - INFO - 
+Processing: mov/L/iDTF_10Hz
+2025-01-27 18:14:46,775 - INFO - Created overall average: mov_L_iDTF_10Hz_average.csv
+2025-01-27 18:14:46,782 - INFO - Created average for subject DOC: mov_L_iDTF_10Hz_DOC_average.csv
+2025-01-27 18:14:46,782 - INFO - Subject DOC: Averaged 8 files
+2025-01-27 18:14:46,798 - INFO - Created average for subject GB: mov_L_iDTF_10Hz_GB_average.csv
+2025-01-27 18:14:46,799 - INFO - Subject GB: Averaged 8 files
+2025-01-27 18:14:46,809 - INFO - Created average for subject JDC: mov_L_iDTF_10Hz_JDC_average.csv
+2025-01-27 18:14:46,810 - INFO - Subject JDC: Averaged 8 files
+2025-01-27 18:14:46,819 - INFO - Created average for subject JFXD: mov_L_iDTF_10Hz_JFXD_average.csv
+2025-01-27 18:14:46,819 - INFO - Subject JFXD: Averaged 8 files
+2025-01-27 18:14:46,819 - INFO - Created average for subject JZ: mov_L_iDTF_10Hz_JZ_average.csv
+2025-01-27 18:14:46,819 - INFO - Subject JZ: Averaged 8 files
+2025-01-27 18:14:46,839 - INFO - Created average for subject LT: mov_L_iDTF_10Hz_LT_average.csv
+2025-01-27 18:14:46,839 - INFO - Subject LT: Averaged 8 files
+2025-01-27 18:14:46,850 - INFO - Created average for subject NvA: mov_L_iDTF_10Hz_NvA_average.csv
+2025-01-27 18:14:46,850 - INFO - Subject NvA: Averaged 8 files
+2025-01-27 18:14:46,856 - INFO - Created average for subject RR: mov_L_iDTF_10Hz_RR_average.csv
+2025-01-27 18:14:46,856 - INFO - Subject RR: Averaged 8 files
+2025-01-27 18:14:46,870 - INFO - Created average for subject SJB: mov_L_iDTF_10Hz_SJB_average.csv
+2025-01-27 18:14:46,870 - INFO - Subject SJB: Averaged 8 files
+2025-01-27 18:14:46,878 - INFO - Created average for subject BG: mov_L_iDTF_10Hz_BG_average.csv
+2025-01-27 18:14:46,878 - INFO - Subject BG: Averaged 6 files
+2025-01-27 18:14:46,879 - INFO - 
+Processing: mov/L/iDTF_20Hz
+2025-01-27 18:14:47,920 - INFO - Created overall average: mov_L_iDTF_20Hz_average.csv
+2025-01-27 18:14:47,923 - INFO - Created average for subject DOC: mov_L_iDTF_20Hz_DOC_average.csv
+2025-01-27 18:14:47,923 - INFO - Subject DOC: Averaged 8 files
+2025-01-27 18:14:47,941 - INFO - Created average for subject GB: mov_L_iDTF_20Hz_GB_average.csv
+2025-01-27 18:14:47,942 - INFO - Subject GB: Averaged 8 files
+2025-01-27 18:14:47,953 - INFO - Created average for subject JDC: mov_L_iDTF_20Hz_JDC_average.csv
+2025-01-27 18:14:47,954 - INFO - Subject JDC: Averaged 8 files
+2025-01-27 18:14:47,965 - INFO - Created average for subject JFXD: mov_L_iDTF_20Hz_JFXD_average.csv
+2025-01-27 18:14:47,965 - INFO - Subject JFXD: Averaged 8 files
+2025-01-27 18:14:47,976 - INFO - Created average for subject JZ: mov_L_iDTF_20Hz_JZ_average.csv
+2025-01-27 18:14:47,977 - INFO - Subject JZ: Averaged 8 files
+2025-01-27 18:14:47,983 - INFO - Created average for subject LT: mov_L_iDTF_20Hz_LT_average.csv
+2025-01-27 18:14:47,983 - INFO - Subject LT: Averaged 8 files
+2025-01-27 18:14:47,995 - INFO - Created average for subject NvA: mov_L_iDTF_20Hz_NvA_average.csv
+2025-01-27 18:14:47,995 - INFO - Subject NvA: Averaged 8 files
+2025-01-27 18:14:48,007 - INFO - Created average for subject RR: mov_L_iDTF_20Hz_RR_average.csv
+2025-01-27 18:14:48,008 - INFO - Subject RR: Averaged 8 files
+2025-01-27 18:14:48,008 - INFO - Created average for subject SJB: mov_L_iDTF_20Hz_SJB_average.csv
+2025-01-27 18:14:48,008 - INFO - Subject SJB: Averaged 8 files
+2025-01-27 18:14:48,026 - INFO - Created average for subject BG: mov_L_iDTF_20Hz_BG_average.csv
+2025-01-27 18:14:48,026 - INFO - Subject BG: Averaged 6 files
+2025-01-27 18:14:48,026 - INFO - 
+Processing: mov/L/iDTF_100Hz
+2025-01-27 18:14:49,033 - INFO - Created overall average: mov_L_iDTF_100Hz_average.csv
+2025-01-27 18:14:49,039 - INFO - Created average for subject DOC: mov_L_iDTF_100Hz_DOC_average.csv
+2025-01-27 18:14:49,039 - INFO - Subject DOC: Averaged 8 files
+2025-01-27 18:14:49,048 - INFO - Created average for subject GB: mov_L_iDTF_100Hz_GB_average.csv
+2025-01-27 18:14:49,048 - INFO - Subject GB: Averaged 8 files
+2025-01-27 18:14:49,064 - INFO - Created average for subject JDC: mov_L_iDTF_100Hz_JDC_average.csv
+2025-01-27 18:14:49,065 - INFO - Subject JDC: Averaged 8 files
+2025-01-27 18:14:49,073 - INFO - Created average for subject JFXD: mov_L_iDTF_100Hz_JFXD_average.csv
+2025-01-27 18:14:49,073 - INFO - Subject JFXD: Averaged 8 files
+2025-01-27 18:14:49,079 - INFO - Created average for subject JZ: mov_L_iDTF_100Hz_JZ_average.csv
+2025-01-27 18:14:49,079 - INFO - Subject JZ: Averaged 8 files
+2025-01-27 18:14:49,090 - INFO - Created average for subject LT: mov_L_iDTF_100Hz_LT_average.csv
+2025-01-27 18:14:49,090 - INFO - Subject LT: Averaged 8 files
+2025-01-27 18:14:49,100 - INFO - Created average for subject NvA: mov_L_iDTF_100Hz_NvA_average.csv
+2025-01-27 18:14:49,100 - INFO - Subject NvA: Averaged 8 files
+2025-01-27 18:14:49,108 - INFO - Created average for subject RR: mov_L_iDTF_100Hz_RR_average.csv
+2025-01-27 18:14:49,108 - INFO - Subject RR: Averaged 8 files
+2025-01-27 18:14:49,120 - INFO - Created average for subject SJB: mov_L_iDTF_100Hz_SJB_average.csv
+2025-01-27 18:14:49,120 - INFO - Subject SJB: Averaged 8 files
+2025-01-27 18:14:49,127 - INFO - Created average for subject BG: mov_L_iDTF_100Hz_BG_average.csv
+2025-01-27 18:14:49,127 - INFO - Subject BG: Averaged 6 files
+2025-01-27 18:14:49,130 - INFO - 
+Processing: mov/L/gDTF_10Hz
+2025-01-27 18:14:50,190 - INFO - Created overall average: mov_L_gDTF_10Hz_average.csv
+2025-01-27 18:14:50,198 - INFO - Created average for subject DOC: mov_L_gDTF_10Hz_DOC_average.csv
+2025-01-27 18:14:50,198 - INFO - Subject DOC: Averaged 8 files
+2025-01-27 18:14:50,205 - INFO - Created average for subject GB: mov_L_gDTF_10Hz_GB_average.csv
+2025-01-27 18:14:50,205 - INFO - Subject GB: Averaged 8 files
+2025-01-27 18:14:50,216 - INFO - Created average for subject JDC: mov_L_gDTF_10Hz_JDC_average.csv
+2025-01-27 18:14:50,216 - INFO - Subject JDC: Averaged 8 files
+2025-01-27 18:14:50,225 - INFO - Created average for subject JFXD: mov_L_gDTF_10Hz_JFXD_average.csv
+2025-01-27 18:14:50,225 - INFO - Subject JFXD: Averaged 8 files
+2025-01-27 18:14:50,234 - INFO - Created average for subject JZ: mov_L_gDTF_10Hz_JZ_average.csv
+2025-01-27 18:14:50,234 - INFO - Subject JZ: Averaged 8 files
+2025-01-27 18:14:50,246 - INFO - Created average for subject LT: mov_L_gDTF_10Hz_LT_average.csv
+2025-01-27 18:14:50,246 - INFO - Subject LT: Averaged 8 files
+2025-01-27 18:14:50,256 - INFO - Created average for subject NvA: mov_L_gDTF_10Hz_NvA_average.csv
+2025-01-27 18:14:50,256 - INFO - Subject NvA: Averaged 8 files
+2025-01-27 18:14:50,263 - INFO - Created average for subject RR: mov_L_gDTF_10Hz_RR_average.csv
+2025-01-27 18:14:50,263 - INFO - Subject RR: Averaged 8 files
+2025-01-27 18:14:50,275 - INFO - Created average for subject SJB: mov_L_gDTF_10Hz_SJB_average.csv
+2025-01-27 18:14:50,275 - INFO - Subject SJB: Averaged 8 files
+2025-01-27 18:14:50,283 - INFO - Created average for subject BG: mov_L_gDTF_10Hz_BG_average.csv
+2025-01-27 18:14:50,283 - INFO - Subject BG: Averaged 6 files
+2025-01-27 18:14:50,284 - INFO - 
+Processing: mov/L/gDTF_20Hz
+2025-01-27 18:14:51,406 - INFO - Created overall average: mov_L_gDTF_20Hz_average.csv
+2025-01-27 18:14:51,420 - INFO - Created average for subject DOC: mov_L_gDTF_20Hz_DOC_average.csv
+2025-01-27 18:14:51,420 - INFO - Subject DOC: Averaged 8 files
+2025-01-27 18:14:51,429 - INFO - Created average for subject GB: mov_L_gDTF_20Hz_GB_average.csv
+2025-01-27 18:14:51,429 - INFO - Subject GB: Averaged 8 files
+2025-01-27 18:14:51,435 - INFO - Created average for subject JDC: mov_L_gDTF_20Hz_JDC_average.csv
+2025-01-27 18:14:51,435 - INFO - Subject JDC: Averaged 8 files
+2025-01-27 18:14:51,447 - INFO - Created average for subject JFXD: mov_L_gDTF_20Hz_JFXD_average.csv
+2025-01-27 18:14:51,447 - INFO - Subject JFXD: Averaged 8 files
+2025-01-27 18:14:51,457 - INFO - Created average for subject JZ: mov_L_gDTF_20Hz_JZ_average.csv
+2025-01-27 18:14:51,457 - INFO - Subject JZ: Averaged 8 files
+2025-01-27 18:14:51,470 - INFO - Created average for subject LT: mov_L_gDTF_20Hz_LT_average.csv
+2025-01-27 18:14:51,470 - INFO - Subject LT: Averaged 8 files
+2025-01-27 18:14:51,472 - INFO - Created average for subject NvA: mov_L_gDTF_20Hz_NvA_average.csv
+2025-01-27 18:14:51,472 - INFO - Subject NvA: Averaged 8 files
+2025-01-27 18:14:51,487 - INFO - Created average for subject RR: mov_L_gDTF_20Hz_RR_average.csv
+2025-01-27 18:14:51,487 - INFO - Subject RR: Averaged 8 files
+2025-01-27 18:14:51,495 - INFO - Created average for subject SJB: mov_L_gDTF_20Hz_SJB_average.csv
+2025-01-27 18:14:51,495 - INFO - Subject SJB: Averaged 8 files
+2025-01-27 18:14:51,506 - INFO - Created average for subject BG: mov_L_gDTF_20Hz_BG_average.csv
+2025-01-27 18:14:51,506 - INFO - Subject BG: Averaged 6 files
+2025-01-27 18:14:51,506 - INFO - 
+Processing: mov/L/gDTF_100Hz
+2025-01-27 18:14:52,607 - INFO - Created overall average: mov_L_gDTF_100Hz_average.csv
+2025-01-27 18:14:52,607 - INFO - Created average for subject DOC: mov_L_gDTF_100Hz_DOC_average.csv
+2025-01-27 18:14:52,607 - INFO - Subject DOC: Averaged 8 files
+2025-01-27 18:14:52,624 - INFO - Created average for subject GB: mov_L_gDTF_100Hz_GB_average.csv
+2025-01-27 18:14:52,624 - INFO - Subject GB: Averaged 8 files
+2025-01-27 18:14:52,632 - INFO - Created average for subject JDC: mov_L_gDTF_100Hz_JDC_average.csv
+2025-01-27 18:14:52,632 - INFO - Subject JDC: Averaged 8 files
+2025-01-27 18:14:52,641 - INFO - Created average for subject JFXD: mov_L_gDTF_100Hz_JFXD_average.csv
+2025-01-27 18:14:52,641 - INFO - Subject JFXD: Averaged 8 files
+2025-01-27 18:14:52,650 - INFO - Created average for subject JZ: mov_L_gDTF_100Hz_JZ_average.csv
+2025-01-27 18:14:52,650 - INFO - Subject JZ: Averaged 8 files
+2025-01-27 18:14:52,660 - INFO - Created average for subject LT: mov_L_gDTF_100Hz_LT_average.csv
+2025-01-27 18:14:52,660 - INFO - Subject LT: Averaged 8 files
+2025-01-27 18:14:52,669 - INFO - Created average for subject NvA: mov_L_gDTF_100Hz_NvA_average.csv
+2025-01-27 18:14:52,669 - INFO - Subject NvA: Averaged 8 files
+2025-01-27 18:14:52,678 - INFO - Created average for subject RR: mov_L_gDTF_100Hz_RR_average.csv
+2025-01-27 18:14:52,678 - INFO - Subject RR: Averaged 8 files
+2025-01-27 18:14:52,686 - INFO - Created average for subject SJB: mov_L_gDTF_100Hz_SJB_average.csv
+2025-01-27 18:14:52,686 - INFO - Subject SJB: Averaged 8 files
+2025-01-27 18:14:52,696 - INFO - Created average for subject BG: mov_L_gDTF_100Hz_BG_average.csv
+2025-01-27 18:14:52,696 - INFO - Subject BG: Averaged 6 files
+2025-01-27 18:14:52,698 - INFO - 
+Processing: mov/L/iPDC_10Hz
+2025-01-27 18:14:53,681 - INFO - Created overall average: mov_L_iPDC_10Hz_average.csv
+2025-01-27 18:14:53,681 - INFO - Created average for subject DOC: mov_L_iPDC_10Hz_DOC_average.csv
+2025-01-27 18:14:53,681 - INFO - Subject DOC: Averaged 8 files
+2025-01-27 18:14:53,700 - INFO - Created average for subject GB: mov_L_iPDC_10Hz_GB_average.csv
+2025-01-27 18:14:53,700 - INFO - Subject GB: Averaged 8 files
+2025-01-27 18:14:53,714 - INFO - Created average for subject JDC: mov_L_iPDC_10Hz_JDC_average.csv
+2025-01-27 18:14:53,714 - INFO - Subject JDC: Averaged 8 files
+2025-01-27 18:14:53,719 - INFO - Created average for subject JFXD: mov_L_iPDC_10Hz_JFXD_average.csv
+2025-01-27 18:14:53,719 - INFO - Subject JFXD: Averaged 8 files
+2025-01-27 18:14:53,729 - INFO - Created average for subject JZ: mov_L_iPDC_10Hz_JZ_average.csv
+2025-01-27 18:14:53,729 - INFO - Subject JZ: Averaged 8 files
+2025-01-27 18:14:53,738 - INFO - Created average for subject LT: mov_L_iPDC_10Hz_LT_average.csv
+2025-01-27 18:14:53,738 - INFO - Subject LT: Averaged 8 files
+2025-01-27 18:14:53,751 - INFO - Created average for subject NvA: mov_L_iPDC_10Hz_NvA_average.csv
+2025-01-27 18:14:53,751 - INFO - Subject NvA: Averaged 8 files
+2025-01-27 18:14:53,756 - INFO - Created average for subject RR: mov_L_iPDC_10Hz_RR_average.csv
+2025-01-27 18:14:53,756 - INFO - Subject RR: Averaged 8 files
+2025-01-27 18:14:53,770 - INFO - Created average for subject SJB: mov_L_iPDC_10Hz_SJB_average.csv
+2025-01-27 18:14:53,770 - INFO - Subject SJB: Averaged 8 files
+2025-01-27 18:14:53,778 - INFO - Created average for subject BG: mov_L_iPDC_10Hz_BG_average.csv
+2025-01-27 18:14:53,778 - INFO - Subject BG: Averaged 6 files
+2025-01-27 18:14:53,778 - INFO - 
+Processing: mov/L/iPDC_20Hz
+2025-01-27 18:14:54,755 - INFO - Created overall average: mov_L_iPDC_20Hz_average.csv
+2025-01-27 18:14:54,764 - INFO - Created average for subject DOC: mov_L_iPDC_20Hz_DOC_average.csv
+2025-01-27 18:14:54,764 - INFO - Subject DOC: Averaged 8 files
+2025-01-27 18:14:54,777 - INFO - Created average for subject GB: mov_L_iPDC_20Hz_GB_average.csv
+2025-01-27 18:14:54,777 - INFO - Subject GB: Averaged 8 files
+2025-01-27 18:14:54,787 - INFO - Created average for subject JDC: mov_L_iPDC_20Hz_JDC_average.csv
+2025-01-27 18:14:54,787 - INFO - Subject JDC: Averaged 8 files
+2025-01-27 18:14:54,797 - INFO - Created average for subject JFXD: mov_L_iPDC_20Hz_JFXD_average.csv
+2025-01-27 18:14:54,797 - INFO - Subject JFXD: Averaged 8 files
+2025-01-27 18:14:54,803 - INFO - Created average for subject JZ: mov_L_iPDC_20Hz_JZ_average.csv
+2025-01-27 18:14:54,807 - INFO - Subject JZ: Averaged 8 files
+2025-01-27 18:14:54,815 - INFO - Created average for subject LT: mov_L_iPDC_20Hz_LT_average.csv
+2025-01-27 18:14:54,815 - INFO - Subject LT: Averaged 8 files
+2025-01-27 18:14:54,823 - INFO - Created average for subject NvA: mov_L_iPDC_20Hz_NvA_average.csv
+2025-01-27 18:14:54,823 - INFO - Subject NvA: Averaged 8 files
+2025-01-27 18:14:54,832 - INFO - Created average for subject RR: mov_L_iPDC_20Hz_RR_average.csv
+2025-01-27 18:14:54,832 - INFO - Subject RR: Averaged 8 files
+2025-01-27 18:14:54,843 - INFO - Created average for subject SJB: mov_L_iPDC_20Hz_SJB_average.csv
+2025-01-27 18:14:54,843 - INFO - Subject SJB: Averaged 8 files
+2025-01-27 18:14:54,855 - INFO - Created average for subject BG: mov_L_iPDC_20Hz_BG_average.csv
+2025-01-27 18:14:54,855 - INFO - Subject BG: Averaged 6 files
+2025-01-27 18:14:54,856 - INFO - 
+Processing: mov/L/iPDC_100Hz
+2025-01-27 18:14:55,887 - INFO - Created overall average: mov_L_iPDC_100Hz_average.csv
+2025-01-27 18:14:55,901 - INFO - Created average for subject DOC: mov_L_iPDC_100Hz_DOC_average.csv
+2025-01-27 18:14:55,904 - INFO - Subject DOC: Averaged 8 files
+2025-01-27 18:14:55,904 - INFO - Created average for subject GB: mov_L_iPDC_100Hz_GB_average.csv
+2025-01-27 18:14:55,904 - INFO - Subject GB: Averaged 8 files
+2025-01-27 18:14:55,921 - INFO - Created average for subject JDC: mov_L_iPDC_100Hz_JDC_average.csv
+2025-01-27 18:14:55,921 - INFO - Subject JDC: Averaged 8 files
+2025-01-27 18:14:55,931 - INFO - Created average for subject JFXD: mov_L_iPDC_100Hz_JFXD_average.csv
+2025-01-27 18:14:55,931 - INFO - Subject JFXD: Averaged 8 files
+2025-01-27 18:14:55,941 - INFO - Created average for subject JZ: mov_L_iPDC_100Hz_JZ_average.csv
+2025-01-27 18:14:55,941 - INFO - Subject JZ: Averaged 8 files
+2025-01-27 18:14:55,941 - INFO - Created average for subject LT: mov_L_iPDC_100Hz_LT_average.csv
+2025-01-27 18:14:55,941 - INFO - Subject LT: Averaged 8 files
+2025-01-27 18:14:55,957 - INFO - Created average for subject NvA: mov_L_iPDC_100Hz_NvA_average.csv
+2025-01-27 18:14:55,957 - INFO - Subject NvA: Averaged 8 files
+2025-01-27 18:14:55,969 - INFO - Created average for subject RR: mov_L_iPDC_100Hz_RR_average.csv
+2025-01-27 18:14:55,969 - INFO - Subject RR: Averaged 8 files
+2025-01-27 18:14:55,971 - INFO - Created average for subject SJB: mov_L_iPDC_100Hz_SJB_average.csv
+2025-01-27 18:14:55,971 - INFO - Subject SJB: Averaged 8 files
+2025-01-27 18:14:55,983 - INFO - Created average for subject BG: mov_L_iPDC_100Hz_BG_average.csv
+2025-01-27 18:14:55,983 - INFO - Subject BG: Averaged 6 files
+2025-01-27 18:14:55,983 - INFO - 
+Processing: mov/L/gPDC_10Hz
+2025-01-27 18:14:57,078 - INFO - Created overall average: mov_L_gPDC_10Hz_average.csv
+2025-01-27 18:14:57,091 - INFO - Created average for subject DOC: mov_L_gPDC_10Hz_DOC_average.csv
+2025-01-27 18:14:57,091 - INFO - Subject DOC: Averaged 8 files
+2025-01-27 18:14:57,104 - INFO - Created average for subject GB: mov_L_gPDC_10Hz_GB_average.csv
+2025-01-27 18:14:57,104 - INFO - Subject GB: Averaged 8 files
+2025-01-27 18:14:57,111 - INFO - Created average for subject JDC: mov_L_gPDC_10Hz_JDC_average.csv
+2025-01-27 18:14:57,111 - INFO - Subject JDC: Averaged 8 files
+2025-01-27 18:14:57,123 - INFO - Created average for subject JFXD: mov_L_gPDC_10Hz_JFXD_average.csv
+2025-01-27 18:14:57,124 - INFO - Subject JFXD: Averaged 8 files
+2025-01-27 18:14:57,131 - INFO - Created average for subject JZ: mov_L_gPDC_10Hz_JZ_average.csv
+2025-01-27 18:14:57,131 - INFO - Subject JZ: Averaged 8 files
+2025-01-27 18:14:57,140 - INFO - Created average for subject LT: mov_L_gPDC_10Hz_LT_average.csv
+2025-01-27 18:14:57,140 - INFO - Subject LT: Averaged 8 files
+2025-01-27 18:14:57,153 - INFO - Created average for subject NvA: mov_L_gPDC_10Hz_NvA_average.csv
+2025-01-27 18:14:57,153 - INFO - Subject NvA: Averaged 8 files
+2025-01-27 18:14:57,162 - INFO - Created average for subject RR: mov_L_gPDC_10Hz_RR_average.csv
+2025-01-27 18:14:57,162 - INFO - Subject RR: Averaged 8 files
+2025-01-27 18:14:57,170 - INFO - Created average for subject SJB: mov_L_gPDC_10Hz_SJB_average.csv
+2025-01-27 18:14:57,170 - INFO - Subject SJB: Averaged 8 files
+2025-01-27 18:14:57,181 - INFO - Created average for subject BG: mov_L_gPDC_10Hz_BG_average.csv
+2025-01-27 18:14:57,181 - INFO - Subject BG: Averaged 6 files
+2025-01-27 18:14:57,181 - INFO - 
+Processing: mov/L/gPDC_20Hz
+2025-01-27 18:14:58,131 - INFO - Created overall average: mov_L_gPDC_20Hz_average.csv
+2025-01-27 18:14:58,150 - INFO - Created average for subject DOC: mov_L_gPDC_20Hz_DOC_average.csv
+2025-01-27 18:14:58,150 - INFO - Subject DOC: Averaged 8 files
+2025-01-27 18:14:58,162 - INFO - Created average for subject GB: mov_L_gPDC_20Hz_GB_average.csv
+2025-01-27 18:14:58,163 - INFO - Subject GB: Averaged 8 files
+2025-01-27 18:14:58,165 - INFO - Created average for subject JDC: mov_L_gPDC_20Hz_JDC_average.csv
+2025-01-27 18:14:58,165 - INFO - Subject JDC: Averaged 8 files
+2025-01-27 18:14:58,182 - INFO - Created average for subject JFXD: mov_L_gPDC_20Hz_JFXD_average.csv
+2025-01-27 18:14:58,183 - INFO - Subject JFXD: Averaged 8 files
+2025-01-27 18:14:58,192 - INFO - Created average for subject JZ: mov_L_gPDC_20Hz_JZ_average.csv
+2025-01-27 18:14:58,193 - INFO - Subject JZ: Averaged 8 files
+2025-01-27 18:14:58,199 - INFO - Created average for subject LT: mov_L_gPDC_20Hz_LT_average.csv
+2025-01-27 18:14:58,199 - INFO - Subject LT: Averaged 8 files
+2025-01-27 18:14:58,203 - INFO - Created average for subject NvA: mov_L_gPDC_20Hz_NvA_average.csv
+2025-01-27 18:14:58,203 - INFO - Subject NvA: Averaged 8 files
+2025-01-27 18:14:58,217 - INFO - Created average for subject RR: mov_L_gPDC_20Hz_RR_average.csv
+2025-01-27 18:14:58,217 - INFO - Subject RR: Averaged 8 files
+2025-01-27 18:14:58,229 - INFO - Created average for subject SJB: mov_L_gPDC_20Hz_SJB_average.csv
+2025-01-27 18:14:58,230 - INFO - Subject SJB: Averaged 8 files
+2025-01-27 18:14:58,236 - INFO - Created average for subject BG: mov_L_gPDC_20Hz_BG_average.csv
+2025-01-27 18:14:58,236 - INFO - Subject BG: Averaged 6 files
+2025-01-27 18:14:58,238 - INFO - 
+Processing: mov/L/gPDC_100Hz
+2025-01-27 18:14:59,150 - INFO - Created overall average: mov_L_gPDC_100Hz_average.csv
+2025-01-27 18:14:59,166 - INFO - Created average for subject DOC: mov_L_gPDC_100Hz_DOC_average.csv
+2025-01-27 18:14:59,166 - INFO - Subject DOC: Averaged 8 files
+2025-01-27 18:14:59,185 - INFO - Created average for subject GB: mov_L_gPDC_100Hz_GB_average.csv
+2025-01-27 18:14:59,186 - INFO - Subject GB: Averaged 8 files
+2025-01-27 18:14:59,188 - INFO - Created average for subject JDC: mov_L_gPDC_100Hz_JDC_average.csv
+2025-01-27 18:14:59,188 - INFO - Subject JDC: Averaged 8 files
+2025-01-27 18:14:59,201 - INFO - Created average for subject JFXD: mov_L_gPDC_100Hz_JFXD_average.csv
+2025-01-27 18:14:59,201 - INFO - Subject JFXD: Averaged 8 files
+2025-01-27 18:14:59,209 - INFO - Created average for subject JZ: mov_L_gPDC_100Hz_JZ_average.csv
+2025-01-27 18:14:59,213 - INFO - Subject JZ: Averaged 8 files
+2025-01-27 18:14:59,223 - INFO - Created average for subject LT: mov_L_gPDC_100Hz_LT_average.csv
+2025-01-27 18:14:59,223 - INFO - Subject LT: Averaged 8 files
+2025-01-27 18:14:59,224 - INFO - Created average for subject NvA: mov_L_gPDC_100Hz_NvA_average.csv
+2025-01-27 18:14:59,224 - INFO - Subject NvA: Averaged 8 files
+2025-01-27 18:14:59,238 - INFO - Created average for subject RR: mov_L_gPDC_100Hz_RR_average.csv
+2025-01-27 18:14:59,238 - INFO - Subject RR: Averaged 8 files
+2025-01-27 18:14:59,250 - INFO - Created average for subject SJB: mov_L_gPDC_100Hz_SJB_average.csv
+2025-01-27 18:14:59,250 - INFO - Subject SJB: Averaged 8 files
+2025-01-27 18:14:59,257 - INFO - Created average for subject BG: mov_L_gPDC_100Hz_BG_average.csv
+2025-01-27 18:14:59,257 - INFO - Subject BG: Averaged 6 files
+2025-01-27 18:14:59,257 - INFO - 
+Processing: mov/R/iDTF_10Hz
+2025-01-27 18:15:00,252 - INFO - Created overall average: mov_R_iDTF_10Hz_average.csv
+2025-01-27 18:15:00,260 - INFO - Created average for subject DOC: mov_R_iDTF_10Hz_DOC_average.csv
+2025-01-27 18:15:00,260 - INFO - Subject DOC: Averaged 8 files
+2025-01-27 18:15:00,276 - INFO - Created average for subject GB: mov_R_iDTF_10Hz_GB_average.csv
+2025-01-27 18:15:00,276 - INFO - Subject GB: Averaged 8 files
+2025-01-27 18:15:00,288 - INFO - Created average for subject JDC: mov_R_iDTF_10Hz_JDC_average.csv
+2025-01-27 18:15:00,288 - INFO - Subject JDC: Averaged 8 files
+2025-01-27 18:15:00,291 - INFO - Created average for subject JFXD: mov_R_iDTF_10Hz_JFXD_average.csv
+2025-01-27 18:15:00,291 - INFO - Subject JFXD: Averaged 8 files
+2025-01-27 18:15:00,306 - INFO - Created average for subject JZ: mov_R_iDTF_10Hz_JZ_average.csv
+2025-01-27 18:15:00,306 - INFO - Subject JZ: Averaged 8 files
+2025-01-27 18:15:00,316 - INFO - Created average for subject LT: mov_R_iDTF_10Hz_LT_average.csv
+2025-01-27 18:15:00,316 - INFO - Subject LT: Averaged 8 files
+2025-01-27 18:15:00,320 - INFO - Created average for subject NvA: mov_R_iDTF_10Hz_NvA_average.csv
+2025-01-27 18:15:00,320 - INFO - Subject NvA: Averaged 8 files
+2025-01-27 18:15:00,333 - INFO - Created average for subject RR: mov_R_iDTF_10Hz_RR_average.csv
+2025-01-27 18:15:00,337 - INFO - Subject RR: Averaged 8 files
+2025-01-27 18:15:00,347 - INFO - Created average for subject SJB: mov_R_iDTF_10Hz_SJB_average.csv
+2025-01-27 18:15:00,348 - INFO - Subject SJB: Averaged 8 files
+2025-01-27 18:15:00,353 - INFO - Created average for subject BG: mov_R_iDTF_10Hz_BG_average.csv
+2025-01-27 18:15:00,353 - INFO - Subject BG: Averaged 6 files
+2025-01-27 18:15:00,353 - INFO - 
+Processing: mov/R/iDTF_20Hz
+2025-01-27 18:15:01,393 - INFO - Created overall average: mov_R_iDTF_20Hz_average.csv
+2025-01-27 18:15:01,400 - INFO - Created average for subject DOC: mov_R_iDTF_20Hz_DOC_average.csv
+2025-01-27 18:15:01,400 - INFO - Subject DOC: Averaged 8 files
+2025-01-27 18:15:01,417 - INFO - Created average for subject GB: mov_R_iDTF_20Hz_GB_average.csv
+2025-01-27 18:15:01,417 - INFO - Subject GB: Averaged 8 files
+2025-01-27 18:15:01,427 - INFO - Created average for subject JDC: mov_R_iDTF_20Hz_JDC_average.csv
+2025-01-27 18:15:01,427 - INFO - Subject JDC: Averaged 8 files
+2025-01-27 18:15:01,437 - INFO - Created average for subject JFXD: mov_R_iDTF_20Hz_JFXD_average.csv
+2025-01-27 18:15:01,438 - INFO - Subject JFXD: Averaged 8 files
+2025-01-27 18:15:01,445 - INFO - Created average for subject JZ: mov_R_iDTF_20Hz_JZ_average.csv
+2025-01-27 18:15:01,445 - INFO - Subject JZ: Averaged 8 files
+2025-01-27 18:15:01,455 - INFO - Created average for subject LT: mov_R_iDTF_20Hz_LT_average.csv
+2025-01-27 18:15:01,455 - INFO - Subject LT: Averaged 8 files
+2025-01-27 18:15:01,467 - INFO - Created average for subject NvA: mov_R_iDTF_20Hz_NvA_average.csv
+2025-01-27 18:15:01,467 - INFO - Subject NvA: Averaged 8 files
+2025-01-27 18:15:01,478 - INFO - Created average for subject RR: mov_R_iDTF_20Hz_RR_average.csv
+2025-01-27 18:15:01,478 - INFO - Subject RR: Averaged 8 files
+2025-01-27 18:15:01,478 - INFO - Created average for subject SJB: mov_R_iDTF_20Hz_SJB_average.csv
+2025-01-27 18:15:01,478 - INFO - Subject SJB: Averaged 8 files
+2025-01-27 18:15:01,498 - INFO - Created average for subject BG: mov_R_iDTF_20Hz_BG_average.csv
+2025-01-27 18:15:01,498 - INFO - Subject BG: Averaged 6 files
+2025-01-27 18:15:01,499 - INFO - 
+Processing: mov/R/iDTF_100Hz
+2025-01-27 18:15:02,625 - INFO - Created overall average: mov_R_iDTF_100Hz_average.csv
+2025-01-27 18:15:02,640 - INFO - Created average for subject DOC: mov_R_iDTF_100Hz_DOC_average.csv
+2025-01-27 18:15:02,640 - INFO - Subject DOC: Averaged 8 files
+2025-01-27 18:15:02,647 - INFO - Created average for subject GB: mov_R_iDTF_100Hz_GB_average.csv
+2025-01-27 18:15:02,650 - INFO - Subject GB: Averaged 8 files
+2025-01-27 18:15:02,656 - INFO - Created average for subject JDC: mov_R_iDTF_100Hz_JDC_average.csv
+2025-01-27 18:15:02,656 - INFO - Subject JDC: Averaged 8 files
+2025-01-27 18:15:02,667 - INFO - Created average for subject JFXD: mov_R_iDTF_100Hz_JFXD_average.csv
+2025-01-27 18:15:02,667 - INFO - Subject JFXD: Averaged 8 files
+2025-01-27 18:15:02,675 - INFO - Created average for subject JZ: mov_R_iDTF_100Hz_JZ_average.csv
+2025-01-27 18:15:02,675 - INFO - Subject JZ: Averaged 8 files
+2025-01-27 18:15:02,686 - INFO - Created average for subject LT: mov_R_iDTF_100Hz_LT_average.csv
+2025-01-27 18:15:02,687 - INFO - Subject LT: Averaged 8 files
+2025-01-27 18:15:02,693 - INFO - Created average for subject NvA: mov_R_iDTF_100Hz_NvA_average.csv
+2025-01-27 18:15:02,693 - INFO - Subject NvA: Averaged 8 files
+2025-01-27 18:15:02,704 - INFO - Created average for subject RR: mov_R_iDTF_100Hz_RR_average.csv
+2025-01-27 18:15:02,704 - INFO - Subject RR: Averaged 8 files
+2025-01-27 18:15:02,716 - INFO - Created average for subject SJB: mov_R_iDTF_100Hz_SJB_average.csv
+2025-01-27 18:15:02,716 - INFO - Subject SJB: Averaged 8 files
+2025-01-27 18:15:02,725 - INFO - Created average for subject BG: mov_R_iDTF_100Hz_BG_average.csv
+2025-01-27 18:15:02,725 - INFO - Subject BG: Averaged 6 files
+2025-01-27 18:15:02,725 - INFO - 
+Processing: mov/R/gDTF_10Hz
+2025-01-27 18:15:03,685 - INFO - Created overall average: mov_R_gDTF_10Hz_average.csv
+2025-01-27 18:15:03,699 - INFO - Created average for subject DOC: mov_R_gDTF_10Hz_DOC_average.csv
+2025-01-27 18:15:03,700 - INFO - Subject DOC: Averaged 8 files
+2025-01-27 18:15:03,704 - INFO - Created average for subject GB: mov_R_gDTF_10Hz_GB_average.csv
+2025-01-27 18:15:03,704 - INFO - Subject GB: Averaged 8 files
+2025-01-27 18:15:03,718 - INFO - Created average for subject JDC: mov_R_gDTF_10Hz_JDC_average.csv
+2025-01-27 18:15:03,718 - INFO - Subject JDC: Averaged 8 files
+2025-01-27 18:15:03,725 - INFO - Created average for subject JFXD: mov_R_gDTF_10Hz_JFXD_average.csv
+2025-01-27 18:15:03,725 - INFO - Subject JFXD: Averaged 8 files
+2025-01-27 18:15:03,736 - INFO - Created average for subject JZ: mov_R_gDTF_10Hz_JZ_average.csv
+2025-01-27 18:15:03,736 - INFO - Subject JZ: Averaged 8 files
+2025-01-27 18:15:03,747 - INFO - Created average for subject LT: mov_R_gDTF_10Hz_LT_average.csv
+2025-01-27 18:15:03,747 - INFO - Subject LT: Averaged 8 files
+2025-01-27 18:15:03,758 - INFO - Created average for subject NvA: mov_R_gDTF_10Hz_NvA_average.csv
+2025-01-27 18:15:03,758 - INFO - Subject NvA: Averaged 8 files
+2025-01-27 18:15:03,763 - INFO - Created average for subject RR: mov_R_gDTF_10Hz_RR_average.csv
+2025-01-27 18:15:03,763 - INFO - Subject RR: Averaged 8 files
+2025-01-27 18:15:03,777 - INFO - Created average for subject SJB: mov_R_gDTF_10Hz_SJB_average.csv
+2025-01-27 18:15:03,778 - INFO - Subject SJB: Averaged 8 files
+2025-01-27 18:15:03,787 - INFO - Created average for subject BG: mov_R_gDTF_10Hz_BG_average.csv
+2025-01-27 18:15:03,787 - INFO - Subject BG: Averaged 6 files
+2025-01-27 18:15:03,787 - INFO - 
+Processing: mov/R/gDTF_20Hz
+2025-01-27 18:15:04,721 - INFO - Created overall average: mov_R_gDTF_20Hz_average.csv
+2025-01-27 18:15:04,728 - INFO - Created average for subject DOC: mov_R_gDTF_20Hz_DOC_average.csv
+2025-01-27 18:15:04,728 - INFO - Subject DOC: Averaged 8 files
+2025-01-27 18:15:04,744 - INFO - Created average for subject GB: mov_R_gDTF_20Hz_GB_average.csv
+2025-01-27 18:15:04,744 - INFO - Subject GB: Averaged 8 files
+2025-01-27 18:15:04,754 - INFO - Created average for subject JDC: mov_R_gDTF_20Hz_JDC_average.csv
+2025-01-27 18:15:04,754 - INFO - Subject JDC: Averaged 8 files
+2025-01-27 18:15:04,765 - INFO - Created average for subject JFXD: mov_R_gDTF_20Hz_JFXD_average.csv
+2025-01-27 18:15:04,765 - INFO - Subject JFXD: Averaged 8 files
+2025-01-27 18:15:04,775 - INFO - Created average for subject JZ: mov_R_gDTF_20Hz_JZ_average.csv
+2025-01-27 18:15:04,775 - INFO - Subject JZ: Averaged 8 files
+2025-01-27 18:15:04,783 - INFO - Created average for subject LT: mov_R_gDTF_20Hz_LT_average.csv
+2025-01-27 18:15:04,783 - INFO - Subject LT: Averaged 8 files
+2025-01-27 18:15:04,799 - INFO - Created average for subject NvA: mov_R_gDTF_20Hz_NvA_average.csv
+2025-01-27 18:15:04,800 - INFO - Subject NvA: Averaged 8 files
+2025-01-27 18:15:04,811 - INFO - Created average for subject RR: mov_R_gDTF_20Hz_RR_average.csv
+2025-01-27 18:15:04,811 - INFO - Subject RR: Averaged 8 files
+2025-01-27 18:15:04,815 - INFO - Created average for subject SJB: mov_R_gDTF_20Hz_SJB_average.csv
+2025-01-27 18:15:04,815 - INFO - Subject SJB: Averaged 8 files
+2025-01-27 18:15:04,828 - INFO - Created average for subject BG: mov_R_gDTF_20Hz_BG_average.csv
+2025-01-27 18:15:04,828 - INFO - Subject BG: Averaged 6 files
+2025-01-27 18:15:04,828 - INFO - 
+Processing: mov/R/gDTF_100Hz
+2025-01-27 18:15:05,827 - INFO - Created overall average: mov_R_gDTF_100Hz_average.csv
+2025-01-27 18:15:05,846 - INFO - Created average for subject DOC: mov_R_gDTF_100Hz_DOC_average.csv
+2025-01-27 18:15:05,847 - INFO - Subject DOC: Averaged 8 files
+2025-01-27 18:15:05,847 - INFO - Created average for subject GB: mov_R_gDTF_100Hz_GB_average.csv
+2025-01-27 18:15:05,847 - INFO - Subject GB: Averaged 8 files
+2025-01-27 18:15:05,862 - INFO - Created average for subject JDC: mov_R_gDTF_100Hz_JDC_average.csv
+2025-01-27 18:15:05,862 - INFO - Subject JDC: Averaged 8 files
+2025-01-27 18:15:05,872 - INFO - Created average for subject JFXD: mov_R_gDTF_100Hz_JFXD_average.csv
+2025-01-27 18:15:05,873 - INFO - Subject JFXD: Averaged 8 files
+2025-01-27 18:15:05,881 - INFO - Created average for subject JZ: mov_R_gDTF_100Hz_JZ_average.csv
+2025-01-27 18:15:05,881 - INFO - Subject JZ: Averaged 8 files
+2025-01-27 18:15:05,889 - INFO - Created average for subject LT: mov_R_gDTF_100Hz_LT_average.csv
+2025-01-27 18:15:05,889 - INFO - Subject LT: Averaged 8 files
+2025-01-27 18:15:05,900 - INFO - Created average for subject NvA: mov_R_gDTF_100Hz_NvA_average.csv
+2025-01-27 18:15:05,900 - INFO - Subject NvA: Averaged 8 files
+2025-01-27 18:15:05,907 - INFO - Created average for subject RR: mov_R_gDTF_100Hz_RR_average.csv
+2025-01-27 18:15:05,907 - INFO - Subject RR: Averaged 8 files
+2025-01-27 18:15:05,916 - INFO - Created average for subject SJB: mov_R_gDTF_100Hz_SJB_average.csv
+2025-01-27 18:15:05,916 - INFO - Subject SJB: Averaged 8 files
+2025-01-27 18:15:05,926 - INFO - Created average for subject BG: mov_R_gDTF_100Hz_BG_average.csv
+2025-01-27 18:15:05,926 - INFO - Subject BG: Averaged 6 files
+2025-01-27 18:15:05,928 - INFO - 
+Processing: mov/R/iPDC_10Hz
+2025-01-27 18:15:06,963 - INFO - Created overall average: mov_R_iPDC_10Hz_average.csv
+2025-01-27 18:15:06,980 - INFO - Created average for subject DOC: mov_R_iPDC_10Hz_DOC_average.csv
+2025-01-27 18:15:06,980 - INFO - Subject DOC: Averaged 8 files
+2025-01-27 18:15:06,998 - INFO - Created average for subject GB: mov_R_iPDC_10Hz_GB_average.csv
+2025-01-27 18:15:06,998 - INFO - Subject GB: Averaged 8 files
+2025-01-27 18:15:07,001 - INFO - Created average for subject JDC: mov_R_iPDC_10Hz_JDC_average.csv
+2025-01-27 18:15:07,001 - INFO - Subject JDC: Averaged 8 files
+2025-01-27 18:15:07,018 - INFO - Created average for subject JFXD: mov_R_iPDC_10Hz_JFXD_average.csv
+2025-01-27 18:15:07,018 - INFO - Subject JFXD: Averaged 8 files
+2025-01-27 18:15:07,041 - INFO - Created average for subject JZ: mov_R_iPDC_10Hz_JZ_average.csv
+2025-01-27 18:15:07,041 - INFO - Subject JZ: Averaged 8 files
+2025-01-27 18:15:07,056 - INFO - Created average for subject LT: mov_R_iPDC_10Hz_LT_average.csv
+2025-01-27 18:15:07,057 - INFO - Subject LT: Averaged 8 files
+2025-01-27 18:15:07,082 - INFO - Created average for subject NvA: mov_R_iPDC_10Hz_NvA_average.csv
+2025-01-27 18:15:07,082 - INFO - Subject NvA: Averaged 8 files
+2025-01-27 18:15:07,089 - INFO - Created average for subject RR: mov_R_iPDC_10Hz_RR_average.csv
+2025-01-27 18:15:07,089 - INFO - Subject RR: Averaged 8 files
+2025-01-27 18:15:07,116 - INFO - Created average for subject SJB: mov_R_iPDC_10Hz_SJB_average.csv
+2025-01-27 18:15:07,116 - INFO - Subject SJB: Averaged 8 files
+2025-01-27 18:15:07,124 - INFO - Created average for subject BG: mov_R_iPDC_10Hz_BG_average.csv
+2025-01-27 18:15:07,124 - INFO - Subject BG: Averaged 6 files
+2025-01-27 18:15:07,124 - INFO - 
+Processing: mov/R/iPDC_20Hz
+2025-01-27 18:15:08,154 - INFO - Created overall average: mov_R_iPDC_20Hz_average.csv
+2025-01-27 18:15:08,169 - INFO - Created average for subject DOC: mov_R_iPDC_20Hz_DOC_average.csv
+2025-01-27 18:15:08,169 - INFO - Subject DOC: Averaged 8 files
+2025-01-27 18:15:08,175 - INFO - Created average for subject GB: mov_R_iPDC_20Hz_GB_average.csv
+2025-01-27 18:15:08,175 - INFO - Subject GB: Averaged 8 files
+2025-01-27 18:15:08,188 - INFO - Created average for subject JDC: mov_R_iPDC_20Hz_JDC_average.csv
+2025-01-27 18:15:08,188 - INFO - Subject JDC: Averaged 8 files
+2025-01-27 18:15:08,194 - INFO - Created average for subject JFXD: mov_R_iPDC_20Hz_JFXD_average.csv
+2025-01-27 18:15:08,194 - INFO - Subject JFXD: Averaged 8 files
+2025-01-27 18:15:08,205 - INFO - Created average for subject JZ: mov_R_iPDC_20Hz_JZ_average.csv
+2025-01-27 18:15:08,205 - INFO - Subject JZ: Averaged 8 files
+2025-01-27 18:15:08,216 - INFO - Created average for subject LT: mov_R_iPDC_20Hz_LT_average.csv
+2025-01-27 18:15:08,216 - INFO - Subject LT: Averaged 8 files
+2025-01-27 18:15:08,223 - INFO - Created average for subject NvA: mov_R_iPDC_20Hz_NvA_average.csv
+2025-01-27 18:15:08,223 - INFO - Subject NvA: Averaged 8 files
+2025-01-27 18:15:08,231 - INFO - Created average for subject RR: mov_R_iPDC_20Hz_RR_average.csv
+2025-01-27 18:15:08,231 - INFO - Subject RR: Averaged 8 files
+2025-01-27 18:15:08,240 - INFO - Created average for subject SJB: mov_R_iPDC_20Hz_SJB_average.csv
+2025-01-27 18:15:08,240 - INFO - Subject SJB: Averaged 8 files
+2025-01-27 18:15:08,250 - INFO - Created average for subject BG: mov_R_iPDC_20Hz_BG_average.csv
+2025-01-27 18:15:08,251 - INFO - Subject BG: Averaged 6 files
+2025-01-27 18:15:08,251 - INFO - 
+Processing: mov/R/iPDC_100Hz
+2025-01-27 18:15:09,212 - INFO - Created overall average: mov_R_iPDC_100Hz_average.csv
+2025-01-27 18:15:09,212 - INFO - Created average for subject DOC: mov_R_iPDC_100Hz_DOC_average.csv
+2025-01-27 18:15:09,212 - INFO - Subject DOC: Averaged 8 files
+2025-01-27 18:15:09,224 - INFO - Created average for subject GB: mov_R_iPDC_100Hz_GB_average.csv
+2025-01-27 18:15:09,224 - INFO - Subject GB: Averaged 8 files
+2025-01-27 18:15:09,237 - INFO - Created average for subject JDC: mov_R_iPDC_100Hz_JDC_average.csv
+2025-01-27 18:15:09,237 - INFO - Subject JDC: Averaged 8 files
+2025-01-27 18:15:09,247 - INFO - Created average for subject JFXD: mov_R_iPDC_100Hz_JFXD_average.csv
+2025-01-27 18:15:09,247 - INFO - Subject JFXD: Averaged 8 files
+2025-01-27 18:15:09,258 - INFO - Created average for subject JZ: mov_R_iPDC_100Hz_JZ_average.csv
+2025-01-27 18:15:09,258 - INFO - Subject JZ: Averaged 8 files
+2025-01-27 18:15:09,264 - INFO - Created average for subject LT: mov_R_iPDC_100Hz_LT_average.csv
+2025-01-27 18:15:09,264 - INFO - Subject LT: Averaged 8 files
+2025-01-27 18:15:09,275 - INFO - Created average for subject NvA: mov_R_iPDC_100Hz_NvA_average.csv
+2025-01-27 18:15:09,275 - INFO - Subject NvA: Averaged 8 files
+2025-01-27 18:15:09,284 - INFO - Created average for subject RR: mov_R_iPDC_100Hz_RR_average.csv
+2025-01-27 18:15:09,285 - INFO - Subject RR: Averaged 8 files
+2025-01-27 18:15:09,292 - INFO - Created average for subject SJB: mov_R_iPDC_100Hz_SJB_average.csv
+2025-01-27 18:15:09,292 - INFO - Subject SJB: Averaged 8 files
+2025-01-27 18:15:09,300 - INFO - Created average for subject BG: mov_R_iPDC_100Hz_BG_average.csv
+2025-01-27 18:15:09,300 - INFO - Subject BG: Averaged 6 files
+2025-01-27 18:15:09,300 - INFO - 
+Processing: mov/R/gPDC_10Hz
+2025-01-27 18:15:10,262 - INFO - Created overall average: mov_R_gPDC_10Hz_average.csv
+2025-01-27 18:15:10,279 - INFO - Created average for subject DOC: mov_R_gPDC_10Hz_DOC_average.csv
+2025-01-27 18:15:10,279 - INFO - Subject DOC: Averaged 8 files
+2025-01-27 18:15:10,289 - INFO - Created average for subject GB: mov_R_gPDC_10Hz_GB_average.csv
+2025-01-27 18:15:10,289 - INFO - Subject GB: Averaged 8 files
+2025-01-27 18:15:10,299 - INFO - Created average for subject JDC: mov_R_gPDC_10Hz_JDC_average.csv
+2025-01-27 18:15:10,299 - INFO - Subject JDC: Averaged 8 files
+2025-01-27 18:15:10,308 - INFO - Created average for subject JFXD: mov_R_gPDC_10Hz_JFXD_average.csv
+2025-01-27 18:15:10,313 - INFO - Subject JFXD: Averaged 8 files
+2025-01-27 18:15:10,319 - INFO - Created average for subject JZ: mov_R_gPDC_10Hz_JZ_average.csv
+2025-01-27 18:15:10,319 - INFO - Subject JZ: Averaged 8 files
+2025-01-27 18:15:10,331 - INFO - Created average for subject LT: mov_R_gPDC_10Hz_LT_average.csv
+2025-01-27 18:15:10,331 - INFO - Subject LT: Averaged 8 files
+2025-01-27 18:15:10,341 - INFO - Created average for subject NvA: mov_R_gPDC_10Hz_NvA_average.csv
+2025-01-27 18:15:10,341 - INFO - Subject NvA: Averaged 8 files
+2025-01-27 18:15:10,347 - INFO - Created average for subject RR: mov_R_gPDC_10Hz_RR_average.csv
+2025-01-27 18:15:10,347 - INFO - Subject RR: Averaged 8 files
+2025-01-27 18:15:10,358 - INFO - Created average for subject SJB: mov_R_gPDC_10Hz_SJB_average.csv
+2025-01-27 18:15:10,358 - INFO - Subject SJB: Averaged 8 files
+2025-01-27 18:15:10,366 - INFO - Created average for subject BG: mov_R_gPDC_10Hz_BG_average.csv
+2025-01-27 18:15:10,366 - INFO - Subject BG: Averaged 6 files
+2025-01-27 18:15:10,366 - INFO - 
+Processing: mov/R/gPDC_20Hz
+2025-01-27 18:15:11,384 - INFO - Created overall average: mov_R_gPDC_20Hz_average.csv
+2025-01-27 18:15:11,404 - INFO - Created average for subject DOC: mov_R_gPDC_20Hz_DOC_average.csv
+2025-01-27 18:15:11,404 - INFO - Subject DOC: Averaged 8 files
+2025-01-27 18:15:11,415 - INFO - Created average for subject GB: mov_R_gPDC_20Hz_GB_average.csv
+2025-01-27 18:15:11,415 - INFO - Subject GB: Averaged 8 files
+2025-01-27 18:15:11,422 - INFO - Created average for subject JDC: mov_R_gPDC_20Hz_JDC_average.csv
+2025-01-27 18:15:11,422 - INFO - Subject JDC: Averaged 8 files
+2025-01-27 18:15:11,432 - INFO - Created average for subject JFXD: mov_R_gPDC_20Hz_JFXD_average.csv
+2025-01-27 18:15:11,432 - INFO - Subject JFXD: Averaged 8 files
+2025-01-27 18:15:11,441 - INFO - Created average for subject JZ: mov_R_gPDC_20Hz_JZ_average.csv
+2025-01-27 18:15:11,441 - INFO - Subject JZ: Averaged 8 files
+2025-01-27 18:15:11,450 - INFO - Created average for subject LT: mov_R_gPDC_20Hz_LT_average.csv
+2025-01-27 18:15:11,450 - INFO - Subject LT: Averaged 8 files
+2025-01-27 18:15:11,450 - INFO - Created average for subject NvA: mov_R_gPDC_20Hz_NvA_average.csv
+2025-01-27 18:15:11,450 - INFO - Subject NvA: Averaged 8 files
+2025-01-27 18:15:11,470 - INFO - Created average for subject RR: mov_R_gPDC_20Hz_RR_average.csv
+2025-01-27 18:15:11,470 - INFO - Subject RR: Averaged 8 files
+2025-01-27 18:15:11,480 - INFO - Created average for subject SJB: mov_R_gPDC_20Hz_SJB_average.csv
+2025-01-27 18:15:11,480 - INFO - Subject SJB: Averaged 8 files
+2025-01-27 18:15:11,488 - INFO - Created average for subject BG: mov_R_gPDC_20Hz_BG_average.csv
+2025-01-27 18:15:11,488 - INFO - Subject BG: Averaged 6 files
+2025-01-27 18:15:11,489 - INFO - 
+Processing: mov/R/gPDC_100Hz
+2025-01-27 18:15:12,919 - INFO - Created overall average: mov_R_gPDC_100Hz_average.csv
+2025-01-27 18:15:12,926 - INFO - Created average for subject DOC: mov_R_gPDC_100Hz_DOC_average.csv
+2025-01-27 18:15:12,931 - INFO - Subject DOC: Averaged 8 files
+2025-01-27 18:15:12,937 - INFO - Created average for subject GB: mov_R_gPDC_100Hz_GB_average.csv
+2025-01-27 18:15:12,937 - INFO - Subject GB: Averaged 8 files
+2025-01-27 18:15:12,948 - INFO - Created average for subject JDC: mov_R_gPDC_100Hz_JDC_average.csv
+2025-01-27 18:15:12,948 - INFO - Subject JDC: Averaged 8 files
+2025-01-27 18:15:12,957 - INFO - Created average for subject JFXD: mov_R_gPDC_100Hz_JFXD_average.csv
+2025-01-27 18:15:12,957 - INFO - Subject JFXD: Averaged 8 files
+2025-01-27 18:15:12,969 - INFO - Created average for subject JZ: mov_R_gPDC_100Hz_JZ_average.csv
+2025-01-27 18:15:12,969 - INFO - Subject JZ: Averaged 8 files
+2025-01-27 18:15:12,976 - INFO - Created average for subject LT: mov_R_gPDC_100Hz_LT_average.csv
+2025-01-27 18:15:12,976 - INFO - Subject LT: Averaged 8 files
+2025-01-27 18:15:12,986 - INFO - Created average for subject NvA: mov_R_gPDC_100Hz_NvA_average.csv
+2025-01-27 18:15:12,986 - INFO - Subject NvA: Averaged 8 files
+2025-01-27 18:15:12,998 - INFO - Created average for subject RR: mov_R_gPDC_100Hz_RR_average.csv
+2025-01-27 18:15:12,998 - INFO - Subject RR: Averaged 8 files
+2025-01-27 18:15:13,007 - INFO - Created average for subject SJB: mov_R_gPDC_100Hz_SJB_average.csv
+2025-01-27 18:15:13,007 - INFO - Subject SJB: Averaged 8 files
+2025-01-27 18:15:13,014 - INFO - Created average for subject BG: mov_R_gPDC_100Hz_BG_average.csv
+2025-01-27 18:15:13,014 - INFO - Subject BG: Averaged 6 files
+2025-01-27 18:25:48,501 - INFO - Starting matrix averaging process
+2025-01-27 18:25:48,501 - INFO - 
+Processing: cue/L/iDTF_10Hz
+2025-01-27 18:25:48,697 - INFO - Created overall average: cue_L_iDTF_10Hz_average.csv
+2025-01-27 18:25:48,715 - INFO - Created average for subject DOC: cue_L_iDTF_10Hz_DOC_average.csv
+2025-01-27 18:25:48,715 - INFO - Subject DOC: Averaged 8 files
+2025-01-27 18:25:48,719 - INFO - Created average for subject GB: cue_L_iDTF_10Hz_GB_average.csv
+2025-01-27 18:25:48,719 - INFO - Subject GB: Averaged 8 files
+2025-01-27 18:25:48,730 - INFO - Created average for subject JDC: cue_L_iDTF_10Hz_JDC_average.csv
+2025-01-27 18:25:48,730 - INFO - Subject JDC: Averaged 8 files
+2025-01-27 18:25:48,742 - INFO - Created average for subject JFXD: cue_L_iDTF_10Hz_JFXD_average.csv
+2025-01-27 18:25:48,744 - INFO - Subject JFXD: Averaged 8 files
+2025-01-27 18:25:48,755 - INFO - Created average for subject JZ: cue_L_iDTF_10Hz_JZ_average.csv
+2025-01-27 18:25:48,755 - INFO - Subject JZ: Averaged 8 files
+2025-01-27 18:25:48,758 - INFO - Created average for subject LT: cue_L_iDTF_10Hz_LT_average.csv
+2025-01-27 18:25:48,758 - INFO - Subject LT: Averaged 8 files
+2025-01-27 18:25:48,771 - INFO - Created average for subject NvA: cue_L_iDTF_10Hz_NvA_average.csv
+2025-01-27 18:25:48,771 - INFO - Subject NvA: Averaged 8 files
+2025-01-27 18:25:48,782 - INFO - Created average for subject RR: cue_L_iDTF_10Hz_RR_average.csv
+2025-01-27 18:25:48,782 - INFO - Subject RR: Averaged 8 files
+2025-01-27 18:25:48,793 - INFO - Created average for subject SJB: cue_L_iDTF_10Hz_SJB_average.csv
+2025-01-27 18:25:48,793 - INFO - Subject SJB: Averaged 8 files
+2025-01-27 18:25:48,803 - INFO - Created average for subject BG: cue_L_iDTF_10Hz_BG_average.csv
+2025-01-27 18:25:48,803 - INFO - Subject BG: Averaged 6 files
+2025-01-27 18:25:48,803 - INFO - 
+Processing: cue/L/iDTF_20Hz
+2025-01-27 18:25:48,963 - INFO - Created overall average: cue_L_iDTF_20Hz_average.csv
+2025-01-27 18:25:48,963 - INFO - Created average for subject DOC: cue_L_iDTF_20Hz_DOC_average.csv
+2025-01-27 18:25:48,963 - INFO - Subject DOC: Averaged 8 files
+2025-01-27 18:25:48,980 - INFO - Created average for subject GB: cue_L_iDTF_20Hz_GB_average.csv
+2025-01-27 18:25:48,980 - INFO - Subject GB: Averaged 8 files
+2025-01-27 18:25:48,993 - INFO - Created average for subject JDC: cue_L_iDTF_20Hz_JDC_average.csv
+2025-01-27 18:25:48,993 - INFO - Subject JDC: Averaged 8 files
+2025-01-27 18:25:48,996 - INFO - Created average for subject JFXD: cue_L_iDTF_20Hz_JFXD_average.csv
+2025-01-27 18:25:48,996 - INFO - Subject JFXD: Averaged 8 files
+2025-01-27 18:25:49,015 - INFO - Created average for subject JZ: cue_L_iDTF_20Hz_JZ_average.csv
+2025-01-27 18:25:49,015 - INFO - Subject JZ: Averaged 8 files
+2025-01-27 18:25:49,017 - INFO - Created average for subject LT: cue_L_iDTF_20Hz_LT_average.csv
+2025-01-27 18:25:49,017 - INFO - Subject LT: Averaged 8 files
+2025-01-27 18:25:49,032 - INFO - Created average for subject NvA: cue_L_iDTF_20Hz_NvA_average.csv
+2025-01-27 18:25:49,032 - INFO - Subject NvA: Averaged 8 files
+2025-01-27 18:25:49,041 - INFO - Created average for subject RR: cue_L_iDTF_20Hz_RR_average.csv
+2025-01-27 18:25:49,041 - INFO - Subject RR: Averaged 8 files
+2025-01-27 18:25:49,051 - INFO - Created average for subject SJB: cue_L_iDTF_20Hz_SJB_average.csv
+2025-01-27 18:25:49,051 - INFO - Subject SJB: Averaged 8 files
+2025-01-27 18:25:49,062 - INFO - Created average for subject BG: cue_L_iDTF_20Hz_BG_average.csv
+2025-01-27 18:25:49,062 - INFO - Subject BG: Averaged 6 files
+2025-01-27 18:25:49,062 - INFO - 
+Processing: cue/L/iDTF_100Hz
+2025-01-27 18:25:49,228 - INFO - Created overall average: cue_L_iDTF_100Hz_average.csv
+2025-01-27 18:25:49,239 - INFO - Created average for subject DOC: cue_L_iDTF_100Hz_DOC_average.csv
+2025-01-27 18:25:49,239 - INFO - Subject DOC: Averaged 8 files
+2025-01-27 18:25:49,251 - INFO - Created average for subject GB: cue_L_iDTF_100Hz_GB_average.csv
+2025-01-27 18:25:49,251 - INFO - Subject GB: Averaged 8 files
+2025-01-27 18:25:49,253 - INFO - Created average for subject JDC: cue_L_iDTF_100Hz_JDC_average.csv
+2025-01-27 18:25:49,253 - INFO - Subject JDC: Averaged 8 files
+2025-01-27 18:25:49,269 - INFO - Created average for subject JFXD: cue_L_iDTF_100Hz_JFXD_average.csv
+2025-01-27 18:25:49,269 - INFO - Subject JFXD: Averaged 8 files
+2025-01-27 18:25:49,283 - INFO - Created average for subject JZ: cue_L_iDTF_100Hz_JZ_average.csv
+2025-01-27 18:25:49,283 - INFO - Subject JZ: Averaged 8 files
+2025-01-27 18:25:49,290 - INFO - Created average for subject LT: cue_L_iDTF_100Hz_LT_average.csv
+2025-01-27 18:25:49,290 - INFO - Subject LT: Averaged 8 files
+2025-01-27 18:25:49,302 - INFO - Created average for subject NvA: cue_L_iDTF_100Hz_NvA_average.csv
+2025-01-27 18:25:49,302 - INFO - Subject NvA: Averaged 8 files
+2025-01-27 18:25:49,315 - INFO - Created average for subject RR: cue_L_iDTF_100Hz_RR_average.csv
+2025-01-27 18:25:49,316 - INFO - Subject RR: Averaged 8 files
+2025-01-27 18:25:49,319 - INFO - Created average for subject SJB: cue_L_iDTF_100Hz_SJB_average.csv
+2025-01-27 18:25:49,319 - INFO - Subject SJB: Averaged 8 files
+2025-01-27 18:25:49,332 - INFO - Created average for subject BG: cue_L_iDTF_100Hz_BG_average.csv
+2025-01-27 18:25:49,332 - INFO - Subject BG: Averaged 6 files
+2025-01-27 18:25:49,335 - INFO - 
+Processing: cue/L/gDTF_10Hz
+2025-01-27 18:25:49,498 - INFO - Created overall average: cue_L_gDTF_10Hz_average.csv
+2025-01-27 18:25:49,509 - INFO - Created average for subject DOC: cue_L_gDTF_10Hz_DOC_average.csv
+2025-01-27 18:25:49,510 - INFO - Subject DOC: Averaged 8 files
+2025-01-27 18:25:49,520 - INFO - Created average for subject GB: cue_L_gDTF_10Hz_GB_average.csv
+2025-01-27 18:25:49,520 - INFO - Subject GB: Averaged 8 files
+2025-01-27 18:25:49,525 - INFO - Created average for subject JDC: cue_L_gDTF_10Hz_JDC_average.csv
+2025-01-27 18:25:49,525 - INFO - Subject JDC: Averaged 8 files
+2025-01-27 18:25:49,540 - INFO - Created average for subject JFXD: cue_L_gDTF_10Hz_JFXD_average.csv
+2025-01-27 18:25:49,540 - INFO - Subject JFXD: Averaged 8 files
+2025-01-27 18:25:49,550 - INFO - Created average for subject JZ: cue_L_gDTF_10Hz_JZ_average.csv
+2025-01-27 18:25:49,550 - INFO - Subject JZ: Averaged 8 files
+2025-01-27 18:25:49,558 - INFO - Created average for subject LT: cue_L_gDTF_10Hz_LT_average.csv
+2025-01-27 18:25:49,558 - INFO - Subject LT: Averaged 8 files
+2025-01-27 18:25:49,567 - INFO - Created average for subject NvA: cue_L_gDTF_10Hz_NvA_average.csv
+2025-01-27 18:25:49,567 - INFO - Subject NvA: Averaged 8 files
+2025-01-27 18:25:49,578 - INFO - Created average for subject RR: cue_L_gDTF_10Hz_RR_average.csv
+2025-01-27 18:25:49,578 - INFO - Subject RR: Averaged 8 files
+2025-01-27 18:25:49,590 - INFO - Created average for subject SJB: cue_L_gDTF_10Hz_SJB_average.csv
+2025-01-27 18:25:49,590 - INFO - Subject SJB: Averaged 8 files
+2025-01-27 18:25:49,595 - INFO - Created average for subject BG: cue_L_gDTF_10Hz_BG_average.csv
+2025-01-27 18:25:49,595 - INFO - Subject BG: Averaged 6 files
+2025-01-27 18:25:49,595 - INFO - 
+Processing: cue/L/gDTF_20Hz
+2025-01-27 18:25:49,762 - INFO - Created overall average: cue_L_gDTF_20Hz_average.csv
+2025-01-27 18:25:49,782 - INFO - Created average for subject DOC: cue_L_gDTF_20Hz_DOC_average.csv
+2025-01-27 18:25:49,782 - INFO - Subject DOC: Averaged 8 files
+2025-01-27 18:25:49,794 - INFO - Created average for subject GB: cue_L_gDTF_20Hz_GB_average.csv
+2025-01-27 18:25:49,794 - INFO - Subject GB: Averaged 8 files
+2025-01-27 18:25:49,799 - INFO - Created average for subject JDC: cue_L_gDTF_20Hz_JDC_average.csv
+2025-01-27 18:25:49,799 - INFO - Subject JDC: Averaged 8 files
+2025-01-27 18:25:49,810 - INFO - Created average for subject JFXD: cue_L_gDTF_20Hz_JFXD_average.csv
+2025-01-27 18:25:49,810 - INFO - Subject JFXD: Averaged 8 files
+2025-01-27 18:25:49,820 - INFO - Created average for subject JZ: cue_L_gDTF_20Hz_JZ_average.csv
+2025-01-27 18:25:49,820 - INFO - Subject JZ: Averaged 8 files
+2025-01-27 18:25:49,831 - INFO - Created average for subject LT: cue_L_gDTF_20Hz_LT_average.csv
+2025-01-27 18:25:49,831 - INFO - Subject LT: Averaged 8 files
+2025-01-27 18:25:49,845 - INFO - Created average for subject NvA: cue_L_gDTF_20Hz_NvA_average.csv
+2025-01-27 18:25:49,845 - INFO - Subject NvA: Averaged 8 files
+2025-01-27 18:25:49,852 - INFO - Created average for subject RR: cue_L_gDTF_20Hz_RR_average.csv
+2025-01-27 18:25:49,852 - INFO - Subject RR: Averaged 8 files
+2025-01-27 18:25:49,866 - INFO - Created average for subject SJB: cue_L_gDTF_20Hz_SJB_average.csv
+2025-01-27 18:25:49,867 - INFO - Subject SJB: Averaged 8 files
+2025-01-27 18:25:49,871 - INFO - Created average for subject BG: cue_L_gDTF_20Hz_BG_average.csv
+2025-01-27 18:25:49,871 - INFO - Subject BG: Averaged 6 files
+2025-01-27 18:25:49,871 - INFO - 
+Processing: cue/L/gDTF_100Hz
+2025-01-27 18:25:50,031 - INFO - Created overall average: cue_L_gDTF_100Hz_average.csv
+2025-01-27 18:25:50,044 - INFO - Created average for subject DOC: cue_L_gDTF_100Hz_DOC_average.csv
+2025-01-27 18:25:50,044 - INFO - Subject DOC: Averaged 8 files
+2025-01-27 18:25:50,048 - INFO - Created average for subject GB: cue_L_gDTF_100Hz_GB_average.csv
+2025-01-27 18:25:50,048 - INFO - Subject GB: Averaged 8 files
+2025-01-27 18:25:50,068 - INFO - Created average for subject JDC: cue_L_gDTF_100Hz_JDC_average.csv
+2025-01-27 18:25:50,069 - INFO - Subject JDC: Averaged 8 files
+2025-01-27 18:25:50,070 - INFO - Created average for subject JFXD: cue_L_gDTF_100Hz_JFXD_average.csv
+2025-01-27 18:25:50,070 - INFO - Subject JFXD: Averaged 8 files
+2025-01-27 18:25:50,089 - INFO - Created average for subject JZ: cue_L_gDTF_100Hz_JZ_average.csv
+2025-01-27 18:25:50,089 - INFO - Subject JZ: Averaged 8 files
+2025-01-27 18:25:50,101 - INFO - Created average for subject LT: cue_L_gDTF_100Hz_LT_average.csv
+2025-01-27 18:25:50,101 - INFO - Subject LT: Averaged 8 files
+2025-01-27 18:25:50,101 - INFO - Created average for subject NvA: cue_L_gDTF_100Hz_NvA_average.csv
+2025-01-27 18:25:50,101 - INFO - Subject NvA: Averaged 8 files
+2025-01-27 18:25:50,121 - INFO - Created average for subject RR: cue_L_gDTF_100Hz_RR_average.csv
+2025-01-27 18:25:50,122 - INFO - Subject RR: Averaged 8 files
+2025-01-27 18:25:50,133 - INFO - Created average for subject SJB: cue_L_gDTF_100Hz_SJB_average.csv
+2025-01-27 18:25:50,133 - INFO - Subject SJB: Averaged 8 files
+2025-01-27 18:25:50,133 - INFO - Created average for subject BG: cue_L_gDTF_100Hz_BG_average.csv
+2025-01-27 18:25:50,133 - INFO - Subject BG: Averaged 6 files
+2025-01-27 18:25:50,142 - INFO - 
+Processing: cue/L/iPDC_10Hz
+2025-01-27 18:25:50,299 - INFO - Created overall average: cue_L_iPDC_10Hz_average.csv
+2025-01-27 18:25:50,310 - INFO - Created average for subject DOC: cue_L_iPDC_10Hz_DOC_average.csv
+2025-01-27 18:25:50,311 - INFO - Subject DOC: Averaged 8 files
+2025-01-27 18:25:50,319 - INFO - Created average for subject GB: cue_L_iPDC_10Hz_GB_average.csv
+2025-01-27 18:25:50,319 - INFO - Subject GB: Averaged 8 files
+2025-01-27 18:25:50,326 - INFO - Created average for subject JDC: cue_L_iPDC_10Hz_JDC_average.csv
+2025-01-27 18:25:50,326 - INFO - Subject JDC: Averaged 8 files
+2025-01-27 18:25:50,338 - INFO - Created average for subject JFXD: cue_L_iPDC_10Hz_JFXD_average.csv
+2025-01-27 18:25:50,338 - INFO - Subject JFXD: Averaged 8 files
+2025-01-27 18:25:50,338 - INFO - Created average for subject JZ: cue_L_iPDC_10Hz_JZ_average.csv
+2025-01-27 18:25:50,338 - INFO - Subject JZ: Averaged 8 files
+2025-01-27 18:25:50,356 - INFO - Created average for subject LT: cue_L_iPDC_10Hz_LT_average.csv
+2025-01-27 18:25:50,356 - INFO - Subject LT: Averaged 8 files
+2025-01-27 18:25:50,369 - INFO - Created average for subject NvA: cue_L_iPDC_10Hz_NvA_average.csv
+2025-01-27 18:25:50,369 - INFO - Subject NvA: Averaged 8 files
+2025-01-27 18:25:50,376 - INFO - Created average for subject RR: cue_L_iPDC_10Hz_RR_average.csv
+2025-01-27 18:25:50,376 - INFO - Subject RR: Averaged 8 files
+2025-01-27 18:25:50,387 - INFO - Created average for subject SJB: cue_L_iPDC_10Hz_SJB_average.csv
+2025-01-27 18:25:50,387 - INFO - Subject SJB: Averaged 8 files
+2025-01-27 18:25:50,396 - INFO - Created average for subject BG: cue_L_iPDC_10Hz_BG_average.csv
+2025-01-27 18:25:50,396 - INFO - Subject BG: Averaged 6 files
+2025-01-27 18:25:50,396 - INFO - 
+Processing: cue/L/iPDC_20Hz
+2025-01-27 18:25:50,557 - INFO - Created overall average: cue_L_iPDC_20Hz_average.csv
+2025-01-27 18:25:50,573 - INFO - Created average for subject DOC: cue_L_iPDC_20Hz_DOC_average.csv
+2025-01-27 18:25:50,573 - INFO - Subject DOC: Averaged 8 files
+2025-01-27 18:25:50,595 - INFO - Created average for subject GB: cue_L_iPDC_20Hz_GB_average.csv
+2025-01-27 18:25:50,595 - INFO - Subject GB: Averaged 8 files
+2025-01-27 18:25:50,595 - INFO - Created average for subject JDC: cue_L_iPDC_20Hz_JDC_average.csv
+2025-01-27 18:25:50,595 - INFO - Subject JDC: Averaged 8 files
+2025-01-27 18:25:50,613 - INFO - Created average for subject JFXD: cue_L_iPDC_20Hz_JFXD_average.csv
+2025-01-27 18:25:50,613 - INFO - Subject JFXD: Averaged 8 files
+2025-01-27 18:25:50,624 - INFO - Created average for subject JZ: cue_L_iPDC_20Hz_JZ_average.csv
+2025-01-27 18:25:50,624 - INFO - Subject JZ: Averaged 8 files
+2025-01-27 18:25:50,633 - INFO - Created average for subject LT: cue_L_iPDC_20Hz_LT_average.csv
+2025-01-27 18:25:50,633 - INFO - Subject LT: Averaged 8 files
+2025-01-27 18:25:50,644 - INFO - Created average for subject NvA: cue_L_iPDC_20Hz_NvA_average.csv
+2025-01-27 18:25:50,644 - INFO - Subject NvA: Averaged 8 files
+2025-01-27 18:25:50,659 - INFO - Created average for subject RR: cue_L_iPDC_20Hz_RR_average.csv
+2025-01-27 18:25:50,660 - INFO - Subject RR: Averaged 8 files
+2025-01-27 18:25:50,660 - INFO - Created average for subject SJB: cue_L_iPDC_20Hz_SJB_average.csv
+2025-01-27 18:25:50,660 - INFO - Subject SJB: Averaged 8 files
+2025-01-27 18:25:50,675 - INFO - Created average for subject BG: cue_L_iPDC_20Hz_BG_average.csv
+2025-01-27 18:25:50,675 - INFO - Subject BG: Averaged 6 files
+2025-01-27 18:25:50,678 - INFO - 
+Processing: cue/L/iPDC_100Hz
+2025-01-27 18:25:50,838 - INFO - Created overall average: cue_L_iPDC_100Hz_average.csv
+2025-01-27 18:25:50,844 - INFO - Created average for subject DOC: cue_L_iPDC_100Hz_DOC_average.csv
+2025-01-27 18:25:50,844 - INFO - Subject DOC: Averaged 8 files
+2025-01-27 18:25:50,856 - INFO - Created average for subject GB: cue_L_iPDC_100Hz_GB_average.csv
+2025-01-27 18:25:50,856 - INFO - Subject GB: Averaged 8 files
+2025-01-27 18:25:50,870 - INFO - Created average for subject JDC: cue_L_iPDC_100Hz_JDC_average.csv
+2025-01-27 18:25:50,871 - INFO - Subject JDC: Averaged 8 files
+2025-01-27 18:25:50,878 - INFO - Created average for subject JFXD: cue_L_iPDC_100Hz_JFXD_average.csv
+2025-01-27 18:25:50,878 - INFO - Subject JFXD: Averaged 8 files
+2025-01-27 18:25:50,888 - INFO - Created average for subject JZ: cue_L_iPDC_100Hz_JZ_average.csv
+2025-01-27 18:25:50,888 - INFO - Subject JZ: Averaged 8 files
+2025-01-27 18:25:50,895 - INFO - Created average for subject LT: cue_L_iPDC_100Hz_LT_average.csv
+2025-01-27 18:25:50,900 - INFO - Subject LT: Averaged 8 files
+2025-01-27 18:25:50,918 - INFO - Created average for subject NvA: cue_L_iPDC_100Hz_NvA_average.csv
+2025-01-27 18:25:50,918 - INFO - Subject NvA: Averaged 8 files
+2025-01-27 18:25:50,947 - INFO - Created average for subject RR: cue_L_iPDC_100Hz_RR_average.csv
+2025-01-27 18:25:50,947 - INFO - Subject RR: Averaged 8 files
+2025-01-27 18:25:50,964 - INFO - Created average for subject SJB: cue_L_iPDC_100Hz_SJB_average.csv
+2025-01-27 18:25:50,965 - INFO - Subject SJB: Averaged 8 files
+2025-01-27 18:25:50,972 - INFO - Created average for subject BG: cue_L_iPDC_100Hz_BG_average.csv
+2025-01-27 18:25:50,972 - INFO - Subject BG: Averaged 6 files
+2025-01-27 18:25:50,980 - INFO - 
+Processing: cue/L/gPDC_10Hz
+2025-01-27 18:25:51,135 - INFO - Created overall average: cue_L_gPDC_10Hz_average.csv
+2025-01-27 18:25:51,155 - INFO - Created average for subject DOC: cue_L_gPDC_10Hz_DOC_average.csv
+2025-01-27 18:25:51,155 - INFO - Subject DOC: Averaged 8 files
+2025-01-27 18:25:51,156 - INFO - Created average for subject GB: cue_L_gPDC_10Hz_GB_average.csv
+2025-01-27 18:25:51,156 - INFO - Subject GB: Averaged 8 files
+2025-01-27 18:25:51,173 - INFO - Created average for subject JDC: cue_L_gPDC_10Hz_JDC_average.csv
+2025-01-27 18:25:51,173 - INFO - Subject JDC: Averaged 8 files
+2025-01-27 18:25:51,186 - INFO - Created average for subject JFXD: cue_L_gPDC_10Hz_JFXD_average.csv
+2025-01-27 18:25:51,186 - INFO - Subject JFXD: Averaged 8 files
+2025-01-27 18:25:51,194 - INFO - Created average for subject JZ: cue_L_gPDC_10Hz_JZ_average.csv
+2025-01-27 18:25:51,194 - INFO - Subject JZ: Averaged 8 files
+2025-01-27 18:25:51,201 - INFO - Created average for subject LT: cue_L_gPDC_10Hz_LT_average.csv
+2025-01-27 18:25:51,201 - INFO - Subject LT: Averaged 8 files
+2025-01-27 18:25:51,219 - INFO - Created average for subject NvA: cue_L_gPDC_10Hz_NvA_average.csv
+2025-01-27 18:25:51,219 - INFO - Subject NvA: Averaged 8 files
+2025-01-27 18:25:51,220 - INFO - Created average for subject RR: cue_L_gPDC_10Hz_RR_average.csv
+2025-01-27 18:25:51,220 - INFO - Subject RR: Averaged 8 files
+2025-01-27 18:25:51,235 - INFO - Created average for subject SJB: cue_L_gPDC_10Hz_SJB_average.csv
+2025-01-27 18:25:51,235 - INFO - Subject SJB: Averaged 8 files
+2025-01-27 18:25:51,247 - INFO - Created average for subject BG: cue_L_gPDC_10Hz_BG_average.csv
+2025-01-27 18:25:51,247 - INFO - Subject BG: Averaged 6 files
+2025-01-27 18:25:51,248 - INFO - 
+Processing: cue/L/gPDC_20Hz
+2025-01-27 18:25:51,408 - INFO - Created overall average: cue_L_gPDC_20Hz_average.csv
+2025-01-27 18:25:51,418 - INFO - Created average for subject DOC: cue_L_gPDC_20Hz_DOC_average.csv
+2025-01-27 18:25:51,418 - INFO - Subject DOC: Averaged 8 files
+2025-01-27 18:25:51,423 - INFO - Created average for subject GB: cue_L_gPDC_20Hz_GB_average.csv
+2025-01-27 18:25:51,423 - INFO - Subject GB: Averaged 8 files
+2025-01-27 18:25:51,438 - INFO - Created average for subject JDC: cue_L_gPDC_20Hz_JDC_average.csv
+2025-01-27 18:25:51,438 - INFO - Subject JDC: Averaged 8 files
+2025-01-27 18:25:51,446 - INFO - Created average for subject JFXD: cue_L_gPDC_20Hz_JFXD_average.csv
+2025-01-27 18:25:51,446 - INFO - Subject JFXD: Averaged 8 files
+2025-01-27 18:25:51,457 - INFO - Created average for subject JZ: cue_L_gPDC_20Hz_JZ_average.csv
+2025-01-27 18:25:51,457 - INFO - Subject JZ: Averaged 8 files
+2025-01-27 18:25:51,474 - INFO - Created average for subject LT: cue_L_gPDC_20Hz_LT_average.csv
+2025-01-27 18:25:51,474 - INFO - Subject LT: Averaged 8 files
+2025-01-27 18:25:51,480 - INFO - Created average for subject NvA: cue_L_gPDC_20Hz_NvA_average.csv
+2025-01-27 18:25:51,480 - INFO - Subject NvA: Averaged 8 files
+2025-01-27 18:25:51,495 - INFO - Created average for subject RR: cue_L_gPDC_20Hz_RR_average.csv
+2025-01-27 18:25:51,495 - INFO - Subject RR: Averaged 8 files
+2025-01-27 18:25:51,506 - INFO - Created average for subject SJB: cue_L_gPDC_20Hz_SJB_average.csv
+2025-01-27 18:25:51,506 - INFO - Subject SJB: Averaged 8 files
+2025-01-27 18:25:51,513 - INFO - Created average for subject BG: cue_L_gPDC_20Hz_BG_average.csv
+2025-01-27 18:25:51,513 - INFO - Subject BG: Averaged 6 files
+2025-01-27 18:25:51,513 - INFO - 
+Processing: cue/L/gPDC_100Hz
+2025-01-27 18:25:51,680 - INFO - Created overall average: cue_L_gPDC_100Hz_average.csv
+2025-01-27 18:25:51,682 - INFO - Created average for subject DOC: cue_L_gPDC_100Hz_DOC_average.csv
+2025-01-27 18:25:51,682 - INFO - Subject DOC: Averaged 8 files
+2025-01-27 18:25:51,696 - INFO - Created average for subject GB: cue_L_gPDC_100Hz_GB_average.csv
+2025-01-27 18:25:51,696 - INFO - Subject GB: Averaged 8 files
+2025-01-27 18:25:51,706 - INFO - Created average for subject JDC: cue_L_gPDC_100Hz_JDC_average.csv
+2025-01-27 18:25:51,706 - INFO - Subject JDC: Averaged 8 files
+2025-01-27 18:25:51,719 - INFO - Created average for subject JFXD: cue_L_gPDC_100Hz_JFXD_average.csv
+2025-01-27 18:25:51,720 - INFO - Subject JFXD: Averaged 8 files
+2025-01-27 18:25:51,726 - INFO - Created average for subject JZ: cue_L_gPDC_100Hz_JZ_average.csv
+2025-01-27 18:25:51,726 - INFO - Subject JZ: Averaged 8 files
+2025-01-27 18:25:51,737 - INFO - Created average for subject LT: cue_L_gPDC_100Hz_LT_average.csv
+2025-01-27 18:25:51,737 - INFO - Subject LT: Averaged 8 files
+2025-01-27 18:25:51,752 - INFO - Created average for subject NvA: cue_L_gPDC_100Hz_NvA_average.csv
+2025-01-27 18:25:51,752 - INFO - Subject NvA: Averaged 8 files
+2025-01-27 18:25:51,760 - INFO - Created average for subject RR: cue_L_gPDC_100Hz_RR_average.csv
+2025-01-27 18:25:51,760 - INFO - Subject RR: Averaged 8 files
+2025-01-27 18:25:51,769 - INFO - Created average for subject SJB: cue_L_gPDC_100Hz_SJB_average.csv
+2025-01-27 18:25:51,769 - INFO - Subject SJB: Averaged 8 files
+2025-01-27 18:25:51,778 - INFO - Created average for subject BG: cue_L_gPDC_100Hz_BG_average.csv
+2025-01-27 18:25:51,778 - INFO - Subject BG: Averaged 6 files
+2025-01-27 18:25:51,778 - INFO - 
+Processing: cue/R/iDTF_10Hz
+2025-01-27 18:25:51,942 - INFO - Created overall average: cue_R_iDTF_10Hz_average.csv
+2025-01-27 18:25:51,952 - INFO - Created average for subject DOC: cue_R_iDTF_10Hz_DOC_average.csv
+2025-01-27 18:25:51,952 - INFO - Subject DOC: Averaged 8 files
+2025-01-27 18:25:51,966 - INFO - Created average for subject GB: cue_R_iDTF_10Hz_GB_average.csv
+2025-01-27 18:25:51,966 - INFO - Subject GB: Averaged 8 files
+2025-01-27 18:25:51,970 - INFO - Created average for subject JDC: cue_R_iDTF_10Hz_JDC_average.csv
+2025-01-27 18:25:51,970 - INFO - Subject JDC: Averaged 8 files
+2025-01-27 18:25:51,982 - INFO - Created average for subject JFXD: cue_R_iDTF_10Hz_JFXD_average.csv
+2025-01-27 18:25:51,982 - INFO - Subject JFXD: Averaged 8 files
+2025-01-27 18:25:51,996 - INFO - Created average for subject JZ: cue_R_iDTF_10Hz_JZ_average.csv
+2025-01-27 18:25:51,997 - INFO - Subject JZ: Averaged 8 files
+2025-01-27 18:25:52,002 - INFO - Created average for subject LT: cue_R_iDTF_10Hz_LT_average.csv
+2025-01-27 18:25:52,002 - INFO - Subject LT: Averaged 8 files
+2025-01-27 18:25:52,014 - INFO - Created average for subject NvA: cue_R_iDTF_10Hz_NvA_average.csv
+2025-01-27 18:25:52,014 - INFO - Subject NvA: Averaged 8 files
+2025-01-27 18:25:52,028 - INFO - Created average for subject RR: cue_R_iDTF_10Hz_RR_average.csv
+2025-01-27 18:25:52,028 - INFO - Subject RR: Averaged 8 files
+2025-01-27 18:25:52,034 - INFO - Created average for subject SJB: cue_R_iDTF_10Hz_SJB_average.csv
+2025-01-27 18:25:52,034 - INFO - Subject SJB: Averaged 8 files
+2025-01-27 18:25:52,045 - INFO - Created average for subject BG: cue_R_iDTF_10Hz_BG_average.csv
+2025-01-27 18:25:52,045 - INFO - Subject BG: Averaged 6 files
+2025-01-27 18:25:52,045 - INFO - 
+Processing: cue/R/iDTF_20Hz
+2025-01-27 18:25:52,204 - INFO - Created overall average: cue_R_iDTF_20Hz_average.csv
+2025-01-27 18:25:52,213 - INFO - Created average for subject DOC: cue_R_iDTF_20Hz_DOC_average.csv
+2025-01-27 18:25:52,215 - INFO - Subject DOC: Averaged 8 files
+2025-01-27 18:25:52,219 - INFO - Created average for subject GB: cue_R_iDTF_20Hz_GB_average.csv
+2025-01-27 18:25:52,219 - INFO - Subject GB: Averaged 8 files
+2025-01-27 18:25:52,234 - INFO - Created average for subject JDC: cue_R_iDTF_20Hz_JDC_average.csv
+2025-01-27 18:25:52,234 - INFO - Subject JDC: Averaged 8 files
+2025-01-27 18:25:52,245 - INFO - Created average for subject JFXD: cue_R_iDTF_20Hz_JFXD_average.csv
+2025-01-27 18:25:52,245 - INFO - Subject JFXD: Averaged 8 files
+2025-01-27 18:25:52,256 - INFO - Created average for subject JZ: cue_R_iDTF_20Hz_JZ_average.csv
+2025-01-27 18:25:52,256 - INFO - Subject JZ: Averaged 8 files
+2025-01-27 18:25:52,259 - INFO - Created average for subject LT: cue_R_iDTF_20Hz_LT_average.csv
+2025-01-27 18:25:52,259 - INFO - Subject LT: Averaged 8 files
+2025-01-27 18:25:52,276 - INFO - Created average for subject NvA: cue_R_iDTF_20Hz_NvA_average.csv
+2025-01-27 18:25:52,276 - INFO - Subject NvA: Averaged 8 files
+2025-01-27 18:25:52,287 - INFO - Created average for subject RR: cue_R_iDTF_20Hz_RR_average.csv
+2025-01-27 18:25:52,287 - INFO - Subject RR: Averaged 8 files
+2025-01-27 18:25:52,294 - INFO - Created average for subject SJB: cue_R_iDTF_20Hz_SJB_average.csv
+2025-01-27 18:25:52,294 - INFO - Subject SJB: Averaged 8 files
+2025-01-27 18:25:52,307 - INFO - Created average for subject BG: cue_R_iDTF_20Hz_BG_average.csv
+2025-01-27 18:25:52,307 - INFO - Subject BG: Averaged 6 files
+2025-01-27 18:25:52,307 - INFO - 
+Processing: cue/R/iDTF_100Hz
+2025-01-27 18:25:52,463 - INFO - Created overall average: cue_R_iDTF_100Hz_average.csv
+2025-01-27 18:25:52,471 - INFO - Created average for subject DOC: cue_R_iDTF_100Hz_DOC_average.csv
+2025-01-27 18:25:52,471 - INFO - Subject DOC: Averaged 8 files
+2025-01-27 18:25:52,480 - INFO - Created average for subject GB: cue_R_iDTF_100Hz_GB_average.csv
+2025-01-27 18:25:52,480 - INFO - Subject GB: Averaged 8 files
+2025-01-27 18:25:52,490 - INFO - Created average for subject JDC: cue_R_iDTF_100Hz_JDC_average.csv
+2025-01-27 18:25:52,494 - INFO - Subject JDC: Averaged 8 files
+2025-01-27 18:25:52,505 - INFO - Created average for subject JFXD: cue_R_iDTF_100Hz_JFXD_average.csv
+2025-01-27 18:25:52,505 - INFO - Subject JFXD: Averaged 8 files
+2025-01-27 18:25:52,508 - INFO - Created average for subject JZ: cue_R_iDTF_100Hz_JZ_average.csv
+2025-01-27 18:25:52,508 - INFO - Subject JZ: Averaged 8 files
+2025-01-27 18:25:52,525 - INFO - Created average for subject LT: cue_R_iDTF_100Hz_LT_average.csv
+2025-01-27 18:25:52,525 - INFO - Subject LT: Averaged 8 files
+2025-01-27 18:25:52,536 - INFO - Created average for subject NvA: cue_R_iDTF_100Hz_NvA_average.csv
+2025-01-27 18:25:52,536 - INFO - Subject NvA: Averaged 8 files
+2025-01-27 18:25:52,543 - INFO - Created average for subject RR: cue_R_iDTF_100Hz_RR_average.csv
+2025-01-27 18:25:52,543 - INFO - Subject RR: Averaged 8 files
+2025-01-27 18:25:52,556 - INFO - Created average for subject SJB: cue_R_iDTF_100Hz_SJB_average.csv
+2025-01-27 18:25:52,556 - INFO - Subject SJB: Averaged 8 files
+2025-01-27 18:25:52,563 - INFO - Created average for subject BG: cue_R_iDTF_100Hz_BG_average.csv
+2025-01-27 18:25:52,563 - INFO - Subject BG: Averaged 6 files
+2025-01-27 18:25:52,566 - INFO - 
+Processing: cue/R/gDTF_10Hz
+2025-01-27 18:25:52,721 - INFO - Created overall average: cue_R_gDTF_10Hz_average.csv
+2025-01-27 18:25:52,732 - INFO - Created average for subject DOC: cue_R_gDTF_10Hz_DOC_average.csv
+2025-01-27 18:25:52,732 - INFO - Subject DOC: Averaged 8 files
+2025-01-27 18:25:52,741 - INFO - Created average for subject GB: cue_R_gDTF_10Hz_GB_average.csv
+2025-01-27 18:25:52,741 - INFO - Subject GB: Averaged 8 files
+2025-01-27 18:25:52,752 - INFO - Created average for subject JDC: cue_R_gDTF_10Hz_JDC_average.csv
+2025-01-27 18:25:52,753 - INFO - Subject JDC: Averaged 8 files
+2025-01-27 18:25:52,758 - INFO - Created average for subject JFXD: cue_R_gDTF_10Hz_JFXD_average.csv
+2025-01-27 18:25:52,758 - INFO - Subject JFXD: Averaged 8 files
+2025-01-27 18:25:52,770 - INFO - Created average for subject JZ: cue_R_gDTF_10Hz_JZ_average.csv
+2025-01-27 18:25:52,770 - INFO - Subject JZ: Averaged 8 files
+2025-01-27 18:25:52,785 - INFO - Created average for subject LT: cue_R_gDTF_10Hz_LT_average.csv
+2025-01-27 18:25:52,786 - INFO - Subject LT: Averaged 8 files
+2025-01-27 18:25:52,792 - INFO - Created average for subject NvA: cue_R_gDTF_10Hz_NvA_average.csv
+2025-01-27 18:25:52,792 - INFO - Subject NvA: Averaged 8 files
+2025-01-27 18:25:52,806 - INFO - Created average for subject RR: cue_R_gDTF_10Hz_RR_average.csv
+2025-01-27 18:25:52,806 - INFO - Subject RR: Averaged 8 files
+2025-01-27 18:25:52,813 - INFO - Created average for subject SJB: cue_R_gDTF_10Hz_SJB_average.csv
+2025-01-27 18:25:52,813 - INFO - Subject SJB: Averaged 8 files
+2025-01-27 18:25:52,826 - INFO - Created average for subject BG: cue_R_gDTF_10Hz_BG_average.csv
+2025-01-27 18:25:52,826 - INFO - Subject BG: Averaged 6 files
+2025-01-27 18:25:52,826 - INFO - 
+Processing: cue/R/gDTF_20Hz
+2025-01-27 18:25:52,985 - INFO - Created overall average: cue_R_gDTF_20Hz_average.csv
+2025-01-27 18:25:52,995 - INFO - Created average for subject DOC: cue_R_gDTF_20Hz_DOC_average.csv
+2025-01-27 18:25:52,995 - INFO - Subject DOC: Averaged 8 files
+2025-01-27 18:25:53,000 - INFO - Created average for subject GB: cue_R_gDTF_20Hz_GB_average.csv
+2025-01-27 18:25:53,000 - INFO - Subject GB: Averaged 8 files
+2025-01-27 18:25:53,013 - INFO - Created average for subject JDC: cue_R_gDTF_20Hz_JDC_average.csv
+2025-01-27 18:25:53,013 - INFO - Subject JDC: Averaged 8 files
+2025-01-27 18:25:53,016 - INFO - Created average for subject JFXD: cue_R_gDTF_20Hz_JFXD_average.csv
+2025-01-27 18:25:53,016 - INFO - Subject JFXD: Averaged 8 files
+2025-01-27 18:25:53,030 - INFO - Created average for subject JZ: cue_R_gDTF_20Hz_JZ_average.csv
+2025-01-27 18:25:53,030 - INFO - Subject JZ: Averaged 8 files
+2025-01-27 18:25:53,040 - INFO - Created average for subject LT: cue_R_gDTF_20Hz_LT_average.csv
+2025-01-27 18:25:53,040 - INFO - Subject LT: Averaged 8 files
+2025-01-27 18:25:53,050 - INFO - Created average for subject NvA: cue_R_gDTF_20Hz_NvA_average.csv
+2025-01-27 18:25:53,050 - INFO - Subject NvA: Averaged 8 files
+2025-01-27 18:25:53,063 - INFO - Created average for subject RR: cue_R_gDTF_20Hz_RR_average.csv
+2025-01-27 18:25:53,063 - INFO - Subject RR: Averaged 8 files
+2025-01-27 18:25:53,065 - INFO - Created average for subject SJB: cue_R_gDTF_20Hz_SJB_average.csv
+2025-01-27 18:25:53,065 - INFO - Subject SJB: Averaged 8 files
+2025-01-27 18:25:53,079 - INFO - Created average for subject BG: cue_R_gDTF_20Hz_BG_average.csv
+2025-01-27 18:25:53,079 - INFO - Subject BG: Averaged 6 files
+2025-01-27 18:25:53,081 - INFO - 
+Processing: cue/R/gDTF_100Hz
+2025-01-27 18:25:53,232 - INFO - Created overall average: cue_R_gDTF_100Hz_average.csv
+2025-01-27 18:25:53,250 - INFO - Created average for subject DOC: cue_R_gDTF_100Hz_DOC_average.csv
+2025-01-27 18:25:53,250 - INFO - Subject DOC: Averaged 8 files
+2025-01-27 18:25:53,258 - INFO - Created average for subject GB: cue_R_gDTF_100Hz_GB_average.csv
+2025-01-27 18:25:53,258 - INFO - Subject GB: Averaged 8 files
+2025-01-27 18:25:53,269 - INFO - Created average for subject JDC: cue_R_gDTF_100Hz_JDC_average.csv
+2025-01-27 18:25:53,269 - INFO - Subject JDC: Averaged 8 files
+2025-01-27 18:25:53,283 - INFO - Created average for subject JFXD: cue_R_gDTF_100Hz_JFXD_average.csv
+2025-01-27 18:25:53,283 - INFO - Subject JFXD: Averaged 8 files
+2025-01-27 18:25:53,286 - INFO - Created average for subject JZ: cue_R_gDTF_100Hz_JZ_average.csv
+2025-01-27 18:25:53,286 - INFO - Subject JZ: Averaged 8 files
+2025-01-27 18:25:53,304 - INFO - Created average for subject LT: cue_R_gDTF_100Hz_LT_average.csv
+2025-01-27 18:25:53,305 - INFO - Subject LT: Averaged 8 files
+2025-01-27 18:25:53,313 - INFO - Created average for subject NvA: cue_R_gDTF_100Hz_NvA_average.csv
+2025-01-27 18:25:53,313 - INFO - Subject NvA: Averaged 8 files
+2025-01-27 18:25:53,321 - INFO - Created average for subject RR: cue_R_gDTF_100Hz_RR_average.csv
+2025-01-27 18:25:53,321 - INFO - Subject RR: Averaged 8 files
+2025-01-27 18:25:53,334 - INFO - Created average for subject SJB: cue_R_gDTF_100Hz_SJB_average.csv
+2025-01-27 18:25:53,334 - INFO - Subject SJB: Averaged 8 files
+2025-01-27 18:25:53,341 - INFO - Created average for subject BG: cue_R_gDTF_100Hz_BG_average.csv
+2025-01-27 18:25:53,341 - INFO - Subject BG: Averaged 6 files
+2025-01-27 18:25:53,341 - INFO - 
+Processing: cue/R/iPDC_10Hz
+2025-01-27 18:25:53,498 - INFO - Created overall average: cue_R_iPDC_10Hz_average.csv
+2025-01-27 18:25:53,507 - INFO - Created average for subject DOC: cue_R_iPDC_10Hz_DOC_average.csv
+2025-01-27 18:25:53,507 - INFO - Subject DOC: Averaged 8 files
+2025-01-27 18:25:53,521 - INFO - Created average for subject GB: cue_R_iPDC_10Hz_GB_average.csv
+2025-01-27 18:25:53,521 - INFO - Subject GB: Averaged 8 files
+2025-01-27 18:25:53,530 - INFO - Created average for subject JDC: cue_R_iPDC_10Hz_JDC_average.csv
+2025-01-27 18:25:53,531 - INFO - Subject JDC: Averaged 8 files
+2025-01-27 18:25:53,539 - INFO - Created average for subject JFXD: cue_R_iPDC_10Hz_JFXD_average.csv
+2025-01-27 18:25:53,539 - INFO - Subject JFXD: Averaged 8 files
+2025-01-27 18:25:53,549 - INFO - Created average for subject JZ: cue_R_iPDC_10Hz_JZ_average.csv
+2025-01-27 18:25:53,554 - INFO - Subject JZ: Averaged 8 files
+2025-01-27 18:25:53,564 - INFO - Created average for subject LT: cue_R_iPDC_10Hz_LT_average.csv
+2025-01-27 18:25:53,564 - INFO - Subject LT: Averaged 8 files
+2025-01-27 18:25:53,571 - INFO - Created average for subject NvA: cue_R_iPDC_10Hz_NvA_average.csv
+2025-01-27 18:25:53,571 - INFO - Subject NvA: Averaged 8 files
+2025-01-27 18:25:53,581 - INFO - Created average for subject RR: cue_R_iPDC_10Hz_RR_average.csv
+2025-01-27 18:25:53,581 - INFO - Subject RR: Averaged 8 files
+2025-01-27 18:25:53,596 - INFO - Created average for subject SJB: cue_R_iPDC_10Hz_SJB_average.csv
+2025-01-27 18:25:53,597 - INFO - Subject SJB: Averaged 8 files
+2025-01-27 18:25:53,604 - INFO - Created average for subject BG: cue_R_iPDC_10Hz_BG_average.csv
+2025-01-27 18:25:53,604 - INFO - Subject BG: Averaged 6 files
+2025-01-27 18:25:53,604 - INFO - 
+Processing: cue/R/iPDC_20Hz
+2025-01-27 18:25:53,762 - INFO - Created overall average: cue_R_iPDC_20Hz_average.csv
+2025-01-27 18:25:53,771 - INFO - Created average for subject DOC: cue_R_iPDC_20Hz_DOC_average.csv
+2025-01-27 18:25:53,771 - INFO - Subject DOC: Averaged 8 files
+2025-01-27 18:25:53,778 - INFO - Created average for subject GB: cue_R_iPDC_20Hz_GB_average.csv
+2025-01-27 18:25:53,778 - INFO - Subject GB: Averaged 8 files
+2025-01-27 18:25:53,791 - INFO - Created average for subject JDC: cue_R_iPDC_20Hz_JDC_average.csv
+2025-01-27 18:25:53,791 - INFO - Subject JDC: Averaged 8 files
+2025-01-27 18:25:53,798 - INFO - Created average for subject JFXD: cue_R_iPDC_20Hz_JFXD_average.csv
+2025-01-27 18:25:53,798 - INFO - Subject JFXD: Averaged 8 files
+2025-01-27 18:25:53,813 - INFO - Created average for subject JZ: cue_R_iPDC_20Hz_JZ_average.csv
+2025-01-27 18:25:53,813 - INFO - Subject JZ: Averaged 8 files
+2025-01-27 18:25:53,824 - INFO - Created average for subject LT: cue_R_iPDC_20Hz_LT_average.csv
+2025-01-27 18:25:53,824 - INFO - Subject LT: Averaged 8 files
+2025-01-27 18:25:53,835 - INFO - Created average for subject NvA: cue_R_iPDC_20Hz_NvA_average.csv
+2025-01-27 18:25:53,835 - INFO - Subject NvA: Averaged 8 files
+2025-01-27 18:25:53,845 - INFO - Created average for subject RR: cue_R_iPDC_20Hz_RR_average.csv
+2025-01-27 18:25:53,847 - INFO - Subject RR: Averaged 8 files
+2025-01-27 18:25:53,851 - INFO - Created average for subject SJB: cue_R_iPDC_20Hz_SJB_average.csv
+2025-01-27 18:25:53,851 - INFO - Subject SJB: Averaged 8 files
+2025-01-27 18:25:53,863 - INFO - Created average for subject BG: cue_R_iPDC_20Hz_BG_average.csv
+2025-01-27 18:25:53,863 - INFO - Subject BG: Averaged 6 files
+2025-01-27 18:25:53,866 - INFO - 
+Processing: cue/R/iPDC_100Hz
+2025-01-27 18:25:54,021 - INFO - Created overall average: cue_R_iPDC_100Hz_average.csv
+2025-01-27 18:25:54,027 - INFO - Created average for subject DOC: cue_R_iPDC_100Hz_DOC_average.csv
+2025-01-27 18:25:54,027 - INFO - Subject DOC: Averaged 8 files
+2025-01-27 18:25:54,038 - INFO - Created average for subject GB: cue_R_iPDC_100Hz_GB_average.csv
+2025-01-27 18:25:54,038 - INFO - Subject GB: Averaged 8 files
+2025-01-27 18:25:54,048 - INFO - Created average for subject JDC: cue_R_iPDC_100Hz_JDC_average.csv
+2025-01-27 18:25:54,048 - INFO - Subject JDC: Averaged 8 files
+2025-01-27 18:25:54,063 - INFO - Created average for subject JFXD: cue_R_iPDC_100Hz_JFXD_average.csv
+2025-01-27 18:25:54,063 - INFO - Subject JFXD: Averaged 8 files
+2025-01-27 18:25:54,064 - INFO - Created average for subject JZ: cue_R_iPDC_100Hz_JZ_average.csv
+2025-01-27 18:25:54,064 - INFO - Subject JZ: Averaged 8 files
+2025-01-27 18:25:54,079 - INFO - Created average for subject LT: cue_R_iPDC_100Hz_LT_average.csv
+2025-01-27 18:25:54,079 - INFO - Subject LT: Averaged 8 files
+2025-01-27 18:25:54,092 - INFO - Created average for subject NvA: cue_R_iPDC_100Hz_NvA_average.csv
+2025-01-27 18:25:54,093 - INFO - Subject NvA: Averaged 8 files
+2025-01-27 18:25:54,104 - INFO - Created average for subject RR: cue_R_iPDC_100Hz_RR_average.csv
+2025-01-27 18:25:54,105 - INFO - Subject RR: Averaged 8 files
+2025-01-27 18:25:54,112 - INFO - Created average for subject SJB: cue_R_iPDC_100Hz_SJB_average.csv
+2025-01-27 18:25:54,112 - INFO - Subject SJB: Averaged 8 files
+2025-01-27 18:25:54,123 - INFO - Created average for subject BG: cue_R_iPDC_100Hz_BG_average.csv
+2025-01-27 18:25:54,124 - INFO - Subject BG: Averaged 6 files
+2025-01-27 18:25:54,124 - INFO - 
+Processing: cue/R/gPDC_10Hz
+2025-01-27 18:25:54,279 - INFO - Created overall average: cue_R_gPDC_10Hz_average.csv
+2025-01-27 18:25:54,288 - INFO - Created average for subject DOC: cue_R_gPDC_10Hz_DOC_average.csv
+2025-01-27 18:25:54,288 - INFO - Subject DOC: Averaged 8 files
+2025-01-27 18:25:54,298 - INFO - Created average for subject GB: cue_R_gPDC_10Hz_GB_average.csv
+2025-01-27 18:25:54,298 - INFO - Subject GB: Averaged 8 files
+2025-01-27 18:25:54,307 - INFO - Created average for subject JDC: cue_R_gPDC_10Hz_JDC_average.csv
+2025-01-27 18:25:54,307 - INFO - Subject JDC: Averaged 8 files
+2025-01-27 18:25:54,315 - INFO - Created average for subject JFXD: cue_R_gPDC_10Hz_JFXD_average.csv
+2025-01-27 18:25:54,315 - INFO - Subject JFXD: Averaged 8 files
+2025-01-27 18:25:54,324 - INFO - Created average for subject JZ: cue_R_gPDC_10Hz_JZ_average.csv
+2025-01-27 18:25:54,324 - INFO - Subject JZ: Averaged 8 files
+2025-01-27 18:25:54,334 - INFO - Created average for subject LT: cue_R_gPDC_10Hz_LT_average.csv
+2025-01-27 18:25:54,334 - INFO - Subject LT: Averaged 8 files
+2025-01-27 18:25:54,344 - INFO - Created average for subject NvA: cue_R_gPDC_10Hz_NvA_average.csv
+2025-01-27 18:25:54,344 - INFO - Subject NvA: Averaged 8 files
+2025-01-27 18:25:54,357 - INFO - Created average for subject RR: cue_R_gPDC_10Hz_RR_average.csv
+2025-01-27 18:25:54,357 - INFO - Subject RR: Averaged 8 files
+2025-01-27 18:25:54,366 - INFO - Created average for subject SJB: cue_R_gPDC_10Hz_SJB_average.csv
+2025-01-27 18:25:54,366 - INFO - Subject SJB: Averaged 8 files
+2025-01-27 18:25:54,374 - INFO - Created average for subject BG: cue_R_gPDC_10Hz_BG_average.csv
+2025-01-27 18:25:54,374 - INFO - Subject BG: Averaged 6 files
+2025-01-27 18:25:54,375 - INFO - 
+Processing: cue/R/gPDC_20Hz
+2025-01-27 18:25:54,535 - INFO - Created overall average: cue_R_gPDC_20Hz_average.csv
+2025-01-27 18:25:54,545 - INFO - Created average for subject DOC: cue_R_gPDC_20Hz_DOC_average.csv
+2025-01-27 18:25:54,545 - INFO - Subject DOC: Averaged 8 files
+2025-01-27 18:25:54,555 - INFO - Created average for subject GB: cue_R_gPDC_20Hz_GB_average.csv
+2025-01-27 18:25:54,555 - INFO - Subject GB: Averaged 8 files
+2025-01-27 18:25:54,566 - INFO - Created average for subject JDC: cue_R_gPDC_20Hz_JDC_average.csv
+2025-01-27 18:25:54,566 - INFO - Subject JDC: Averaged 8 files
+2025-01-27 18:25:54,573 - INFO - Created average for subject JFXD: cue_R_gPDC_20Hz_JFXD_average.csv
+2025-01-27 18:25:54,573 - INFO - Subject JFXD: Averaged 8 files
+2025-01-27 18:25:54,586 - INFO - Created average for subject JZ: cue_R_gPDC_20Hz_JZ_average.csv
+2025-01-27 18:25:54,587 - INFO - Subject JZ: Averaged 8 files
+2025-01-27 18:25:54,598 - INFO - Created average for subject LT: cue_R_gPDC_20Hz_LT_average.csv
+2025-01-27 18:25:54,598 - INFO - Subject LT: Averaged 8 files
+2025-01-27 18:25:54,605 - INFO - Created average for subject NvA: cue_R_gPDC_20Hz_NvA_average.csv
+2025-01-27 18:25:54,605 - INFO - Subject NvA: Averaged 8 files
+2025-01-27 18:25:54,620 - INFO - Created average for subject RR: cue_R_gPDC_20Hz_RR_average.csv
+2025-01-27 18:25:54,621 - INFO - Subject RR: Averaged 8 files
+2025-01-27 18:25:54,631 - INFO - Created average for subject SJB: cue_R_gPDC_20Hz_SJB_average.csv
+2025-01-27 18:25:54,631 - INFO - Subject SJB: Averaged 8 files
+2025-01-27 18:25:54,637 - INFO - Created average for subject BG: cue_R_gPDC_20Hz_BG_average.csv
+2025-01-27 18:25:54,637 - INFO - Subject BG: Averaged 6 files
+2025-01-27 18:25:54,641 - INFO - 
+Processing: cue/R/gPDC_100Hz
+2025-01-27 18:25:54,790 - INFO - Created overall average: cue_R_gPDC_100Hz_average.csv
+2025-01-27 18:25:54,810 - INFO - Created average for subject DOC: cue_R_gPDC_100Hz_DOC_average.csv
+2025-01-27 18:25:54,811 - INFO - Subject DOC: Averaged 8 files
+2025-01-27 18:25:54,820 - INFO - Created average for subject GB: cue_R_gPDC_100Hz_GB_average.csv
+2025-01-27 18:25:54,820 - INFO - Subject GB: Averaged 8 files
+2025-01-27 18:25:54,824 - INFO - Created average for subject JDC: cue_R_gPDC_100Hz_JDC_average.csv
+2025-01-27 18:25:54,824 - INFO - Subject JDC: Averaged 8 files
+2025-01-27 18:25:54,841 - INFO - Created average for subject JFXD: cue_R_gPDC_100Hz_JFXD_average.csv
+2025-01-27 18:25:54,841 - INFO - Subject JFXD: Averaged 8 files
+2025-01-27 18:25:54,851 - INFO - Created average for subject JZ: cue_R_gPDC_100Hz_JZ_average.csv
+2025-01-27 18:25:54,851 - INFO - Subject JZ: Averaged 8 files
+2025-01-27 18:25:54,860 - INFO - Created average for subject LT: cue_R_gPDC_100Hz_LT_average.csv
+2025-01-27 18:25:54,860 - INFO - Subject LT: Averaged 8 files
+2025-01-27 18:25:54,873 - INFO - Created average for subject NvA: cue_R_gPDC_100Hz_NvA_average.csv
+2025-01-27 18:25:54,873 - INFO - Subject NvA: Averaged 8 files
+2025-01-27 18:25:54,876 - INFO - Created average for subject RR: cue_R_gPDC_100Hz_RR_average.csv
+2025-01-27 18:25:54,876 - INFO - Subject RR: Averaged 8 files
+2025-01-27 18:25:54,892 - INFO - Created average for subject SJB: cue_R_gPDC_100Hz_SJB_average.csv
+2025-01-27 18:25:54,892 - INFO - Subject SJB: Averaged 8 files
+2025-01-27 18:25:54,900 - INFO - Created average for subject BG: cue_R_gPDC_100Hz_BG_average.csv
+2025-01-27 18:25:54,900 - INFO - Subject BG: Averaged 6 files
+2025-01-27 18:25:54,900 - INFO - 
+Processing: mov/L/iDTF_10Hz
+2025-01-27 18:25:55,053 - INFO - Created overall average: mov_L_iDTF_10Hz_average.csv
+2025-01-27 18:25:55,064 - INFO - Created average for subject DOC: mov_L_iDTF_10Hz_DOC_average.csv
+2025-01-27 18:25:55,065 - INFO - Subject DOC: Averaged 8 files
+2025-01-27 18:25:55,066 - INFO - Created average for subject GB: mov_L_iDTF_10Hz_GB_average.csv
+2025-01-27 18:25:55,066 - INFO - Subject GB: Averaged 8 files
+2025-01-27 18:25:55,081 - INFO - Created average for subject JDC: mov_L_iDTF_10Hz_JDC_average.csv
+2025-01-27 18:25:55,081 - INFO - Subject JDC: Averaged 8 files
+2025-01-27 18:25:55,094 - INFO - Created average for subject JFXD: mov_L_iDTF_10Hz_JFXD_average.csv
+2025-01-27 18:25:55,094 - INFO - Subject JFXD: Averaged 8 files
+2025-01-27 18:25:55,101 - INFO - Created average for subject JZ: mov_L_iDTF_10Hz_JZ_average.csv
+2025-01-27 18:25:55,101 - INFO - Subject JZ: Averaged 8 files
+2025-01-27 18:25:55,113 - INFO - Created average for subject LT: mov_L_iDTF_10Hz_LT_average.csv
+2025-01-27 18:25:55,113 - INFO - Subject LT: Averaged 8 files
+2025-01-27 18:25:55,124 - INFO - Created average for subject NvA: mov_L_iDTF_10Hz_NvA_average.csv
+2025-01-27 18:25:55,124 - INFO - Subject NvA: Averaged 8 files
+2025-01-27 18:25:55,127 - INFO - Created average for subject RR: mov_L_iDTF_10Hz_RR_average.csv
+2025-01-27 18:25:55,127 - INFO - Subject RR: Averaged 8 files
+2025-01-27 18:25:55,144 - INFO - Created average for subject SJB: mov_L_iDTF_10Hz_SJB_average.csv
+2025-01-27 18:25:55,144 - INFO - Subject SJB: Averaged 8 files
+2025-01-27 18:25:55,152 - INFO - Created average for subject BG: mov_L_iDTF_10Hz_BG_average.csv
+2025-01-27 18:25:55,153 - INFO - Subject BG: Averaged 6 files
+2025-01-27 18:25:55,153 - INFO - 
+Processing: mov/L/iDTF_20Hz
+2025-01-27 18:25:55,306 - INFO - Created overall average: mov_L_iDTF_20Hz_average.csv
+2025-01-27 18:25:55,313 - INFO - Created average for subject DOC: mov_L_iDTF_20Hz_DOC_average.csv
+2025-01-27 18:25:55,313 - INFO - Subject DOC: Averaged 8 files
+2025-01-27 18:25:55,324 - INFO - Created average for subject GB: mov_L_iDTF_20Hz_GB_average.csv
+2025-01-27 18:25:55,324 - INFO - Subject GB: Averaged 8 files
+2025-01-27 18:25:55,334 - INFO - Created average for subject JDC: mov_L_iDTF_20Hz_JDC_average.csv
+2025-01-27 18:25:55,334 - INFO - Subject JDC: Averaged 8 files
+2025-01-27 18:25:55,347 - INFO - Created average for subject JFXD: mov_L_iDTF_20Hz_JFXD_average.csv
+2025-01-27 18:25:55,347 - INFO - Subject JFXD: Averaged 8 files
+2025-01-27 18:25:55,355 - INFO - Created average for subject JZ: mov_L_iDTF_20Hz_JZ_average.csv
+2025-01-27 18:25:55,355 - INFO - Subject JZ: Averaged 8 files
+2025-01-27 18:25:55,364 - INFO - Created average for subject LT: mov_L_iDTF_20Hz_LT_average.csv
+2025-01-27 18:25:55,364 - INFO - Subject LT: Averaged 8 files
+2025-01-27 18:25:55,370 - INFO - Created average for subject NvA: mov_L_iDTF_20Hz_NvA_average.csv
+2025-01-27 18:25:55,370 - INFO - Subject NvA: Averaged 8 files
+2025-01-27 18:25:55,387 - INFO - Created average for subject RR: mov_L_iDTF_20Hz_RR_average.csv
+2025-01-27 18:25:55,388 - INFO - Subject RR: Averaged 8 files
+2025-01-27 18:25:55,390 - INFO - Created average for subject SJB: mov_L_iDTF_20Hz_SJB_average.csv
+2025-01-27 18:25:55,390 - INFO - Subject SJB: Averaged 8 files
+2025-01-27 18:25:55,405 - INFO - Created average for subject BG: mov_L_iDTF_20Hz_BG_average.csv
+2025-01-27 18:25:55,405 - INFO - Subject BG: Averaged 6 files
+2025-01-27 18:25:55,406 - INFO - 
+Processing: mov/L/iDTF_100Hz
+2025-01-27 18:25:55,559 - INFO - Created overall average: mov_L_iDTF_100Hz_average.csv
+2025-01-27 18:25:55,568 - INFO - Created average for subject DOC: mov_L_iDTF_100Hz_DOC_average.csv
+2025-01-27 18:25:55,568 - INFO - Subject DOC: Averaged 8 files
+2025-01-27 18:25:55,578 - INFO - Created average for subject GB: mov_L_iDTF_100Hz_GB_average.csv
+2025-01-27 18:25:55,578 - INFO - Subject GB: Averaged 8 files
+2025-01-27 18:25:55,589 - INFO - Created average for subject JDC: mov_L_iDTF_100Hz_JDC_average.csv
+2025-01-27 18:25:55,589 - INFO - Subject JDC: Averaged 8 files
+2025-01-27 18:25:55,591 - INFO - Created average for subject JFXD: mov_L_iDTF_100Hz_JFXD_average.csv
+2025-01-27 18:25:55,591 - INFO - Subject JFXD: Averaged 8 files
+2025-01-27 18:25:55,607 - INFO - Created average for subject JZ: mov_L_iDTF_100Hz_JZ_average.csv
+2025-01-27 18:25:55,607 - INFO - Subject JZ: Averaged 8 files
+2025-01-27 18:25:55,621 - INFO - Created average for subject LT: mov_L_iDTF_100Hz_LT_average.csv
+2025-01-27 18:25:55,621 - INFO - Subject LT: Averaged 8 files
+2025-01-27 18:25:55,633 - INFO - Created average for subject NvA: mov_L_iDTF_100Hz_NvA_average.csv
+2025-01-27 18:25:55,633 - INFO - Subject NvA: Averaged 8 files
+2025-01-27 18:25:55,641 - INFO - Created average for subject RR: mov_L_iDTF_100Hz_RR_average.csv
+2025-01-27 18:25:55,641 - INFO - Subject RR: Averaged 8 files
+2025-01-27 18:25:55,658 - INFO - Created average for subject SJB: mov_L_iDTF_100Hz_SJB_average.csv
+2025-01-27 18:25:55,659 - INFO - Subject SJB: Averaged 8 files
+2025-01-27 18:25:55,664 - INFO - Created average for subject BG: mov_L_iDTF_100Hz_BG_average.csv
+2025-01-27 18:25:55,670 - INFO - Subject BG: Averaged 6 files
+2025-01-27 18:25:55,670 - INFO - 
+Processing: mov/L/gDTF_10Hz
+2025-01-27 18:25:55,838 - INFO - Created overall average: mov_L_gDTF_10Hz_average.csv
+2025-01-27 18:25:55,840 - INFO - Created average for subject DOC: mov_L_gDTF_10Hz_DOC_average.csv
+2025-01-27 18:25:55,840 - INFO - Subject DOC: Averaged 8 files
+2025-01-27 18:25:55,858 - INFO - Created average for subject GB: mov_L_gDTF_10Hz_GB_average.csv
+2025-01-27 18:25:55,858 - INFO - Subject GB: Averaged 8 files
+2025-01-27 18:25:55,875 - INFO - Created average for subject JDC: mov_L_gDTF_10Hz_JDC_average.csv
+2025-01-27 18:25:55,876 - INFO - Subject JDC: Averaged 8 files
+2025-01-27 18:25:55,876 - INFO - Created average for subject JFXD: mov_L_gDTF_10Hz_JFXD_average.csv
+2025-01-27 18:25:55,876 - INFO - Subject JFXD: Averaged 8 files
+2025-01-27 18:25:55,892 - INFO - Created average for subject JZ: mov_L_gDTF_10Hz_JZ_average.csv
+2025-01-27 18:25:55,892 - INFO - Subject JZ: Averaged 8 files
+2025-01-27 18:25:55,907 - INFO - Created average for subject LT: mov_L_gDTF_10Hz_LT_average.csv
+2025-01-27 18:25:55,907 - INFO - Subject LT: Averaged 8 files
+2025-01-27 18:25:55,909 - INFO - Created average for subject NvA: mov_L_gDTF_10Hz_NvA_average.csv
+2025-01-27 18:25:55,909 - INFO - Subject NvA: Averaged 8 files
+2025-01-27 18:25:55,928 - INFO - Created average for subject RR: mov_L_gDTF_10Hz_RR_average.csv
+2025-01-27 18:25:55,928 - INFO - Subject RR: Averaged 8 files
+2025-01-27 18:25:55,937 - INFO - Created average for subject SJB: mov_L_gDTF_10Hz_SJB_average.csv
+2025-01-27 18:25:55,937 - INFO - Subject SJB: Averaged 8 files
+2025-01-27 18:25:55,945 - INFO - Created average for subject BG: mov_L_gDTF_10Hz_BG_average.csv
+2025-01-27 18:25:55,945 - INFO - Subject BG: Averaged 6 files
+2025-01-27 18:25:55,945 - INFO - 
+Processing: mov/L/gDTF_20Hz
+2025-01-27 18:25:56,104 - INFO - Created overall average: mov_L_gDTF_20Hz_average.csv
+2025-01-27 18:25:56,112 - INFO - Created average for subject DOC: mov_L_gDTF_20Hz_DOC_average.csv
+2025-01-27 18:25:56,112 - INFO - Subject DOC: Averaged 8 files
+2025-01-27 18:25:56,122 - INFO - Created average for subject GB: mov_L_gDTF_20Hz_GB_average.csv
+2025-01-27 18:25:56,122 - INFO - Subject GB: Averaged 8 files
+2025-01-27 18:25:56,135 - INFO - Created average for subject JDC: mov_L_gDTF_20Hz_JDC_average.csv
+2025-01-27 18:25:56,135 - INFO - Subject JDC: Averaged 8 files
+2025-01-27 18:25:56,146 - INFO - Created average for subject JFXD: mov_L_gDTF_20Hz_JFXD_average.csv
+2025-01-27 18:25:56,146 - INFO - Subject JFXD: Averaged 8 files
+2025-01-27 18:25:56,159 - INFO - Created average for subject JZ: mov_L_gDTF_20Hz_JZ_average.csv
+2025-01-27 18:25:56,159 - INFO - Subject JZ: Averaged 8 files
+2025-01-27 18:25:56,164 - INFO - Created average for subject LT: mov_L_gDTF_20Hz_LT_average.csv
+2025-01-27 18:25:56,164 - INFO - Subject LT: Averaged 8 files
+2025-01-27 18:25:56,175 - INFO - Created average for subject NvA: mov_L_gDTF_20Hz_NvA_average.csv
+2025-01-27 18:25:56,175 - INFO - Subject NvA: Averaged 8 files
+2025-01-27 18:25:56,185 - INFO - Created average for subject RR: mov_L_gDTF_20Hz_RR_average.csv
+2025-01-27 18:25:56,185 - INFO - Subject RR: Averaged 8 files
+2025-01-27 18:25:56,197 - INFO - Created average for subject SJB: mov_L_gDTF_20Hz_SJB_average.csv
+2025-01-27 18:25:56,197 - INFO - Subject SJB: Averaged 8 files
+2025-01-27 18:25:56,205 - INFO - Created average for subject BG: mov_L_gDTF_20Hz_BG_average.csv
+2025-01-27 18:25:56,205 - INFO - Subject BG: Averaged 6 files
+2025-01-27 18:25:56,208 - INFO - 
+Processing: mov/L/gDTF_100Hz
+2025-01-27 18:25:56,365 - INFO - Created overall average: mov_L_gDTF_100Hz_average.csv
+2025-01-27 18:25:56,375 - INFO - Created average for subject DOC: mov_L_gDTF_100Hz_DOC_average.csv
+2025-01-27 18:25:56,375 - INFO - Subject DOC: Averaged 8 files
+2025-01-27 18:25:56,384 - INFO - Created average for subject GB: mov_L_gDTF_100Hz_GB_average.csv
+2025-01-27 18:25:56,384 - INFO - Subject GB: Averaged 8 files
+2025-01-27 18:25:56,393 - INFO - Created average for subject JDC: mov_L_gDTF_100Hz_JDC_average.csv
+2025-01-27 18:25:56,393 - INFO - Subject JDC: Averaged 8 files
+2025-01-27 18:25:56,412 - INFO - Created average for subject JFXD: mov_L_gDTF_100Hz_JFXD_average.csv
+2025-01-27 18:25:56,413 - INFO - Subject JFXD: Averaged 8 files
+2025-01-27 18:25:56,427 - INFO - Created average for subject JZ: mov_L_gDTF_100Hz_JZ_average.csv
+2025-01-27 18:25:56,428 - INFO - Subject JZ: Averaged 8 files
+2025-01-27 18:25:56,444 - INFO - Created average for subject LT: mov_L_gDTF_100Hz_LT_average.csv
+2025-01-27 18:25:56,445 - INFO - Subject LT: Averaged 8 files
+2025-01-27 18:25:56,467 - INFO - Created average for subject NvA: mov_L_gDTF_100Hz_NvA_average.csv
+2025-01-27 18:25:56,468 - INFO - Subject NvA: Averaged 8 files
+2025-01-27 18:25:56,492 - INFO - Created average for subject RR: mov_L_gDTF_100Hz_RR_average.csv
+2025-01-27 18:25:56,492 - INFO - Subject RR: Averaged 8 files
+2025-01-27 18:25:56,503 - INFO - Created average for subject SJB: mov_L_gDTF_100Hz_SJB_average.csv
+2025-01-27 18:25:56,503 - INFO - Subject SJB: Averaged 8 files
+2025-01-27 18:25:56,512 - INFO - Created average for subject BG: mov_L_gDTF_100Hz_BG_average.csv
+2025-01-27 18:25:56,512 - INFO - Subject BG: Averaged 6 files
+2025-01-27 18:25:56,512 - INFO - 
+Processing: mov/L/iPDC_10Hz
+2025-01-27 18:25:56,672 - INFO - Created overall average: mov_L_iPDC_10Hz_average.csv
+2025-01-27 18:25:56,687 - INFO - Created average for subject DOC: mov_L_iPDC_10Hz_DOC_average.csv
+2025-01-27 18:25:56,687 - INFO - Subject DOC: Averaged 8 files
+2025-01-27 18:25:56,689 - INFO - Created average for subject GB: mov_L_iPDC_10Hz_GB_average.csv
+2025-01-27 18:25:56,689 - INFO - Subject GB: Averaged 8 files
+2025-01-27 18:25:56,706 - INFO - Created average for subject JDC: mov_L_iPDC_10Hz_JDC_average.csv
+2025-01-27 18:25:56,706 - INFO - Subject JDC: Averaged 8 files
+2025-01-27 18:25:56,719 - INFO - Created average for subject JFXD: mov_L_iPDC_10Hz_JFXD_average.csv
+2025-01-27 18:25:56,719 - INFO - Subject JFXD: Averaged 8 files
+2025-01-27 18:25:56,726 - INFO - Created average for subject JZ: mov_L_iPDC_10Hz_JZ_average.csv
+2025-01-27 18:25:56,726 - INFO - Subject JZ: Averaged 8 files
+2025-01-27 18:25:56,733 - INFO - Created average for subject LT: mov_L_iPDC_10Hz_LT_average.csv
+2025-01-27 18:25:56,740 - INFO - Subject LT: Averaged 8 files
+2025-01-27 18:25:56,750 - INFO - Created average for subject NvA: mov_L_iPDC_10Hz_NvA_average.csv
+2025-01-27 18:25:56,751 - INFO - Subject NvA: Averaged 8 files
+2025-01-27 18:25:56,757 - INFO - Created average for subject RR: mov_L_iPDC_10Hz_RR_average.csv
+2025-01-27 18:25:56,757 - INFO - Subject RR: Averaged 8 files
+2025-01-27 18:25:56,767 - INFO - Created average for subject SJB: mov_L_iPDC_10Hz_SJB_average.csv
+2025-01-27 18:25:56,767 - INFO - Subject SJB: Averaged 8 files
+2025-01-27 18:25:56,779 - INFO - Created average for subject BG: mov_L_iPDC_10Hz_BG_average.csv
+2025-01-27 18:25:56,779 - INFO - Subject BG: Averaged 6 files
+2025-01-27 18:25:56,780 - INFO - 
+Processing: mov/L/iPDC_20Hz
+2025-01-27 18:25:56,943 - INFO - Created overall average: mov_L_iPDC_20Hz_average.csv
+2025-01-27 18:25:56,947 - INFO - Created average for subject DOC: mov_L_iPDC_20Hz_DOC_average.csv
+2025-01-27 18:25:56,947 - INFO - Subject DOC: Averaged 8 files
+2025-01-27 18:25:56,963 - INFO - Created average for subject GB: mov_L_iPDC_20Hz_GB_average.csv
+2025-01-27 18:25:56,963 - INFO - Subject GB: Averaged 8 files
+2025-01-27 18:25:56,978 - INFO - Created average for subject JDC: mov_L_iPDC_20Hz_JDC_average.csv
+2025-01-27 18:25:56,978 - INFO - Subject JDC: Averaged 8 files
+2025-01-27 18:25:56,978 - INFO - Created average for subject JFXD: mov_L_iPDC_20Hz_JFXD_average.csv
+2025-01-27 18:25:56,978 - INFO - Subject JFXD: Averaged 8 files
+2025-01-27 18:25:56,998 - INFO - Created average for subject JZ: mov_L_iPDC_20Hz_JZ_average.csv
+2025-01-27 18:25:56,998 - INFO - Subject JZ: Averaged 8 files
+2025-01-27 18:25:57,014 - INFO - Created average for subject LT: mov_L_iPDC_20Hz_LT_average.csv
+2025-01-27 18:25:57,014 - INFO - Subject LT: Averaged 8 files
+2025-01-27 18:25:57,028 - INFO - Created average for subject NvA: mov_L_iPDC_20Hz_NvA_average.csv
+2025-01-27 18:25:57,028 - INFO - Subject NvA: Averaged 8 files
+2025-01-27 18:25:57,045 - INFO - Created average for subject RR: mov_L_iPDC_20Hz_RR_average.csv
+2025-01-27 18:25:57,045 - INFO - Subject RR: Averaged 8 files
+2025-01-27 18:25:57,062 - INFO - Created average for subject SJB: mov_L_iPDC_20Hz_SJB_average.csv
+2025-01-27 18:25:57,062 - INFO - Subject SJB: Averaged 8 files
+2025-01-27 18:25:57,079 - INFO - Created average for subject BG: mov_L_iPDC_20Hz_BG_average.csv
+2025-01-27 18:25:57,079 - INFO - Subject BG: Averaged 6 files
+2025-01-27 18:25:57,081 - INFO - 
+Processing: mov/L/iPDC_100Hz
+2025-01-27 18:25:57,265 - INFO - Created overall average: mov_L_iPDC_100Hz_average.csv
+2025-01-27 18:25:57,273 - INFO - Created average for subject DOC: mov_L_iPDC_100Hz_DOC_average.csv
+2025-01-27 18:25:57,273 - INFO - Subject DOC: Averaged 8 files
+2025-01-27 18:25:57,286 - INFO - Created average for subject GB: mov_L_iPDC_100Hz_GB_average.csv
+2025-01-27 18:25:57,286 - INFO - Subject GB: Averaged 8 files
+2025-01-27 18:25:57,291 - INFO - Created average for subject JDC: mov_L_iPDC_100Hz_JDC_average.csv
+2025-01-27 18:25:57,291 - INFO - Subject JDC: Averaged 8 files
+2025-01-27 18:25:57,306 - INFO - Created average for subject JFXD: mov_L_iPDC_100Hz_JFXD_average.csv
+2025-01-27 18:25:57,307 - INFO - Subject JFXD: Averaged 8 files
+2025-01-27 18:25:57,317 - INFO - Created average for subject JZ: mov_L_iPDC_100Hz_JZ_average.csv
+2025-01-27 18:25:57,317 - INFO - Subject JZ: Averaged 8 files
+2025-01-27 18:25:57,324 - INFO - Created average for subject LT: mov_L_iPDC_100Hz_LT_average.csv
+2025-01-27 18:25:57,324 - INFO - Subject LT: Averaged 8 files
+2025-01-27 18:25:57,339 - INFO - Created average for subject NvA: mov_L_iPDC_100Hz_NvA_average.csv
+2025-01-27 18:25:57,339 - INFO - Subject NvA: Averaged 8 files
+2025-01-27 18:25:57,351 - INFO - Created average for subject RR: mov_L_iPDC_100Hz_RR_average.csv
+2025-01-27 18:25:57,351 - INFO - Subject RR: Averaged 8 files
+2025-01-27 18:25:57,358 - INFO - Created average for subject SJB: mov_L_iPDC_100Hz_SJB_average.csv
+2025-01-27 18:25:57,358 - INFO - Subject SJB: Averaged 8 files
+2025-01-27 18:25:57,369 - INFO - Created average for subject BG: mov_L_iPDC_100Hz_BG_average.csv
+2025-01-27 18:25:57,369 - INFO - Subject BG: Averaged 6 files
+2025-01-27 18:25:57,369 - INFO - 
+Processing: mov/L/gPDC_10Hz
+2025-01-27 18:25:57,549 - INFO - Created overall average: mov_L_gPDC_10Hz_average.csv
+2025-01-27 18:25:57,559 - INFO - Created average for subject DOC: mov_L_gPDC_10Hz_DOC_average.csv
+2025-01-27 18:25:57,559 - INFO - Subject DOC: Averaged 8 files
+2025-01-27 18:25:57,568 - INFO - Created average for subject GB: mov_L_gPDC_10Hz_GB_average.csv
+2025-01-27 18:25:57,568 - INFO - Subject GB: Averaged 8 files
+2025-01-27 18:25:57,577 - INFO - Created average for subject JDC: mov_L_gPDC_10Hz_JDC_average.csv
+2025-01-27 18:25:57,578 - INFO - Subject JDC: Averaged 8 files
+2025-01-27 18:25:57,586 - INFO - Created average for subject JFXD: mov_L_gPDC_10Hz_JFXD_average.csv
+2025-01-27 18:25:57,588 - INFO - Subject JFXD: Averaged 8 files
+2025-01-27 18:25:57,594 - INFO - Created average for subject JZ: mov_L_gPDC_10Hz_JZ_average.csv
+2025-01-27 18:25:57,594 - INFO - Subject JZ: Averaged 8 files
+2025-01-27 18:25:57,608 - INFO - Created average for subject LT: mov_L_gPDC_10Hz_LT_average.csv
+2025-01-27 18:25:57,608 - INFO - Subject LT: Averaged 8 files
+2025-01-27 18:25:57,610 - INFO - Created average for subject NvA: mov_L_gPDC_10Hz_NvA_average.csv
+2025-01-27 18:25:57,610 - INFO - Subject NvA: Averaged 8 files
+2025-01-27 18:25:57,631 - INFO - Created average for subject RR: mov_L_gPDC_10Hz_RR_average.csv
+2025-01-27 18:25:57,631 - INFO - Subject RR: Averaged 8 files
+2025-01-27 18:25:57,638 - INFO - Created average for subject SJB: mov_L_gPDC_10Hz_SJB_average.csv
+2025-01-27 18:25:57,638 - INFO - Subject SJB: Averaged 8 files
+2025-01-27 18:25:57,647 - INFO - Created average for subject BG: mov_L_gPDC_10Hz_BG_average.csv
+2025-01-27 18:25:57,647 - INFO - Subject BG: Averaged 6 files
+2025-01-27 18:25:57,647 - INFO - 
+Processing: mov/L/gPDC_20Hz
+2025-01-27 18:25:57,807 - INFO - Created overall average: mov_L_gPDC_20Hz_average.csv
+2025-01-27 18:25:57,808 - INFO - Created average for subject DOC: mov_L_gPDC_20Hz_DOC_average.csv
+2025-01-27 18:25:57,808 - INFO - Subject DOC: Averaged 8 files
+2025-01-27 18:25:57,828 - INFO - Created average for subject GB: mov_L_gPDC_20Hz_GB_average.csv
+2025-01-27 18:25:57,829 - INFO - Subject GB: Averaged 8 files
+2025-01-27 18:25:57,840 - INFO - Created average for subject JDC: mov_L_gPDC_20Hz_JDC_average.csv
+2025-01-27 18:25:57,841 - INFO - Subject JDC: Averaged 8 files
+2025-01-27 18:25:57,850 - INFO - Created average for subject JFXD: mov_L_gPDC_20Hz_JFXD_average.csv
+2025-01-27 18:25:57,850 - INFO - Subject JFXD: Averaged 8 files
+2025-01-27 18:25:57,858 - INFO - Created average for subject JZ: mov_L_gPDC_20Hz_JZ_average.csv
+2025-01-27 18:25:57,858 - INFO - Subject JZ: Averaged 8 files
+2025-01-27 18:25:57,872 - INFO - Created average for subject LT: mov_L_gPDC_20Hz_LT_average.csv
+2025-01-27 18:25:57,873 - INFO - Subject LT: Averaged 8 files
+2025-01-27 18:25:57,881 - INFO - Created average for subject NvA: mov_L_gPDC_20Hz_NvA_average.csv
+2025-01-27 18:25:57,881 - INFO - Subject NvA: Averaged 8 files
+2025-01-27 18:25:57,894 - INFO - Created average for subject RR: mov_L_gPDC_20Hz_RR_average.csv
+2025-01-27 18:25:57,894 - INFO - Subject RR: Averaged 8 files
+2025-01-27 18:25:57,904 - INFO - Created average for subject SJB: mov_L_gPDC_20Hz_SJB_average.csv
+2025-01-27 18:25:57,905 - INFO - Subject SJB: Averaged 8 files
+2025-01-27 18:25:57,913 - INFO - Created average for subject BG: mov_L_gPDC_20Hz_BG_average.csv
+2025-01-27 18:25:57,913 - INFO - Subject BG: Averaged 6 files
+2025-01-27 18:25:57,913 - INFO - 
+Processing: mov/L/gPDC_100Hz
+2025-01-27 18:25:58,068 - INFO - Created overall average: mov_L_gPDC_100Hz_average.csv
+2025-01-27 18:25:58,079 - INFO - Created average for subject DOC: mov_L_gPDC_100Hz_DOC_average.csv
+2025-01-27 18:25:58,079 - INFO - Subject DOC: Averaged 8 files
+2025-01-27 18:25:58,096 - INFO - Created average for subject GB: mov_L_gPDC_100Hz_GB_average.csv
+2025-01-27 18:25:58,096 - INFO - Subject GB: Averaged 8 files
+2025-01-27 18:25:58,111 - INFO - Created average for subject JDC: mov_L_gPDC_100Hz_JDC_average.csv
+2025-01-27 18:25:58,112 - INFO - Subject JDC: Averaged 8 files
+2025-01-27 18:25:58,123 - INFO - Created average for subject JFXD: mov_L_gPDC_100Hz_JFXD_average.csv
+2025-01-27 18:25:58,124 - INFO - Subject JFXD: Averaged 8 files
+2025-01-27 18:25:58,133 - INFO - Created average for subject JZ: mov_L_gPDC_100Hz_JZ_average.csv
+2025-01-27 18:25:58,133 - INFO - Subject JZ: Averaged 8 files
+2025-01-27 18:25:58,133 - INFO - Created average for subject LT: mov_L_gPDC_100Hz_LT_average.csv
+2025-01-27 18:25:58,133 - INFO - Subject LT: Averaged 8 files
+2025-01-27 18:25:58,156 - INFO - Created average for subject NvA: mov_L_gPDC_100Hz_NvA_average.csv
+2025-01-27 18:25:58,156 - INFO - Subject NvA: Averaged 8 files
+2025-01-27 18:25:58,164 - INFO - Created average for subject RR: mov_L_gPDC_100Hz_RR_average.csv
+2025-01-27 18:25:58,164 - INFO - Subject RR: Averaged 8 files
+2025-01-27 18:25:58,172 - INFO - Created average for subject SJB: mov_L_gPDC_100Hz_SJB_average.csv
+2025-01-27 18:25:58,172 - INFO - Subject SJB: Averaged 8 files
+2025-01-27 18:25:58,185 - INFO - Created average for subject BG: mov_L_gPDC_100Hz_BG_average.csv
+2025-01-27 18:25:58,186 - INFO - Subject BG: Averaged 6 files
+2025-01-27 18:25:58,186 - INFO - 
+Processing: mov/R/iDTF_10Hz
+2025-01-27 18:25:58,344 - INFO - Created overall average: mov_R_iDTF_10Hz_average.csv
+2025-01-27 18:25:58,353 - INFO - Created average for subject DOC: mov_R_iDTF_10Hz_DOC_average.csv
+2025-01-27 18:25:58,353 - INFO - Subject DOC: Averaged 8 files
+2025-01-27 18:25:58,363 - INFO - Created average for subject GB: mov_R_iDTF_10Hz_GB_average.csv
+2025-01-27 18:25:58,363 - INFO - Subject GB: Averaged 8 files
+2025-01-27 18:25:58,373 - INFO - Created average for subject JDC: mov_R_iDTF_10Hz_JDC_average.csv
+2025-01-27 18:25:58,373 - INFO - Subject JDC: Averaged 8 files
+2025-01-27 18:25:58,385 - INFO - Created average for subject JFXD: mov_R_iDTF_10Hz_JFXD_average.csv
+2025-01-27 18:25:58,385 - INFO - Subject JFXD: Averaged 8 files
+2025-01-27 18:25:58,385 - INFO - Created average for subject JZ: mov_R_iDTF_10Hz_JZ_average.csv
+2025-01-27 18:25:58,385 - INFO - Subject JZ: Averaged 8 files
+2025-01-27 18:25:58,401 - INFO - Created average for subject LT: mov_R_iDTF_10Hz_LT_average.csv
+2025-01-27 18:25:58,401 - INFO - Subject LT: Averaged 8 files
+2025-01-27 18:25:58,412 - INFO - Created average for subject NvA: mov_R_iDTF_10Hz_NvA_average.csv
+2025-01-27 18:25:58,412 - INFO - Subject NvA: Averaged 8 files
+2025-01-27 18:25:58,424 - INFO - Created average for subject RR: mov_R_iDTF_10Hz_RR_average.csv
+2025-01-27 18:25:58,424 - INFO - Subject RR: Averaged 8 files
+2025-01-27 18:25:58,436 - INFO - Created average for subject SJB: mov_R_iDTF_10Hz_SJB_average.csv
+2025-01-27 18:25:58,436 - INFO - Subject SJB: Averaged 8 files
+2025-01-27 18:25:58,445 - INFO - Created average for subject BG: mov_R_iDTF_10Hz_BG_average.csv
+2025-01-27 18:25:58,445 - INFO - Subject BG: Averaged 6 files
+2025-01-27 18:25:58,448 - INFO - 
+Processing: mov/R/iDTF_20Hz
+2025-01-27 18:25:58,606 - INFO - Created overall average: mov_R_iDTF_20Hz_average.csv
+2025-01-27 18:25:58,616 - INFO - Created average for subject DOC: mov_R_iDTF_20Hz_DOC_average.csv
+2025-01-27 18:25:58,616 - INFO - Subject DOC: Averaged 8 files
+2025-01-27 18:25:58,622 - INFO - Created average for subject GB: mov_R_iDTF_20Hz_GB_average.csv
+2025-01-27 18:25:58,622 - INFO - Subject GB: Averaged 8 files
+2025-01-27 18:25:58,639 - INFO - Created average for subject JDC: mov_R_iDTF_20Hz_JDC_average.csv
+2025-01-27 18:25:58,639 - INFO - Subject JDC: Averaged 8 files
+2025-01-27 18:25:58,646 - INFO - Created average for subject JFXD: mov_R_iDTF_20Hz_JFXD_average.csv
+2025-01-27 18:25:58,650 - INFO - Subject JFXD: Averaged 8 files
+2025-01-27 18:25:58,658 - INFO - Created average for subject JZ: mov_R_iDTF_20Hz_JZ_average.csv
+2025-01-27 18:25:58,658 - INFO - Subject JZ: Averaged 8 files
+2025-01-27 18:25:58,667 - INFO - Created average for subject LT: mov_R_iDTF_20Hz_LT_average.csv
+2025-01-27 18:25:58,667 - INFO - Subject LT: Averaged 8 files
+2025-01-27 18:25:58,681 - INFO - Created average for subject NvA: mov_R_iDTF_20Hz_NvA_average.csv
+2025-01-27 18:25:58,682 - INFO - Subject NvA: Averaged 8 files
+2025-01-27 18:25:58,690 - INFO - Created average for subject RR: mov_R_iDTF_20Hz_RR_average.csv
+2025-01-27 18:25:58,690 - INFO - Subject RR: Averaged 8 files
+2025-01-27 18:25:58,698 - INFO - Created average for subject SJB: mov_R_iDTF_20Hz_SJB_average.csv
+2025-01-27 18:25:58,698 - INFO - Subject SJB: Averaged 8 files
+2025-01-27 18:25:58,709 - INFO - Created average for subject BG: mov_R_iDTF_20Hz_BG_average.csv
+2025-01-27 18:25:58,709 - INFO - Subject BG: Averaged 6 files
+2025-01-27 18:25:58,709 - INFO - 
+Processing: mov/R/iDTF_100Hz
+2025-01-27 18:25:58,885 - INFO - Created overall average: mov_R_iDTF_100Hz_average.csv
+2025-01-27 18:25:58,901 - INFO - Created average for subject DOC: mov_R_iDTF_100Hz_DOC_average.csv
+2025-01-27 18:25:58,901 - INFO - Subject DOC: Averaged 8 files
+2025-01-27 18:25:58,911 - INFO - Created average for subject GB: mov_R_iDTF_100Hz_GB_average.csv
+2025-01-27 18:25:58,911 - INFO - Subject GB: Averaged 8 files
+2025-01-27 18:25:58,921 - INFO - Created average for subject JDC: mov_R_iDTF_100Hz_JDC_average.csv
+2025-01-27 18:25:58,922 - INFO - Subject JDC: Averaged 8 files
+2025-01-27 18:25:58,928 - INFO - Created average for subject JFXD: mov_R_iDTF_100Hz_JFXD_average.csv
+2025-01-27 18:25:58,928 - INFO - Subject JFXD: Averaged 8 files
+2025-01-27 18:25:58,938 - INFO - Created average for subject JZ: mov_R_iDTF_100Hz_JZ_average.csv
+2025-01-27 18:25:58,938 - INFO - Subject JZ: Averaged 8 files
+2025-01-27 18:25:58,948 - INFO - Created average for subject LT: mov_R_iDTF_100Hz_LT_average.csv
+2025-01-27 18:25:58,948 - INFO - Subject LT: Averaged 8 files
+2025-01-27 18:25:58,956 - INFO - Created average for subject NvA: mov_R_iDTF_100Hz_NvA_average.csv
+2025-01-27 18:25:58,956 - INFO - Subject NvA: Averaged 8 files
+2025-01-27 18:25:58,971 - INFO - Created average for subject RR: mov_R_iDTF_100Hz_RR_average.csv
+2025-01-27 18:25:58,971 - INFO - Subject RR: Averaged 8 files
+2025-01-27 18:25:58,978 - INFO - Created average for subject SJB: mov_R_iDTF_100Hz_SJB_average.csv
+2025-01-27 18:25:58,978 - INFO - Subject SJB: Averaged 8 files
+2025-01-27 18:25:58,989 - INFO - Created average for subject BG: mov_R_iDTF_100Hz_BG_average.csv
+2025-01-27 18:25:58,989 - INFO - Subject BG: Averaged 6 files
+2025-01-27 18:25:58,989 - INFO - 
+Processing: mov/R/gDTF_10Hz
+2025-01-27 18:25:59,176 - INFO - Created overall average: mov_R_gDTF_10Hz_average.csv
+2025-01-27 18:25:59,182 - INFO - Created average for subject DOC: mov_R_gDTF_10Hz_DOC_average.csv
+2025-01-27 18:25:59,182 - INFO - Subject DOC: Averaged 8 files
+2025-01-27 18:25:59,199 - INFO - Created average for subject GB: mov_R_gDTF_10Hz_GB_average.csv
+2025-01-27 18:25:59,199 - INFO - Subject GB: Averaged 8 files
+2025-01-27 18:25:59,200 - INFO - Created average for subject JDC: mov_R_gDTF_10Hz_JDC_average.csv
+2025-01-27 18:25:59,200 - INFO - Subject JDC: Averaged 8 files
+2025-01-27 18:25:59,216 - INFO - Created average for subject JFXD: mov_R_gDTF_10Hz_JFXD_average.csv
+2025-01-27 18:25:59,216 - INFO - Subject JFXD: Averaged 8 files
+2025-01-27 18:25:59,226 - INFO - Created average for subject JZ: mov_R_gDTF_10Hz_JZ_average.csv
+2025-01-27 18:25:59,226 - INFO - Subject JZ: Averaged 8 files
+2025-01-27 18:25:59,237 - INFO - Created average for subject LT: mov_R_gDTF_10Hz_LT_average.csv
+2025-01-27 18:25:59,237 - INFO - Subject LT: Averaged 8 files
+2025-01-27 18:25:59,251 - INFO - Created average for subject NvA: mov_R_gDTF_10Hz_NvA_average.csv
+2025-01-27 18:25:59,251 - INFO - Subject NvA: Averaged 8 files
+2025-01-27 18:25:59,258 - INFO - Created average for subject RR: mov_R_gDTF_10Hz_RR_average.csv
+2025-01-27 18:25:59,258 - INFO - Subject RR: Averaged 8 files
+2025-01-27 18:25:59,272 - INFO - Created average for subject SJB: mov_R_gDTF_10Hz_SJB_average.csv
+2025-01-27 18:25:59,272 - INFO - Subject SJB: Averaged 8 files
+2025-01-27 18:25:59,280 - INFO - Created average for subject BG: mov_R_gDTF_10Hz_BG_average.csv
+2025-01-27 18:25:59,280 - INFO - Subject BG: Averaged 6 files
+2025-01-27 18:25:59,281 - INFO - 
+Processing: mov/R/gDTF_20Hz
+2025-01-27 18:25:59,432 - INFO - Created overall average: mov_R_gDTF_20Hz_average.csv
+2025-01-27 18:25:59,437 - INFO - Created average for subject DOC: mov_R_gDTF_20Hz_DOC_average.csv
+2025-01-27 18:25:59,437 - INFO - Subject DOC: Averaged 8 files
+2025-01-27 18:25:59,454 - INFO - Created average for subject GB: mov_R_gDTF_20Hz_GB_average.csv
+2025-01-27 18:25:59,454 - INFO - Subject GB: Averaged 8 files
+2025-01-27 18:25:59,467 - INFO - Created average for subject JDC: mov_R_gDTF_20Hz_JDC_average.csv
+2025-01-27 18:25:59,467 - INFO - Subject JDC: Averaged 8 files
+2025-01-27 18:25:59,475 - INFO - Created average for subject JFXD: mov_R_gDTF_20Hz_JFXD_average.csv
+2025-01-27 18:25:59,475 - INFO - Subject JFXD: Averaged 8 files
+2025-01-27 18:25:59,488 - INFO - Created average for subject JZ: mov_R_gDTF_20Hz_JZ_average.csv
+2025-01-27 18:25:59,488 - INFO - Subject JZ: Averaged 8 files
+2025-01-27 18:25:59,501 - INFO - Created average for subject LT: mov_R_gDTF_20Hz_LT_average.csv
+2025-01-27 18:25:59,501 - INFO - Subject LT: Averaged 8 files
+2025-01-27 18:25:59,507 - INFO - Created average for subject NvA: mov_R_gDTF_20Hz_NvA_average.csv
+2025-01-27 18:25:59,507 - INFO - Subject NvA: Averaged 8 files
+2025-01-27 18:25:59,520 - INFO - Created average for subject RR: mov_R_gDTF_20Hz_RR_average.csv
+2025-01-27 18:25:59,520 - INFO - Subject RR: Averaged 8 files
+2025-01-27 18:25:59,531 - INFO - Created average for subject SJB: mov_R_gDTF_20Hz_SJB_average.csv
+2025-01-27 18:25:59,531 - INFO - Subject SJB: Averaged 8 files
+2025-01-27 18:25:59,539 - INFO - Created average for subject BG: mov_R_gDTF_20Hz_BG_average.csv
+2025-01-27 18:25:59,539 - INFO - Subject BG: Averaged 6 files
+2025-01-27 18:25:59,539 - INFO - 
+Processing: mov/R/gDTF_100Hz
+2025-01-27 18:25:59,691 - INFO - Created overall average: mov_R_gDTF_100Hz_average.csv
+2025-01-27 18:25:59,698 - INFO - Created average for subject DOC: mov_R_gDTF_100Hz_DOC_average.csv
+2025-01-27 18:25:59,698 - INFO - Subject DOC: Averaged 8 files
+2025-01-27 18:25:59,715 - INFO - Created average for subject GB: mov_R_gDTF_100Hz_GB_average.csv
+2025-01-27 18:25:59,715 - INFO - Subject GB: Averaged 8 files
+2025-01-27 18:25:59,728 - INFO - Created average for subject JDC: mov_R_gDTF_100Hz_JDC_average.csv
+2025-01-27 18:25:59,728 - INFO - Subject JDC: Averaged 8 files
+2025-01-27 18:25:59,730 - INFO - Created average for subject JFXD: mov_R_gDTF_100Hz_JFXD_average.csv
+2025-01-27 18:25:59,730 - INFO - Subject JFXD: Averaged 8 files
+2025-01-27 18:25:59,748 - INFO - Created average for subject JZ: mov_R_gDTF_100Hz_JZ_average.csv
+2025-01-27 18:25:59,748 - INFO - Subject JZ: Averaged 8 files
+2025-01-27 18:25:59,758 - INFO - Created average for subject LT: mov_R_gDTF_100Hz_LT_average.csv
+2025-01-27 18:25:59,758 - INFO - Subject LT: Averaged 8 files
+2025-01-27 18:25:59,770 - INFO - Created average for subject NvA: mov_R_gDTF_100Hz_NvA_average.csv
+2025-01-27 18:25:59,771 - INFO - Subject NvA: Averaged 8 files
+2025-01-27 18:25:59,781 - INFO - Created average for subject RR: mov_R_gDTF_100Hz_RR_average.csv
+2025-01-27 18:25:59,781 - INFO - Subject RR: Averaged 8 files
+2025-01-27 18:25:59,792 - INFO - Created average for subject SJB: mov_R_gDTF_100Hz_SJB_average.csv
+2025-01-27 18:25:59,792 - INFO - Subject SJB: Averaged 8 files
+2025-01-27 18:25:59,799 - INFO - Created average for subject BG: mov_R_gDTF_100Hz_BG_average.csv
+2025-01-27 18:25:59,799 - INFO - Subject BG: Averaged 6 files
+2025-01-27 18:25:59,799 - INFO - 
+Processing: mov/R/iPDC_10Hz
+2025-01-27 18:25:59,955 - INFO - Created overall average: mov_R_iPDC_10Hz_average.csv
+2025-01-27 18:25:59,963 - INFO - Created average for subject DOC: mov_R_iPDC_10Hz_DOC_average.csv
+2025-01-27 18:25:59,963 - INFO - Subject DOC: Averaged 8 files
+2025-01-27 18:25:59,971 - INFO - Created average for subject GB: mov_R_iPDC_10Hz_GB_average.csv
+2025-01-27 18:25:59,971 - INFO - Subject GB: Averaged 8 files
+2025-01-27 18:25:59,980 - INFO - Created average for subject JDC: mov_R_iPDC_10Hz_JDC_average.csv
+2025-01-27 18:25:59,980 - INFO - Subject JDC: Averaged 8 files
+2025-01-27 18:25:59,992 - INFO - Created average for subject JFXD: mov_R_iPDC_10Hz_JFXD_average.csv
+2025-01-27 18:25:59,992 - INFO - Subject JFXD: Averaged 8 files
+2025-01-27 18:26:00,005 - INFO - Created average for subject JZ: mov_R_iPDC_10Hz_JZ_average.csv
+2025-01-27 18:26:00,006 - INFO - Subject JZ: Averaged 8 files
+2025-01-27 18:26:00,013 - INFO - Created average for subject LT: mov_R_iPDC_10Hz_LT_average.csv
+2025-01-27 18:26:00,013 - INFO - Subject LT: Averaged 8 files
+2025-01-27 18:26:00,031 - INFO - Created average for subject NvA: mov_R_iPDC_10Hz_NvA_average.csv
+2025-01-27 18:26:00,032 - INFO - Subject NvA: Averaged 8 files
+2025-01-27 18:26:00,034 - INFO - Created average for subject RR: mov_R_iPDC_10Hz_RR_average.csv
+2025-01-27 18:26:00,034 - INFO - Subject RR: Averaged 8 files
+2025-01-27 18:26:00,049 - INFO - Created average for subject SJB: mov_R_iPDC_10Hz_SJB_average.csv
+2025-01-27 18:26:00,049 - INFO - Subject SJB: Averaged 8 files
+2025-01-27 18:26:00,063 - INFO - Created average for subject BG: mov_R_iPDC_10Hz_BG_average.csv
+2025-01-27 18:26:00,063 - INFO - Subject BG: Averaged 6 files
+2025-01-27 18:26:00,063 - INFO - 
+Processing: mov/R/iPDC_20Hz
+2025-01-27 18:26:00,215 - INFO - Created overall average: mov_R_iPDC_20Hz_average.csv
+2025-01-27 18:26:00,232 - INFO - Created average for subject DOC: mov_R_iPDC_20Hz_DOC_average.csv
+2025-01-27 18:26:00,232 - INFO - Subject DOC: Averaged 8 files
+2025-01-27 18:26:00,246 - INFO - Created average for subject GB: mov_R_iPDC_20Hz_GB_average.csv
+2025-01-27 18:26:00,246 - INFO - Subject GB: Averaged 8 files
+2025-01-27 18:26:00,252 - INFO - Created average for subject JDC: mov_R_iPDC_20Hz_JDC_average.csv
+2025-01-27 18:26:00,252 - INFO - Subject JDC: Averaged 8 files
+2025-01-27 18:26:00,266 - INFO - Created average for subject JFXD: mov_R_iPDC_20Hz_JFXD_average.csv
+2025-01-27 18:26:00,266 - INFO - Subject JFXD: Averaged 8 files
+2025-01-27 18:26:00,275 - INFO - Created average for subject JZ: mov_R_iPDC_20Hz_JZ_average.csv
+2025-01-27 18:26:00,275 - INFO - Subject JZ: Averaged 8 files
+2025-01-27 18:26:00,283 - INFO - Created average for subject LT: mov_R_iPDC_20Hz_LT_average.csv
+2025-01-27 18:26:00,283 - INFO - Subject LT: Averaged 8 files
+2025-01-27 18:26:00,293 - INFO - Created average for subject NvA: mov_R_iPDC_20Hz_NvA_average.csv
+2025-01-27 18:26:00,293 - INFO - Subject NvA: Averaged 8 files
+2025-01-27 18:26:00,302 - INFO - Created average for subject RR: mov_R_iPDC_20Hz_RR_average.csv
+2025-01-27 18:26:00,302 - INFO - Subject RR: Averaged 8 files
+2025-01-27 18:26:00,318 - INFO - Created average for subject SJB: mov_R_iPDC_20Hz_SJB_average.csv
+2025-01-27 18:26:00,319 - INFO - Subject SJB: Averaged 8 files
+2025-01-27 18:26:00,321 - INFO - Created average for subject BG: mov_R_iPDC_20Hz_BG_average.csv
+2025-01-27 18:26:00,321 - INFO - Subject BG: Averaged 6 files
+2025-01-27 18:26:00,328 - INFO - 
+Processing: mov/R/iPDC_100Hz
+2025-01-27 18:26:00,486 - INFO - Created overall average: mov_R_iPDC_100Hz_average.csv
+2025-01-27 18:26:00,499 - INFO - Created average for subject DOC: mov_R_iPDC_100Hz_DOC_average.csv
+2025-01-27 18:26:00,499 - INFO - Subject DOC: Averaged 8 files
+2025-01-27 18:26:00,503 - INFO - Created average for subject GB: mov_R_iPDC_100Hz_GB_average.csv
+2025-01-27 18:26:00,503 - INFO - Subject GB: Averaged 8 files
+2025-01-27 18:26:00,514 - INFO - Created average for subject JDC: mov_R_iPDC_100Hz_JDC_average.csv
+2025-01-27 18:26:00,514 - INFO - Subject JDC: Averaged 8 files
+2025-01-27 18:26:00,529 - INFO - Created average for subject JFXD: mov_R_iPDC_100Hz_JFXD_average.csv
+2025-01-27 18:26:00,529 - INFO - Subject JFXD: Averaged 8 files
+2025-01-27 18:26:00,539 - INFO - Created average for subject JZ: mov_R_iPDC_100Hz_JZ_average.csv
+2025-01-27 18:26:00,539 - INFO - Subject JZ: Averaged 8 files
+2025-01-27 18:26:00,546 - INFO - Created average for subject LT: mov_R_iPDC_100Hz_LT_average.csv
+2025-01-27 18:26:00,546 - INFO - Subject LT: Averaged 8 files
+2025-01-27 18:26:00,562 - INFO - Created average for subject NvA: mov_R_iPDC_100Hz_NvA_average.csv
+2025-01-27 18:26:00,562 - INFO - Subject NvA: Averaged 8 files
+2025-01-27 18:26:00,571 - INFO - Created average for subject RR: mov_R_iPDC_100Hz_RR_average.csv
+2025-01-27 18:26:00,571 - INFO - Subject RR: Averaged 8 files
+2025-01-27 18:26:00,577 - INFO - Created average for subject SJB: mov_R_iPDC_100Hz_SJB_average.csv
+2025-01-27 18:26:00,577 - INFO - Subject SJB: Averaged 8 files
+2025-01-27 18:26:00,590 - INFO - Created average for subject BG: mov_R_iPDC_100Hz_BG_average.csv
+2025-01-27 18:26:00,590 - INFO - Subject BG: Averaged 6 files
+2025-01-27 18:26:00,590 - INFO - 
+Processing: mov/R/gPDC_10Hz
+2025-01-27 18:26:00,745 - INFO - Created overall average: mov_R_gPDC_10Hz_average.csv
+2025-01-27 18:26:00,760 - INFO - Created average for subject DOC: mov_R_gPDC_10Hz_DOC_average.csv
+2025-01-27 18:26:00,760 - INFO - Subject DOC: Averaged 8 files
+2025-01-27 18:26:00,778 - INFO - Created average for subject GB: mov_R_gPDC_10Hz_GB_average.csv
+2025-01-27 18:26:00,779 - INFO - Subject GB: Averaged 8 files
+2025-01-27 18:26:00,791 - INFO - Created average for subject JDC: mov_R_gPDC_10Hz_JDC_average.csv
+2025-01-27 18:26:00,792 - INFO - Subject JDC: Averaged 8 files
+2025-01-27 18:26:00,797 - INFO - Created average for subject JFXD: mov_R_gPDC_10Hz_JFXD_average.csv
+2025-01-27 18:26:00,797 - INFO - Subject JFXD: Averaged 8 files
+2025-01-27 18:26:00,814 - INFO - Created average for subject JZ: mov_R_gPDC_10Hz_JZ_average.csv
+2025-01-27 18:26:00,814 - INFO - Subject JZ: Averaged 8 files
+2025-01-27 18:26:00,826 - INFO - Created average for subject LT: mov_R_gPDC_10Hz_LT_average.csv
+2025-01-27 18:26:00,826 - INFO - Subject LT: Averaged 8 files
+2025-01-27 18:26:00,831 - INFO - Created average for subject NvA: mov_R_gPDC_10Hz_NvA_average.csv
+2025-01-27 18:26:00,838 - INFO - Subject NvA: Averaged 8 files
+2025-01-27 18:26:00,851 - INFO - Created average for subject RR: mov_R_gPDC_10Hz_RR_average.csv
+2025-01-27 18:26:00,851 - INFO - Subject RR: Averaged 8 files
+2025-01-27 18:26:00,859 - INFO - Created average for subject SJB: mov_R_gPDC_10Hz_SJB_average.csv
+2025-01-27 18:26:00,859 - INFO - Subject SJB: Averaged 8 files
+2025-01-27 18:26:00,873 - INFO - Created average for subject BG: mov_R_gPDC_10Hz_BG_average.csv
+2025-01-27 18:26:00,873 - INFO - Subject BG: Averaged 6 files
+2025-01-27 18:26:00,874 - INFO - 
+Processing: mov/R/gPDC_20Hz
+2025-01-27 18:26:01,029 - INFO - Created overall average: mov_R_gPDC_20Hz_average.csv
+2025-01-27 18:26:01,047 - INFO - Created average for subject DOC: mov_R_gPDC_20Hz_DOC_average.csv
+2025-01-27 18:26:01,048 - INFO - Subject DOC: Averaged 8 files
+2025-01-27 18:26:01,058 - INFO - Created average for subject GB: mov_R_gPDC_20Hz_GB_average.csv
+2025-01-27 18:26:01,059 - INFO - Subject GB: Averaged 8 files
+2025-01-27 18:26:01,064 - INFO - Created average for subject JDC: mov_R_gPDC_20Hz_JDC_average.csv
+2025-01-27 18:26:01,064 - INFO - Subject JDC: Averaged 8 files
+2025-01-27 18:26:01,075 - INFO - Created average for subject JFXD: mov_R_gPDC_20Hz_JFXD_average.csv
+2025-01-27 18:26:01,075 - INFO - Subject JFXD: Averaged 8 files
+2025-01-27 18:26:01,088 - INFO - Created average for subject JZ: mov_R_gPDC_20Hz_JZ_average.csv
+2025-01-27 18:26:01,088 - INFO - Subject JZ: Averaged 8 files
+2025-01-27 18:26:01,100 - INFO - Created average for subject LT: mov_R_gPDC_20Hz_LT_average.csv
+2025-01-27 18:26:01,100 - INFO - Subject LT: Averaged 8 files
+2025-01-27 18:26:01,101 - INFO - Created average for subject NvA: mov_R_gPDC_20Hz_NvA_average.csv
+2025-01-27 18:26:01,101 - INFO - Subject NvA: Averaged 8 files
+2025-01-27 18:26:01,120 - INFO - Created average for subject RR: mov_R_gPDC_20Hz_RR_average.csv
+2025-01-27 18:26:01,120 - INFO - Subject RR: Averaged 8 files
+2025-01-27 18:26:01,130 - INFO - Created average for subject SJB: mov_R_gPDC_20Hz_SJB_average.csv
+2025-01-27 18:26:01,130 - INFO - Subject SJB: Averaged 8 files
+2025-01-27 18:26:01,130 - INFO - Created average for subject BG: mov_R_gPDC_20Hz_BG_average.csv
+2025-01-27 18:26:01,130 - INFO - Subject BG: Averaged 6 files
+2025-01-27 18:26:01,130 - INFO - 
+Processing: mov/R/gPDC_100Hz
+2025-01-27 18:26:01,300 - INFO - Created overall average: mov_R_gPDC_100Hz_average.csv
+2025-01-27 18:26:01,311 - INFO - Created average for subject DOC: mov_R_gPDC_100Hz_DOC_average.csv
+2025-01-27 18:26:01,312 - INFO - Subject DOC: Averaged 8 files
+2025-01-27 18:26:01,318 - INFO - Created average for subject GB: mov_R_gPDC_100Hz_GB_average.csv
+2025-01-27 18:26:01,318 - INFO - Subject GB: Averaged 8 files
+2025-01-27 18:26:01,333 - INFO - Created average for subject JDC: mov_R_gPDC_100Hz_JDC_average.csv
+2025-01-27 18:26:01,333 - INFO - Subject JDC: Averaged 8 files
+2025-01-27 18:26:01,345 - INFO - Created average for subject JFXD: mov_R_gPDC_100Hz_JFXD_average.csv
+2025-01-27 18:26:01,345 - INFO - Subject JFXD: Averaged 8 files
+2025-01-27 18:26:01,353 - INFO - Created average for subject JZ: mov_R_gPDC_100Hz_JZ_average.csv
+2025-01-27 18:26:01,353 - INFO - Subject JZ: Averaged 8 files
+2025-01-27 18:26:01,353 - INFO - Created average for subject LT: mov_R_gPDC_100Hz_LT_average.csv
+2025-01-27 18:26:01,353 - INFO - Subject LT: Averaged 8 files
+2025-01-27 18:26:01,373 - INFO - Created average for subject NvA: mov_R_gPDC_100Hz_NvA_average.csv
+2025-01-27 18:26:01,373 - INFO - Subject NvA: Averaged 8 files
+2025-01-27 18:26:01,384 - INFO - Created average for subject RR: mov_R_gPDC_100Hz_RR_average.csv
+2025-01-27 18:26:01,384 - INFO - Subject RR: Averaged 8 files
+2025-01-27 18:26:01,394 - INFO - Created average for subject SJB: mov_R_gPDC_100Hz_SJB_average.csv
+2025-01-27 18:26:01,394 - INFO - Subject SJB: Averaged 8 files
+2025-01-27 18:26:01,406 - INFO - Created average for subject BG: mov_R_gPDC_100Hz_BG_average.csv
+2025-01-27 18:26:01,406 - INFO - Subject BG: Averaged 6 files

@@ -1,0 +1,148 @@
+2025-03-13 08:35:22,226 - INFO - Starting MEG Connectogram Visualization V2
+2025-03-13 08:35:22,226 - INFO - Selected dataset: DataSet5_Align_cue_626_to_938_unc
+2025-03-13 08:35:22,226 - INFO - Selected analysis type: Wilcoxon
+2025-03-13 08:35:22,226 - INFO - Selected analysis folder: Wilcoxon_03102025-1305
+2025-03-13 08:35:22,226 - INFO - Log file: Logs\connectogram_20250313-083522.log
+2025-03-13 08:35:22,226 - INFO - Processing all folders in Wilcoxon_03102025-1305...
+2025-03-13 08:35:22,227 - INFO - Processing Cue_gDTF_100Hz...
+2025-03-13 08:35:22,229 - INFO - Processing Data\DataSet5_Align_cue_626_to_938_unc\Wilcoxon_03102025-1305\Cue_gDTF_100Hz\gDTF_100Hz_L-R_BG.csv
+2025-03-13 08:35:22,229 - INFO - Matrix shape: (32, 32)
+2025-03-13 08:35:22,230 - INFO - Found 1024 connections out of 1024 possible connections
+2025-03-13 08:35:27,976 - ERROR - Error processing Data\DataSet5_Align_cue_626_to_938_unc\Wilcoxon_03102025-1305\Cue_gDTF_100Hz: 'charmap' codec can't encode character '\u2192' in position 10: character maps to <undefined>
+2025-03-13 08:35:27,978 - ERROR - Traceback (most recent call last):
+  File "c:\Users\dgane\Apps\MEG\Scripts\meg_circular_connectogram_v2.py", line 526, in process_folder
+    self.generate_connectivity_report(matrix, folder_path, method_freq, timestamp)
+  File "c:\Users\dgane\Apps\MEG\Scripts\meg_circular_connectogram_v2.py", line 591, in generate_connectivity_report
+    f.write(f"  {i}. {source} {direction} {target}: {strength:.6f}\n")
+  File "C:\Users\dgane\AppData\Local\Programs\Python\Python311\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\u2192' in position 10: character maps to <undefined>
+
+2025-03-13 08:35:27,978 - INFO - Processing Cue_gDTF_10Hz...
+2025-03-13 08:35:27,979 - INFO - Processing Data\DataSet5_Align_cue_626_to_938_unc\Wilcoxon_03102025-1305\Cue_gDTF_10Hz\gDTF_10Hz_L-R_BG.csv
+2025-03-13 08:35:27,980 - INFO - Matrix shape: (32, 32)
+2025-03-13 08:35:27,980 - INFO - Found 1024 connections out of 1024 possible connections
+2025-03-13 08:35:33,667 - ERROR - Error processing Data\DataSet5_Align_cue_626_to_938_unc\Wilcoxon_03102025-1305\Cue_gDTF_10Hz: 'charmap' codec can't encode character '\u22a3' in position 10: character maps to <undefined>
+2025-03-13 08:35:33,668 - ERROR - Traceback (most recent call last):
+  File "c:\Users\dgane\Apps\MEG\Scripts\meg_circular_connectogram_v2.py", line 526, in process_folder
+    self.generate_connectivity_report(matrix, folder_path, method_freq, timestamp)
+  File "c:\Users\dgane\Apps\MEG\Scripts\meg_circular_connectogram_v2.py", line 591, in generate_connectivity_report
+    f.write(f"  {i}. {source} {direction} {target}: {strength:.6f}\n")
+  File "C:\Users\dgane\AppData\Local\Programs\Python\Python311\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\u22a3' in position 10: character maps to <undefined>
+
+2025-03-13 08:35:33,669 - INFO - Processing Cue_gDTF_20Hz...
+2025-03-13 08:35:33,670 - INFO - Processing Data\DataSet5_Align_cue_626_to_938_unc\Wilcoxon_03102025-1305\Cue_gDTF_20Hz\gDTF_20Hz_L-R_BG.csv
+2025-03-13 08:35:33,671 - INFO - Matrix shape: (32, 32)
+2025-03-13 08:35:33,671 - INFO - Found 1024 connections out of 1024 possible connections
+2025-03-13 08:35:39,458 - ERROR - Error processing Data\DataSet5_Align_cue_626_to_938_unc\Wilcoxon_03102025-1305\Cue_gDTF_20Hz: 'charmap' codec can't encode character '\u22a3' in position 10: character maps to <undefined>
+2025-03-13 08:35:39,459 - ERROR - Traceback (most recent call last):
+  File "c:\Users\dgane\Apps\MEG\Scripts\meg_circular_connectogram_v2.py", line 526, in process_folder
+    self.generate_connectivity_report(matrix, folder_path, method_freq, timestamp)
+  File "c:\Users\dgane\Apps\MEG\Scripts\meg_circular_connectogram_v2.py", line 591, in generate_connectivity_report
+    f.write(f"  {i}. {source} {direction} {target}: {strength:.6f}\n")
+  File "C:\Users\dgane\AppData\Local\Programs\Python\Python311\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\u22a3' in position 10: character maps to <undefined>
+
+2025-03-13 08:35:39,459 - INFO - Processing Cue_gPDC_100Hz...
+2025-03-13 08:35:39,461 - INFO - Processing Data\DataSet5_Align_cue_626_to_938_unc\Wilcoxon_03102025-1305\Cue_gPDC_100Hz\gPDC_100Hz_L-R_BG.csv
+2025-03-13 08:35:39,462 - INFO - Matrix shape: (32, 32)
+2025-03-13 08:35:39,462 - INFO - Found 1024 connections out of 1024 possible connections
+2025-03-13 08:35:45,231 - ERROR - Error processing Data\DataSet5_Align_cue_626_to_938_unc\Wilcoxon_03102025-1305\Cue_gPDC_100Hz: 'charmap' codec can't encode character '\u2192' in position 10: character maps to <undefined>
+2025-03-13 08:35:45,231 - ERROR - Traceback (most recent call last):
+  File "c:\Users\dgane\Apps\MEG\Scripts\meg_circular_connectogram_v2.py", line 526, in process_folder
+    self.generate_connectivity_report(matrix, folder_path, method_freq, timestamp)
+  File "c:\Users\dgane\Apps\MEG\Scripts\meg_circular_connectogram_v2.py", line 591, in generate_connectivity_report
+    f.write(f"  {i}. {source} {direction} {target}: {strength:.6f}\n")
+  File "C:\Users\dgane\AppData\Local\Programs\Python\Python311\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\u2192' in position 10: character maps to <undefined>
+
+2025-03-13 08:35:45,232 - INFO - Processing Cue_gPDC_10Hz...
+2025-03-13 08:35:45,234 - INFO - Processing Data\DataSet5_Align_cue_626_to_938_unc\Wilcoxon_03102025-1305\Cue_gPDC_10Hz\gPDC_10Hz_L-R_BG.csv
+2025-03-13 08:35:45,235 - INFO - Matrix shape: (32, 32)
+2025-03-13 08:35:45,235 - INFO - Found 1024 connections out of 1024 possible connections
+2025-03-13 08:35:50,971 - ERROR - Error processing Data\DataSet5_Align_cue_626_to_938_unc\Wilcoxon_03102025-1305\Cue_gPDC_10Hz: 'charmap' codec can't encode character '\u2192' in position 10: character maps to <undefined>
+2025-03-13 08:35:50,972 - ERROR - Traceback (most recent call last):
+  File "c:\Users\dgane\Apps\MEG\Scripts\meg_circular_connectogram_v2.py", line 526, in process_folder
+    self.generate_connectivity_report(matrix, folder_path, method_freq, timestamp)
+  File "c:\Users\dgane\Apps\MEG\Scripts\meg_circular_connectogram_v2.py", line 591, in generate_connectivity_report
+    f.write(f"  {i}. {source} {direction} {target}: {strength:.6f}\n")
+  File "C:\Users\dgane\AppData\Local\Programs\Python\Python311\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\u2192' in position 10: character maps to <undefined>
+
+2025-03-13 08:35:50,972 - INFO - Processing Cue_gPDC_20Hz...
+2025-03-13 08:35:50,974 - INFO - Processing Data\DataSet5_Align_cue_626_to_938_unc\Wilcoxon_03102025-1305\Cue_gPDC_20Hz\gPDC_20Hz_L-R_BG.csv
+2025-03-13 08:35:50,975 - INFO - Matrix shape: (32, 32)
+2025-03-13 08:35:50,975 - INFO - Found 1024 connections out of 1024 possible connections
+2025-03-13 08:35:56,727 - ERROR - Error processing Data\DataSet5_Align_cue_626_to_938_unc\Wilcoxon_03102025-1305\Cue_gPDC_20Hz: 'charmap' codec can't encode character '\u22a3' in position 10: character maps to <undefined>
+2025-03-13 08:35:56,728 - ERROR - Traceback (most recent call last):
+  File "c:\Users\dgane\Apps\MEG\Scripts\meg_circular_connectogram_v2.py", line 526, in process_folder
+    self.generate_connectivity_report(matrix, folder_path, method_freq, timestamp)
+  File "c:\Users\dgane\Apps\MEG\Scripts\meg_circular_connectogram_v2.py", line 591, in generate_connectivity_report
+    f.write(f"  {i}. {source} {direction} {target}: {strength:.6f}\n")
+  File "C:\Users\dgane\AppData\Local\Programs\Python\Python311\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\u22a3' in position 10: character maps to <undefined>
+
+2025-03-13 08:35:56,728 - INFO - Processing Cue_iPDC_100Hz...
+2025-03-13 08:35:56,730 - INFO - Processing Data\DataSet5_Align_cue_626_to_938_unc\Wilcoxon_03102025-1305\Cue_iPDC_100Hz\iPDC_100Hz_L-R_BG.csv
+2025-03-13 08:35:56,731 - INFO - Matrix shape: (32, 32)
+2025-03-13 08:35:56,732 - INFO - Found 1024 connections out of 1024 possible connections
+2025-03-13 08:36:02,548 - ERROR - Error processing Data\DataSet5_Align_cue_626_to_938_unc\Wilcoxon_03102025-1305\Cue_iPDC_100Hz: 'charmap' codec can't encode character '\u2192' in position 10: character maps to <undefined>
+2025-03-13 08:36:02,549 - ERROR - Traceback (most recent call last):
+  File "c:\Users\dgane\Apps\MEG\Scripts\meg_circular_connectogram_v2.py", line 526, in process_folder
+    self.generate_connectivity_report(matrix, folder_path, method_freq, timestamp)
+  File "c:\Users\dgane\Apps\MEG\Scripts\meg_circular_connectogram_v2.py", line 591, in generate_connectivity_report
+    f.write(f"  {i}. {source} {direction} {target}: {strength:.6f}\n")
+  File "C:\Users\dgane\AppData\Local\Programs\Python\Python311\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\u2192' in position 10: character maps to <undefined>
+
+2025-03-13 08:36:02,549 - INFO - Processing Cue_iPDC_10Hz...
+2025-03-13 08:36:02,551 - INFO - Processing Data\DataSet5_Align_cue_626_to_938_unc\Wilcoxon_03102025-1305\Cue_iPDC_10Hz\iPDC_10Hz_L-R_BG.csv
+2025-03-13 08:36:02,552 - INFO - Matrix shape: (32, 32)
+2025-03-13 08:36:02,552 - INFO - Found 1024 connections out of 1024 possible connections
+2025-03-13 08:36:08,475 - ERROR - Error processing Data\DataSet5_Align_cue_626_to_938_unc\Wilcoxon_03102025-1305\Cue_iPDC_10Hz: 'charmap' codec can't encode character '\u22a3' in position 10: character maps to <undefined>
+2025-03-13 08:36:08,476 - ERROR - Traceback (most recent call last):
+  File "c:\Users\dgane\Apps\MEG\Scripts\meg_circular_connectogram_v2.py", line 526, in process_folder
+    self.generate_connectivity_report(matrix, folder_path, method_freq, timestamp)
+  File "c:\Users\dgane\Apps\MEG\Scripts\meg_circular_connectogram_v2.py", line 591, in generate_connectivity_report
+    f.write(f"  {i}. {source} {direction} {target}: {strength:.6f}\n")
+  File "C:\Users\dgane\AppData\Local\Programs\Python\Python311\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\u22a3' in position 10: character maps to <undefined>
+
+2025-03-13 08:36:08,476 - INFO - Processing Cue_iPDC_20Hz...
+2025-03-13 08:36:08,479 - INFO - Processing Data\DataSet5_Align_cue_626_to_938_unc\Wilcoxon_03102025-1305\Cue_iPDC_20Hz\iPDC_20Hz_L-R_BG.csv
+2025-03-13 08:36:08,479 - INFO - Matrix shape: (32, 32)
+2025-03-13 08:36:08,479 - INFO - Found 1024 connections out of 1024 possible connections
+2025-03-13 08:36:14,247 - ERROR - Error processing Data\DataSet5_Align_cue_626_to_938_unc\Wilcoxon_03102025-1305\Cue_iPDC_20Hz: 'charmap' codec can't encode character '\u22a3' in position 10: character maps to <undefined>
+2025-03-13 08:36:14,248 - ERROR - Traceback (most recent call last):
+  File "c:\Users\dgane\Apps\MEG\Scripts\meg_circular_connectogram_v2.py", line 526, in process_folder
+    self.generate_connectivity_report(matrix, folder_path, method_freq, timestamp)
+  File "c:\Users\dgane\Apps\MEG\Scripts\meg_circular_connectogram_v2.py", line 591, in generate_connectivity_report
+    f.write(f"  {i}. {source} {direction} {target}: {strength:.6f}\n")
+  File "C:\Users\dgane\AppData\Local\Programs\Python\Python311\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\u22a3' in position 10: character maps to <undefined>
+
+2025-03-13 08:36:14,248 - INFO - 
+---------------------
+2025-03-13 08:36:14,248 - INFO - Processing complete!
+2025-03-13 08:36:14,248 - INFO - Folders processed: 9
+2025-03-13 08:36:14,248 - INFO - Visualizations created: 0
+2025-03-13 08:36:14,248 - INFO - Errors encountered: 9
+2025-03-13 08:36:14,249 - INFO - Process completed at: 2025-03-13 08:36:14

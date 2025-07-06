@@ -1,0 +1,229 @@
+2025-03-14 17:28:32,330 - INFO - Starting MEG Connectogram Visualization V2
+2025-03-14 17:28:32,331 - INFO - Selected dataset: DataSet5_Align_cue_626_to_938_unc
+2025-03-14 17:28:32,331 - INFO - Selected analysis type: Wilcoxon
+2025-03-14 17:28:32,331 - INFO - Selected analysis folder: Wilcoxon_03102025-1305
+2025-03-14 17:28:32,331 - INFO - Log file: Logs\connectogram_20250314-172832.log
+2025-03-14 17:28:32,331 - INFO - Processing all folders in Wilcoxon_03102025-1305...
+2025-03-14 17:28:32,332 - INFO - Processing Cue_gDTF_100Hz...
+2025-03-14 17:28:32,332 - INFO - Processing folder: Cue_gDTF_100Hz
+2025-03-14 17:28:32,332 - INFO - Found 1 statistical test files
+2025-03-14 17:28:32,332 - INFO - Processing gDTF_100Hz_L-R (wilcoxon)
+2025-03-14 17:28:32,333 - INFO - Reading connectivity matrix from gDTF_100Hz_L-R_wilcoxon.csv
+2025-03-14 17:28:32,782 - ERROR - Error processing gDTF_100Hz_L-R_wilcoxon.csv: s must be a scalar, or float array-like with the same size as x and y
+2025-03-14 17:28:32,804 - ERROR - Traceback (most recent call last):
+  File "c:\Users\dgane\Apps\MEG\Scripts\meg_circular_connectogram_brain.py", line 800, in process_folder
+    fig = self.create_brain_visualization(matrix, output_path, title, conn_type)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\dgane\Apps\MEG\Scripts\meg_circular_connectogram_brain.py", line 1050, in create_brain_visualization
+    display.add_markers(
+  File "C:\Users\dgane\AppData\Local\Programs\Python\Python311\Lib\site-packages\nilearn\plotting\displays\_slicers.py", line 692, in add_markers
+    display_ax.ax.scatter(
+  File "C:\Users\dgane\AppData\Local\Programs\Python\Python311\Lib\site-packages\matplotlib\_api\deprecation.py", line 453, in wrapper
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dgane\AppData\Local\Programs\Python\Python311\Lib\site-packages\matplotlib\__init__.py", line 1521, in inner
+    return func(
+           ^^^^^
+  File "C:\Users\dgane\AppData\Local\Programs\Python\Python311\Lib\site-packages\matplotlib\axes\_axes.py", line 4909, in scatter
+    raise ValueError(
+ValueError: s must be a scalar, or float array-like with the same size as x and y
+
+2025-03-14 17:28:32,805 - INFO - Processing Cue_gDTF_10Hz...
+2025-03-14 17:28:32,805 - INFO - Processing folder: Cue_gDTF_10Hz
+2025-03-14 17:28:32,805 - INFO - Found 1 statistical test files
+2025-03-14 17:28:32,805 - INFO - Processing gDTF_10Hz_L-R (wilcoxon)
+2025-03-14 17:28:32,805 - INFO - Reading connectivity matrix from gDTF_10Hz_L-R_wilcoxon.csv
+2025-03-14 17:28:33,182 - ERROR - Error processing gDTF_10Hz_L-R_wilcoxon.csv: s must be a scalar, or float array-like with the same size as x and y
+2025-03-14 17:28:33,183 - ERROR - Traceback (most recent call last):
+  File "c:\Users\dgane\Apps\MEG\Scripts\meg_circular_connectogram_brain.py", line 800, in process_folder
+    fig = self.create_brain_visualization(matrix, output_path, title, conn_type)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\dgane\Apps\MEG\Scripts\meg_circular_connectogram_brain.py", line 1050, in create_brain_visualization
+    display.add_markers(
+  File "C:\Users\dgane\AppData\Local\Programs\Python\Python311\Lib\site-packages\nilearn\plotting\displays\_slicers.py", line 692, in add_markers
+    display_ax.ax.scatter(
+  File "C:\Users\dgane\AppData\Local\Programs\Python\Python311\Lib\site-packages\matplotlib\_api\deprecation.py", line 453, in wrapper
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dgane\AppData\Local\Programs\Python\Python311\Lib\site-packages\matplotlib\__init__.py", line 1521, in inner
+    return func(
+           ^^^^^
+  File "C:\Users\dgane\AppData\Local\Programs\Python\Python311\Lib\site-packages\matplotlib\axes\_axes.py", line 4909, in scatter
+    raise ValueError(
+ValueError: s must be a scalar, or float array-like with the same size as x and y
+
+2025-03-14 17:28:33,183 - INFO - Processing Cue_gDTF_20Hz...
+2025-03-14 17:28:33,183 - INFO - Processing folder: Cue_gDTF_20Hz
+2025-03-14 17:28:33,184 - INFO - Found 1 statistical test files
+2025-03-14 17:28:33,184 - INFO - Processing gDTF_20Hz_L-R (wilcoxon)
+2025-03-14 17:28:33,184 - INFO - Reading connectivity matrix from gDTF_20Hz_L-R_wilcoxon.csv
+2025-03-14 17:28:33,548 - ERROR - Error processing gDTF_20Hz_L-R_wilcoxon.csv: s must be a scalar, or float array-like with the same size as x and y
+2025-03-14 17:28:33,549 - ERROR - Traceback (most recent call last):
+  File "c:\Users\dgane\Apps\MEG\Scripts\meg_circular_connectogram_brain.py", line 800, in process_folder
+    fig = self.create_brain_visualization(matrix, output_path, title, conn_type)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\dgane\Apps\MEG\Scripts\meg_circular_connectogram_brain.py", line 1050, in create_brain_visualization
+    display.add_markers(
+  File "C:\Users\dgane\AppData\Local\Programs\Python\Python311\Lib\site-packages\nilearn\plotting\displays\_slicers.py", line 692, in add_markers
+    display_ax.ax.scatter(
+  File "C:\Users\dgane\AppData\Local\Programs\Python\Python311\Lib\site-packages\matplotlib\_api\deprecation.py", line 453, in wrapper
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dgane\AppData\Local\Programs\Python\Python311\Lib\site-packages\matplotlib\__init__.py", line 1521, in inner
+    return func(
+           ^^^^^
+  File "C:\Users\dgane\AppData\Local\Programs\Python\Python311\Lib\site-packages\matplotlib\axes\_axes.py", line 4909, in scatter
+    raise ValueError(
+ValueError: s must be a scalar, or float array-like with the same size as x and y
+
+2025-03-14 17:28:33,549 - INFO - Processing Cue_gPDC_100Hz...
+2025-03-14 17:28:33,549 - INFO - Processing folder: Cue_gPDC_100Hz
+2025-03-14 17:28:33,550 - INFO - Found 1 statistical test files
+2025-03-14 17:28:33,550 - INFO - Processing gPDC_100Hz_L-R (wilcoxon)
+2025-03-14 17:28:33,550 - INFO - Reading connectivity matrix from gPDC_100Hz_L-R_wilcoxon.csv
+2025-03-14 17:28:33,924 - ERROR - Error processing gPDC_100Hz_L-R_wilcoxon.csv: s must be a scalar, or float array-like with the same size as x and y
+2025-03-14 17:28:33,925 - ERROR - Traceback (most recent call last):
+  File "c:\Users\dgane\Apps\MEG\Scripts\meg_circular_connectogram_brain.py", line 800, in process_folder
+    fig = self.create_brain_visualization(matrix, output_path, title, conn_type)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\dgane\Apps\MEG\Scripts\meg_circular_connectogram_brain.py", line 1050, in create_brain_visualization
+    display.add_markers(
+  File "C:\Users\dgane\AppData\Local\Programs\Python\Python311\Lib\site-packages\nilearn\plotting\displays\_slicers.py", line 692, in add_markers
+    display_ax.ax.scatter(
+  File "C:\Users\dgane\AppData\Local\Programs\Python\Python311\Lib\site-packages\matplotlib\_api\deprecation.py", line 453, in wrapper
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dgane\AppData\Local\Programs\Python\Python311\Lib\site-packages\matplotlib\__init__.py", line 1521, in inner
+    return func(
+           ^^^^^
+  File "C:\Users\dgane\AppData\Local\Programs\Python\Python311\Lib\site-packages\matplotlib\axes\_axes.py", line 4909, in scatter
+    raise ValueError(
+ValueError: s must be a scalar, or float array-like with the same size as x and y
+
+2025-03-14 17:28:33,925 - INFO - Processing Cue_gPDC_10Hz...
+2025-03-14 17:28:33,925 - INFO - Processing folder: Cue_gPDC_10Hz
+2025-03-14 17:28:33,926 - INFO - Found 1 statistical test files
+2025-03-14 17:28:33,926 - INFO - Processing gPDC_10Hz_L-R (wilcoxon)
+2025-03-14 17:28:33,926 - INFO - Reading connectivity matrix from gPDC_10Hz_L-R_wilcoxon.csv
+2025-03-14 17:28:34,441 - ERROR - Error processing gPDC_10Hz_L-R_wilcoxon.csv: s must be a scalar, or float array-like with the same size as x and y
+2025-03-14 17:28:34,442 - ERROR - Traceback (most recent call last):
+  File "c:\Users\dgane\Apps\MEG\Scripts\meg_circular_connectogram_brain.py", line 800, in process_folder
+    fig = self.create_brain_visualization(matrix, output_path, title, conn_type)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\dgane\Apps\MEG\Scripts\meg_circular_connectogram_brain.py", line 1050, in create_brain_visualization
+    display.add_markers(
+  File "C:\Users\dgane\AppData\Local\Programs\Python\Python311\Lib\site-packages\nilearn\plotting\displays\_slicers.py", line 692, in add_markers
+    display_ax.ax.scatter(
+  File "C:\Users\dgane\AppData\Local\Programs\Python\Python311\Lib\site-packages\matplotlib\_api\deprecation.py", line 453, in wrapper
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dgane\AppData\Local\Programs\Python\Python311\Lib\site-packages\matplotlib\__init__.py", line 1521, in inner
+    return func(
+           ^^^^^
+  File "C:\Users\dgane\AppData\Local\Programs\Python\Python311\Lib\site-packages\matplotlib\axes\_axes.py", line 4909, in scatter
+    raise ValueError(
+ValueError: s must be a scalar, or float array-like with the same size as x and y
+
+2025-03-14 17:28:34,442 - INFO - Processing Cue_gPDC_20Hz...
+2025-03-14 17:28:34,443 - INFO - Processing folder: Cue_gPDC_20Hz
+2025-03-14 17:28:34,443 - INFO - Found 1 statistical test files
+2025-03-14 17:28:34,443 - INFO - Processing gPDC_20Hz_L-R (wilcoxon)
+2025-03-14 17:28:34,444 - INFO - Reading connectivity matrix from gPDC_20Hz_L-R_wilcoxon.csv
+2025-03-14 17:28:34,822 - ERROR - Error processing gPDC_20Hz_L-R_wilcoxon.csv: s must be a scalar, or float array-like with the same size as x and y
+2025-03-14 17:28:34,823 - ERROR - Traceback (most recent call last):
+  File "c:\Users\dgane\Apps\MEG\Scripts\meg_circular_connectogram_brain.py", line 800, in process_folder
+    fig = self.create_brain_visualization(matrix, output_path, title, conn_type)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\dgane\Apps\MEG\Scripts\meg_circular_connectogram_brain.py", line 1050, in create_brain_visualization
+    display.add_markers(
+  File "C:\Users\dgane\AppData\Local\Programs\Python\Python311\Lib\site-packages\nilearn\plotting\displays\_slicers.py", line 692, in add_markers
+    display_ax.ax.scatter(
+  File "C:\Users\dgane\AppData\Local\Programs\Python\Python311\Lib\site-packages\matplotlib\_api\deprecation.py", line 453, in wrapper
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dgane\AppData\Local\Programs\Python\Python311\Lib\site-packages\matplotlib\__init__.py", line 1521, in inner
+    return func(
+           ^^^^^
+  File "C:\Users\dgane\AppData\Local\Programs\Python\Python311\Lib\site-packages\matplotlib\axes\_axes.py", line 4909, in scatter
+    raise ValueError(
+ValueError: s must be a scalar, or float array-like with the same size as x and y
+
+2025-03-14 17:28:34,823 - INFO - Processing Cue_iPDC_100Hz...
+2025-03-14 17:28:34,823 - INFO - Processing folder: Cue_iPDC_100Hz
+2025-03-14 17:28:34,824 - INFO - Found 1 statistical test files
+2025-03-14 17:28:34,824 - INFO - Processing iPDC_100Hz_L-R (wilcoxon)
+2025-03-14 17:28:34,824 - INFO - Reading connectivity matrix from iPDC_100Hz_L-R_wilcoxon.csv
+2025-03-14 17:28:35,210 - ERROR - Error processing iPDC_100Hz_L-R_wilcoxon.csv: s must be a scalar, or float array-like with the same size as x and y
+2025-03-14 17:28:35,211 - ERROR - Traceback (most recent call last):
+  File "c:\Users\dgane\Apps\MEG\Scripts\meg_circular_connectogram_brain.py", line 800, in process_folder
+    fig = self.create_brain_visualization(matrix, output_path, title, conn_type)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\dgane\Apps\MEG\Scripts\meg_circular_connectogram_brain.py", line 1050, in create_brain_visualization
+    display.add_markers(
+  File "C:\Users\dgane\AppData\Local\Programs\Python\Python311\Lib\site-packages\nilearn\plotting\displays\_slicers.py", line 692, in add_markers
+    display_ax.ax.scatter(
+  File "C:\Users\dgane\AppData\Local\Programs\Python\Python311\Lib\site-packages\matplotlib\_api\deprecation.py", line 453, in wrapper
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dgane\AppData\Local\Programs\Python\Python311\Lib\site-packages\matplotlib\__init__.py", line 1521, in inner
+    return func(
+           ^^^^^
+  File "C:\Users\dgane\AppData\Local\Programs\Python\Python311\Lib\site-packages\matplotlib\axes\_axes.py", line 4909, in scatter
+    raise ValueError(
+ValueError: s must be a scalar, or float array-like with the same size as x and y
+
+2025-03-14 17:28:35,212 - INFO - Processing Cue_iPDC_10Hz...
+2025-03-14 17:28:35,212 - INFO - Processing folder: Cue_iPDC_10Hz
+2025-03-14 17:28:35,212 - INFO - Found 1 statistical test files
+2025-03-14 17:28:35,212 - INFO - Processing iPDC_10Hz_L-R (wilcoxon)
+2025-03-14 17:28:35,212 - INFO - Reading connectivity matrix from iPDC_10Hz_L-R_wilcoxon.csv
+2025-03-14 17:28:35,600 - ERROR - Error processing iPDC_10Hz_L-R_wilcoxon.csv: s must be a scalar, or float array-like with the same size as x and y
+2025-03-14 17:28:35,601 - ERROR - Traceback (most recent call last):
+  File "c:\Users\dgane\Apps\MEG\Scripts\meg_circular_connectogram_brain.py", line 800, in process_folder
+    fig = self.create_brain_visualization(matrix, output_path, title, conn_type)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\dgane\Apps\MEG\Scripts\meg_circular_connectogram_brain.py", line 1050, in create_brain_visualization
+    display.add_markers(
+  File "C:\Users\dgane\AppData\Local\Programs\Python\Python311\Lib\site-packages\nilearn\plotting\displays\_slicers.py", line 692, in add_markers
+    display_ax.ax.scatter(
+  File "C:\Users\dgane\AppData\Local\Programs\Python\Python311\Lib\site-packages\matplotlib\_api\deprecation.py", line 453, in wrapper
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dgane\AppData\Local\Programs\Python\Python311\Lib\site-packages\matplotlib\__init__.py", line 1521, in inner
+    return func(
+           ^^^^^
+  File "C:\Users\dgane\AppData\Local\Programs\Python\Python311\Lib\site-packages\matplotlib\axes\_axes.py", line 4909, in scatter
+    raise ValueError(
+ValueError: s must be a scalar, or float array-like with the same size as x and y
+
+2025-03-14 17:28:35,601 - INFO - Processing Cue_iPDC_20Hz...
+2025-03-14 17:28:35,602 - INFO - Processing folder: Cue_iPDC_20Hz
+2025-03-14 17:28:35,602 - INFO - Found 1 statistical test files
+2025-03-14 17:28:35,602 - INFO - Processing iPDC_20Hz_L-R (wilcoxon)
+2025-03-14 17:28:35,602 - INFO - Reading connectivity matrix from iPDC_20Hz_L-R_wilcoxon.csv
+2025-03-14 17:28:35,993 - ERROR - Error processing iPDC_20Hz_L-R_wilcoxon.csv: s must be a scalar, or float array-like with the same size as x and y
+2025-03-14 17:28:35,994 - ERROR - Traceback (most recent call last):
+  File "c:\Users\dgane\Apps\MEG\Scripts\meg_circular_connectogram_brain.py", line 800, in process_folder
+    fig = self.create_brain_visualization(matrix, output_path, title, conn_type)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\dgane\Apps\MEG\Scripts\meg_circular_connectogram_brain.py", line 1050, in create_brain_visualization
+    display.add_markers(
+  File "C:\Users\dgane\AppData\Local\Programs\Python\Python311\Lib\site-packages\nilearn\plotting\displays\_slicers.py", line 692, in add_markers
+    display_ax.ax.scatter(
+  File "C:\Users\dgane\AppData\Local\Programs\Python\Python311\Lib\site-packages\matplotlib\_api\deprecation.py", line 453, in wrapper
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dgane\AppData\Local\Programs\Python\Python311\Lib\site-packages\matplotlib\__init__.py", line 1521, in inner
+    return func(
+           ^^^^^
+  File "C:\Users\dgane\AppData\Local\Programs\Python\Python311\Lib\site-packages\matplotlib\axes\_axes.py", line 4909, in scatter
+    raise ValueError(
+ValueError: s must be a scalar, or float array-like with the same size as x and y
+
+2025-03-14 17:28:35,995 - INFO - 
+---------------------
+2025-03-14 17:28:35,995 - INFO - Processing complete!
+2025-03-14 17:28:35,995 - INFO - Folders processed: 9
+2025-03-14 17:28:35,995 - INFO - Visualizations created: 0
+2025-03-14 17:28:35,995 - INFO - Errors encountered: 9
+2025-03-14 17:28:35,995 - INFO - Process completed at: 2025-03-14 17:28:35

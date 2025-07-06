@@ -1,0 +1,16 @@
+MEG Signal Analysis - High Value Analyzer for UNC Files (Values >= 1)
+===================================================================
+Analysis started at: 2025-02-11 19:58:19
+Selected dataset: MEG_20250211_group_project_cat
+iDTF files excluded: True
+-------------------------------------------------------------------
+
+
+Analysis Summary
+===============
+Total files analyzed: 7020
+No values >= 1 found in any file
+Execution time: 8.37 seconds
+iDTF files were excluded in the analysis
+
+Analysis completed at: 2025-02-11 19:58:28

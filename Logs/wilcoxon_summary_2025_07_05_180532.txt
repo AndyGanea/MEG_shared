@@ -1,0 +1,63 @@
+MEG Wilcoxon Summary Analysis
+============================
+Process started at: 2025-07-05 18:05:32
+-----------------------------
+
+Starting Wilcoxon summary analysis...
+Processing Wilcoxon folder: Wilcoxon_06282025-1713
+Found 8 subfolders to process
+
+Processing subfolder: Cue_gPDC_100Hz
+Found 1 log files in Cue_gPDC_100Hz
+Processing log file: gPDC_100Hz_wilcoxon.txt
+Extracted 43 non-zero retained values from gPDC_100Hz_wilcoxon.txt
+
+Processing subfolder: Cue_gPDC_10Hz
+Found 1 log files in Cue_gPDC_10Hz
+Processing log file: gPDC_10Hz_wilcoxon.txt
+Extracted 46 non-zero retained values from gPDC_10Hz_wilcoxon.txt
+
+Processing subfolder: Cue_gPDC_20Hz
+Found 1 log files in Cue_gPDC_20Hz
+Processing log file: gPDC_20Hz_wilcoxon.txt
+Extracted 56 non-zero retained values from gPDC_20Hz_wilcoxon.txt
+
+Processing subfolder: Cue_gPDC_25Hz
+Found 1 log files in Cue_gPDC_25Hz
+Processing log file: gPDC_25Hz_wilcoxon.txt
+Extracted 58 non-zero retained values from gPDC_25Hz_wilcoxon.txt
+
+Processing subfolder: Cue_iPDC_100Hz
+Found 1 log files in Cue_iPDC_100Hz
+Processing log file: iPDC_100Hz_wilcoxon.txt
+Extracted 50 non-zero retained values from iPDC_100Hz_wilcoxon.txt
+
+Processing subfolder: Cue_iPDC_10Hz
+Found 1 log files in Cue_iPDC_10Hz
+Processing log file: iPDC_10Hz_wilcoxon.txt
+Extracted 42 non-zero retained values from iPDC_10Hz_wilcoxon.txt
+
+Processing subfolder: Cue_iPDC_20Hz
+Found 1 log files in Cue_iPDC_20Hz
+Processing log file: iPDC_20Hz_wilcoxon.txt
+Extracted 58 non-zero retained values from iPDC_20Hz_wilcoxon.txt
+
+Processing subfolder: Cue_iPDC_25Hz
+Found 1 log files in Cue_iPDC_25Hz
+Processing log file: iPDC_25Hz_wilcoxon.txt
+Extracted 66 non-zero retained values from iPDC_25Hz_wilcoxon.txt
+
+Summary CSV created: wilcoxon_summary_20250705_180541.csv
+Total non-zero retained values: 419
+Output location: Data\DataSet14_Align_cue\Wilcoxon_06282025-1713\wilcoxon_summary_20250705_180541.csv
+
+Summary by frequency:
+  25Hz: 124 values
+  20Hz: 114 values
+  100Hz: 93 values
+  10Hz: 88 values
+
+Analysis completed successfully!
+Summary file saved to: Data\DataSet14_Align_cue\Wilcoxon_06282025-1713\wilcoxon_summary_20250705_180541.csv
+
+Process completed at: 2025-07-05 18:05:41

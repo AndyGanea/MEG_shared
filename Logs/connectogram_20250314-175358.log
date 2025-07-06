@@ -1,0 +1,139 @@
+2025-03-14 17:53:58,643 - INFO - Starting MEG Connectogram Visualization V2
+2025-03-14 17:53:58,643 - INFO - Selected dataset: DataSet5_Align_cue_626_to_938_unc
+2025-03-14 17:53:58,643 - INFO - Selected analysis type: Wilcoxon
+2025-03-14 17:53:58,643 - INFO - Selected analysis folder: Wilcoxon_03102025-1305
+2025-03-14 17:53:58,643 - INFO - Log file: Logs\connectogram_20250314-175358.log
+2025-03-14 17:53:58,644 - INFO - Processing all folders in Wilcoxon_03102025-1305...
+2025-03-14 17:53:58,644 - INFO - Processing Cue_gDTF_100Hz...
+2025-03-14 17:53:58,644 - INFO - Processing folder: Cue_gDTF_100Hz
+2025-03-14 17:53:58,644 - INFO - Found 1 statistical test files
+2025-03-14 17:53:58,645 - INFO - Processing gDTF_100Hz_L-R (wilcoxon)
+2025-03-14 17:53:58,645 - INFO - Reading connectivity matrix from gDTF_100Hz_L-R_wilcoxon.csv
+2025-03-14 17:53:59,402 - ERROR - Error processing gDTF_100Hz_L-R_wilcoxon.csv: BaseSlicer.add_edges() got an unexpected keyword argument 'linewidth'
+2025-03-14 17:53:59,404 - ERROR - Traceback (most recent call last):
+  File "c:\Users\dgane\Apps\MEG\Scripts\meg_circular_connectogram_brain.py", line 800, in process_folder
+    fig = self.create_brain_visualization(matrix, output_path, title, conn_type)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\dgane\Apps\MEG\Scripts\meg_circular_connectogram_brain.py", line 1046, in create_brain_visualization
+    display.add_edges([edge[0], edge[1]], color=color, linewidth=2)
+TypeError: BaseSlicer.add_edges() got an unexpected keyword argument 'linewidth'
+
+2025-03-14 17:53:59,404 - INFO - Processing Cue_gDTF_10Hz...
+2025-03-14 17:53:59,404 - INFO - Processing folder: Cue_gDTF_10Hz
+2025-03-14 17:53:59,405 - INFO - Found 1 statistical test files
+2025-03-14 17:53:59,405 - INFO - Processing gDTF_10Hz_L-R (wilcoxon)
+2025-03-14 17:53:59,405 - INFO - Reading connectivity matrix from gDTF_10Hz_L-R_wilcoxon.csv
+2025-03-14 17:54:00,061 - ERROR - Error processing gDTF_10Hz_L-R_wilcoxon.csv: BaseSlicer.add_edges() got an unexpected keyword argument 'linewidth'
+2025-03-14 17:54:00,061 - ERROR - Traceback (most recent call last):
+  File "c:\Users\dgane\Apps\MEG\Scripts\meg_circular_connectogram_brain.py", line 800, in process_folder
+    fig = self.create_brain_visualization(matrix, output_path, title, conn_type)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\dgane\Apps\MEG\Scripts\meg_circular_connectogram_brain.py", line 1046, in create_brain_visualization
+    display.add_edges([edge[0], edge[1]], color=color, linewidth=2)
+TypeError: BaseSlicer.add_edges() got an unexpected keyword argument 'linewidth'
+
+2025-03-14 17:54:00,062 - INFO - Processing Cue_gDTF_20Hz...
+2025-03-14 17:54:00,062 - INFO - Processing folder: Cue_gDTF_20Hz
+2025-03-14 17:54:00,062 - INFO - Found 1 statistical test files
+2025-03-14 17:54:00,062 - INFO - Processing gDTF_20Hz_L-R (wilcoxon)
+2025-03-14 17:54:00,063 - INFO - Reading connectivity matrix from gDTF_20Hz_L-R_wilcoxon.csv
+2025-03-14 17:54:00,779 - ERROR - Error processing gDTF_20Hz_L-R_wilcoxon.csv: BaseSlicer.add_edges() got an unexpected keyword argument 'linewidth'
+2025-03-14 17:54:00,779 - ERROR - Traceback (most recent call last):
+  File "c:\Users\dgane\Apps\MEG\Scripts\meg_circular_connectogram_brain.py", line 800, in process_folder
+    fig = self.create_brain_visualization(matrix, output_path, title, conn_type)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\dgane\Apps\MEG\Scripts\meg_circular_connectogram_brain.py", line 1046, in create_brain_visualization
+    display.add_edges([edge[0], edge[1]], color=color, linewidth=2)
+TypeError: BaseSlicer.add_edges() got an unexpected keyword argument 'linewidth'
+
+2025-03-14 17:54:00,780 - INFO - Processing Cue_gPDC_100Hz...
+2025-03-14 17:54:00,780 - INFO - Processing folder: Cue_gPDC_100Hz
+2025-03-14 17:54:00,780 - INFO - Found 1 statistical test files
+2025-03-14 17:54:00,781 - INFO - Processing gPDC_100Hz_L-R (wilcoxon)
+2025-03-14 17:54:00,781 - INFO - Reading connectivity matrix from gPDC_100Hz_L-R_wilcoxon.csv
+2025-03-14 17:54:01,450 - ERROR - Error processing gPDC_100Hz_L-R_wilcoxon.csv: BaseSlicer.add_edges() got an unexpected keyword argument 'linewidth'
+2025-03-14 17:54:01,451 - ERROR - Traceback (most recent call last):
+  File "c:\Users\dgane\Apps\MEG\Scripts\meg_circular_connectogram_brain.py", line 800, in process_folder
+    fig = self.create_brain_visualization(matrix, output_path, title, conn_type)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\dgane\Apps\MEG\Scripts\meg_circular_connectogram_brain.py", line 1046, in create_brain_visualization
+    display.add_edges([edge[0], edge[1]], color=color, linewidth=2)
+TypeError: BaseSlicer.add_edges() got an unexpected keyword argument 'linewidth'
+
+2025-03-14 17:54:01,451 - INFO - Processing Cue_gPDC_10Hz...
+2025-03-14 17:54:01,451 - INFO - Processing folder: Cue_gPDC_10Hz
+2025-03-14 17:54:01,452 - INFO - Found 1 statistical test files
+2025-03-14 17:54:01,452 - INFO - Processing gPDC_10Hz_L-R (wilcoxon)
+2025-03-14 17:54:01,452 - INFO - Reading connectivity matrix from gPDC_10Hz_L-R_wilcoxon.csv
+2025-03-14 17:54:02,133 - ERROR - Error processing gPDC_10Hz_L-R_wilcoxon.csv: BaseSlicer.add_edges() got an unexpected keyword argument 'linewidth'
+2025-03-14 17:54:02,133 - ERROR - Traceback (most recent call last):
+  File "c:\Users\dgane\Apps\MEG\Scripts\meg_circular_connectogram_brain.py", line 800, in process_folder
+    fig = self.create_brain_visualization(matrix, output_path, title, conn_type)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\dgane\Apps\MEG\Scripts\meg_circular_connectogram_brain.py", line 1046, in create_brain_visualization
+    display.add_edges([edge[0], edge[1]], color=color, linewidth=2)
+TypeError: BaseSlicer.add_edges() got an unexpected keyword argument 'linewidth'
+
+2025-03-14 17:54:02,134 - INFO - Processing Cue_gPDC_20Hz...
+2025-03-14 17:54:02,134 - INFO - Processing folder: Cue_gPDC_20Hz
+2025-03-14 17:54:02,134 - INFO - Found 1 statistical test files
+2025-03-14 17:54:02,134 - INFO - Processing gPDC_20Hz_L-R (wilcoxon)
+2025-03-14 17:54:02,135 - INFO - Reading connectivity matrix from gPDC_20Hz_L-R_wilcoxon.csv
+2025-03-14 17:54:02,833 - ERROR - Error processing gPDC_20Hz_L-R_wilcoxon.csv: BaseSlicer.add_edges() got an unexpected keyword argument 'linewidth'
+2025-03-14 17:54:02,834 - ERROR - Traceback (most recent call last):
+  File "c:\Users\dgane\Apps\MEG\Scripts\meg_circular_connectogram_brain.py", line 800, in process_folder
+    fig = self.create_brain_visualization(matrix, output_path, title, conn_type)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\dgane\Apps\MEG\Scripts\meg_circular_connectogram_brain.py", line 1046, in create_brain_visualization
+    display.add_edges([edge[0], edge[1]], color=color, linewidth=2)
+TypeError: BaseSlicer.add_edges() got an unexpected keyword argument 'linewidth'
+
+2025-03-14 17:54:02,834 - INFO - Processing Cue_iPDC_100Hz...
+2025-03-14 17:54:02,834 - INFO - Processing folder: Cue_iPDC_100Hz
+2025-03-14 17:54:02,835 - INFO - Found 1 statistical test files
+2025-03-14 17:54:02,835 - INFO - Processing iPDC_100Hz_L-R (wilcoxon)
+2025-03-14 17:54:02,835 - INFO - Reading connectivity matrix from iPDC_100Hz_L-R_wilcoxon.csv
+2025-03-14 17:54:03,554 - ERROR - Error processing iPDC_100Hz_L-R_wilcoxon.csv: BaseSlicer.add_edges() got an unexpected keyword argument 'linewidth'
+2025-03-14 17:54:03,555 - ERROR - Traceback (most recent call last):
+  File "c:\Users\dgane\Apps\MEG\Scripts\meg_circular_connectogram_brain.py", line 800, in process_folder
+    fig = self.create_brain_visualization(matrix, output_path, title, conn_type)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\dgane\Apps\MEG\Scripts\meg_circular_connectogram_brain.py", line 1046, in create_brain_visualization
+    display.add_edges([edge[0], edge[1]], color=color, linewidth=2)
+TypeError: BaseSlicer.add_edges() got an unexpected keyword argument 'linewidth'
+
+2025-03-14 17:54:03,556 - INFO - Processing Cue_iPDC_10Hz...
+2025-03-14 17:54:03,556 - INFO - Processing folder: Cue_iPDC_10Hz
+2025-03-14 17:54:03,556 - INFO - Found 1 statistical test files
+2025-03-14 17:54:03,556 - INFO - Processing iPDC_10Hz_L-R (wilcoxon)
+2025-03-14 17:54:03,556 - INFO - Reading connectivity matrix from iPDC_10Hz_L-R_wilcoxon.csv
+2025-03-14 17:54:04,279 - ERROR - Error processing iPDC_10Hz_L-R_wilcoxon.csv: BaseSlicer.add_edges() got an unexpected keyword argument 'linewidth'
+2025-03-14 17:54:04,280 - ERROR - Traceback (most recent call last):
+  File "c:\Users\dgane\Apps\MEG\Scripts\meg_circular_connectogram_brain.py", line 800, in process_folder
+    fig = self.create_brain_visualization(matrix, output_path, title, conn_type)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\dgane\Apps\MEG\Scripts\meg_circular_connectogram_brain.py", line 1046, in create_brain_visualization
+    display.add_edges([edge[0], edge[1]], color=color, linewidth=2)
+TypeError: BaseSlicer.add_edges() got an unexpected keyword argument 'linewidth'
+
+2025-03-14 17:54:04,280 - INFO - Processing Cue_iPDC_20Hz...
+2025-03-14 17:54:04,280 - INFO - Processing folder: Cue_iPDC_20Hz
+2025-03-14 17:54:04,281 - INFO - Found 1 statistical test files
+2025-03-14 17:54:04,281 - INFO - Processing iPDC_20Hz_L-R (wilcoxon)
+2025-03-14 17:54:04,281 - INFO - Reading connectivity matrix from iPDC_20Hz_L-R_wilcoxon.csv
+2025-03-14 17:54:05,048 - ERROR - Error processing iPDC_20Hz_L-R_wilcoxon.csv: BaseSlicer.add_edges() got an unexpected keyword argument 'linewidth'
+2025-03-14 17:54:05,049 - ERROR - Traceback (most recent call last):
+  File "c:\Users\dgane\Apps\MEG\Scripts\meg_circular_connectogram_brain.py", line 800, in process_folder
+    fig = self.create_brain_visualization(matrix, output_path, title, conn_type)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\dgane\Apps\MEG\Scripts\meg_circular_connectogram_brain.py", line 1046, in create_brain_visualization
+    display.add_edges([edge[0], edge[1]], color=color, linewidth=2)
+TypeError: BaseSlicer.add_edges() got an unexpected keyword argument 'linewidth'
+
+2025-03-14 17:54:05,049 - INFO - 
+---------------------
+2025-03-14 17:54:05,050 - INFO - Processing complete!
+2025-03-14 17:54:05,050 - INFO - Folders processed: 9
+2025-03-14 17:54:05,050 - INFO - Visualizations created: 0
+2025-03-14 17:54:05,050 - INFO - Errors encountered: 9
+2025-03-14 17:54:05,050 - INFO - Process completed at: 2025-03-14 17:54:05

@@ -1,0 +1,62 @@
+MEG Signal Analysis - Enhanced Average Matrix Creation
+==================================================
+Selected dataset: DataSet6_Align_mov_626_to_1250_unc
+Excluding iDTF: True
+Process started at: 2025-02-11 21:07:48
+--------------------------------------------------
+
+Processing dataset...
+
+Processing alignment: mov
+Processing target: L
+Created average matrix: Data\DataSet6_Align_mov_626_to_1250_unc\mov\L\DataSet6_Align_mov_626_to_1250_unc_mov_average.csv
+Processing subject: BG
+Created average matrix: Data\DataSet6_Align_mov_626_to_1250_unc\mov\L\BG\DataSet6_Align_mov_626_to_1250_unc_mov_BG_average.csv
+Processing subject: DOC
+Created average matrix: Data\DataSet6_Align_mov_626_to_1250_unc\mov\L\DOC\DataSet6_Align_mov_626_to_1250_unc_mov_DOC_average.csv
+Processing subject: GB
+Created average matrix: Data\DataSet6_Align_mov_626_to_1250_unc\mov\L\GB\DataSet6_Align_mov_626_to_1250_unc_mov_GB_average.csv
+Processing subject: JDC
+Created average matrix: Data\DataSet6_Align_mov_626_to_1250_unc\mov\L\JDC\DataSet6_Align_mov_626_to_1250_unc_mov_JDC_average.csv
+Processing subject: JFXD
+Created average matrix: Data\DataSet6_Align_mov_626_to_1250_unc\mov\L\JFXD\DataSet6_Align_mov_626_to_1250_unc_mov_JFXD_average.csv
+Processing subject: JZ
+Created average matrix: Data\DataSet6_Align_mov_626_to_1250_unc\mov\L\JZ\DataSet6_Align_mov_626_to_1250_unc_mov_JZ_average.csv
+Processing subject: LT
+Created average matrix: Data\DataSet6_Align_mov_626_to_1250_unc\mov\L\LT\DataSet6_Align_mov_626_to_1250_unc_mov_LT_average.csv
+Processing subject: NvA
+Created average matrix: Data\DataSet6_Align_mov_626_to_1250_unc\mov\L\NvA\DataSet6_Align_mov_626_to_1250_unc_mov_NvA_average.csv
+Processing subject: RR
+Created average matrix: Data\DataSet6_Align_mov_626_to_1250_unc\mov\L\RR\DataSet6_Align_mov_626_to_1250_unc_mov_RR_average.csv
+Processing subject: SJB
+Created average matrix: Data\DataSet6_Align_mov_626_to_1250_unc\mov\L\SJB\DataSet6_Align_mov_626_to_1250_unc_mov_SJB_average.csv
+Processing target: R
+Created average matrix: Data\DataSet6_Align_mov_626_to_1250_unc\mov\R\DataSet6_Align_mov_626_to_1250_unc_mov_average.csv
+Processing subject: BG
+Created average matrix: Data\DataSet6_Align_mov_626_to_1250_unc\mov\R\BG\DataSet6_Align_mov_626_to_1250_unc_mov_BG_average.csv
+Processing subject: DOC
+Created average matrix: Data\DataSet6_Align_mov_626_to_1250_unc\mov\R\DOC\DataSet6_Align_mov_626_to_1250_unc_mov_DOC_average.csv
+Processing subject: GB
+Created average matrix: Data\DataSet6_Align_mov_626_to_1250_unc\mov\R\GB\DataSet6_Align_mov_626_to_1250_unc_mov_GB_average.csv
+Processing subject: JDC
+Created average matrix: Data\DataSet6_Align_mov_626_to_1250_unc\mov\R\JDC\DataSet6_Align_mov_626_to_1250_unc_mov_JDC_average.csv
+Processing subject: JFXD
+Created average matrix: Data\DataSet6_Align_mov_626_to_1250_unc\mov\R\JFXD\DataSet6_Align_mov_626_to_1250_unc_mov_JFXD_average.csv
+Processing subject: JZ
+Created average matrix: Data\DataSet6_Align_mov_626_to_1250_unc\mov\R\JZ\DataSet6_Align_mov_626_to_1250_unc_mov_JZ_average.csv
+Processing subject: LT
+Created average matrix: Data\DataSet6_Align_mov_626_to_1250_unc\mov\R\LT\DataSet6_Align_mov_626_to_1250_unc_mov_LT_average.csv
+Processing subject: NvA
+Created average matrix: Data\DataSet6_Align_mov_626_to_1250_unc\mov\R\NvA\DataSet6_Align_mov_626_to_1250_unc_mov_NvA_average.csv
+Processing subject: RR
+Created average matrix: Data\DataSet6_Align_mov_626_to_1250_unc\mov\R\RR\DataSet6_Align_mov_626_to_1250_unc_mov_RR_average.csv
+Processing subject: SJB
+Created average matrix: Data\DataSet6_Align_mov_626_to_1250_unc\mov\R\SJB\DataSet6_Align_mov_626_to_1250_unc_mov_SJB_average.csv
+
+Operation Summary
+================
+Total matrices processed: 360
+Total averages created: 22
+Errors encountered: 0
+
+Process completed at: 2025-02-11 21:07:50

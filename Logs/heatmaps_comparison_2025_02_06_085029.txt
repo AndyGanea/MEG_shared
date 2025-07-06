@@ -1,0 +1,55 @@
+MEG Signal Analysis - Enhanced Heatmaps Comparison
+===============================================
+Selected dataset: DataSet2_unc
+Output directory: Heatmaps\DataSet2_unc\Heatmaps_Comparison_normalized\2025_02_06_085029
+Process started at: 2025-02-06 08:50:29
+-----------------------------------------------
+
+
+Processing alignment: cue
+Error processing Data\DataSet2_unc\cue\L\gDTF_100Hz\DataSet2_unc_cue_gDTF_100Hz_average.csv: 'str' object has no attribute 'glob'
+Error processing Data\DataSet2_unc\cue\L\gDTF_10Hz\DataSet2_unc_cue_gDTF_10Hz_average.csv: 'str' object has no attribute 'glob'
+Error processing Data\DataSet2_unc\cue\L\gDTF_20Hz\DataSet2_unc_cue_gDTF_20Hz_average.csv: 'str' object has no attribute 'glob'
+Error processing Data\DataSet2_unc\cue\L\gPDC_100Hz\DataSet2_unc_cue_gPDC_100Hz_average.csv: 'str' object has no attribute 'glob'
+Error processing Data\DataSet2_unc\cue\L\gPDC_10Hz\DataSet2_unc_cue_gPDC_10Hz_average.csv: 'str' object has no attribute 'glob'
+Error processing Data\DataSet2_unc\cue\L\gPDC_20Hz\DataSet2_unc_cue_gPDC_20Hz_average.csv: 'str' object has no attribute 'glob'
+Error processing Data\DataSet2_unc\cue\L\iPDC_100Hz\DataSet2_unc_cue_iPDC_100Hz_average.csv: 'str' object has no attribute 'glob'
+Error processing Data\DataSet2_unc\cue\L\iPDC_10Hz\DataSet2_unc_cue_iPDC_10Hz_average.csv: 'str' object has no attribute 'glob'
+Error processing Data\DataSet2_unc\cue\L\iPDC_20Hz\DataSet2_unc_cue_iPDC_20Hz_average.csv: 'str' object has no attribute 'glob'
+Error processing Data\DataSet2_unc\cue\R\gDTF_100Hz\DataSet2_unc_cue_gDTF_100Hz_average.csv: 'str' object has no attribute 'glob'
+Error processing Data\DataSet2_unc\cue\R\gDTF_10Hz\DataSet2_unc_cue_gDTF_10Hz_average.csv: 'str' object has no attribute 'glob'
+Error processing Data\DataSet2_unc\cue\R\gDTF_20Hz\DataSet2_unc_cue_gDTF_20Hz_average.csv: 'str' object has no attribute 'glob'
+Error processing Data\DataSet2_unc\cue\R\gPDC_100Hz\DataSet2_unc_cue_gPDC_100Hz_average.csv: 'str' object has no attribute 'glob'
+Error processing Data\DataSet2_unc\cue\R\gPDC_10Hz\DataSet2_unc_cue_gPDC_10Hz_average.csv: 'str' object has no attribute 'glob'
+Error processing Data\DataSet2_unc\cue\R\gPDC_20Hz\DataSet2_unc_cue_gPDC_20Hz_average.csv: 'str' object has no attribute 'glob'
+Error processing Data\DataSet2_unc\cue\R\iPDC_100Hz\DataSet2_unc_cue_iPDC_100Hz_average.csv: 'str' object has no attribute 'glob'
+Error processing Data\DataSet2_unc\cue\R\iPDC_10Hz\DataSet2_unc_cue_iPDC_10Hz_average.csv: 'str' object has no attribute 'glob'
+Error processing Data\DataSet2_unc\cue\R\iPDC_20Hz\DataSet2_unc_cue_iPDC_20Hz_average.csv: 'str' object has no attribute 'glob'
+
+Processing alignment: mov
+Error processing Data\DataSet2_unc\mov\L\gDTF_100Hz\DataSet2_unc_mov_gDTF_100Hz_average.csv: 'str' object has no attribute 'glob'
+Error processing Data\DataSet2_unc\mov\L\gDTF_10Hz\DataSet2_unc_mov_gDTF_10Hz_average.csv: 'str' object has no attribute 'glob'
+Error processing Data\DataSet2_unc\mov\L\gDTF_20Hz\DataSet2_unc_mov_gDTF_20Hz_average.csv: 'str' object has no attribute 'glob'
+Error processing Data\DataSet2_unc\mov\L\gPDC_100Hz\DataSet2_unc_mov_gPDC_100Hz_average.csv: 'str' object has no attribute 'glob'
+Error processing Data\DataSet2_unc\mov\L\gPDC_10Hz\DataSet2_unc_mov_gPDC_10Hz_average.csv: 'str' object has no attribute 'glob'
+Error processing Data\DataSet2_unc\mov\L\gPDC_20Hz\DataSet2_unc_mov_gPDC_20Hz_average.csv: 'str' object has no attribute 'glob'
+Error processing Data\DataSet2_unc\mov\L\iPDC_100Hz\DataSet2_unc_mov_iPDC_100Hz_average.csv: 'str' object has no attribute 'glob'
+Error processing Data\DataSet2_unc\mov\L\iPDC_10Hz\DataSet2_unc_mov_iPDC_10Hz_average.csv: 'str' object has no attribute 'glob'
+Error processing Data\DataSet2_unc\mov\L\iPDC_20Hz\DataSet2_unc_mov_iPDC_20Hz_average.csv: 'str' object has no attribute 'glob'
+Error processing Data\DataSet2_unc\mov\R\gDTF_100Hz\DataSet2_unc_mov_gDTF_100Hz_average.csv: 'str' object has no attribute 'glob'
+Error processing Data\DataSet2_unc\mov\R\gDTF_10Hz\DataSet2_unc_mov_gDTF_10Hz_average.csv: 'str' object has no attribute 'glob'
+Error processing Data\DataSet2_unc\mov\R\gDTF_20Hz\DataSet2_unc_mov_gDTF_20Hz_average.csv: 'str' object has no attribute 'glob'
+Error processing Data\DataSet2_unc\mov\R\gPDC_100Hz\DataSet2_unc_mov_gPDC_100Hz_average.csv: 'str' object has no attribute 'glob'
+Error processing Data\DataSet2_unc\mov\R\gPDC_10Hz\DataSet2_unc_mov_gPDC_10Hz_average.csv: 'str' object has no attribute 'glob'
+Error processing Data\DataSet2_unc\mov\R\gPDC_20Hz\DataSet2_unc_mov_gPDC_20Hz_average.csv: 'str' object has no attribute 'glob'
+Error processing Data\DataSet2_unc\mov\R\iPDC_100Hz\DataSet2_unc_mov_iPDC_100Hz_average.csv: 'str' object has no attribute 'glob'
+Error processing Data\DataSet2_unc\mov\R\iPDC_10Hz\DataSet2_unc_mov_iPDC_10Hz_average.csv: 'str' object has no attribute 'glob'
+Error processing Data\DataSet2_unc\mov\R\iPDC_20Hz\DataSet2_unc_mov_iPDC_20Hz_average.csv: 'str' object has no attribute 'glob'
+
+Operation Summary
+================
+Total comparisons created: 0
+Errors encountered: 36
+
+Output directory: Heatmaps\DataSet2_unc\Heatmaps_Comparison_normalized\2025_02_06_085029
+Process completed at: 2025-02-06 08:50:29

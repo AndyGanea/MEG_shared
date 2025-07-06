@@ -1,0 +1,426 @@
+MEG Signal Analysis - Enhanced Average Matrix Creation
+==================================================
+Selected dataset: DataSet5_Align_cue_626_to_938_unc
+Excluding iDTF: True
+Process started at: 2025-02-11 23:02:06
+--------------------------------------------------
+
+Processing dataset...
+
+Processing alignment: cue
+Processing L gDTF_100Hz
+Created average matrix: Data\DataSet5_Align_cue_626_to_938_unc\cue\L\gDTF_100Hz\cue_L_gDTF_100Hz_average.csv
+Processing subject: BG
+Created average matrix: Data\DataSet5_Align_cue_626_to_938_unc\cue\L\gDTF_100Hz\BG\cue_L_gDTF_100Hz_BG_average.csv
+Processing subject: DOC
+Created average matrix: Data\DataSet5_Align_cue_626_to_938_unc\cue\L\gDTF_100Hz\DOC\cue_L_gDTF_100Hz_DOC_average.csv
+Processing subject: GB
+Created average matrix: Data\DataSet5_Align_cue_626_to_938_unc\cue\L\gDTF_100Hz\GB\cue_L_gDTF_100Hz_GB_average.csv
+Processing subject: JDC
+Created average matrix: Data\DataSet5_Align_cue_626_to_938_unc\cue\L\gDTF_100Hz\JDC\cue_L_gDTF_100Hz_JDC_average.csv
+Processing subject: JFXD
+Created average matrix: Data\DataSet5_Align_cue_626_to_938_unc\cue\L\gDTF_100Hz\JFXD\cue_L_gDTF_100Hz_JFXD_average.csv
+Processing subject: JZ
+Created average matrix: Data\DataSet5_Align_cue_626_to_938_unc\cue\L\gDTF_100Hz\JZ\cue_L_gDTF_100Hz_JZ_average.csv
+Processing subject: LT
+Created average matrix: Data\DataSet5_Align_cue_626_to_938_unc\cue\L\gDTF_100Hz\LT\cue_L_gDTF_100Hz_LT_average.csv
+Processing subject: NvA
+Created average matrix: Data\DataSet5_Align_cue_626_to_938_unc\cue\L\gDTF_100Hz\NvA\cue_L_gDTF_100Hz_NvA_average.csv
+Processing subject: RR
+Created average matrix: Data\DataSet5_Align_cue_626_to_938_unc\cue\L\gDTF_100Hz\RR\cue_L_gDTF_100Hz_RR_average.csv
+Processing subject: SJB
+Created average matrix: Data\DataSet5_Align_cue_626_to_938_unc\cue\L\gDTF_100Hz\SJB\cue_L_gDTF_100Hz_SJB_average.csv
+Processing L gDTF_10Hz
+Created average matrix: Data\DataSet5_Align_cue_626_to_938_unc\cue\L\gDTF_10Hz\cue_L_gDTF_10Hz_average.csv
+Processing subject: BG
+Created average matrix: Data\DataSet5_Align_cue_626_to_938_unc\cue\L\gDTF_10Hz\BG\cue_L_gDTF_10Hz_BG_average.csv
+Processing subject: DOC
+Created average matrix: Data\DataSet5_Align_cue_626_to_938_unc\cue\L\gDTF_10Hz\DOC\cue_L_gDTF_10Hz_DOC_average.csv
+Processing subject: GB
+Created average matrix: Data\DataSet5_Align_cue_626_to_938_unc\cue\L\gDTF_10Hz\GB\cue_L_gDTF_10Hz_GB_average.csv
+Processing subject: JDC
+Created average matrix: Data\DataSet5_Align_cue_626_to_938_unc\cue\L\gDTF_10Hz\JDC\cue_L_gDTF_10Hz_JDC_average.csv
+Processing subject: JFXD
+Created average matrix: Data\DataSet5_Align_cue_626_to_938_unc\cue\L\gDTF_10Hz\JFXD\cue_L_gDTF_10Hz_JFXD_average.csv
+Processing subject: JZ
+Created average matrix: Data\DataSet5_Align_cue_626_to_938_unc\cue\L\gDTF_10Hz\JZ\cue_L_gDTF_10Hz_JZ_average.csv
+Processing subject: LT
+Created average matrix: Data\DataSet5_Align_cue_626_to_938_unc\cue\L\gDTF_10Hz\LT\cue_L_gDTF_10Hz_LT_average.csv
+Processing subject: NvA
+Created average matrix: Data\DataSet5_Align_cue_626_to_938_unc\cue\L\gDTF_10Hz\NvA\cue_L_gDTF_10Hz_NvA_average.csv
+Processing subject: RR
+Created average matrix: Data\DataSet5_Align_cue_626_to_938_unc\cue\L\gDTF_10Hz\RR\cue_L_gDTF_10Hz_RR_average.csv
+Processing subject: SJB
+Created average matrix: Data\DataSet5_Align_cue_626_to_938_unc\cue\L\gDTF_10Hz\SJB\cue_L_gDTF_10Hz_SJB_average.csv
+Processing L gDTF_20Hz
+Created average matrix: Data\DataSet5_Align_cue_626_to_938_unc\cue\L\gDTF_20Hz\cue_L_gDTF_20Hz_average.csv
+Processing subject: BG
+Created average matrix: Data\DataSet5_Align_cue_626_to_938_unc\cue\L\gDTF_20Hz\BG\cue_L_gDTF_20Hz_BG_average.csv
+Processing subject: DOC
+Created average matrix: Data\DataSet5_Align_cue_626_to_938_unc\cue\L\gDTF_20Hz\DOC\cue_L_gDTF_20Hz_DOC_average.csv
+Processing subject: GB
+Created average matrix: Data\DataSet5_Align_cue_626_to_938_unc\cue\L\gDTF_20Hz\GB\cue_L_gDTF_20Hz_GB_average.csv
+Processing subject: JDC
+Created average matrix: Data\DataSet5_Align_cue_626_to_938_unc\cue\L\gDTF_20Hz\JDC\cue_L_gDTF_20Hz_JDC_average.csv
+Processing subject: JFXD
+Created average matrix: Data\DataSet5_Align_cue_626_to_938_unc\cue\L\gDTF_20Hz\JFXD\cue_L_gDTF_20Hz_JFXD_average.csv
+Processing subject: JZ
+Created average matrix: Data\DataSet5_Align_cue_626_to_938_unc\cue\L\gDTF_20Hz\JZ\cue_L_gDTF_20Hz_JZ_average.csv
+Processing subject: LT
+Created average matrix: Data\DataSet5_Align_cue_626_to_938_unc\cue\L\gDTF_20Hz\LT\cue_L_gDTF_20Hz_LT_average.csv
+Processing subject: NvA
+Created average matrix: Data\DataSet5_Align_cue_626_to_938_unc\cue\L\gDTF_20Hz\NvA\cue_L_gDTF_20Hz_NvA_average.csv
+Processing subject: RR
+Created average matrix: Data\DataSet5_Align_cue_626_to_938_unc\cue\L\gDTF_20Hz\RR\cue_L_gDTF_20Hz_RR_average.csv
+Processing subject: SJB
+Created average matrix: Data\DataSet5_Align_cue_626_to_938_unc\cue\L\gDTF_20Hz\SJB\cue_L_gDTF_20Hz_SJB_average.csv
+Processing L gPDC_100Hz
+Created average matrix: Data\DataSet5_Align_cue_626_to_938_unc\cue\L\gPDC_100Hz\cue_L_gPDC_100Hz_average.csv
+Processing subject: BG
+Created average matrix: Data\DataSet5_Align_cue_626_to_938_unc\cue\L\gPDC_100Hz\BG\cue_L_gPDC_100Hz_BG_average.csv
+Processing subject: DOC
+Created average matrix: Data\DataSet5_Align_cue_626_to_938_unc\cue\L\gPDC_100Hz\DOC\cue_L_gPDC_100Hz_DOC_average.csv
+Processing subject: GB
+Created average matrix: Data\DataSet5_Align_cue_626_to_938_unc\cue\L\gPDC_100Hz\GB\cue_L_gPDC_100Hz_GB_average.csv
+Processing subject: JDC
+Created average matrix: Data\DataSet5_Align_cue_626_to_938_unc\cue\L\gPDC_100Hz\JDC\cue_L_gPDC_100Hz_JDC_average.csv
+Processing subject: JFXD
+Created average matrix: Data\DataSet5_Align_cue_626_to_938_unc\cue\L\gPDC_100Hz\JFXD\cue_L_gPDC_100Hz_JFXD_average.csv
+Processing subject: JZ
+Created average matrix: Data\DataSet5_Align_cue_626_to_938_unc\cue\L\gPDC_100Hz\JZ\cue_L_gPDC_100Hz_JZ_average.csv
+Processing subject: LT
+Created average matrix: Data\DataSet5_Align_cue_626_to_938_unc\cue\L\gPDC_100Hz\LT\cue_L_gPDC_100Hz_LT_average.csv
+Processing subject: NvA
+Created average matrix: Data\DataSet5_Align_cue_626_to_938_unc\cue\L\gPDC_100Hz\NvA\cue_L_gPDC_100Hz_NvA_average.csv
+Processing subject: RR
+Created average matrix: Data\DataSet5_Align_cue_626_to_938_unc\cue\L\gPDC_100Hz\RR\cue_L_gPDC_100Hz_RR_average.csv
+Processing subject: SJB
+Created average matrix: Data\DataSet5_Align_cue_626_to_938_unc\cue\L\gPDC_100Hz\SJB\cue_L_gPDC_100Hz_SJB_average.csv
+Processing L gPDC_10Hz
+Created average matrix: Data\DataSet5_Align_cue_626_to_938_unc\cue\L\gPDC_10Hz\cue_L_gPDC_10Hz_average.csv
+Processing subject: BG
+Created average matrix: Data\DataSet5_Align_cue_626_to_938_unc\cue\L\gPDC_10Hz\BG\cue_L_gPDC_10Hz_BG_average.csv
+Processing subject: DOC
+Created average matrix: Data\DataSet5_Align_cue_626_to_938_unc\cue\L\gPDC_10Hz\DOC\cue_L_gPDC_10Hz_DOC_average.csv
+Processing subject: GB
+Created average matrix: Data\DataSet5_Align_cue_626_to_938_unc\cue\L\gPDC_10Hz\GB\cue_L_gPDC_10Hz_GB_average.csv
+Processing subject: JDC
+Created average matrix: Data\DataSet5_Align_cue_626_to_938_unc\cue\L\gPDC_10Hz\JDC\cue_L_gPDC_10Hz_JDC_average.csv
+Processing subject: JFXD
+Created average matrix: Data\DataSet5_Align_cue_626_to_938_unc\cue\L\gPDC_10Hz\JFXD\cue_L_gPDC_10Hz_JFXD_average.csv
+Processing subject: JZ
+Created average matrix: Data\DataSet5_Align_cue_626_to_938_unc\cue\L\gPDC_10Hz\JZ\cue_L_gPDC_10Hz_JZ_average.csv
+Processing subject: LT
+Created average matrix: Data\DataSet5_Align_cue_626_to_938_unc\cue\L\gPDC_10Hz\LT\cue_L_gPDC_10Hz_LT_average.csv
+Processing subject: NvA
+Created average matrix: Data\DataSet5_Align_cue_626_to_938_unc\cue\L\gPDC_10Hz\NvA\cue_L_gPDC_10Hz_NvA_average.csv
+Processing subject: RR
+Created average matrix: Data\DataSet5_Align_cue_626_to_938_unc\cue\L\gPDC_10Hz\RR\cue_L_gPDC_10Hz_RR_average.csv
+Processing subject: SJB
+Created average matrix: Data\DataSet5_Align_cue_626_to_938_unc\cue\L\gPDC_10Hz\SJB\cue_L_gPDC_10Hz_SJB_average.csv
+Processing L gPDC_20Hz
+Created average matrix: Data\DataSet5_Align_cue_626_to_938_unc\cue\L\gPDC_20Hz\cue_L_gPDC_20Hz_average.csv
+Processing subject: BG
+Created average matrix: Data\DataSet5_Align_cue_626_to_938_unc\cue\L\gPDC_20Hz\BG\cue_L_gPDC_20Hz_BG_average.csv
+Processing subject: DOC
+Created average matrix: Data\DataSet5_Align_cue_626_to_938_unc\cue\L\gPDC_20Hz\DOC\cue_L_gPDC_20Hz_DOC_average.csv
+Processing subject: GB
+Created average matrix: Data\DataSet5_Align_cue_626_to_938_unc\cue\L\gPDC_20Hz\GB\cue_L_gPDC_20Hz_GB_average.csv
+Processing subject: JDC
+Created average matrix: Data\DataSet5_Align_cue_626_to_938_unc\cue\L\gPDC_20Hz\JDC\cue_L_gPDC_20Hz_JDC_average.csv
+Processing subject: JFXD
+Created average matrix: Data\DataSet5_Align_cue_626_to_938_unc\cue\L\gPDC_20Hz\JFXD\cue_L_gPDC_20Hz_JFXD_average.csv
+Processing subject: JZ
+Created average matrix: Data\DataSet5_Align_cue_626_to_938_unc\cue\L\gPDC_20Hz\JZ\cue_L_gPDC_20Hz_JZ_average.csv
+Processing subject: LT
+Created average matrix: Data\DataSet5_Align_cue_626_to_938_unc\cue\L\gPDC_20Hz\LT\cue_L_gPDC_20Hz_LT_average.csv
+Processing subject: NvA
+Created average matrix: Data\DataSet5_Align_cue_626_to_938_unc\cue\L\gPDC_20Hz\NvA\cue_L_gPDC_20Hz_NvA_average.csv
+Processing subject: RR
+Created average matrix: Data\DataSet5_Align_cue_626_to_938_unc\cue\L\gPDC_20Hz\RR\cue_L_gPDC_20Hz_RR_average.csv
+Processing subject: SJB
+Created average matrix: Data\DataSet5_Align_cue_626_to_938_unc\cue\L\gPDC_20Hz\SJB\cue_L_gPDC_20Hz_SJB_average.csv
+Processing L iDTF_100Hz
+Skipping iDTF method as requested
+Processing L iDTF_10Hz
+Skipping iDTF method as requested
+Processing L iDTF_20Hz
+Skipping iDTF method as requested
+Processing L iPDC_100Hz
+Created average matrix: Data\DataSet5_Align_cue_626_to_938_unc\cue\L\iPDC_100Hz\cue_L_iPDC_100Hz_average.csv
+Processing subject: BG
+Created average matrix: Data\DataSet5_Align_cue_626_to_938_unc\cue\L\iPDC_100Hz\BG\cue_L_iPDC_100Hz_BG_average.csv
+Processing subject: DOC
+Created average matrix: Data\DataSet5_Align_cue_626_to_938_unc\cue\L\iPDC_100Hz\DOC\cue_L_iPDC_100Hz_DOC_average.csv
+Processing subject: GB
+Created average matrix: Data\DataSet5_Align_cue_626_to_938_unc\cue\L\iPDC_100Hz\GB\cue_L_iPDC_100Hz_GB_average.csv
+Processing subject: JDC
+Created average matrix: Data\DataSet5_Align_cue_626_to_938_unc\cue\L\iPDC_100Hz\JDC\cue_L_iPDC_100Hz_JDC_average.csv
+Processing subject: JFXD
+Created average matrix: Data\DataSet5_Align_cue_626_to_938_unc\cue\L\iPDC_100Hz\JFXD\cue_L_iPDC_100Hz_JFXD_average.csv
+Processing subject: JZ
+Created average matrix: Data\DataSet5_Align_cue_626_to_938_unc\cue\L\iPDC_100Hz\JZ\cue_L_iPDC_100Hz_JZ_average.csv
+Processing subject: LT
+Created average matrix: Data\DataSet5_Align_cue_626_to_938_unc\cue\L\iPDC_100Hz\LT\cue_L_iPDC_100Hz_LT_average.csv
+Processing subject: NvA
+Created average matrix: Data\DataSet5_Align_cue_626_to_938_unc\cue\L\iPDC_100Hz\NvA\cue_L_iPDC_100Hz_NvA_average.csv
+Processing subject: RR
+Created average matrix: Data\DataSet5_Align_cue_626_to_938_unc\cue\L\iPDC_100Hz\RR\cue_L_iPDC_100Hz_RR_average.csv
+Processing subject: SJB
+Created average matrix: Data\DataSet5_Align_cue_626_to_938_unc\cue\L\iPDC_100Hz\SJB\cue_L_iPDC_100Hz_SJB_average.csv
+Processing L iPDC_10Hz
+Created average matrix: Data\DataSet5_Align_cue_626_to_938_unc\cue\L\iPDC_10Hz\cue_L_iPDC_10Hz_average.csv
+Processing subject: BG
+Created average matrix: Data\DataSet5_Align_cue_626_to_938_unc\cue\L\iPDC_10Hz\BG\cue_L_iPDC_10Hz_BG_average.csv
+Processing subject: DOC
+Created average matrix: Data\DataSet5_Align_cue_626_to_938_unc\cue\L\iPDC_10Hz\DOC\cue_L_iPDC_10Hz_DOC_average.csv
+Processing subject: GB
+Created average matrix: Data\DataSet5_Align_cue_626_to_938_unc\cue\L\iPDC_10Hz\GB\cue_L_iPDC_10Hz_GB_average.csv
+Processing subject: JDC
+Created average matrix: Data\DataSet5_Align_cue_626_to_938_unc\cue\L\iPDC_10Hz\JDC\cue_L_iPDC_10Hz_JDC_average.csv
+Processing subject: JFXD
+Created average matrix: Data\DataSet5_Align_cue_626_to_938_unc\cue\L\iPDC_10Hz\JFXD\cue_L_iPDC_10Hz_JFXD_average.csv
+Processing subject: JZ
+Created average matrix: Data\DataSet5_Align_cue_626_to_938_unc\cue\L\iPDC_10Hz\JZ\cue_L_iPDC_10Hz_JZ_average.csv
+Processing subject: LT
+Created average matrix: Data\DataSet5_Align_cue_626_to_938_unc\cue\L\iPDC_10Hz\LT\cue_L_iPDC_10Hz_LT_average.csv
+Processing subject: NvA
+Created average matrix: Data\DataSet5_Align_cue_626_to_938_unc\cue\L\iPDC_10Hz\NvA\cue_L_iPDC_10Hz_NvA_average.csv
+Processing subject: RR
+Created average matrix: Data\DataSet5_Align_cue_626_to_938_unc\cue\L\iPDC_10Hz\RR\cue_L_iPDC_10Hz_RR_average.csv
+Processing subject: SJB
+Created average matrix: Data\DataSet5_Align_cue_626_to_938_unc\cue\L\iPDC_10Hz\SJB\cue_L_iPDC_10Hz_SJB_average.csv
+Processing L iPDC_20Hz
+Created average matrix: Data\DataSet5_Align_cue_626_to_938_unc\cue\L\iPDC_20Hz\cue_L_iPDC_20Hz_average.csv
+Processing subject: BG
+Created average matrix: Data\DataSet5_Align_cue_626_to_938_unc\cue\L\iPDC_20Hz\BG\cue_L_iPDC_20Hz_BG_average.csv
+Processing subject: DOC
+Created average matrix: Data\DataSet5_Align_cue_626_to_938_unc\cue\L\iPDC_20Hz\DOC\cue_L_iPDC_20Hz_DOC_average.csv
+Processing subject: GB
+Created average matrix: Data\DataSet5_Align_cue_626_to_938_unc\cue\L\iPDC_20Hz\GB\cue_L_iPDC_20Hz_GB_average.csv
+Processing subject: JDC
+Created average matrix: Data\DataSet5_Align_cue_626_to_938_unc\cue\L\iPDC_20Hz\JDC\cue_L_iPDC_20Hz_JDC_average.csv
+Processing subject: JFXD
+Created average matrix: Data\DataSet5_Align_cue_626_to_938_unc\cue\L\iPDC_20Hz\JFXD\cue_L_iPDC_20Hz_JFXD_average.csv
+Processing subject: JZ
+Created average matrix: Data\DataSet5_Align_cue_626_to_938_unc\cue\L\iPDC_20Hz\JZ\cue_L_iPDC_20Hz_JZ_average.csv
+Processing subject: LT
+Created average matrix: Data\DataSet5_Align_cue_626_to_938_unc\cue\L\iPDC_20Hz\LT\cue_L_iPDC_20Hz_LT_average.csv
+Processing subject: NvA
+Created average matrix: Data\DataSet5_Align_cue_626_to_938_unc\cue\L\iPDC_20Hz\NvA\cue_L_iPDC_20Hz_NvA_average.csv
+Processing subject: RR
+Created average matrix: Data\DataSet5_Align_cue_626_to_938_unc\cue\L\iPDC_20Hz\RR\cue_L_iPDC_20Hz_RR_average.csv
+Processing subject: SJB
+Created average matrix: Data\DataSet5_Align_cue_626_to_938_unc\cue\L\iPDC_20Hz\SJB\cue_L_iPDC_20Hz_SJB_average.csv
+Processing R gDTF_100Hz
+Created average matrix: Data\DataSet5_Align_cue_626_to_938_unc\cue\R\gDTF_100Hz\cue_R_gDTF_100Hz_average.csv
+Processing subject: BG
+Created average matrix: Data\DataSet5_Align_cue_626_to_938_unc\cue\R\gDTF_100Hz\BG\cue_R_gDTF_100Hz_BG_average.csv
+Processing subject: DOC
+Created average matrix: Data\DataSet5_Align_cue_626_to_938_unc\cue\R\gDTF_100Hz\DOC\cue_R_gDTF_100Hz_DOC_average.csv
+Processing subject: GB
+Created average matrix: Data\DataSet5_Align_cue_626_to_938_unc\cue\R\gDTF_100Hz\GB\cue_R_gDTF_100Hz_GB_average.csv
+Processing subject: JDC
+Created average matrix: Data\DataSet5_Align_cue_626_to_938_unc\cue\R\gDTF_100Hz\JDC\cue_R_gDTF_100Hz_JDC_average.csv
+Processing subject: JFXD
+Created average matrix: Data\DataSet5_Align_cue_626_to_938_unc\cue\R\gDTF_100Hz\JFXD\cue_R_gDTF_100Hz_JFXD_average.csv
+Processing subject: JZ
+Created average matrix: Data\DataSet5_Align_cue_626_to_938_unc\cue\R\gDTF_100Hz\JZ\cue_R_gDTF_100Hz_JZ_average.csv
+Processing subject: LT
+Created average matrix: Data\DataSet5_Align_cue_626_to_938_unc\cue\R\gDTF_100Hz\LT\cue_R_gDTF_100Hz_LT_average.csv
+Processing subject: NvA
+Created average matrix: Data\DataSet5_Align_cue_626_to_938_unc\cue\R\gDTF_100Hz\NvA\cue_R_gDTF_100Hz_NvA_average.csv
+Processing subject: RR
+Created average matrix: Data\DataSet5_Align_cue_626_to_938_unc\cue\R\gDTF_100Hz\RR\cue_R_gDTF_100Hz_RR_average.csv
+Processing subject: SJB
+Created average matrix: Data\DataSet5_Align_cue_626_to_938_unc\cue\R\gDTF_100Hz\SJB\cue_R_gDTF_100Hz_SJB_average.csv
+Processing R gDTF_10Hz
+Created average matrix: Data\DataSet5_Align_cue_626_to_938_unc\cue\R\gDTF_10Hz\cue_R_gDTF_10Hz_average.csv
+Processing subject: BG
+Created average matrix: Data\DataSet5_Align_cue_626_to_938_unc\cue\R\gDTF_10Hz\BG\cue_R_gDTF_10Hz_BG_average.csv
+Processing subject: DOC
+Created average matrix: Data\DataSet5_Align_cue_626_to_938_unc\cue\R\gDTF_10Hz\DOC\cue_R_gDTF_10Hz_DOC_average.csv
+Processing subject: GB
+Created average matrix: Data\DataSet5_Align_cue_626_to_938_unc\cue\R\gDTF_10Hz\GB\cue_R_gDTF_10Hz_GB_average.csv
+Processing subject: JDC
+Created average matrix: Data\DataSet5_Align_cue_626_to_938_unc\cue\R\gDTF_10Hz\JDC\cue_R_gDTF_10Hz_JDC_average.csv
+Processing subject: JFXD
+Created average matrix: Data\DataSet5_Align_cue_626_to_938_unc\cue\R\gDTF_10Hz\JFXD\cue_R_gDTF_10Hz_JFXD_average.csv
+Processing subject: JZ
+Created average matrix: Data\DataSet5_Align_cue_626_to_938_unc\cue\R\gDTF_10Hz\JZ\cue_R_gDTF_10Hz_JZ_average.csv
+Processing subject: LT
+Created average matrix: Data\DataSet5_Align_cue_626_to_938_unc\cue\R\gDTF_10Hz\LT\cue_R_gDTF_10Hz_LT_average.csv
+Processing subject: NvA
+Created average matrix: Data\DataSet5_Align_cue_626_to_938_unc\cue\R\gDTF_10Hz\NvA\cue_R_gDTF_10Hz_NvA_average.csv
+Processing subject: RR
+Created average matrix: Data\DataSet5_Align_cue_626_to_938_unc\cue\R\gDTF_10Hz\RR\cue_R_gDTF_10Hz_RR_average.csv
+Processing subject: SJB
+Created average matrix: Data\DataSet5_Align_cue_626_to_938_unc\cue\R\gDTF_10Hz\SJB\cue_R_gDTF_10Hz_SJB_average.csv
+Processing R gDTF_20Hz
+Created average matrix: Data\DataSet5_Align_cue_626_to_938_unc\cue\R\gDTF_20Hz\cue_R_gDTF_20Hz_average.csv
+Processing subject: BG
+Created average matrix: Data\DataSet5_Align_cue_626_to_938_unc\cue\R\gDTF_20Hz\BG\cue_R_gDTF_20Hz_BG_average.csv
+Processing subject: DOC
+Created average matrix: Data\DataSet5_Align_cue_626_to_938_unc\cue\R\gDTF_20Hz\DOC\cue_R_gDTF_20Hz_DOC_average.csv
+Processing subject: GB
+Created average matrix: Data\DataSet5_Align_cue_626_to_938_unc\cue\R\gDTF_20Hz\GB\cue_R_gDTF_20Hz_GB_average.csv
+Processing subject: JDC
+Created average matrix: Data\DataSet5_Align_cue_626_to_938_unc\cue\R\gDTF_20Hz\JDC\cue_R_gDTF_20Hz_JDC_average.csv
+Processing subject: JFXD
+Created average matrix: Data\DataSet5_Align_cue_626_to_938_unc\cue\R\gDTF_20Hz\JFXD\cue_R_gDTF_20Hz_JFXD_average.csv
+Processing subject: JZ
+Created average matrix: Data\DataSet5_Align_cue_626_to_938_unc\cue\R\gDTF_20Hz\JZ\cue_R_gDTF_20Hz_JZ_average.csv
+Processing subject: LT
+Created average matrix: Data\DataSet5_Align_cue_626_to_938_unc\cue\R\gDTF_20Hz\LT\cue_R_gDTF_20Hz_LT_average.csv
+Processing subject: NvA
+Created average matrix: Data\DataSet5_Align_cue_626_to_938_unc\cue\R\gDTF_20Hz\NvA\cue_R_gDTF_20Hz_NvA_average.csv
+Processing subject: RR
+Created average matrix: Data\DataSet5_Align_cue_626_to_938_unc\cue\R\gDTF_20Hz\RR\cue_R_gDTF_20Hz_RR_average.csv
+Processing subject: SJB
+Created average matrix: Data\DataSet5_Align_cue_626_to_938_unc\cue\R\gDTF_20Hz\SJB\cue_R_gDTF_20Hz_SJB_average.csv
+Processing R gPDC_100Hz
+Created average matrix: Data\DataSet5_Align_cue_626_to_938_unc\cue\R\gPDC_100Hz\cue_R_gPDC_100Hz_average.csv
+Processing subject: BG
+Created average matrix: Data\DataSet5_Align_cue_626_to_938_unc\cue\R\gPDC_100Hz\BG\cue_R_gPDC_100Hz_BG_average.csv
+Processing subject: DOC
+Created average matrix: Data\DataSet5_Align_cue_626_to_938_unc\cue\R\gPDC_100Hz\DOC\cue_R_gPDC_100Hz_DOC_average.csv
+Processing subject: GB
+Created average matrix: Data\DataSet5_Align_cue_626_to_938_unc\cue\R\gPDC_100Hz\GB\cue_R_gPDC_100Hz_GB_average.csv
+Processing subject: JDC
+Created average matrix: Data\DataSet5_Align_cue_626_to_938_unc\cue\R\gPDC_100Hz\JDC\cue_R_gPDC_100Hz_JDC_average.csv
+Processing subject: JFXD
+Created average matrix: Data\DataSet5_Align_cue_626_to_938_unc\cue\R\gPDC_100Hz\JFXD\cue_R_gPDC_100Hz_JFXD_average.csv
+Processing subject: JZ
+Created average matrix: Data\DataSet5_Align_cue_626_to_938_unc\cue\R\gPDC_100Hz\JZ\cue_R_gPDC_100Hz_JZ_average.csv
+Processing subject: LT
+Created average matrix: Data\DataSet5_Align_cue_626_to_938_unc\cue\R\gPDC_100Hz\LT\cue_R_gPDC_100Hz_LT_average.csv
+Processing subject: NvA
+Created average matrix: Data\DataSet5_Align_cue_626_to_938_unc\cue\R\gPDC_100Hz\NvA\cue_R_gPDC_100Hz_NvA_average.csv
+Processing subject: RR
+Created average matrix: Data\DataSet5_Align_cue_626_to_938_unc\cue\R\gPDC_100Hz\RR\cue_R_gPDC_100Hz_RR_average.csv
+Processing subject: SJB
+Created average matrix: Data\DataSet5_Align_cue_626_to_938_unc\cue\R\gPDC_100Hz\SJB\cue_R_gPDC_100Hz_SJB_average.csv
+Processing R gPDC_10Hz
+Created average matrix: Data\DataSet5_Align_cue_626_to_938_unc\cue\R\gPDC_10Hz\cue_R_gPDC_10Hz_average.csv
+Processing subject: BG
+Created average matrix: Data\DataSet5_Align_cue_626_to_938_unc\cue\R\gPDC_10Hz\BG\cue_R_gPDC_10Hz_BG_average.csv
+Processing subject: DOC
+Created average matrix: Data\DataSet5_Align_cue_626_to_938_unc\cue\R\gPDC_10Hz\DOC\cue_R_gPDC_10Hz_DOC_average.csv
+Processing subject: GB
+Created average matrix: Data\DataSet5_Align_cue_626_to_938_unc\cue\R\gPDC_10Hz\GB\cue_R_gPDC_10Hz_GB_average.csv
+Processing subject: JDC
+Created average matrix: Data\DataSet5_Align_cue_626_to_938_unc\cue\R\gPDC_10Hz\JDC\cue_R_gPDC_10Hz_JDC_average.csv
+Processing subject: JFXD
+Created average matrix: Data\DataSet5_Align_cue_626_to_938_unc\cue\R\gPDC_10Hz\JFXD\cue_R_gPDC_10Hz_JFXD_average.csv
+Processing subject: JZ
+Created average matrix: Data\DataSet5_Align_cue_626_to_938_unc\cue\R\gPDC_10Hz\JZ\cue_R_gPDC_10Hz_JZ_average.csv
+Processing subject: LT
+Created average matrix: Data\DataSet5_Align_cue_626_to_938_unc\cue\R\gPDC_10Hz\LT\cue_R_gPDC_10Hz_LT_average.csv
+Processing subject: NvA
+Created average matrix: Data\DataSet5_Align_cue_626_to_938_unc\cue\R\gPDC_10Hz\NvA\cue_R_gPDC_10Hz_NvA_average.csv
+Processing subject: RR
+Created average matrix: Data\DataSet5_Align_cue_626_to_938_unc\cue\R\gPDC_10Hz\RR\cue_R_gPDC_10Hz_RR_average.csv
+Processing subject: SJB
+Created average matrix: Data\DataSet5_Align_cue_626_to_938_unc\cue\R\gPDC_10Hz\SJB\cue_R_gPDC_10Hz_SJB_average.csv
+Processing R gPDC_20Hz
+Created average matrix: Data\DataSet5_Align_cue_626_to_938_unc\cue\R\gPDC_20Hz\cue_R_gPDC_20Hz_average.csv
+Processing subject: BG
+Created average matrix: Data\DataSet5_Align_cue_626_to_938_unc\cue\R\gPDC_20Hz\BG\cue_R_gPDC_20Hz_BG_average.csv
+Processing subject: DOC
+Created average matrix: Data\DataSet5_Align_cue_626_to_938_unc\cue\R\gPDC_20Hz\DOC\cue_R_gPDC_20Hz_DOC_average.csv
+Processing subject: GB
+Created average matrix: Data\DataSet5_Align_cue_626_to_938_unc\cue\R\gPDC_20Hz\GB\cue_R_gPDC_20Hz_GB_average.csv
+Processing subject: JDC
+Created average matrix: Data\DataSet5_Align_cue_626_to_938_unc\cue\R\gPDC_20Hz\JDC\cue_R_gPDC_20Hz_JDC_average.csv
+Processing subject: JFXD
+Created average matrix: Data\DataSet5_Align_cue_626_to_938_unc\cue\R\gPDC_20Hz\JFXD\cue_R_gPDC_20Hz_JFXD_average.csv
+Processing subject: JZ
+Created average matrix: Data\DataSet5_Align_cue_626_to_938_unc\cue\R\gPDC_20Hz\JZ\cue_R_gPDC_20Hz_JZ_average.csv
+Processing subject: LT
+Created average matrix: Data\DataSet5_Align_cue_626_to_938_unc\cue\R\gPDC_20Hz\LT\cue_R_gPDC_20Hz_LT_average.csv
+Processing subject: NvA
+Created average matrix: Data\DataSet5_Align_cue_626_to_938_unc\cue\R\gPDC_20Hz\NvA\cue_R_gPDC_20Hz_NvA_average.csv
+Processing subject: RR
+Created average matrix: Data\DataSet5_Align_cue_626_to_938_unc\cue\R\gPDC_20Hz\RR\cue_R_gPDC_20Hz_RR_average.csv
+Processing subject: SJB
+Created average matrix: Data\DataSet5_Align_cue_626_to_938_unc\cue\R\gPDC_20Hz\SJB\cue_R_gPDC_20Hz_SJB_average.csv
+Processing R iDTF_100Hz
+Skipping iDTF method as requested
+Processing R iDTF_10Hz
+Skipping iDTF method as requested
+Processing R iDTF_20Hz
+Skipping iDTF method as requested
+Processing R iPDC_100Hz
+Created average matrix: Data\DataSet5_Align_cue_626_to_938_unc\cue\R\iPDC_100Hz\cue_R_iPDC_100Hz_average.csv
+Processing subject: BG
+Created average matrix: Data\DataSet5_Align_cue_626_to_938_unc\cue\R\iPDC_100Hz\BG\cue_R_iPDC_100Hz_BG_average.csv
+Processing subject: DOC
+Created average matrix: Data\DataSet5_Align_cue_626_to_938_unc\cue\R\iPDC_100Hz\DOC\cue_R_iPDC_100Hz_DOC_average.csv
+Processing subject: GB
+Created average matrix: Data\DataSet5_Align_cue_626_to_938_unc\cue\R\iPDC_100Hz\GB\cue_R_iPDC_100Hz_GB_average.csv
+Processing subject: JDC
+Created average matrix: Data\DataSet5_Align_cue_626_to_938_unc\cue\R\iPDC_100Hz\JDC\cue_R_iPDC_100Hz_JDC_average.csv
+Processing subject: JFXD
+Created average matrix: Data\DataSet5_Align_cue_626_to_938_unc\cue\R\iPDC_100Hz\JFXD\cue_R_iPDC_100Hz_JFXD_average.csv
+Processing subject: JZ
+Created average matrix: Data\DataSet5_Align_cue_626_to_938_unc\cue\R\iPDC_100Hz\JZ\cue_R_iPDC_100Hz_JZ_average.csv
+Processing subject: LT
+Created average matrix: Data\DataSet5_Align_cue_626_to_938_unc\cue\R\iPDC_100Hz\LT\cue_R_iPDC_100Hz_LT_average.csv
+Processing subject: NvA
+Created average matrix: Data\DataSet5_Align_cue_626_to_938_unc\cue\R\iPDC_100Hz\NvA\cue_R_iPDC_100Hz_NvA_average.csv
+Processing subject: RR
+Created average matrix: Data\DataSet5_Align_cue_626_to_938_unc\cue\R\iPDC_100Hz\RR\cue_R_iPDC_100Hz_RR_average.csv
+Processing subject: SJB
+Created average matrix: Data\DataSet5_Align_cue_626_to_938_unc\cue\R\iPDC_100Hz\SJB\cue_R_iPDC_100Hz_SJB_average.csv
+Processing R iPDC_10Hz
+Created average matrix: Data\DataSet5_Align_cue_626_to_938_unc\cue\R\iPDC_10Hz\cue_R_iPDC_10Hz_average.csv
+Processing subject: BG
+Created average matrix: Data\DataSet5_Align_cue_626_to_938_unc\cue\R\iPDC_10Hz\BG\cue_R_iPDC_10Hz_BG_average.csv
+Processing subject: DOC
+Created average matrix: Data\DataSet5_Align_cue_626_to_938_unc\cue\R\iPDC_10Hz\DOC\cue_R_iPDC_10Hz_DOC_average.csv
+Processing subject: GB
+Created average matrix: Data\DataSet5_Align_cue_626_to_938_unc\cue\R\iPDC_10Hz\GB\cue_R_iPDC_10Hz_GB_average.csv
+Processing subject: JDC
+Created average matrix: Data\DataSet5_Align_cue_626_to_938_unc\cue\R\iPDC_10Hz\JDC\cue_R_iPDC_10Hz_JDC_average.csv
+Processing subject: JFXD
+Created average matrix: Data\DataSet5_Align_cue_626_to_938_unc\cue\R\iPDC_10Hz\JFXD\cue_R_iPDC_10Hz_JFXD_average.csv
+Processing subject: JZ
+Created average matrix: Data\DataSet5_Align_cue_626_to_938_unc\cue\R\iPDC_10Hz\JZ\cue_R_iPDC_10Hz_JZ_average.csv
+Processing subject: LT
+Created average matrix: Data\DataSet5_Align_cue_626_to_938_unc\cue\R\iPDC_10Hz\LT\cue_R_iPDC_10Hz_LT_average.csv
+Processing subject: NvA
+Created average matrix: Data\DataSet5_Align_cue_626_to_938_unc\cue\R\iPDC_10Hz\NvA\cue_R_iPDC_10Hz_NvA_average.csv
+Processing subject: RR
+Created average matrix: Data\DataSet5_Align_cue_626_to_938_unc\cue\R\iPDC_10Hz\RR\cue_R_iPDC_10Hz_RR_average.csv
+Processing subject: SJB
+Created average matrix: Data\DataSet5_Align_cue_626_to_938_unc\cue\R\iPDC_10Hz\SJB\cue_R_iPDC_10Hz_SJB_average.csv
+Processing R iPDC_20Hz
+Created average matrix: Data\DataSet5_Align_cue_626_to_938_unc\cue\R\iPDC_20Hz\cue_R_iPDC_20Hz_average.csv
+Processing subject: BG
+Created average matrix: Data\DataSet5_Align_cue_626_to_938_unc\cue\R\iPDC_20Hz\BG\cue_R_iPDC_20Hz_BG_average.csv
+Processing subject: DOC
+Created average matrix: Data\DataSet5_Align_cue_626_to_938_unc\cue\R\iPDC_20Hz\DOC\cue_R_iPDC_20Hz_DOC_average.csv
+Processing subject: GB
+Created average matrix: Data\DataSet5_Align_cue_626_to_938_unc\cue\R\iPDC_20Hz\GB\cue_R_iPDC_20Hz_GB_average.csv
+Processing subject: JDC
+Created average matrix: Data\DataSet5_Align_cue_626_to_938_unc\cue\R\iPDC_20Hz\JDC\cue_R_iPDC_20Hz_JDC_average.csv
+Processing subject: JFXD
+Created average matrix: Data\DataSet5_Align_cue_626_to_938_unc\cue\R\iPDC_20Hz\JFXD\cue_R_iPDC_20Hz_JFXD_average.csv
+Processing subject: JZ
+Created average matrix: Data\DataSet5_Align_cue_626_to_938_unc\cue\R\iPDC_20Hz\JZ\cue_R_iPDC_20Hz_JZ_average.csv
+Processing subject: LT
+Created average matrix: Data\DataSet5_Align_cue_626_to_938_unc\cue\R\iPDC_20Hz\LT\cue_R_iPDC_20Hz_LT_average.csv
+Processing subject: NvA
+Created average matrix: Data\DataSet5_Align_cue_626_to_938_unc\cue\R\iPDC_20Hz\NvA\cue_R_iPDC_20Hz_NvA_average.csv
+Processing subject: RR
+Created average matrix: Data\DataSet5_Align_cue_626_to_938_unc\cue\R\iPDC_20Hz\RR\cue_R_iPDC_20Hz_RR_average.csv
+Processing subject: SJB
+Created average matrix: Data\DataSet5_Align_cue_626_to_938_unc\cue\R\iPDC_20Hz\SJB\cue_R_iPDC_20Hz_SJB_average.csv
+
+Operation Summary
+================
+Total matrices processed: 2916
+Total averages created: 198
+Errors encountered: 0
+
+Process completed at: 2025-02-11 23:02:24

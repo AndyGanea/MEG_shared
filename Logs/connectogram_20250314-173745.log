@@ -1,0 +1,112 @@
+2025-03-14 17:37:45,124 - INFO - Starting MEG Connectogram Visualization V2
+2025-03-14 17:37:45,124 - INFO - Selected dataset: DataSet5_Align_cue_626_to_938_unc
+2025-03-14 17:37:45,125 - INFO - Selected analysis type: Wilcoxon
+2025-03-14 17:37:45,125 - INFO - Selected analysis folder: Wilcoxon_03102025-1305
+2025-03-14 17:37:45,125 - INFO - Log file: Logs\connectogram_20250314-173745.log
+2025-03-14 17:37:45,125 - INFO - Processing all folders in Wilcoxon_03102025-1305...
+2025-03-14 17:37:45,125 - INFO - Processing Cue_gDTF_100Hz...
+2025-03-14 17:37:45,126 - INFO - Processing folder: Cue_gDTF_100Hz
+2025-03-14 17:37:45,126 - INFO - Found 1 statistical test files
+2025-03-14 17:37:45,126 - INFO - Processing gDTF_100Hz_L-R (wilcoxon)
+2025-03-14 17:37:45,126 - INFO - Reading connectivity matrix from gDTF_100Hz_L-R_wilcoxon.csv
+2025-03-14 17:37:45,130 - INFO - Region labels: ['V1-L', 'V3-L', 'SPOC-L', 'AG-L', 'POJ-L', 'SPL-L', 'mIPS-L', 'VIP-L', 'IPL-L', 'STS-L', 'S1-L', 'M1-L', 'SMA-L', 'PMd-L', 'FEF-L', 'PMv-L', 'V1-R', 'V3-R', 'SPOC-R', 'AG-R', 'POJ-R', 'SPL-R', 'mIPS-R', 'VIP-R', 'IPL-R', 'STS-R', 'S1-R', 'M1-R', 'SMA-R', 'PMd-R', 'FEF-R', 'PMv-R']
+2025-03-14 17:37:45,130 - INFO - Available coordinates for: ['V1-L', 'V3-L', 'SPOC-L', 'AG-L', 'POJ-L', 'SPL-L', 'mIPS-L', 'VIP-L', 'IPL-L', 'STS-L', 'S1-L', 'M1-L', 'SMA-L', 'PMd-L', 'FEF-L', 'PMv-L', 'V1-R', 'V3-R', 'SPOC-R', 'AG-R', 'POJ-R', 'SPL-R', 'mIPS-R', 'VIP-R', 'IPL-R', 'STS-R', 'S1-R', 'M1-R', 'SMA-R', 'PMd-R', 'FEF-R', 'PMv-R']
+2025-03-14 17:37:45,423 - INFO - Created simplified brain visualization: gDTF_100Hz_L-R_brain_positive_20250314-173745.png
+2025-03-14 17:37:45,487 - INFO - Region labels: ['V1-L', 'V3-L', 'SPOC-L', 'AG-L', 'POJ-L', 'SPL-L', 'mIPS-L', 'VIP-L', 'IPL-L', 'STS-L', 'S1-L', 'M1-L', 'SMA-L', 'PMd-L', 'FEF-L', 'PMv-L', 'V1-R', 'V3-R', 'SPOC-R', 'AG-R', 'POJ-R', 'SPL-R', 'mIPS-R', 'VIP-R', 'IPL-R', 'STS-R', 'S1-R', 'M1-R', 'SMA-R', 'PMd-R', 'FEF-R', 'PMv-R']
+2025-03-14 17:37:45,487 - INFO - Available coordinates for: ['V1-L', 'V3-L', 'SPOC-L', 'AG-L', 'POJ-L', 'SPL-L', 'mIPS-L', 'VIP-L', 'IPL-L', 'STS-L', 'S1-L', 'M1-L', 'SMA-L', 'PMd-L', 'FEF-L', 'PMv-L', 'V1-R', 'V3-R', 'SPOC-R', 'AG-R', 'POJ-R', 'SPL-R', 'mIPS-R', 'VIP-R', 'IPL-R', 'STS-R', 'S1-R', 'M1-R', 'SMA-R', 'PMd-R', 'FEF-R', 'PMv-R']
+2025-03-14 17:37:45,713 - INFO - Created simplified brain visualization: gDTF_100Hz_L-R_brain_negative_20250314-173745.png
+2025-03-14 17:37:45,780 - INFO - Processing Cue_gDTF_10Hz...
+2025-03-14 17:37:45,781 - INFO - Processing folder: Cue_gDTF_10Hz
+2025-03-14 17:37:45,781 - INFO - Found 1 statistical test files
+2025-03-14 17:37:45,782 - INFO - Processing gDTF_10Hz_L-R (wilcoxon)
+2025-03-14 17:37:45,782 - INFO - Reading connectivity matrix from gDTF_10Hz_L-R_wilcoxon.csv
+2025-03-14 17:37:45,783 - INFO - Region labels: ['V1-L', 'V3-L', 'SPOC-L', 'AG-L', 'POJ-L', 'SPL-L', 'mIPS-L', 'VIP-L', 'IPL-L', 'STS-L', 'S1-L', 'M1-L', 'SMA-L', 'PMd-L', 'FEF-L', 'PMv-L', 'V1-R', 'V3-R', 'SPOC-R', 'AG-R', 'POJ-R', 'SPL-R', 'mIPS-R', 'VIP-R', 'IPL-R', 'STS-R', 'S1-R', 'M1-R', 'SMA-R', 'PMd-R', 'FEF-R', 'PMv-R']
+2025-03-14 17:37:45,783 - INFO - Available coordinates for: ['V1-L', 'V3-L', 'SPOC-L', 'AG-L', 'POJ-L', 'SPL-L', 'mIPS-L', 'VIP-L', 'IPL-L', 'STS-L', 'S1-L', 'M1-L', 'SMA-L', 'PMd-L', 'FEF-L', 'PMv-L', 'V1-R', 'V3-R', 'SPOC-R', 'AG-R', 'POJ-R', 'SPL-R', 'mIPS-R', 'VIP-R', 'IPL-R', 'STS-R', 'S1-R', 'M1-R', 'SMA-R', 'PMd-R', 'FEF-R', 'PMv-R']
+2025-03-14 17:37:46,038 - INFO - Created simplified brain visualization: gDTF_10Hz_L-R_brain_positive_20250314-173745.png
+2025-03-14 17:37:46,102 - INFO - Region labels: ['V1-L', 'V3-L', 'SPOC-L', 'AG-L', 'POJ-L', 'SPL-L', 'mIPS-L', 'VIP-L', 'IPL-L', 'STS-L', 'S1-L', 'M1-L', 'SMA-L', 'PMd-L', 'FEF-L', 'PMv-L', 'V1-R', 'V3-R', 'SPOC-R', 'AG-R', 'POJ-R', 'SPL-R', 'mIPS-R', 'VIP-R', 'IPL-R', 'STS-R', 'S1-R', 'M1-R', 'SMA-R', 'PMd-R', 'FEF-R', 'PMv-R']
+2025-03-14 17:37:46,103 - INFO - Available coordinates for: ['V1-L', 'V3-L', 'SPOC-L', 'AG-L', 'POJ-L', 'SPL-L', 'mIPS-L', 'VIP-L', 'IPL-L', 'STS-L', 'S1-L', 'M1-L', 'SMA-L', 'PMd-L', 'FEF-L', 'PMv-L', 'V1-R', 'V3-R', 'SPOC-R', 'AG-R', 'POJ-R', 'SPL-R', 'mIPS-R', 'VIP-R', 'IPL-R', 'STS-R', 'S1-R', 'M1-R', 'SMA-R', 'PMd-R', 'FEF-R', 'PMv-R']
+2025-03-14 17:37:46,337 - INFO - Created simplified brain visualization: gDTF_10Hz_L-R_brain_negative_20250314-173745.png
+2025-03-14 17:37:46,400 - INFO - Processing Cue_gDTF_20Hz...
+2025-03-14 17:37:46,400 - INFO - Processing folder: Cue_gDTF_20Hz
+2025-03-14 17:37:46,401 - INFO - Found 1 statistical test files
+2025-03-14 17:37:46,401 - INFO - Processing gDTF_20Hz_L-R (wilcoxon)
+2025-03-14 17:37:46,401 - INFO - Reading connectivity matrix from gDTF_20Hz_L-R_wilcoxon.csv
+2025-03-14 17:37:46,403 - INFO - Region labels: ['V1-L', 'V3-L', 'SPOC-L', 'AG-L', 'POJ-L', 'SPL-L', 'mIPS-L', 'VIP-L', 'IPL-L', 'STS-L', 'S1-L', 'M1-L', 'SMA-L', 'PMd-L', 'FEF-L', 'PMv-L', 'V1-R', 'V3-R', 'SPOC-R', 'AG-R', 'POJ-R', 'SPL-R', 'mIPS-R', 'VIP-R', 'IPL-R', 'STS-R', 'S1-R', 'M1-R', 'SMA-R', 'PMd-R', 'FEF-R', 'PMv-R']
+2025-03-14 17:37:46,403 - INFO - Available coordinates for: ['V1-L', 'V3-L', 'SPOC-L', 'AG-L', 'POJ-L', 'SPL-L', 'mIPS-L', 'VIP-L', 'IPL-L', 'STS-L', 'S1-L', 'M1-L', 'SMA-L', 'PMd-L', 'FEF-L', 'PMv-L', 'V1-R', 'V3-R', 'SPOC-R', 'AG-R', 'POJ-R', 'SPL-R', 'mIPS-R', 'VIP-R', 'IPL-R', 'STS-R', 'S1-R', 'M1-R', 'SMA-R', 'PMd-R', 'FEF-R', 'PMv-R']
+2025-03-14 17:37:46,639 - INFO - Created simplified brain visualization: gDTF_20Hz_L-R_brain_positive_20250314-173746.png
+2025-03-14 17:37:46,722 - INFO - Region labels: ['V1-L', 'V3-L', 'SPOC-L', 'AG-L', 'POJ-L', 'SPL-L', 'mIPS-L', 'VIP-L', 'IPL-L', 'STS-L', 'S1-L', 'M1-L', 'SMA-L', 'PMd-L', 'FEF-L', 'PMv-L', 'V1-R', 'V3-R', 'SPOC-R', 'AG-R', 'POJ-R', 'SPL-R', 'mIPS-R', 'VIP-R', 'IPL-R', 'STS-R', 'S1-R', 'M1-R', 'SMA-R', 'PMd-R', 'FEF-R', 'PMv-R']
+2025-03-14 17:37:46,723 - INFO - Available coordinates for: ['V1-L', 'V3-L', 'SPOC-L', 'AG-L', 'POJ-L', 'SPL-L', 'mIPS-L', 'VIP-L', 'IPL-L', 'STS-L', 'S1-L', 'M1-L', 'SMA-L', 'PMd-L', 'FEF-L', 'PMv-L', 'V1-R', 'V3-R', 'SPOC-R', 'AG-R', 'POJ-R', 'SPL-R', 'mIPS-R', 'VIP-R', 'IPL-R', 'STS-R', 'S1-R', 'M1-R', 'SMA-R', 'PMd-R', 'FEF-R', 'PMv-R']
+2025-03-14 17:37:46,955 - INFO - Created simplified brain visualization: gDTF_20Hz_L-R_brain_negative_20250314-173746.png
+2025-03-14 17:37:47,023 - INFO - Processing Cue_gPDC_100Hz...
+2025-03-14 17:37:47,023 - INFO - Processing folder: Cue_gPDC_100Hz
+2025-03-14 17:37:47,024 - INFO - Found 1 statistical test files
+2025-03-14 17:37:47,024 - INFO - Processing gPDC_100Hz_L-R (wilcoxon)
+2025-03-14 17:37:47,024 - INFO - Reading connectivity matrix from gPDC_100Hz_L-R_wilcoxon.csv
+2025-03-14 17:37:47,026 - INFO - Region labels: ['V1-L', 'V3-L', 'SPOC-L', 'AG-L', 'POJ-L', 'SPL-L', 'mIPS-L', 'VIP-L', 'IPL-L', 'STS-L', 'S1-L', 'M1-L', 'SMA-L', 'PMd-L', 'FEF-L', 'PMv-L', 'V1-R', 'V3-R', 'SPOC-R', 'AG-R', 'POJ-R', 'SPL-R', 'mIPS-R', 'VIP-R', 'IPL-R', 'STS-R', 'S1-R', 'M1-R', 'SMA-R', 'PMd-R', 'FEF-R', 'PMv-R']
+2025-03-14 17:37:47,026 - INFO - Available coordinates for: ['V1-L', 'V3-L', 'SPOC-L', 'AG-L', 'POJ-L', 'SPL-L', 'mIPS-L', 'VIP-L', 'IPL-L', 'STS-L', 'S1-L', 'M1-L', 'SMA-L', 'PMd-L', 'FEF-L', 'PMv-L', 'V1-R', 'V3-R', 'SPOC-R', 'AG-R', 'POJ-R', 'SPL-R', 'mIPS-R', 'VIP-R', 'IPL-R', 'STS-R', 'S1-R', 'M1-R', 'SMA-R', 'PMd-R', 'FEF-R', 'PMv-R']
+2025-03-14 17:37:47,257 - INFO - Created simplified brain visualization: gPDC_100Hz_L-R_brain_positive_20250314-173747.png
+2025-03-14 17:37:47,322 - INFO - Region labels: ['V1-L', 'V3-L', 'SPOC-L', 'AG-L', 'POJ-L', 'SPL-L', 'mIPS-L', 'VIP-L', 'IPL-L', 'STS-L', 'S1-L', 'M1-L', 'SMA-L', 'PMd-L', 'FEF-L', 'PMv-L', 'V1-R', 'V3-R', 'SPOC-R', 'AG-R', 'POJ-R', 'SPL-R', 'mIPS-R', 'VIP-R', 'IPL-R', 'STS-R', 'S1-R', 'M1-R', 'SMA-R', 'PMd-R', 'FEF-R', 'PMv-R']
+2025-03-14 17:37:47,322 - INFO - Available coordinates for: ['V1-L', 'V3-L', 'SPOC-L', 'AG-L', 'POJ-L', 'SPL-L', 'mIPS-L', 'VIP-L', 'IPL-L', 'STS-L', 'S1-L', 'M1-L', 'SMA-L', 'PMd-L', 'FEF-L', 'PMv-L', 'V1-R', 'V3-R', 'SPOC-R', 'AG-R', 'POJ-R', 'SPL-R', 'mIPS-R', 'VIP-R', 'IPL-R', 'STS-R', 'S1-R', 'M1-R', 'SMA-R', 'PMd-R', 'FEF-R', 'PMv-R']
+2025-03-14 17:37:47,551 - INFO - Created simplified brain visualization: gPDC_100Hz_L-R_brain_negative_20250314-173747.png
+2025-03-14 17:37:47,612 - INFO - Processing Cue_gPDC_10Hz...
+2025-03-14 17:37:47,612 - INFO - Processing folder: Cue_gPDC_10Hz
+2025-03-14 17:37:47,613 - INFO - Found 1 statistical test files
+2025-03-14 17:37:47,613 - INFO - Processing gPDC_10Hz_L-R (wilcoxon)
+2025-03-14 17:37:47,613 - INFO - Reading connectivity matrix from gPDC_10Hz_L-R_wilcoxon.csv
+2025-03-14 17:37:47,615 - INFO - Region labels: ['V1-L', 'V3-L', 'SPOC-L', 'AG-L', 'POJ-L', 'SPL-L', 'mIPS-L', 'VIP-L', 'IPL-L', 'STS-L', 'S1-L', 'M1-L', 'SMA-L', 'PMd-L', 'FEF-L', 'PMv-L', 'V1-R', 'V3-R', 'SPOC-R', 'AG-R', 'POJ-R', 'SPL-R', 'mIPS-R', 'VIP-R', 'IPL-R', 'STS-R', 'S1-R', 'M1-R', 'SMA-R', 'PMd-R', 'FEF-R', 'PMv-R']
+2025-03-14 17:37:47,615 - INFO - Available coordinates for: ['V1-L', 'V3-L', 'SPOC-L', 'AG-L', 'POJ-L', 'SPL-L', 'mIPS-L', 'VIP-L', 'IPL-L', 'STS-L', 'S1-L', 'M1-L', 'SMA-L', 'PMd-L', 'FEF-L', 'PMv-L', 'V1-R', 'V3-R', 'SPOC-R', 'AG-R', 'POJ-R', 'SPL-R', 'mIPS-R', 'VIP-R', 'IPL-R', 'STS-R', 'S1-R', 'M1-R', 'SMA-R', 'PMd-R', 'FEF-R', 'PMv-R']
+2025-03-14 17:37:47,837 - INFO - Created simplified brain visualization: gPDC_10Hz_L-R_brain_positive_20250314-173747.png
+2025-03-14 17:37:47,899 - INFO - Region labels: ['V1-L', 'V3-L', 'SPOC-L', 'AG-L', 'POJ-L', 'SPL-L', 'mIPS-L', 'VIP-L', 'IPL-L', 'STS-L', 'S1-L', 'M1-L', 'SMA-L', 'PMd-L', 'FEF-L', 'PMv-L', 'V1-R', 'V3-R', 'SPOC-R', 'AG-R', 'POJ-R', 'SPL-R', 'mIPS-R', 'VIP-R', 'IPL-R', 'STS-R', 'S1-R', 'M1-R', 'SMA-R', 'PMd-R', 'FEF-R', 'PMv-R']
+2025-03-14 17:37:47,899 - INFO - Available coordinates for: ['V1-L', 'V3-L', 'SPOC-L', 'AG-L', 'POJ-L', 'SPL-L', 'mIPS-L', 'VIP-L', 'IPL-L', 'STS-L', 'S1-L', 'M1-L', 'SMA-L', 'PMd-L', 'FEF-L', 'PMv-L', 'V1-R', 'V3-R', 'SPOC-R', 'AG-R', 'POJ-R', 'SPL-R', 'mIPS-R', 'VIP-R', 'IPL-R', 'STS-R', 'S1-R', 'M1-R', 'SMA-R', 'PMd-R', 'FEF-R', 'PMv-R']
+2025-03-14 17:37:48,119 - INFO - Created simplified brain visualization: gPDC_10Hz_L-R_brain_negative_20250314-173747.png
+2025-03-14 17:37:48,182 - INFO - Processing Cue_gPDC_20Hz...
+2025-03-14 17:37:48,182 - INFO - Processing folder: Cue_gPDC_20Hz
+2025-03-14 17:37:48,182 - INFO - Found 1 statistical test files
+2025-03-14 17:37:48,183 - INFO - Processing gPDC_20Hz_L-R (wilcoxon)
+2025-03-14 17:37:48,183 - INFO - Reading connectivity matrix from gPDC_20Hz_L-R_wilcoxon.csv
+2025-03-14 17:37:48,184 - INFO - Region labels: ['V1-L', 'V3-L', 'SPOC-L', 'AG-L', 'POJ-L', 'SPL-L', 'mIPS-L', 'VIP-L', 'IPL-L', 'STS-L', 'S1-L', 'M1-L', 'SMA-L', 'PMd-L', 'FEF-L', 'PMv-L', 'V1-R', 'V3-R', 'SPOC-R', 'AG-R', 'POJ-R', 'SPL-R', 'mIPS-R', 'VIP-R', 'IPL-R', 'STS-R', 'S1-R', 'M1-R', 'SMA-R', 'PMd-R', 'FEF-R', 'PMv-R']
+2025-03-14 17:37:48,184 - INFO - Available coordinates for: ['V1-L', 'V3-L', 'SPOC-L', 'AG-L', 'POJ-L', 'SPL-L', 'mIPS-L', 'VIP-L', 'IPL-L', 'STS-L', 'S1-L', 'M1-L', 'SMA-L', 'PMd-L', 'FEF-L', 'PMv-L', 'V1-R', 'V3-R', 'SPOC-R', 'AG-R', 'POJ-R', 'SPL-R', 'mIPS-R', 'VIP-R', 'IPL-R', 'STS-R', 'S1-R', 'M1-R', 'SMA-R', 'PMd-R', 'FEF-R', 'PMv-R']
+2025-03-14 17:37:48,409 - INFO - Created simplified brain visualization: gPDC_20Hz_L-R_brain_positive_20250314-173748.png
+2025-03-14 17:37:48,473 - INFO - Region labels: ['V1-L', 'V3-L', 'SPOC-L', 'AG-L', 'POJ-L', 'SPL-L', 'mIPS-L', 'VIP-L', 'IPL-L', 'STS-L', 'S1-L', 'M1-L', 'SMA-L', 'PMd-L', 'FEF-L', 'PMv-L', 'V1-R', 'V3-R', 'SPOC-R', 'AG-R', 'POJ-R', 'SPL-R', 'mIPS-R', 'VIP-R', 'IPL-R', 'STS-R', 'S1-R', 'M1-R', 'SMA-R', 'PMd-R', 'FEF-R', 'PMv-R']
+2025-03-14 17:37:48,473 - INFO - Available coordinates for: ['V1-L', 'V3-L', 'SPOC-L', 'AG-L', 'POJ-L', 'SPL-L', 'mIPS-L', 'VIP-L', 'IPL-L', 'STS-L', 'S1-L', 'M1-L', 'SMA-L', 'PMd-L', 'FEF-L', 'PMv-L', 'V1-R', 'V3-R', 'SPOC-R', 'AG-R', 'POJ-R', 'SPL-R', 'mIPS-R', 'VIP-R', 'IPL-R', 'STS-R', 'S1-R', 'M1-R', 'SMA-R', 'PMd-R', 'FEF-R', 'PMv-R']
+2025-03-14 17:37:48,777 - INFO - Created simplified brain visualization: gPDC_20Hz_L-R_brain_negative_20250314-173748.png
+2025-03-14 17:37:48,841 - INFO - Processing Cue_iPDC_100Hz...
+2025-03-14 17:37:48,841 - INFO - Processing folder: Cue_iPDC_100Hz
+2025-03-14 17:37:48,842 - INFO - Found 1 statistical test files
+2025-03-14 17:37:48,842 - INFO - Processing iPDC_100Hz_L-R (wilcoxon)
+2025-03-14 17:37:48,842 - INFO - Reading connectivity matrix from iPDC_100Hz_L-R_wilcoxon.csv
+2025-03-14 17:37:48,844 - INFO - Region labels: ['V1-L', 'V3-L', 'SPOC-L', 'AG-L', 'POJ-L', 'SPL-L', 'mIPS-L', 'VIP-L', 'IPL-L', 'STS-L', 'S1-L', 'M1-L', 'SMA-L', 'PMd-L', 'FEF-L', 'PMv-L', 'V1-R', 'V3-R', 'SPOC-R', 'AG-R', 'POJ-R', 'SPL-R', 'mIPS-R', 'VIP-R', 'IPL-R', 'STS-R', 'S1-R', 'M1-R', 'SMA-R', 'PMd-R', 'FEF-R', 'PMv-R']
+2025-03-14 17:37:48,844 - INFO - Available coordinates for: ['V1-L', 'V3-L', 'SPOC-L', 'AG-L', 'POJ-L', 'SPL-L', 'mIPS-L', 'VIP-L', 'IPL-L', 'STS-L', 'S1-L', 'M1-L', 'SMA-L', 'PMd-L', 'FEF-L', 'PMv-L', 'V1-R', 'V3-R', 'SPOC-R', 'AG-R', 'POJ-R', 'SPL-R', 'mIPS-R', 'VIP-R', 'IPL-R', 'STS-R', 'S1-R', 'M1-R', 'SMA-R', 'PMd-R', 'FEF-R', 'PMv-R']
+2025-03-14 17:37:49,073 - INFO - Created simplified brain visualization: iPDC_100Hz_L-R_brain_positive_20250314-173748.png
+2025-03-14 17:37:49,136 - INFO - Region labels: ['V1-L', 'V3-L', 'SPOC-L', 'AG-L', 'POJ-L', 'SPL-L', 'mIPS-L', 'VIP-L', 'IPL-L', 'STS-L', 'S1-L', 'M1-L', 'SMA-L', 'PMd-L', 'FEF-L', 'PMv-L', 'V1-R', 'V3-R', 'SPOC-R', 'AG-R', 'POJ-R', 'SPL-R', 'mIPS-R', 'VIP-R', 'IPL-R', 'STS-R', 'S1-R', 'M1-R', 'SMA-R', 'PMd-R', 'FEF-R', 'PMv-R']
+2025-03-14 17:37:49,136 - INFO - Available coordinates for: ['V1-L', 'V3-L', 'SPOC-L', 'AG-L', 'POJ-L', 'SPL-L', 'mIPS-L', 'VIP-L', 'IPL-L', 'STS-L', 'S1-L', 'M1-L', 'SMA-L', 'PMd-L', 'FEF-L', 'PMv-L', 'V1-R', 'V3-R', 'SPOC-R', 'AG-R', 'POJ-R', 'SPL-R', 'mIPS-R', 'VIP-R', 'IPL-R', 'STS-R', 'S1-R', 'M1-R', 'SMA-R', 'PMd-R', 'FEF-R', 'PMv-R']
+2025-03-14 17:37:49,357 - INFO - Created simplified brain visualization: iPDC_100Hz_L-R_brain_negative_20250314-173748.png
+2025-03-14 17:37:49,420 - INFO - Processing Cue_iPDC_10Hz...
+2025-03-14 17:37:49,420 - INFO - Processing folder: Cue_iPDC_10Hz
+2025-03-14 17:37:49,420 - INFO - Found 1 statistical test files
+2025-03-14 17:37:49,421 - INFO - Processing iPDC_10Hz_L-R (wilcoxon)
+2025-03-14 17:37:49,421 - INFO - Reading connectivity matrix from iPDC_10Hz_L-R_wilcoxon.csv
+2025-03-14 17:37:49,422 - INFO - Region labels: ['V1-L', 'V3-L', 'SPOC-L', 'AG-L', 'POJ-L', 'SPL-L', 'mIPS-L', 'VIP-L', 'IPL-L', 'STS-L', 'S1-L', 'M1-L', 'SMA-L', 'PMd-L', 'FEF-L', 'PMv-L', 'V1-R', 'V3-R', 'SPOC-R', 'AG-R', 'POJ-R', 'SPL-R', 'mIPS-R', 'VIP-R', 'IPL-R', 'STS-R', 'S1-R', 'M1-R', 'SMA-R', 'PMd-R', 'FEF-R', 'PMv-R']
+2025-03-14 17:37:49,422 - INFO - Available coordinates for: ['V1-L', 'V3-L', 'SPOC-L', 'AG-L', 'POJ-L', 'SPL-L', 'mIPS-L', 'VIP-L', 'IPL-L', 'STS-L', 'S1-L', 'M1-L', 'SMA-L', 'PMd-L', 'FEF-L', 'PMv-L', 'V1-R', 'V3-R', 'SPOC-R', 'AG-R', 'POJ-R', 'SPL-R', 'mIPS-R', 'VIP-R', 'IPL-R', 'STS-R', 'S1-R', 'M1-R', 'SMA-R', 'PMd-R', 'FEF-R', 'PMv-R']
+2025-03-14 17:37:49,649 - INFO - Created simplified brain visualization: iPDC_10Hz_L-R_brain_positive_20250314-173749.png
+2025-03-14 17:37:49,711 - INFO - Region labels: ['V1-L', 'V3-L', 'SPOC-L', 'AG-L', 'POJ-L', 'SPL-L', 'mIPS-L', 'VIP-L', 'IPL-L', 'STS-L', 'S1-L', 'M1-L', 'SMA-L', 'PMd-L', 'FEF-L', 'PMv-L', 'V1-R', 'V3-R', 'SPOC-R', 'AG-R', 'POJ-R', 'SPL-R', 'mIPS-R', 'VIP-R', 'IPL-R', 'STS-R', 'S1-R', 'M1-R', 'SMA-R', 'PMd-R', 'FEF-R', 'PMv-R']
+2025-03-14 17:37:49,712 - INFO - Available coordinates for: ['V1-L', 'V3-L', 'SPOC-L', 'AG-L', 'POJ-L', 'SPL-L', 'mIPS-L', 'VIP-L', 'IPL-L', 'STS-L', 'S1-L', 'M1-L', 'SMA-L', 'PMd-L', 'FEF-L', 'PMv-L', 'V1-R', 'V3-R', 'SPOC-R', 'AG-R', 'POJ-R', 'SPL-R', 'mIPS-R', 'VIP-R', 'IPL-R', 'STS-R', 'S1-R', 'M1-R', 'SMA-R', 'PMd-R', 'FEF-R', 'PMv-R']
+2025-03-14 17:37:49,939 - INFO - Created simplified brain visualization: iPDC_10Hz_L-R_brain_negative_20250314-173749.png
+2025-03-14 17:37:50,002 - INFO - Processing Cue_iPDC_20Hz...
+2025-03-14 17:37:50,002 - INFO - Processing folder: Cue_iPDC_20Hz
+2025-03-14 17:37:50,003 - INFO - Found 1 statistical test files
+2025-03-14 17:37:50,003 - INFO - Processing iPDC_20Hz_L-R (wilcoxon)
+2025-03-14 17:37:50,003 - INFO - Reading connectivity matrix from iPDC_20Hz_L-R_wilcoxon.csv
+2025-03-14 17:37:50,005 - INFO - Region labels: ['V1-L', 'V3-L', 'SPOC-L', 'AG-L', 'POJ-L', 'SPL-L', 'mIPS-L', 'VIP-L', 'IPL-L', 'STS-L', 'S1-L', 'M1-L', 'SMA-L', 'PMd-L', 'FEF-L', 'PMv-L', 'V1-R', 'V3-R', 'SPOC-R', 'AG-R', 'POJ-R', 'SPL-R', 'mIPS-R', 'VIP-R', 'IPL-R', 'STS-R', 'S1-R', 'M1-R', 'SMA-R', 'PMd-R', 'FEF-R', 'PMv-R']
+2025-03-14 17:37:50,005 - INFO - Available coordinates for: ['V1-L', 'V3-L', 'SPOC-L', 'AG-L', 'POJ-L', 'SPL-L', 'mIPS-L', 'VIP-L', 'IPL-L', 'STS-L', 'S1-L', 'M1-L', 'SMA-L', 'PMd-L', 'FEF-L', 'PMv-L', 'V1-R', 'V3-R', 'SPOC-R', 'AG-R', 'POJ-R', 'SPL-R', 'mIPS-R', 'VIP-R', 'IPL-R', 'STS-R', 'S1-R', 'M1-R', 'SMA-R', 'PMd-R', 'FEF-R', 'PMv-R']
+2025-03-14 17:37:50,229 - INFO - Created simplified brain visualization: iPDC_20Hz_L-R_brain_positive_20250314-173750.png
+2025-03-14 17:37:50,291 - INFO - Region labels: ['V1-L', 'V3-L', 'SPOC-L', 'AG-L', 'POJ-L', 'SPL-L', 'mIPS-L', 'VIP-L', 'IPL-L', 'STS-L', 'S1-L', 'M1-L', 'SMA-L', 'PMd-L', 'FEF-L', 'PMv-L', 'V1-R', 'V3-R', 'SPOC-R', 'AG-R', 'POJ-R', 'SPL-R', 'mIPS-R', 'VIP-R', 'IPL-R', 'STS-R', 'S1-R', 'M1-R', 'SMA-R', 'PMd-R', 'FEF-R', 'PMv-R']
+2025-03-14 17:37:50,291 - INFO - Available coordinates for: ['V1-L', 'V3-L', 'SPOC-L', 'AG-L', 'POJ-L', 'SPL-L', 'mIPS-L', 'VIP-L', 'IPL-L', 'STS-L', 'S1-L', 'M1-L', 'SMA-L', 'PMd-L', 'FEF-L', 'PMv-L', 'V1-R', 'V3-R', 'SPOC-R', 'AG-R', 'POJ-R', 'SPL-R', 'mIPS-R', 'VIP-R', 'IPL-R', 'STS-R', 'S1-R', 'M1-R', 'SMA-R', 'PMd-R', 'FEF-R', 'PMv-R']
+2025-03-14 17:37:50,519 - INFO - Created simplified brain visualization: iPDC_20Hz_L-R_brain_negative_20250314-173750.png
+2025-03-14 17:37:50,583 - INFO - 
+---------------------
+2025-03-14 17:37:50,583 - INFO - Processing complete!
+2025-03-14 17:37:50,583 - INFO - Folders processed: 9
+2025-03-14 17:37:50,583 - INFO - Visualizations created: 18
+2025-03-14 17:37:50,583 - INFO - Errors encountered: 0
+2025-03-14 17:37:50,584 - INFO - Process completed at: 2025-03-14 17:37:50

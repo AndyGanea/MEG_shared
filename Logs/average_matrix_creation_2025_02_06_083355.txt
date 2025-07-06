@@ -1,0 +1,815 @@
+MEG Signal Analysis - Enhanced Average Matrix Creation
+==================================================
+Selected dataset: DataSet2_unc
+Process started at: 2025-02-06 08:33:55
+--------------------------------------------------
+
+Processing dataset...
+
+Processing alignment: cue
+Processing target: L
+Processing: gDTF_100Hz
+Created average matrix: Data\DataSet2_unc\cue\L\gDTF_100Hz\DataSet2_unc_cue_gDTF_100Hz_average.csv
+Processing subject: BG
+Created average matrix: Data\DataSet2_unc\cue\L\gDTF_100Hz\BG\cue_L_BG_average.csv
+Processing subject: DOC
+Created average matrix: Data\DataSet2_unc\cue\L\gDTF_100Hz\DOC\cue_L_DOC_average.csv
+Processing subject: GB
+Created average matrix: Data\DataSet2_unc\cue\L\gDTF_100Hz\GB\cue_L_GB_average.csv
+Processing subject: JDC
+Created average matrix: Data\DataSet2_unc\cue\L\gDTF_100Hz\JDC\cue_L_JDC_average.csv
+Processing subject: JFXD
+Created average matrix: Data\DataSet2_unc\cue\L\gDTF_100Hz\JFXD\cue_L_JFXD_average.csv
+Processing subject: JZ
+Created average matrix: Data\DataSet2_unc\cue\L\gDTF_100Hz\JZ\cue_L_JZ_average.csv
+Processing subject: LT
+Created average matrix: Data\DataSet2_unc\cue\L\gDTF_100Hz\LT\cue_L_LT_average.csv
+Processing subject: NvA
+Created average matrix: Data\DataSet2_unc\cue\L\gDTF_100Hz\NvA\cue_L_NvA_average.csv
+Processing subject: RR
+Created average matrix: Data\DataSet2_unc\cue\L\gDTF_100Hz\RR\cue_L_RR_average.csv
+Processing subject: SJB
+Created average matrix: Data\DataSet2_unc\cue\L\gDTF_100Hz\SJB\cue_L_SJB_average.csv
+Processing: gDTF_10Hz
+Created average matrix: Data\DataSet2_unc\cue\L\gDTF_10Hz\DataSet2_unc_cue_gDTF_10Hz_average.csv
+Processing subject: BG
+Created average matrix: Data\DataSet2_unc\cue\L\gDTF_10Hz\BG\cue_L_BG_average.csv
+Processing subject: DOC
+Created average matrix: Data\DataSet2_unc\cue\L\gDTF_10Hz\DOC\cue_L_DOC_average.csv
+Processing subject: GB
+Created average matrix: Data\DataSet2_unc\cue\L\gDTF_10Hz\GB\cue_L_GB_average.csv
+Processing subject: JDC
+Created average matrix: Data\DataSet2_unc\cue\L\gDTF_10Hz\JDC\cue_L_JDC_average.csv
+Processing subject: JFXD
+Created average matrix: Data\DataSet2_unc\cue\L\gDTF_10Hz\JFXD\cue_L_JFXD_average.csv
+Processing subject: JZ
+Created average matrix: Data\DataSet2_unc\cue\L\gDTF_10Hz\JZ\cue_L_JZ_average.csv
+Processing subject: LT
+Created average matrix: Data\DataSet2_unc\cue\L\gDTF_10Hz\LT\cue_L_LT_average.csv
+Processing subject: NvA
+Created average matrix: Data\DataSet2_unc\cue\L\gDTF_10Hz\NvA\cue_L_NvA_average.csv
+Processing subject: RR
+Created average matrix: Data\DataSet2_unc\cue\L\gDTF_10Hz\RR\cue_L_RR_average.csv
+Processing subject: SJB
+Created average matrix: Data\DataSet2_unc\cue\L\gDTF_10Hz\SJB\cue_L_SJB_average.csv
+Processing: gDTF_20Hz
+Created average matrix: Data\DataSet2_unc\cue\L\gDTF_20Hz\DataSet2_unc_cue_gDTF_20Hz_average.csv
+Processing subject: BG
+Created average matrix: Data\DataSet2_unc\cue\L\gDTF_20Hz\BG\cue_L_BG_average.csv
+Processing subject: DOC
+Created average matrix: Data\DataSet2_unc\cue\L\gDTF_20Hz\DOC\cue_L_DOC_average.csv
+Processing subject: GB
+Created average matrix: Data\DataSet2_unc\cue\L\gDTF_20Hz\GB\cue_L_GB_average.csv
+Processing subject: JDC
+Created average matrix: Data\DataSet2_unc\cue\L\gDTF_20Hz\JDC\cue_L_JDC_average.csv
+Processing subject: JFXD
+Created average matrix: Data\DataSet2_unc\cue\L\gDTF_20Hz\JFXD\cue_L_JFXD_average.csv
+Processing subject: JZ
+Created average matrix: Data\DataSet2_unc\cue\L\gDTF_20Hz\JZ\cue_L_JZ_average.csv
+Processing subject: LT
+Created average matrix: Data\DataSet2_unc\cue\L\gDTF_20Hz\LT\cue_L_LT_average.csv
+Processing subject: NvA
+Created average matrix: Data\DataSet2_unc\cue\L\gDTF_20Hz\NvA\cue_L_NvA_average.csv
+Processing subject: RR
+Created average matrix: Data\DataSet2_unc\cue\L\gDTF_20Hz\RR\cue_L_RR_average.csv
+Processing subject: SJB
+Created average matrix: Data\DataSet2_unc\cue\L\gDTF_20Hz\SJB\cue_L_SJB_average.csv
+Processing: gPDC_100Hz
+Created average matrix: Data\DataSet2_unc\cue\L\gPDC_100Hz\DataSet2_unc_cue_gPDC_100Hz_average.csv
+Processing subject: BG
+Created average matrix: Data\DataSet2_unc\cue\L\gPDC_100Hz\BG\cue_L_BG_average.csv
+Processing subject: DOC
+Created average matrix: Data\DataSet2_unc\cue\L\gPDC_100Hz\DOC\cue_L_DOC_average.csv
+Processing subject: GB
+Created average matrix: Data\DataSet2_unc\cue\L\gPDC_100Hz\GB\cue_L_GB_average.csv
+Processing subject: JDC
+Created average matrix: Data\DataSet2_unc\cue\L\gPDC_100Hz\JDC\cue_L_JDC_average.csv
+Processing subject: JFXD
+Created average matrix: Data\DataSet2_unc\cue\L\gPDC_100Hz\JFXD\cue_L_JFXD_average.csv
+Processing subject: JZ
+Created average matrix: Data\DataSet2_unc\cue\L\gPDC_100Hz\JZ\cue_L_JZ_average.csv
+Processing subject: LT
+Created average matrix: Data\DataSet2_unc\cue\L\gPDC_100Hz\LT\cue_L_LT_average.csv
+Processing subject: NvA
+Created average matrix: Data\DataSet2_unc\cue\L\gPDC_100Hz\NvA\cue_L_NvA_average.csv
+Processing subject: RR
+Created average matrix: Data\DataSet2_unc\cue\L\gPDC_100Hz\RR\cue_L_RR_average.csv
+Processing subject: SJB
+Created average matrix: Data\DataSet2_unc\cue\L\gPDC_100Hz\SJB\cue_L_SJB_average.csv
+Processing: gPDC_10Hz
+Created average matrix: Data\DataSet2_unc\cue\L\gPDC_10Hz\DataSet2_unc_cue_gPDC_10Hz_average.csv
+Processing subject: BG
+Created average matrix: Data\DataSet2_unc\cue\L\gPDC_10Hz\BG\cue_L_BG_average.csv
+Processing subject: DOC
+Created average matrix: Data\DataSet2_unc\cue\L\gPDC_10Hz\DOC\cue_L_DOC_average.csv
+Processing subject: GB
+Created average matrix: Data\DataSet2_unc\cue\L\gPDC_10Hz\GB\cue_L_GB_average.csv
+Processing subject: JDC
+Created average matrix: Data\DataSet2_unc\cue\L\gPDC_10Hz\JDC\cue_L_JDC_average.csv
+Processing subject: JFXD
+Created average matrix: Data\DataSet2_unc\cue\L\gPDC_10Hz\JFXD\cue_L_JFXD_average.csv
+Processing subject: JZ
+Created average matrix: Data\DataSet2_unc\cue\L\gPDC_10Hz\JZ\cue_L_JZ_average.csv
+Processing subject: LT
+Created average matrix: Data\DataSet2_unc\cue\L\gPDC_10Hz\LT\cue_L_LT_average.csv
+Processing subject: NvA
+Created average matrix: Data\DataSet2_unc\cue\L\gPDC_10Hz\NvA\cue_L_NvA_average.csv
+Processing subject: RR
+Created average matrix: Data\DataSet2_unc\cue\L\gPDC_10Hz\RR\cue_L_RR_average.csv
+Processing subject: SJB
+Created average matrix: Data\DataSet2_unc\cue\L\gPDC_10Hz\SJB\cue_L_SJB_average.csv
+Processing: gPDC_20Hz
+Created average matrix: Data\DataSet2_unc\cue\L\gPDC_20Hz\DataSet2_unc_cue_gPDC_20Hz_average.csv
+Processing subject: BG
+Created average matrix: Data\DataSet2_unc\cue\L\gPDC_20Hz\BG\cue_L_BG_average.csv
+Processing subject: DOC
+Created average matrix: Data\DataSet2_unc\cue\L\gPDC_20Hz\DOC\cue_L_DOC_average.csv
+Processing subject: GB
+Created average matrix: Data\DataSet2_unc\cue\L\gPDC_20Hz\GB\cue_L_GB_average.csv
+Processing subject: JDC
+Created average matrix: Data\DataSet2_unc\cue\L\gPDC_20Hz\JDC\cue_L_JDC_average.csv
+Processing subject: JFXD
+Created average matrix: Data\DataSet2_unc\cue\L\gPDC_20Hz\JFXD\cue_L_JFXD_average.csv
+Processing subject: JZ
+Created average matrix: Data\DataSet2_unc\cue\L\gPDC_20Hz\JZ\cue_L_JZ_average.csv
+Processing subject: LT
+Created average matrix: Data\DataSet2_unc\cue\L\gPDC_20Hz\LT\cue_L_LT_average.csv
+Processing subject: NvA
+Created average matrix: Data\DataSet2_unc\cue\L\gPDC_20Hz\NvA\cue_L_NvA_average.csv
+Processing subject: RR
+Created average matrix: Data\DataSet2_unc\cue\L\gPDC_20Hz\RR\cue_L_RR_average.csv
+Processing subject: SJB
+Created average matrix: Data\DataSet2_unc\cue\L\gPDC_20Hz\SJB\cue_L_SJB_average.csv
+Processing: iPDC_100Hz
+Created average matrix: Data\DataSet2_unc\cue\L\iPDC_100Hz\DataSet2_unc_cue_iPDC_100Hz_average.csv
+Processing subject: BG
+Created average matrix: Data\DataSet2_unc\cue\L\iPDC_100Hz\BG\cue_L_BG_average.csv
+Processing subject: DOC
+Created average matrix: Data\DataSet2_unc\cue\L\iPDC_100Hz\DOC\cue_L_DOC_average.csv
+Processing subject: GB
+Created average matrix: Data\DataSet2_unc\cue\L\iPDC_100Hz\GB\cue_L_GB_average.csv
+Processing subject: JDC
+Created average matrix: Data\DataSet2_unc\cue\L\iPDC_100Hz\JDC\cue_L_JDC_average.csv
+Processing subject: JFXD
+Created average matrix: Data\DataSet2_unc\cue\L\iPDC_100Hz\JFXD\cue_L_JFXD_average.csv
+Processing subject: JZ
+Created average matrix: Data\DataSet2_unc\cue\L\iPDC_100Hz\JZ\cue_L_JZ_average.csv
+Processing subject: LT
+Created average matrix: Data\DataSet2_unc\cue\L\iPDC_100Hz\LT\cue_L_LT_average.csv
+Processing subject: NvA
+Created average matrix: Data\DataSet2_unc\cue\L\iPDC_100Hz\NvA\cue_L_NvA_average.csv
+Processing subject: RR
+Created average matrix: Data\DataSet2_unc\cue\L\iPDC_100Hz\RR\cue_L_RR_average.csv
+Processing subject: SJB
+Created average matrix: Data\DataSet2_unc\cue\L\iPDC_100Hz\SJB\cue_L_SJB_average.csv
+Processing: iPDC_10Hz
+Created average matrix: Data\DataSet2_unc\cue\L\iPDC_10Hz\DataSet2_unc_cue_iPDC_10Hz_average.csv
+Processing subject: BG
+Created average matrix: Data\DataSet2_unc\cue\L\iPDC_10Hz\BG\cue_L_BG_average.csv
+Processing subject: DOC
+Created average matrix: Data\DataSet2_unc\cue\L\iPDC_10Hz\DOC\cue_L_DOC_average.csv
+Processing subject: GB
+Created average matrix: Data\DataSet2_unc\cue\L\iPDC_10Hz\GB\cue_L_GB_average.csv
+Processing subject: JDC
+Created average matrix: Data\DataSet2_unc\cue\L\iPDC_10Hz\JDC\cue_L_JDC_average.csv
+Processing subject: JFXD
+Created average matrix: Data\DataSet2_unc\cue\L\iPDC_10Hz\JFXD\cue_L_JFXD_average.csv
+Processing subject: JZ
+Created average matrix: Data\DataSet2_unc\cue\L\iPDC_10Hz\JZ\cue_L_JZ_average.csv
+Processing subject: LT
+Created average matrix: Data\DataSet2_unc\cue\L\iPDC_10Hz\LT\cue_L_LT_average.csv
+Processing subject: NvA
+Created average matrix: Data\DataSet2_unc\cue\L\iPDC_10Hz\NvA\cue_L_NvA_average.csv
+Processing subject: RR
+Created average matrix: Data\DataSet2_unc\cue\L\iPDC_10Hz\RR\cue_L_RR_average.csv
+Processing subject: SJB
+Created average matrix: Data\DataSet2_unc\cue\L\iPDC_10Hz\SJB\cue_L_SJB_average.csv
+Processing: iPDC_20Hz
+Created average matrix: Data\DataSet2_unc\cue\L\iPDC_20Hz\DataSet2_unc_cue_iPDC_20Hz_average.csv
+Processing subject: BG
+Created average matrix: Data\DataSet2_unc\cue\L\iPDC_20Hz\BG\cue_L_BG_average.csv
+Processing subject: DOC
+Created average matrix: Data\DataSet2_unc\cue\L\iPDC_20Hz\DOC\cue_L_DOC_average.csv
+Processing subject: GB
+Created average matrix: Data\DataSet2_unc\cue\L\iPDC_20Hz\GB\cue_L_GB_average.csv
+Processing subject: JDC
+Created average matrix: Data\DataSet2_unc\cue\L\iPDC_20Hz\JDC\cue_L_JDC_average.csv
+Processing subject: JFXD
+Created average matrix: Data\DataSet2_unc\cue\L\iPDC_20Hz\JFXD\cue_L_JFXD_average.csv
+Processing subject: JZ
+Created average matrix: Data\DataSet2_unc\cue\L\iPDC_20Hz\JZ\cue_L_JZ_average.csv
+Processing subject: LT
+Created average matrix: Data\DataSet2_unc\cue\L\iPDC_20Hz\LT\cue_L_LT_average.csv
+Processing subject: NvA
+Created average matrix: Data\DataSet2_unc\cue\L\iPDC_20Hz\NvA\cue_L_NvA_average.csv
+Processing subject: RR
+Created average matrix: Data\DataSet2_unc\cue\L\iPDC_20Hz\RR\cue_L_RR_average.csv
+Processing subject: SJB
+Created average matrix: Data\DataSet2_unc\cue\L\iPDC_20Hz\SJB\cue_L_SJB_average.csv
+Processing target: R
+Processing: gDTF_100Hz
+Created average matrix: Data\DataSet2_unc\cue\R\gDTF_100Hz\DataSet2_unc_cue_gDTF_100Hz_average.csv
+Processing subject: BG
+Created average matrix: Data\DataSet2_unc\cue\R\gDTF_100Hz\BG\cue_R_BG_average.csv
+Processing subject: DOC
+Created average matrix: Data\DataSet2_unc\cue\R\gDTF_100Hz\DOC\cue_R_DOC_average.csv
+Processing subject: GB
+Created average matrix: Data\DataSet2_unc\cue\R\gDTF_100Hz\GB\cue_R_GB_average.csv
+Processing subject: JDC
+Created average matrix: Data\DataSet2_unc\cue\R\gDTF_100Hz\JDC\cue_R_JDC_average.csv
+Processing subject: JFXD
+Created average matrix: Data\DataSet2_unc\cue\R\gDTF_100Hz\JFXD\cue_R_JFXD_average.csv
+Processing subject: JZ
+Created average matrix: Data\DataSet2_unc\cue\R\gDTF_100Hz\JZ\cue_R_JZ_average.csv
+Processing subject: LT
+Created average matrix: Data\DataSet2_unc\cue\R\gDTF_100Hz\LT\cue_R_LT_average.csv
+Processing subject: NvA
+Created average matrix: Data\DataSet2_unc\cue\R\gDTF_100Hz\NvA\cue_R_NvA_average.csv
+Processing subject: RR
+Created average matrix: Data\DataSet2_unc\cue\R\gDTF_100Hz\RR\cue_R_RR_average.csv
+Processing subject: SJB
+Created average matrix: Data\DataSet2_unc\cue\R\gDTF_100Hz\SJB\cue_R_SJB_average.csv
+Processing: gDTF_10Hz
+Created average matrix: Data\DataSet2_unc\cue\R\gDTF_10Hz\DataSet2_unc_cue_gDTF_10Hz_average.csv
+Processing subject: BG
+Created average matrix: Data\DataSet2_unc\cue\R\gDTF_10Hz\BG\cue_R_BG_average.csv
+Processing subject: DOC
+Created average matrix: Data\DataSet2_unc\cue\R\gDTF_10Hz\DOC\cue_R_DOC_average.csv
+Processing subject: GB
+Created average matrix: Data\DataSet2_unc\cue\R\gDTF_10Hz\GB\cue_R_GB_average.csv
+Processing subject: JDC
+Created average matrix: Data\DataSet2_unc\cue\R\gDTF_10Hz\JDC\cue_R_JDC_average.csv
+Processing subject: JFXD
+Created average matrix: Data\DataSet2_unc\cue\R\gDTF_10Hz\JFXD\cue_R_JFXD_average.csv
+Processing subject: JZ
+Created average matrix: Data\DataSet2_unc\cue\R\gDTF_10Hz\JZ\cue_R_JZ_average.csv
+Processing subject: LT
+Created average matrix: Data\DataSet2_unc\cue\R\gDTF_10Hz\LT\cue_R_LT_average.csv
+Processing subject: NvA
+Created average matrix: Data\DataSet2_unc\cue\R\gDTF_10Hz\NvA\cue_R_NvA_average.csv
+Processing subject: RR
+Created average matrix: Data\DataSet2_unc\cue\R\gDTF_10Hz\RR\cue_R_RR_average.csv
+Processing subject: SJB
+Created average matrix: Data\DataSet2_unc\cue\R\gDTF_10Hz\SJB\cue_R_SJB_average.csv
+Processing: gDTF_20Hz
+Created average matrix: Data\DataSet2_unc\cue\R\gDTF_20Hz\DataSet2_unc_cue_gDTF_20Hz_average.csv
+Processing subject: BG
+Created average matrix: Data\DataSet2_unc\cue\R\gDTF_20Hz\BG\cue_R_BG_average.csv
+Processing subject: DOC
+Created average matrix: Data\DataSet2_unc\cue\R\gDTF_20Hz\DOC\cue_R_DOC_average.csv
+Processing subject: GB
+Created average matrix: Data\DataSet2_unc\cue\R\gDTF_20Hz\GB\cue_R_GB_average.csv
+Processing subject: JDC
+Created average matrix: Data\DataSet2_unc\cue\R\gDTF_20Hz\JDC\cue_R_JDC_average.csv
+Processing subject: JFXD
+Created average matrix: Data\DataSet2_unc\cue\R\gDTF_20Hz\JFXD\cue_R_JFXD_average.csv
+Processing subject: JZ
+Created average matrix: Data\DataSet2_unc\cue\R\gDTF_20Hz\JZ\cue_R_JZ_average.csv
+Processing subject: LT
+Created average matrix: Data\DataSet2_unc\cue\R\gDTF_20Hz\LT\cue_R_LT_average.csv
+Processing subject: NvA
+Created average matrix: Data\DataSet2_unc\cue\R\gDTF_20Hz\NvA\cue_R_NvA_average.csv
+Processing subject: RR
+Created average matrix: Data\DataSet2_unc\cue\R\gDTF_20Hz\RR\cue_R_RR_average.csv
+Processing subject: SJB
+Created average matrix: Data\DataSet2_unc\cue\R\gDTF_20Hz\SJB\cue_R_SJB_average.csv
+Processing: gPDC_100Hz
+Created average matrix: Data\DataSet2_unc\cue\R\gPDC_100Hz\DataSet2_unc_cue_gPDC_100Hz_average.csv
+Processing subject: BG
+Created average matrix: Data\DataSet2_unc\cue\R\gPDC_100Hz\BG\cue_R_BG_average.csv
+Processing subject: DOC
+Created average matrix: Data\DataSet2_unc\cue\R\gPDC_100Hz\DOC\cue_R_DOC_average.csv
+Processing subject: GB
+Created average matrix: Data\DataSet2_unc\cue\R\gPDC_100Hz\GB\cue_R_GB_average.csv
+Processing subject: JDC
+Created average matrix: Data\DataSet2_unc\cue\R\gPDC_100Hz\JDC\cue_R_JDC_average.csv
+Processing subject: JFXD
+Created average matrix: Data\DataSet2_unc\cue\R\gPDC_100Hz\JFXD\cue_R_JFXD_average.csv
+Processing subject: JZ
+Created average matrix: Data\DataSet2_unc\cue\R\gPDC_100Hz\JZ\cue_R_JZ_average.csv
+Processing subject: LT
+Created average matrix: Data\DataSet2_unc\cue\R\gPDC_100Hz\LT\cue_R_LT_average.csv
+Processing subject: NvA
+Created average matrix: Data\DataSet2_unc\cue\R\gPDC_100Hz\NvA\cue_R_NvA_average.csv
+Processing subject: RR
+Created average matrix: Data\DataSet2_unc\cue\R\gPDC_100Hz\RR\cue_R_RR_average.csv
+Processing subject: SJB
+Created average matrix: Data\DataSet2_unc\cue\R\gPDC_100Hz\SJB\cue_R_SJB_average.csv
+Processing: gPDC_10Hz
+Created average matrix: Data\DataSet2_unc\cue\R\gPDC_10Hz\DataSet2_unc_cue_gPDC_10Hz_average.csv
+Processing subject: BG
+Created average matrix: Data\DataSet2_unc\cue\R\gPDC_10Hz\BG\cue_R_BG_average.csv
+Processing subject: DOC
+Created average matrix: Data\DataSet2_unc\cue\R\gPDC_10Hz\DOC\cue_R_DOC_average.csv
+Processing subject: GB
+Created average matrix: Data\DataSet2_unc\cue\R\gPDC_10Hz\GB\cue_R_GB_average.csv
+Processing subject: JDC
+Created average matrix: Data\DataSet2_unc\cue\R\gPDC_10Hz\JDC\cue_R_JDC_average.csv
+Processing subject: JFXD
+Created average matrix: Data\DataSet2_unc\cue\R\gPDC_10Hz\JFXD\cue_R_JFXD_average.csv
+Processing subject: JZ
+Created average matrix: Data\DataSet2_unc\cue\R\gPDC_10Hz\JZ\cue_R_JZ_average.csv
+Processing subject: LT
+Created average matrix: Data\DataSet2_unc\cue\R\gPDC_10Hz\LT\cue_R_LT_average.csv
+Processing subject: NvA
+Created average matrix: Data\DataSet2_unc\cue\R\gPDC_10Hz\NvA\cue_R_NvA_average.csv
+Processing subject: RR
+Created average matrix: Data\DataSet2_unc\cue\R\gPDC_10Hz\RR\cue_R_RR_average.csv
+Processing subject: SJB
+Created average matrix: Data\DataSet2_unc\cue\R\gPDC_10Hz\SJB\cue_R_SJB_average.csv
+Processing: gPDC_20Hz
+Created average matrix: Data\DataSet2_unc\cue\R\gPDC_20Hz\DataSet2_unc_cue_gPDC_20Hz_average.csv
+Processing subject: BG
+Created average matrix: Data\DataSet2_unc\cue\R\gPDC_20Hz\BG\cue_R_BG_average.csv
+Processing subject: DOC
+Created average matrix: Data\DataSet2_unc\cue\R\gPDC_20Hz\DOC\cue_R_DOC_average.csv
+Processing subject: GB
+Created average matrix: Data\DataSet2_unc\cue\R\gPDC_20Hz\GB\cue_R_GB_average.csv
+Processing subject: JDC
+Created average matrix: Data\DataSet2_unc\cue\R\gPDC_20Hz\JDC\cue_R_JDC_average.csv
+Processing subject: JFXD
+Created average matrix: Data\DataSet2_unc\cue\R\gPDC_20Hz\JFXD\cue_R_JFXD_average.csv
+Processing subject: JZ
+Created average matrix: Data\DataSet2_unc\cue\R\gPDC_20Hz\JZ\cue_R_JZ_average.csv
+Processing subject: LT
+Created average matrix: Data\DataSet2_unc\cue\R\gPDC_20Hz\LT\cue_R_LT_average.csv
+Processing subject: NvA
+Created average matrix: Data\DataSet2_unc\cue\R\gPDC_20Hz\NvA\cue_R_NvA_average.csv
+Processing subject: RR
+Created average matrix: Data\DataSet2_unc\cue\R\gPDC_20Hz\RR\cue_R_RR_average.csv
+Processing subject: SJB
+Created average matrix: Data\DataSet2_unc\cue\R\gPDC_20Hz\SJB\cue_R_SJB_average.csv
+Processing: iPDC_100Hz
+Created average matrix: Data\DataSet2_unc\cue\R\iPDC_100Hz\DataSet2_unc_cue_iPDC_100Hz_average.csv
+Processing subject: BG
+Created average matrix: Data\DataSet2_unc\cue\R\iPDC_100Hz\BG\cue_R_BG_average.csv
+Processing subject: DOC
+Created average matrix: Data\DataSet2_unc\cue\R\iPDC_100Hz\DOC\cue_R_DOC_average.csv
+Processing subject: GB
+Created average matrix: Data\DataSet2_unc\cue\R\iPDC_100Hz\GB\cue_R_GB_average.csv
+Processing subject: JDC
+Created average matrix: Data\DataSet2_unc\cue\R\iPDC_100Hz\JDC\cue_R_JDC_average.csv
+Processing subject: JFXD
+Created average matrix: Data\DataSet2_unc\cue\R\iPDC_100Hz\JFXD\cue_R_JFXD_average.csv
+Processing subject: JZ
+Created average matrix: Data\DataSet2_unc\cue\R\iPDC_100Hz\JZ\cue_R_JZ_average.csv
+Processing subject: LT
+Created average matrix: Data\DataSet2_unc\cue\R\iPDC_100Hz\LT\cue_R_LT_average.csv
+Processing subject: NvA
+Created average matrix: Data\DataSet2_unc\cue\R\iPDC_100Hz\NvA\cue_R_NvA_average.csv
+Processing subject: RR
+Created average matrix: Data\DataSet2_unc\cue\R\iPDC_100Hz\RR\cue_R_RR_average.csv
+Processing subject: SJB
+Created average matrix: Data\DataSet2_unc\cue\R\iPDC_100Hz\SJB\cue_R_SJB_average.csv
+Processing: iPDC_10Hz
+Created average matrix: Data\DataSet2_unc\cue\R\iPDC_10Hz\DataSet2_unc_cue_iPDC_10Hz_average.csv
+Processing subject: BG
+Created average matrix: Data\DataSet2_unc\cue\R\iPDC_10Hz\BG\cue_R_BG_average.csv
+Processing subject: DOC
+Created average matrix: Data\DataSet2_unc\cue\R\iPDC_10Hz\DOC\cue_R_DOC_average.csv
+Processing subject: GB
+Created average matrix: Data\DataSet2_unc\cue\R\iPDC_10Hz\GB\cue_R_GB_average.csv
+Processing subject: JDC
+Created average matrix: Data\DataSet2_unc\cue\R\iPDC_10Hz\JDC\cue_R_JDC_average.csv
+Processing subject: JFXD
+Created average matrix: Data\DataSet2_unc\cue\R\iPDC_10Hz\JFXD\cue_R_JFXD_average.csv
+Processing subject: JZ
+Created average matrix: Data\DataSet2_unc\cue\R\iPDC_10Hz\JZ\cue_R_JZ_average.csv
+Processing subject: LT
+Created average matrix: Data\DataSet2_unc\cue\R\iPDC_10Hz\LT\cue_R_LT_average.csv
+Processing subject: NvA
+Created average matrix: Data\DataSet2_unc\cue\R\iPDC_10Hz\NvA\cue_R_NvA_average.csv
+Processing subject: RR
+Created average matrix: Data\DataSet2_unc\cue\R\iPDC_10Hz\RR\cue_R_RR_average.csv
+Processing subject: SJB
+Created average matrix: Data\DataSet2_unc\cue\R\iPDC_10Hz\SJB\cue_R_SJB_average.csv
+Processing: iPDC_20Hz
+Created average matrix: Data\DataSet2_unc\cue\R\iPDC_20Hz\DataSet2_unc_cue_iPDC_20Hz_average.csv
+Processing subject: BG
+Created average matrix: Data\DataSet2_unc\cue\R\iPDC_20Hz\BG\cue_R_BG_average.csv
+Processing subject: DOC
+Created average matrix: Data\DataSet2_unc\cue\R\iPDC_20Hz\DOC\cue_R_DOC_average.csv
+Processing subject: GB
+Created average matrix: Data\DataSet2_unc\cue\R\iPDC_20Hz\GB\cue_R_GB_average.csv
+Processing subject: JDC
+Created average matrix: Data\DataSet2_unc\cue\R\iPDC_20Hz\JDC\cue_R_JDC_average.csv
+Processing subject: JFXD
+Created average matrix: Data\DataSet2_unc\cue\R\iPDC_20Hz\JFXD\cue_R_JFXD_average.csv
+Processing subject: JZ
+Created average matrix: Data\DataSet2_unc\cue\R\iPDC_20Hz\JZ\cue_R_JZ_average.csv
+Processing subject: LT
+Created average matrix: Data\DataSet2_unc\cue\R\iPDC_20Hz\LT\cue_R_LT_average.csv
+Processing subject: NvA
+Created average matrix: Data\DataSet2_unc\cue\R\iPDC_20Hz\NvA\cue_R_NvA_average.csv
+Processing subject: RR
+Created average matrix: Data\DataSet2_unc\cue\R\iPDC_20Hz\RR\cue_R_RR_average.csv
+Processing subject: SJB
+Created average matrix: Data\DataSet2_unc\cue\R\iPDC_20Hz\SJB\cue_R_SJB_average.csv
+
+Processing alignment: mov
+Processing target: L
+Processing: gDTF_100Hz
+Created average matrix: Data\DataSet2_unc\mov\L\gDTF_100Hz\DataSet2_unc_mov_gDTF_100Hz_average.csv
+Processing subject: BG
+Created average matrix: Data\DataSet2_unc\mov\L\gDTF_100Hz\BG\mov_L_BG_average.csv
+Processing subject: DOC
+Created average matrix: Data\DataSet2_unc\mov\L\gDTF_100Hz\DOC\mov_L_DOC_average.csv
+Processing subject: GB
+Created average matrix: Data\DataSet2_unc\mov\L\gDTF_100Hz\GB\mov_L_GB_average.csv
+Processing subject: JDC
+Created average matrix: Data\DataSet2_unc\mov\L\gDTF_100Hz\JDC\mov_L_JDC_average.csv
+Processing subject: JFXD
+Created average matrix: Data\DataSet2_unc\mov\L\gDTF_100Hz\JFXD\mov_L_JFXD_average.csv
+Processing subject: JZ
+Created average matrix: Data\DataSet2_unc\mov\L\gDTF_100Hz\JZ\mov_L_JZ_average.csv
+Processing subject: LT
+Created average matrix: Data\DataSet2_unc\mov\L\gDTF_100Hz\LT\mov_L_LT_average.csv
+Processing subject: NvA
+Created average matrix: Data\DataSet2_unc\mov\L\gDTF_100Hz\NvA\mov_L_NvA_average.csv
+Processing subject: RR
+Created average matrix: Data\DataSet2_unc\mov\L\gDTF_100Hz\RR\mov_L_RR_average.csv
+Processing subject: SJB
+Created average matrix: Data\DataSet2_unc\mov\L\gDTF_100Hz\SJB\mov_L_SJB_average.csv
+Processing: gDTF_10Hz
+Created average matrix: Data\DataSet2_unc\mov\L\gDTF_10Hz\DataSet2_unc_mov_gDTF_10Hz_average.csv
+Processing subject: BG
+Created average matrix: Data\DataSet2_unc\mov\L\gDTF_10Hz\BG\mov_L_BG_average.csv
+Processing subject: DOC
+Created average matrix: Data\DataSet2_unc\mov\L\gDTF_10Hz\DOC\mov_L_DOC_average.csv
+Processing subject: GB
+Created average matrix: Data\DataSet2_unc\mov\L\gDTF_10Hz\GB\mov_L_GB_average.csv
+Processing subject: JDC
+Created average matrix: Data\DataSet2_unc\mov\L\gDTF_10Hz\JDC\mov_L_JDC_average.csv
+Processing subject: JFXD
+Created average matrix: Data\DataSet2_unc\mov\L\gDTF_10Hz\JFXD\mov_L_JFXD_average.csv
+Processing subject: JZ
+Created average matrix: Data\DataSet2_unc\mov\L\gDTF_10Hz\JZ\mov_L_JZ_average.csv
+Processing subject: LT
+Created average matrix: Data\DataSet2_unc\mov\L\gDTF_10Hz\LT\mov_L_LT_average.csv
+Processing subject: NvA
+Created average matrix: Data\DataSet2_unc\mov\L\gDTF_10Hz\NvA\mov_L_NvA_average.csv
+Processing subject: RR
+Created average matrix: Data\DataSet2_unc\mov\L\gDTF_10Hz\RR\mov_L_RR_average.csv
+Processing subject: SJB
+Created average matrix: Data\DataSet2_unc\mov\L\gDTF_10Hz\SJB\mov_L_SJB_average.csv
+Processing: gDTF_20Hz
+Created average matrix: Data\DataSet2_unc\mov\L\gDTF_20Hz\DataSet2_unc_mov_gDTF_20Hz_average.csv
+Processing subject: BG
+Created average matrix: Data\DataSet2_unc\mov\L\gDTF_20Hz\BG\mov_L_BG_average.csv
+Processing subject: DOC
+Created average matrix: Data\DataSet2_unc\mov\L\gDTF_20Hz\DOC\mov_L_DOC_average.csv
+Processing subject: GB
+Created average matrix: Data\DataSet2_unc\mov\L\gDTF_20Hz\GB\mov_L_GB_average.csv
+Processing subject: JDC
+Created average matrix: Data\DataSet2_unc\mov\L\gDTF_20Hz\JDC\mov_L_JDC_average.csv
+Processing subject: JFXD
+Created average matrix: Data\DataSet2_unc\mov\L\gDTF_20Hz\JFXD\mov_L_JFXD_average.csv
+Processing subject: JZ
+Created average matrix: Data\DataSet2_unc\mov\L\gDTF_20Hz\JZ\mov_L_JZ_average.csv
+Processing subject: LT
+Created average matrix: Data\DataSet2_unc\mov\L\gDTF_20Hz\LT\mov_L_LT_average.csv
+Processing subject: NvA
+Created average matrix: Data\DataSet2_unc\mov\L\gDTF_20Hz\NvA\mov_L_NvA_average.csv
+Processing subject: RR
+Created average matrix: Data\DataSet2_unc\mov\L\gDTF_20Hz\RR\mov_L_RR_average.csv
+Processing subject: SJB
+Created average matrix: Data\DataSet2_unc\mov\L\gDTF_20Hz\SJB\mov_L_SJB_average.csv
+Processing: gPDC_100Hz
+Created average matrix: Data\DataSet2_unc\mov\L\gPDC_100Hz\DataSet2_unc_mov_gPDC_100Hz_average.csv
+Processing subject: BG
+Created average matrix: Data\DataSet2_unc\mov\L\gPDC_100Hz\BG\mov_L_BG_average.csv
+Processing subject: DOC
+Created average matrix: Data\DataSet2_unc\mov\L\gPDC_100Hz\DOC\mov_L_DOC_average.csv
+Processing subject: GB
+Created average matrix: Data\DataSet2_unc\mov\L\gPDC_100Hz\GB\mov_L_GB_average.csv
+Processing subject: JDC
+Created average matrix: Data\DataSet2_unc\mov\L\gPDC_100Hz\JDC\mov_L_JDC_average.csv
+Processing subject: JFXD
+Created average matrix: Data\DataSet2_unc\mov\L\gPDC_100Hz\JFXD\mov_L_JFXD_average.csv
+Processing subject: JZ
+Created average matrix: Data\DataSet2_unc\mov\L\gPDC_100Hz\JZ\mov_L_JZ_average.csv
+Processing subject: LT
+Created average matrix: Data\DataSet2_unc\mov\L\gPDC_100Hz\LT\mov_L_LT_average.csv
+Processing subject: NvA
+Created average matrix: Data\DataSet2_unc\mov\L\gPDC_100Hz\NvA\mov_L_NvA_average.csv
+Processing subject: RR
+Created average matrix: Data\DataSet2_unc\mov\L\gPDC_100Hz\RR\mov_L_RR_average.csv
+Processing subject: SJB
+Created average matrix: Data\DataSet2_unc\mov\L\gPDC_100Hz\SJB\mov_L_SJB_average.csv
+Processing: gPDC_10Hz
+Created average matrix: Data\DataSet2_unc\mov\L\gPDC_10Hz\DataSet2_unc_mov_gPDC_10Hz_average.csv
+Processing subject: BG
+Created average matrix: Data\DataSet2_unc\mov\L\gPDC_10Hz\BG\mov_L_BG_average.csv
+Processing subject: DOC
+Created average matrix: Data\DataSet2_unc\mov\L\gPDC_10Hz\DOC\mov_L_DOC_average.csv
+Processing subject: GB
+Created average matrix: Data\DataSet2_unc\mov\L\gPDC_10Hz\GB\mov_L_GB_average.csv
+Processing subject: JDC
+Created average matrix: Data\DataSet2_unc\mov\L\gPDC_10Hz\JDC\mov_L_JDC_average.csv
+Processing subject: JFXD
+Created average matrix: Data\DataSet2_unc\mov\L\gPDC_10Hz\JFXD\mov_L_JFXD_average.csv
+Processing subject: JZ
+Created average matrix: Data\DataSet2_unc\mov\L\gPDC_10Hz\JZ\mov_L_JZ_average.csv
+Processing subject: LT
+Created average matrix: Data\DataSet2_unc\mov\L\gPDC_10Hz\LT\mov_L_LT_average.csv
+Processing subject: NvA
+Created average matrix: Data\DataSet2_unc\mov\L\gPDC_10Hz\NvA\mov_L_NvA_average.csv
+Processing subject: RR
+Created average matrix: Data\DataSet2_unc\mov\L\gPDC_10Hz\RR\mov_L_RR_average.csv
+Processing subject: SJB
+Created average matrix: Data\DataSet2_unc\mov\L\gPDC_10Hz\SJB\mov_L_SJB_average.csv
+Processing: gPDC_20Hz
+Created average matrix: Data\DataSet2_unc\mov\L\gPDC_20Hz\DataSet2_unc_mov_gPDC_20Hz_average.csv
+Processing subject: BG
+Created average matrix: Data\DataSet2_unc\mov\L\gPDC_20Hz\BG\mov_L_BG_average.csv
+Processing subject: DOC
+Created average matrix: Data\DataSet2_unc\mov\L\gPDC_20Hz\DOC\mov_L_DOC_average.csv
+Processing subject: GB
+Created average matrix: Data\DataSet2_unc\mov\L\gPDC_20Hz\GB\mov_L_GB_average.csv
+Processing subject: JDC
+Created average matrix: Data\DataSet2_unc\mov\L\gPDC_20Hz\JDC\mov_L_JDC_average.csv
+Processing subject: JFXD
+Created average matrix: Data\DataSet2_unc\mov\L\gPDC_20Hz\JFXD\mov_L_JFXD_average.csv
+Processing subject: JZ
+Created average matrix: Data\DataSet2_unc\mov\L\gPDC_20Hz\JZ\mov_L_JZ_average.csv
+Processing subject: LT
+Created average matrix: Data\DataSet2_unc\mov\L\gPDC_20Hz\LT\mov_L_LT_average.csv
+Processing subject: NvA
+Created average matrix: Data\DataSet2_unc\mov\L\gPDC_20Hz\NvA\mov_L_NvA_average.csv
+Processing subject: RR
+Created average matrix: Data\DataSet2_unc\mov\L\gPDC_20Hz\RR\mov_L_RR_average.csv
+Processing subject: SJB
+Created average matrix: Data\DataSet2_unc\mov\L\gPDC_20Hz\SJB\mov_L_SJB_average.csv
+Processing: iPDC_100Hz
+Created average matrix: Data\DataSet2_unc\mov\L\iPDC_100Hz\DataSet2_unc_mov_iPDC_100Hz_average.csv
+Processing subject: BG
+Created average matrix: Data\DataSet2_unc\mov\L\iPDC_100Hz\BG\mov_L_BG_average.csv
+Processing subject: DOC
+Created average matrix: Data\DataSet2_unc\mov\L\iPDC_100Hz\DOC\mov_L_DOC_average.csv
+Processing subject: GB
+Created average matrix: Data\DataSet2_unc\mov\L\iPDC_100Hz\GB\mov_L_GB_average.csv
+Processing subject: JDC
+Created average matrix: Data\DataSet2_unc\mov\L\iPDC_100Hz\JDC\mov_L_JDC_average.csv
+Processing subject: JFXD
+Created average matrix: Data\DataSet2_unc\mov\L\iPDC_100Hz\JFXD\mov_L_JFXD_average.csv
+Processing subject: JZ
+Created average matrix: Data\DataSet2_unc\mov\L\iPDC_100Hz\JZ\mov_L_JZ_average.csv
+Processing subject: LT
+Created average matrix: Data\DataSet2_unc\mov\L\iPDC_100Hz\LT\mov_L_LT_average.csv
+Processing subject: NvA
+Created average matrix: Data\DataSet2_unc\mov\L\iPDC_100Hz\NvA\mov_L_NvA_average.csv
+Processing subject: RR
+Created average matrix: Data\DataSet2_unc\mov\L\iPDC_100Hz\RR\mov_L_RR_average.csv
+Processing subject: SJB
+Created average matrix: Data\DataSet2_unc\mov\L\iPDC_100Hz\SJB\mov_L_SJB_average.csv
+Processing: iPDC_10Hz
+Created average matrix: Data\DataSet2_unc\mov\L\iPDC_10Hz\DataSet2_unc_mov_iPDC_10Hz_average.csv
+Processing subject: BG
+Created average matrix: Data\DataSet2_unc\mov\L\iPDC_10Hz\BG\mov_L_BG_average.csv
+Processing subject: DOC
+Created average matrix: Data\DataSet2_unc\mov\L\iPDC_10Hz\DOC\mov_L_DOC_average.csv
+Processing subject: GB
+Created average matrix: Data\DataSet2_unc\mov\L\iPDC_10Hz\GB\mov_L_GB_average.csv
+Processing subject: JDC
+Created average matrix: Data\DataSet2_unc\mov\L\iPDC_10Hz\JDC\mov_L_JDC_average.csv
+Processing subject: JFXD
+Created average matrix: Data\DataSet2_unc\mov\L\iPDC_10Hz\JFXD\mov_L_JFXD_average.csv
+Processing subject: JZ
+Created average matrix: Data\DataSet2_unc\mov\L\iPDC_10Hz\JZ\mov_L_JZ_average.csv
+Processing subject: LT
+Created average matrix: Data\DataSet2_unc\mov\L\iPDC_10Hz\LT\mov_L_LT_average.csv
+Processing subject: NvA
+Created average matrix: Data\DataSet2_unc\mov\L\iPDC_10Hz\NvA\mov_L_NvA_average.csv
+Processing subject: RR
+Created average matrix: Data\DataSet2_unc\mov\L\iPDC_10Hz\RR\mov_L_RR_average.csv
+Processing subject: SJB
+Created average matrix: Data\DataSet2_unc\mov\L\iPDC_10Hz\SJB\mov_L_SJB_average.csv
+Processing: iPDC_20Hz
+Created average matrix: Data\DataSet2_unc\mov\L\iPDC_20Hz\DataSet2_unc_mov_iPDC_20Hz_average.csv
+Processing subject: BG
+Created average matrix: Data\DataSet2_unc\mov\L\iPDC_20Hz\BG\mov_L_BG_average.csv
+Processing subject: DOC
+Created average matrix: Data\DataSet2_unc\mov\L\iPDC_20Hz\DOC\mov_L_DOC_average.csv
+Processing subject: GB
+Created average matrix: Data\DataSet2_unc\mov\L\iPDC_20Hz\GB\mov_L_GB_average.csv
+Processing subject: JDC
+Created average matrix: Data\DataSet2_unc\mov\L\iPDC_20Hz\JDC\mov_L_JDC_average.csv
+Processing subject: JFXD
+Created average matrix: Data\DataSet2_unc\mov\L\iPDC_20Hz\JFXD\mov_L_JFXD_average.csv
+Processing subject: JZ
+Created average matrix: Data\DataSet2_unc\mov\L\iPDC_20Hz\JZ\mov_L_JZ_average.csv
+Processing subject: LT
+Created average matrix: Data\DataSet2_unc\mov\L\iPDC_20Hz\LT\mov_L_LT_average.csv
+Processing subject: NvA
+Created average matrix: Data\DataSet2_unc\mov\L\iPDC_20Hz\NvA\mov_L_NvA_average.csv
+Processing subject: RR
+Created average matrix: Data\DataSet2_unc\mov\L\iPDC_20Hz\RR\mov_L_RR_average.csv
+Processing subject: SJB
+Created average matrix: Data\DataSet2_unc\mov\L\iPDC_20Hz\SJB\mov_L_SJB_average.csv
+Processing target: R
+Processing: gDTF_100Hz
+Created average matrix: Data\DataSet2_unc\mov\R\gDTF_100Hz\DataSet2_unc_mov_gDTF_100Hz_average.csv
+Processing subject: BG
+Created average matrix: Data\DataSet2_unc\mov\R\gDTF_100Hz\BG\mov_R_BG_average.csv
+Processing subject: DOC
+Created average matrix: Data\DataSet2_unc\mov\R\gDTF_100Hz\DOC\mov_R_DOC_average.csv
+Processing subject: GB
+Created average matrix: Data\DataSet2_unc\mov\R\gDTF_100Hz\GB\mov_R_GB_average.csv
+Processing subject: JDC
+Created average matrix: Data\DataSet2_unc\mov\R\gDTF_100Hz\JDC\mov_R_JDC_average.csv
+Processing subject: JFXD
+Created average matrix: Data\DataSet2_unc\mov\R\gDTF_100Hz\JFXD\mov_R_JFXD_average.csv
+Processing subject: JZ
+Created average matrix: Data\DataSet2_unc\mov\R\gDTF_100Hz\JZ\mov_R_JZ_average.csv
+Processing subject: LT
+Created average matrix: Data\DataSet2_unc\mov\R\gDTF_100Hz\LT\mov_R_LT_average.csv
+Processing subject: NvA
+Created average matrix: Data\DataSet2_unc\mov\R\gDTF_100Hz\NvA\mov_R_NvA_average.csv
+Processing subject: RR
+Created average matrix: Data\DataSet2_unc\mov\R\gDTF_100Hz\RR\mov_R_RR_average.csv
+Processing subject: SJB
+Created average matrix: Data\DataSet2_unc\mov\R\gDTF_100Hz\SJB\mov_R_SJB_average.csv
+Processing: gDTF_10Hz
+Created average matrix: Data\DataSet2_unc\mov\R\gDTF_10Hz\DataSet2_unc_mov_gDTF_10Hz_average.csv
+Processing subject: BG
+Created average matrix: Data\DataSet2_unc\mov\R\gDTF_10Hz\BG\mov_R_BG_average.csv
+Processing subject: DOC
+Created average matrix: Data\DataSet2_unc\mov\R\gDTF_10Hz\DOC\mov_R_DOC_average.csv
+Processing subject: GB
+Created average matrix: Data\DataSet2_unc\mov\R\gDTF_10Hz\GB\mov_R_GB_average.csv
+Processing subject: JDC
+Created average matrix: Data\DataSet2_unc\mov\R\gDTF_10Hz\JDC\mov_R_JDC_average.csv
+Processing subject: JFXD
+Created average matrix: Data\DataSet2_unc\mov\R\gDTF_10Hz\JFXD\mov_R_JFXD_average.csv
+Processing subject: JZ
+Created average matrix: Data\DataSet2_unc\mov\R\gDTF_10Hz\JZ\mov_R_JZ_average.csv
+Processing subject: LT
+Created average matrix: Data\DataSet2_unc\mov\R\gDTF_10Hz\LT\mov_R_LT_average.csv
+Processing subject: NvA
+Created average matrix: Data\DataSet2_unc\mov\R\gDTF_10Hz\NvA\mov_R_NvA_average.csv
+Processing subject: RR
+Created average matrix: Data\DataSet2_unc\mov\R\gDTF_10Hz\RR\mov_R_RR_average.csv
+Processing subject: SJB
+Created average matrix: Data\DataSet2_unc\mov\R\gDTF_10Hz\SJB\mov_R_SJB_average.csv
+Processing: gDTF_20Hz
+Created average matrix: Data\DataSet2_unc\mov\R\gDTF_20Hz\DataSet2_unc_mov_gDTF_20Hz_average.csv
+Processing subject: BG
+Created average matrix: Data\DataSet2_unc\mov\R\gDTF_20Hz\BG\mov_R_BG_average.csv
+Processing subject: DOC
+Created average matrix: Data\DataSet2_unc\mov\R\gDTF_20Hz\DOC\mov_R_DOC_average.csv
+Processing subject: GB
+Created average matrix: Data\DataSet2_unc\mov\R\gDTF_20Hz\GB\mov_R_GB_average.csv
+Processing subject: JDC
+Created average matrix: Data\DataSet2_unc\mov\R\gDTF_20Hz\JDC\mov_R_JDC_average.csv
+Processing subject: JFXD
+Created average matrix: Data\DataSet2_unc\mov\R\gDTF_20Hz\JFXD\mov_R_JFXD_average.csv
+Processing subject: JZ
+Created average matrix: Data\DataSet2_unc\mov\R\gDTF_20Hz\JZ\mov_R_JZ_average.csv
+Processing subject: LT
+Created average matrix: Data\DataSet2_unc\mov\R\gDTF_20Hz\LT\mov_R_LT_average.csv
+Processing subject: NvA
+Created average matrix: Data\DataSet2_unc\mov\R\gDTF_20Hz\NvA\mov_R_NvA_average.csv
+Processing subject: RR
+Created average matrix: Data\DataSet2_unc\mov\R\gDTF_20Hz\RR\mov_R_RR_average.csv
+Processing subject: SJB
+Created average matrix: Data\DataSet2_unc\mov\R\gDTF_20Hz\SJB\mov_R_SJB_average.csv
+Processing: gPDC_100Hz
+Created average matrix: Data\DataSet2_unc\mov\R\gPDC_100Hz\DataSet2_unc_mov_gPDC_100Hz_average.csv
+Processing subject: BG
+Created average matrix: Data\DataSet2_unc\mov\R\gPDC_100Hz\BG\mov_R_BG_average.csv
+Processing subject: DOC
+Created average matrix: Data\DataSet2_unc\mov\R\gPDC_100Hz\DOC\mov_R_DOC_average.csv
+Processing subject: GB
+Created average matrix: Data\DataSet2_unc\mov\R\gPDC_100Hz\GB\mov_R_GB_average.csv
+Processing subject: JDC
+Created average matrix: Data\DataSet2_unc\mov\R\gPDC_100Hz\JDC\mov_R_JDC_average.csv
+Processing subject: JFXD
+Created average matrix: Data\DataSet2_unc\mov\R\gPDC_100Hz\JFXD\mov_R_JFXD_average.csv
+Processing subject: JZ
+Created average matrix: Data\DataSet2_unc\mov\R\gPDC_100Hz\JZ\mov_R_JZ_average.csv
+Processing subject: LT
+Created average matrix: Data\DataSet2_unc\mov\R\gPDC_100Hz\LT\mov_R_LT_average.csv
+Processing subject: NvA
+Created average matrix: Data\DataSet2_unc\mov\R\gPDC_100Hz\NvA\mov_R_NvA_average.csv
+Processing subject: RR
+Created average matrix: Data\DataSet2_unc\mov\R\gPDC_100Hz\RR\mov_R_RR_average.csv
+Processing subject: SJB
+Created average matrix: Data\DataSet2_unc\mov\R\gPDC_100Hz\SJB\mov_R_SJB_average.csv
+Processing: gPDC_10Hz
+Created average matrix: Data\DataSet2_unc\mov\R\gPDC_10Hz\DataSet2_unc_mov_gPDC_10Hz_average.csv
+Processing subject: BG
+Created average matrix: Data\DataSet2_unc\mov\R\gPDC_10Hz\BG\mov_R_BG_average.csv
+Processing subject: DOC
+Created average matrix: Data\DataSet2_unc\mov\R\gPDC_10Hz\DOC\mov_R_DOC_average.csv
+Processing subject: GB
+Created average matrix: Data\DataSet2_unc\mov\R\gPDC_10Hz\GB\mov_R_GB_average.csv
+Processing subject: JDC
+Created average matrix: Data\DataSet2_unc\mov\R\gPDC_10Hz\JDC\mov_R_JDC_average.csv
+Processing subject: JFXD
+Created average matrix: Data\DataSet2_unc\mov\R\gPDC_10Hz\JFXD\mov_R_JFXD_average.csv
+Processing subject: JZ
+Created average matrix: Data\DataSet2_unc\mov\R\gPDC_10Hz\JZ\mov_R_JZ_average.csv
+Processing subject: LT
+Created average matrix: Data\DataSet2_unc\mov\R\gPDC_10Hz\LT\mov_R_LT_average.csv
+Processing subject: NvA
+Created average matrix: Data\DataSet2_unc\mov\R\gPDC_10Hz\NvA\mov_R_NvA_average.csv
+Processing subject: RR
+Created average matrix: Data\DataSet2_unc\mov\R\gPDC_10Hz\RR\mov_R_RR_average.csv
+Processing subject: SJB
+Created average matrix: Data\DataSet2_unc\mov\R\gPDC_10Hz\SJB\mov_R_SJB_average.csv
+Processing: gPDC_20Hz
+Created average matrix: Data\DataSet2_unc\mov\R\gPDC_20Hz\DataSet2_unc_mov_gPDC_20Hz_average.csv
+Processing subject: BG
+Created average matrix: Data\DataSet2_unc\mov\R\gPDC_20Hz\BG\mov_R_BG_average.csv
+Processing subject: DOC
+Created average matrix: Data\DataSet2_unc\mov\R\gPDC_20Hz\DOC\mov_R_DOC_average.csv
+Processing subject: GB
+Created average matrix: Data\DataSet2_unc\mov\R\gPDC_20Hz\GB\mov_R_GB_average.csv
+Processing subject: JDC
+Created average matrix: Data\DataSet2_unc\mov\R\gPDC_20Hz\JDC\mov_R_JDC_average.csv
+Processing subject: JFXD
+Created average matrix: Data\DataSet2_unc\mov\R\gPDC_20Hz\JFXD\mov_R_JFXD_average.csv
+Processing subject: JZ
+Created average matrix: Data\DataSet2_unc\mov\R\gPDC_20Hz\JZ\mov_R_JZ_average.csv
+Processing subject: LT
+Created average matrix: Data\DataSet2_unc\mov\R\gPDC_20Hz\LT\mov_R_LT_average.csv
+Processing subject: NvA
+Created average matrix: Data\DataSet2_unc\mov\R\gPDC_20Hz\NvA\mov_R_NvA_average.csv
+Processing subject: RR
+Created average matrix: Data\DataSet2_unc\mov\R\gPDC_20Hz\RR\mov_R_RR_average.csv
+Processing subject: SJB
+Created average matrix: Data\DataSet2_unc\mov\R\gPDC_20Hz\SJB\mov_R_SJB_average.csv
+Processing: iPDC_100Hz
+Created average matrix: Data\DataSet2_unc\mov\R\iPDC_100Hz\DataSet2_unc_mov_iPDC_100Hz_average.csv
+Processing subject: BG
+Created average matrix: Data\DataSet2_unc\mov\R\iPDC_100Hz\BG\mov_R_BG_average.csv
+Processing subject: DOC
+Created average matrix: Data\DataSet2_unc\mov\R\iPDC_100Hz\DOC\mov_R_DOC_average.csv
+Processing subject: GB
+Created average matrix: Data\DataSet2_unc\mov\R\iPDC_100Hz\GB\mov_R_GB_average.csv
+Processing subject: JDC
+Created average matrix: Data\DataSet2_unc\mov\R\iPDC_100Hz\JDC\mov_R_JDC_average.csv
+Processing subject: JFXD
+Created average matrix: Data\DataSet2_unc\mov\R\iPDC_100Hz\JFXD\mov_R_JFXD_average.csv
+Processing subject: JZ
+Created average matrix: Data\DataSet2_unc\mov\R\iPDC_100Hz\JZ\mov_R_JZ_average.csv
+Processing subject: LT
+Created average matrix: Data\DataSet2_unc\mov\R\iPDC_100Hz\LT\mov_R_LT_average.csv
+Processing subject: NvA
+Created average matrix: Data\DataSet2_unc\mov\R\iPDC_100Hz\NvA\mov_R_NvA_average.csv
+Processing subject: RR
+Created average matrix: Data\DataSet2_unc\mov\R\iPDC_100Hz\RR\mov_R_RR_average.csv
+Processing subject: SJB
+Created average matrix: Data\DataSet2_unc\mov\R\iPDC_100Hz\SJB\mov_R_SJB_average.csv
+Processing: iPDC_10Hz
+Created average matrix: Data\DataSet2_unc\mov\R\iPDC_10Hz\DataSet2_unc_mov_iPDC_10Hz_average.csv
+Processing subject: BG
+Created average matrix: Data\DataSet2_unc\mov\R\iPDC_10Hz\BG\mov_R_BG_average.csv
+Processing subject: DOC
+Created average matrix: Data\DataSet2_unc\mov\R\iPDC_10Hz\DOC\mov_R_DOC_average.csv
+Processing subject: GB
+Created average matrix: Data\DataSet2_unc\mov\R\iPDC_10Hz\GB\mov_R_GB_average.csv
+Processing subject: JDC
+Created average matrix: Data\DataSet2_unc\mov\R\iPDC_10Hz\JDC\mov_R_JDC_average.csv
+Processing subject: JFXD
+Created average matrix: Data\DataSet2_unc\mov\R\iPDC_10Hz\JFXD\mov_R_JFXD_average.csv
+Processing subject: JZ
+Created average matrix: Data\DataSet2_unc\mov\R\iPDC_10Hz\JZ\mov_R_JZ_average.csv
+Processing subject: LT
+Created average matrix: Data\DataSet2_unc\mov\R\iPDC_10Hz\LT\mov_R_LT_average.csv
+Processing subject: NvA
+Created average matrix: Data\DataSet2_unc\mov\R\iPDC_10Hz\NvA\mov_R_NvA_average.csv
+Processing subject: RR
+Created average matrix: Data\DataSet2_unc\mov\R\iPDC_10Hz\RR\mov_R_RR_average.csv
+Processing subject: SJB
+Created average matrix: Data\DataSet2_unc\mov\R\iPDC_10Hz\SJB\mov_R_SJB_average.csv
+Processing: iPDC_20Hz
+Created average matrix: Data\DataSet2_unc\mov\R\iPDC_20Hz\DataSet2_unc_mov_iPDC_20Hz_average.csv
+Processing subject: BG
+Created average matrix: Data\DataSet2_unc\mov\R\iPDC_20Hz\BG\mov_R_BG_average.csv
+Processing subject: DOC
+Created average matrix: Data\DataSet2_unc\mov\R\iPDC_20Hz\DOC\mov_R_DOC_average.csv
+Processing subject: GB
+Created average matrix: Data\DataSet2_unc\mov\R\iPDC_20Hz\GB\mov_R_GB_average.csv
+Processing subject: JDC
+Created average matrix: Data\DataSet2_unc\mov\R\iPDC_20Hz\JDC\mov_R_JDC_average.csv
+Processing subject: JFXD
+Created average matrix: Data\DataSet2_unc\mov\R\iPDC_20Hz\JFXD\mov_R_JFXD_average.csv
+Processing subject: JZ
+Created average matrix: Data\DataSet2_unc\mov\R\iPDC_20Hz\JZ\mov_R_JZ_average.csv
+Processing subject: LT
+Created average matrix: Data\DataSet2_unc\mov\R\iPDC_20Hz\LT\mov_R_LT_average.csv
+Processing subject: NvA
+Created average matrix: Data\DataSet2_unc\mov\R\iPDC_20Hz\NvA\mov_R_NvA_average.csv
+Processing subject: RR
+Created average matrix: Data\DataSet2_unc\mov\R\iPDC_20Hz\RR\mov_R_RR_average.csv
+Processing subject: SJB
+Created average matrix: Data\DataSet2_unc\mov\R\iPDC_20Hz\SJB\mov_R_SJB_average.csv
+
+Operation Summary
+================
+Total matrices processed: 6012
+Total averages created: 396
+Errors encountered: 0
+
+Process completed at: 2025-02-06 08:34:05
