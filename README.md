@@ -20,7 +20,7 @@ Step 2: Prepare data for analysis by creating a new data set structure
 
 Step 3: Create average matrices
 * 28-June-2025: created a v2 of the script average named test_average_matrix_v2.py; in essence the v2 script can exculde from averaging the files containing the "LT-Pronation" string. For more detailed documentation for v2 of the script, refer to V2_ENHANCEMENT_SUMMARY.md file
-* Run script: create_average_matrix_enhanced.py
+* Run script: create_average_matrix_enhanced_V2.py
   * Select the Data folder; in our example we selected: 'DataSet14_Align_cue'
   * Answer 'n' at the question to process DTF files because there are none in this sample
 * The script creates an average matrix per <method><frequency> combination and another average file per indidual subject; example of average files we created: 'cue_L_gPDC_10Hz_average.csv' and 'cue_L_gPDC_10Hz_BG_average.csv' ('BG' = a subject)
