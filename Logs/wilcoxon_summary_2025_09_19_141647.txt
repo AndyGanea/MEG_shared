@@ -1,0 +1,171 @@
+MEG Wilcoxon Summary Analysis
+============================
+Process started at: 2025-09-19 14:16:47
+-----------------------------
+
+Starting Wilcoxon summary analysis...
+Processing Wilcoxon folder: Wilcoxon_09192025-1350
+Found 24 subfolders to process
+
+Processing subfolder: Cue_gPDC_10Hz
+Found 1 log files in Cue_gPDC_10Hz
+Processing log file: gPDC_10Hz_wilcoxon.txt
+Extracted 46 non-zero retained values from gPDC_10Hz_wilcoxon.txt
+
+Processing subfolder: Cue_gPDC_25Hz
+Found 1 log files in Cue_gPDC_25Hz
+Processing log file: gPDC_25Hz_wilcoxon.txt
+Extracted 58 non-zero retained values from gPDC_25Hz_wilcoxon.txt
+
+Processing subfolder: Cue_gPDC_21Hz
+Found 1 log files in Cue_gPDC_21Hz
+Processing log file: gPDC_21Hz_wilcoxon.txt
+Extracted 55 non-zero retained values from gPDC_21Hz_wilcoxon.txt
+
+Processing subfolder: Cue_iPDC_99Hz
+Found 1 log files in Cue_iPDC_99Hz
+Processing log file: iPDC_99Hz_wilcoxon.txt
+Extracted 53 non-zero retained values from iPDC_99Hz_wilcoxon.txt
+
+Processing subfolder: Cue_iPDC_9Hz
+Found 1 log files in Cue_iPDC_9Hz
+Processing log file: iPDC_9Hz_wilcoxon.txt
+Extracted 41 non-zero retained values from iPDC_9Hz_wilcoxon.txt
+
+Processing subfolder: Cue_gPDC_19Hz
+Found 1 log files in Cue_gPDC_19Hz
+Processing log file: gPDC_19Hz_wilcoxon.txt
+Extracted 56 non-zero retained values from gPDC_19Hz_wilcoxon.txt
+
+Processing subfolder: Cue_iPDC_11Hz
+Found 1 log files in Cue_iPDC_11Hz
+Processing log file: iPDC_11Hz_wilcoxon.txt
+Extracted 44 non-zero retained values from iPDC_11Hz_wilcoxon.txt
+
+Processing subfolder: Cue_gPDC_26Hz
+Found 1 log files in Cue_gPDC_26Hz
+Processing log file: gPDC_26Hz_wilcoxon.txt
+Extracted 59 non-zero retained values from gPDC_26Hz_wilcoxon.txt
+
+Processing subfolder: Cue_gPDC_9Hz
+Found 1 log files in Cue_gPDC_9Hz
+Processing log file: gPDC_9Hz_wilcoxon.txt
+Extracted 48 non-zero retained values from gPDC_9Hz_wilcoxon.txt
+
+Processing subfolder: Cue_iPDC_24Hz
+Found 1 log files in Cue_iPDC_24Hz
+Processing log file: iPDC_24Hz_wilcoxon.txt
+Extracted 67 non-zero retained values from iPDC_24Hz_wilcoxon.txt
+
+Processing subfolder: Cue_iPDC_20Hz
+Found 1 log files in Cue_iPDC_20Hz
+Processing log file: iPDC_20Hz_wilcoxon.txt
+Extracted 58 non-zero retained values from iPDC_20Hz_wilcoxon.txt
+
+Processing subfolder: Cue_iPDC_101Hz
+Found 1 log files in Cue_iPDC_101Hz
+Processing log file: iPDC_101Hz_wilcoxon.txt
+Extracted 50 non-zero retained values from iPDC_101Hz_wilcoxon.txt
+
+Processing subfolder: Cue_gPDC_100Hz
+Found 1 log files in Cue_gPDC_100Hz
+Processing log file: gPDC_100Hz_wilcoxon.txt
+Extracted 43 non-zero retained values from gPDC_100Hz_wilcoxon.txt
+
+Processing subfolder: Cue_iPDC_10Hz
+Found 1 log files in Cue_iPDC_10Hz
+Processing log file: iPDC_10Hz_wilcoxon.txt
+Extracted 42 non-zero retained values from iPDC_10Hz_wilcoxon.txt
+
+Processing subfolder: Cue_iPDC_25Hz
+Found 1 log files in Cue_iPDC_25Hz
+Processing log file: iPDC_25Hz_wilcoxon.txt
+Extracted 66 non-zero retained values from iPDC_25Hz_wilcoxon.txt
+
+Processing subfolder: Cue_gPDC_101Hz
+Found 1 log files in Cue_gPDC_101Hz
+Processing log file: gPDC_101Hz_wilcoxon.txt
+Extracted 44 non-zero retained values from gPDC_101Hz_wilcoxon.txt
+
+Processing subfolder: Cue_iPDC_100Hz
+Found 1 log files in Cue_iPDC_100Hz
+Processing log file: iPDC_100Hz_wilcoxon.txt
+Extracted 50 non-zero retained values from iPDC_100Hz_wilcoxon.txt
+
+Processing subfolder: Cue_iPDC_21Hz
+Found 1 log files in Cue_iPDC_21Hz
+Processing log file: iPDC_21Hz_wilcoxon.txt
+Extracted 61 non-zero retained values from iPDC_21Hz_wilcoxon.txt
+
+Processing subfolder: Cue_gPDC_99Hz
+Found 1 log files in Cue_gPDC_99Hz
+Processing log file: gPDC_99Hz_wilcoxon.txt
+Extracted 43 non-zero retained values from gPDC_99Hz_wilcoxon.txt
+
+Processing subfolder: Cue_iPDC_19Hz
+Found 1 log files in Cue_iPDC_19Hz
+Processing log file: iPDC_19Hz_wilcoxon.txt
+Extracted 57 non-zero retained values from iPDC_19Hz_wilcoxon.txt
+
+Processing subfolder: Cue_gPDC_11Hz
+Found 1 log files in Cue_gPDC_11Hz
+Processing log file: gPDC_11Hz_wilcoxon.txt
+Extracted 42 non-zero retained values from gPDC_11Hz_wilcoxon.txt
+
+Processing subfolder: Cue_iPDC_26Hz
+Found 1 log files in Cue_iPDC_26Hz
+Processing log file: iPDC_26Hz_wilcoxon.txt
+Extracted 65 non-zero retained values from iPDC_26Hz_wilcoxon.txt
+
+Processing subfolder: Cue_gPDC_24Hz
+Found 1 log files in Cue_gPDC_24Hz
+Processing log file: gPDC_24Hz_wilcoxon.txt
+Extracted 56 non-zero retained values from gPDC_24Hz_wilcoxon.txt
+
+Processing subfolder: Cue_gPDC_20Hz
+Found 1 log files in Cue_gPDC_20Hz
+Processing log file: gPDC_20Hz_wilcoxon.txt
+Extracted 56 non-zero retained values from gPDC_20Hz_wilcoxon.txt
+
+Summary CSV created for gPDC: wilcoxon_summary_gPDC_20250919_141753.csv
+Total non-zero retained values for gPDC: 606
+Output location: Data/DataSet18_Align_cue/Wilcoxon_09192025-1350/wilcoxon_summary_gPDC_20250919_141753.csv
+
+Summary for gPDC by frequency:
+  26Hz: 59 values
+  25Hz: 58 values
+  19Hz: 56 values
+  20Hz: 56 values
+  24Hz: 56 values
+  21Hz: 55 values
+  9Hz: 48 values
+  10Hz: 46 values
+  101Hz: 44 values
+  100Hz: 43 values
+  99Hz: 43 values
+  11Hz: 42 values
+
+Summary CSV created for iPDC: wilcoxon_summary_iPDC_20250919_141753.csv
+Total non-zero retained values for iPDC: 654
+Output location: Data/DataSet18_Align_cue/Wilcoxon_09192025-1350/wilcoxon_summary_iPDC_20250919_141753.csv
+
+Summary for iPDC by frequency:
+  24Hz: 67 values
+  25Hz: 66 values
+  26Hz: 65 values
+  21Hz: 61 values
+  20Hz: 58 values
+  19Hz: 57 values
+  99Hz: 53 values
+  100Hz: 50 values
+  101Hz: 50 values
+  11Hz: 44 values
+  10Hz: 42 values
+  9Hz: 41 values
+
+Analysis completed successfully!
+Summary files saved:
+  - Data/DataSet18_Align_cue/Wilcoxon_09192025-1350/wilcoxon_summary_gPDC_20250919_141753.csv
+  - Data/DataSet18_Align_cue/Wilcoxon_09192025-1350/wilcoxon_summary_iPDC_20250919_141753.csv
+
+Process completed at: 2025-09-19 14:17:53

@@ -128,10 +128,12 @@ class MEGWilcoxonAnalyzer:
         for subject in subject_folders:
             l_patterns = [
                 f"{prefix}_L_{method_freq}_{subject}_average.csv",
+                f"{prefix}_L_{method_freq}_{subject}_average_NO-LT.csv",
                 f"{prefix}_L_{method_freq}_average.csv"
             ]
             r_patterns = [
                 f"{prefix}_R_{method_freq}_{subject}_average.csv",
+                f"{prefix}_R_{method_freq}_{subject}_average_NO-LT.csv",
                 f"{prefix}_R_{method_freq}_average.csv"
             ]
             
@@ -152,8 +154,12 @@ class MEGWilcoxonAnalyzer:
         conditions = []
         if (self.dataset_dir / "Mov").exists():
             conditions.append(("Mov", "mov"))
+        elif (self.dataset_dir / "mov").exists():
+            conditions.append(("mov", "mov"))
         if (self.dataset_dir / "Cue").exists():
             conditions.append(("Cue", "cue"))
+        elif (self.dataset_dir / "cue").exists():
+            conditions.append(("cue", "cue"))
         
         if not conditions:
             logging.error("No Mov or Cue directories found!")
@@ -166,7 +172,7 @@ class MEGWilcoxonAnalyzer:
         for method in ['gDTF', 'iPDC', 'gPDC', 'iDTF']:
             if self.exclude_idtf and method == 'iDTF':
                 continue
-            for freq in ['10Hz', '20Hz', '25Hz', '100Hz']:
+            for freq in ['9Hz', '10Hz', '11Hz', '19Hz', '20Hz', '21Hz', '24Hz', '25Hz', '26Hz', '99Hz', '100Hz', '101Hz']:
                 method_freq_dirs.append(f"{method}_{freq}")
         
         # Process each condition (Mov and/or Cue)
@@ -210,10 +216,12 @@ class MEGWilcoxonAnalyzer:
                         # Look for files with both movement and cue patterns
                         l_patterns = [
                             f"{prefix}_L_{method_freq}_{subject}_average.csv",  # Individual subject pattern
+                            f"{prefix}_L_{method_freq}_{subject}_average_NO-LT.csv",
                             f"{prefix}_L_{method_freq}_average.csv"             # Overall pattern
                         ]
                         r_patterns = [
                             f"{prefix}_R_{method_freq}_{subject}_average.csv",
+                            f"{prefix}_R_{method_freq}_{subject}_average_NO-LT.csv",
                             f"{prefix}_R_{method_freq}_average.csv"
                         ]
                         

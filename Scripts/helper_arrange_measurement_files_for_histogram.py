@@ -63,7 +63,7 @@ class FileOrganizer:
         self.subjects = ['DOC', 'GB', 'JDC', 'JFXD', 'JZ', 'LT', 'NvA', 'RR', 'SJB', 'BG']
         self.targets = ['L', 'R']
         self.methods = ['gDTF', 'iPDC', 'gPDC', 'iDTF']
-        self.frequencies = ['10Hz', '20Hz', '25Hz', '100Hz']
+        self.frequencies = ['9Hz', '10Hz', '11Hz', '19Hz', '20Hz', '21Hz', '24Hz', '25Hz', '26Hz', '99Hz', '100Hz', '101Hz']
         
         self.data_dir = Path("Data")
         self.source_dir = self.select_source_folder()
