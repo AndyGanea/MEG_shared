@@ -114,9 +114,9 @@ class MEGWilcoxonAnalyzerV3:
         logging.info("--------------------------------------------------\n")
 
     def has_required_files(self, left_base_dir: Path, right_base_dir: Path, prefix: str, method_freq: str) -> bool:
-        """Check if required files exist in both Left_movement and Right_movement directories"""
+        """Check if required files exist in both Left_movement and Right_movement directories, supporting 'average_NO-LT.csv'"""
         logging.info(f"Checking for required files in {method_freq}...")
-        
+
         # Check if directories exist
         if not left_base_dir.exists():
             logging.warning(f"Left_movement directory does not exist: {left_base_dir}")
@@ -124,40 +124,32 @@ class MEGWilcoxonAnalyzerV3:
         if not right_base_dir.exists():
             logging.warning(f"Right_movement directory does not exist: {right_base_dir}")
             return False
-        
-        # Check for average files in both directories
-        left_file_found = False
-        right_file_found = False
-        
-        # Look for overall average files - these are created in the method_freq directory itself
-        left_pattern = f"{prefix}_{method_freq.split('_')[0]}_{method_freq.split('_')[1]}_average.csv"
-        right_pattern = f"{prefix}_{method_freq.split('_')[0]}_{method_freq.split('_')[1]}_average.csv"
-        
-        left_files = list(left_base_dir.glob(left_pattern))
-        right_files = list(right_base_dir.glob(right_pattern))
-        
+
+        # Patterns to check
+        # Patterns to match any file ending with _average.csv or _average_NO-LT.csv
+        left_files = list(left_base_dir.glob("*_average.csv")) + list(left_base_dir.glob("*_average_NO-LT.csv"))
+        right_files = list(right_base_dir.glob("*_average.csv")) + list(right_base_dir.glob("*_average_NO-LT.csv"))
+
+        left_file_found = bool(left_files)
+        right_file_found = bool(right_files)
+
+        if left_file_found:
+            logging.info(f"Found Left_movement file: {left_files[0].name}")
+        else:
+            logging.warning(f"No Left_movement file found matching '*_average.csv' or '*_average_NO-LT.csv'")
+
+        if right_file_found:
+            logging.info(f"Found Right_movement file: {right_files[0].name}")
+        else:
+            logging.warning(f"No Right_movement file found matching '*_average.csv' or '*_average_NO-LT.csv'")
+
         # Debug: List all files in directories
         all_left_files = list(left_base_dir.glob("*.csv"))
         all_right_files = list(right_base_dir.glob("*.csv"))
         logging.info(f"All files in Left_movement directory: {[f.name for f in all_left_files]}")
         logging.info(f"All files in Right_movement directory: {[f.name for f in all_right_files]}")
-        
-        if left_files:
-            left_file_found = True
-            logging.info(f"Found Left_movement file: {left_files[0].name}")
-        else:
-            logging.warning(f"No Left_movement file found matching pattern: {left_pattern}")
-        
-        if right_files:
-            right_file_found = True
-            logging.info(f"Found Right_movement file: {right_files[0].name}")
-        else:
-            logging.warning(f"No Right_movement file found matching pattern: {right_pattern}")
-            
-        if left_file_found and right_file_found:
-            return True
-        
-        return False
+
+        return left_file_found and right_file_found
 
     def prepare_wilcoxon_data(self):
         """Prepare data structure and Left_movement-Right_movement files for Wilcoxon analysis"""
@@ -182,7 +174,7 @@ class MEGWilcoxonAnalyzerV3:
         for method in ['gDTF', 'iPDC', 'gPDC', 'iDTF']:
             if self.exclude_idtf and method == 'iDTF':
                 continue
-            for freq in ['10Hz', '20Hz', '25Hz', '100Hz']:
+            for freq in ['9Hz', '10Hz', '11Hz', '19Hz', '20Hz', '21Hz', '24Hz', '25Hz', '26Hz', '99Hz', '100Hz', '101Hz']:
                 method_freq_dirs.append(f"{method}_{freq}")
         
         # Process each condition (mov and/or cue)
@@ -223,46 +215,42 @@ class MEGWilcoxonAnalyzerV3:
                     # Process each subject
                     all_differences = []
                     for subject in subject_folders:
-                        # Look for files with both movement and cue patterns
                         method, freq = method_freq.split('_')
-                        left_patterns = [
-                            f"{prefix}_{method}_{freq}_{subject}_average.csv",  # Individual subject pattern
-                            f"{prefix}_{method}_{freq}_average.csv"             # Overall pattern (fallback)
-                        ]
-                        right_patterns = [
-                            f"{prefix}_{method}_{freq}_{subject}_average.csv",
-                            f"{prefix}_{method}_{freq}_average.csv"
-                        ]
-                        
+                        # Patterns to match any file ending with _average.csv or _average_NO-LT.csv
                         left_file = None
                         right_file = None
-                        
-                        # Try each pattern
-                        for left_pattern in left_patterns:
-                            found = list(left_base_dir.joinpath(subject).glob(left_pattern))
-                            if found:
-                                left_file = found[0]
-                                break
-                        
-                        for right_pattern in right_patterns:
-                            found = list(right_base_dir.joinpath(subject).glob(right_pattern))
-                            if found:
-                                right_file = found[0]
-                                break
-                        
+
+                        # Try subject folder first
+                        left_subject_files = list(left_base_dir.joinpath(subject).glob("*_average.csv")) + list(left_base_dir.joinpath(subject).glob("*_average_NO-LT.csv"))
+                        right_subject_files = list(right_base_dir.joinpath(subject).glob("*_average.csv")) + list(right_base_dir.joinpath(subject).glob("*_average_NO-LT.csv"))
+
+                        if left_subject_files:
+                            left_file = left_subject_files[0]
+                        else:
+                            left_base_files = list(left_base_dir.glob("*_average.csv")) + list(left_base_dir.glob("*_average_NO-LT.csv"))
+                            if left_base_files:
+                                left_file = left_base_files[0]
+
+                        if right_subject_files:
+                            right_file = right_subject_files[0]
+                        else:
+                            right_base_files = list(right_base_dir.glob("*_average.csv")) + list(right_base_dir.glob("*_average_NO-LT.csv"))
+                            if right_base_files:
+                                right_file = right_base_files[0]
+
                         if left_file and right_file:
                             logging.info(f"\nProcessing subject {subject}:")
                             logging.info(f"Left_movement file: {left_file}")
                             logging.info(f"Right_movement file: {right_file}")
-                            
+
                             # Read matrices
                             left_matrix = pd.read_csv(left_file, header=None).values
                             right_matrix = pd.read_csv(right_file, header=None).values
-                            
+
                             # Calculate difference (Left_movement - Right_movement)
                             diff_matrix = left_matrix - right_matrix
                             all_differences.append(diff_matrix)
-                            
+
                             # Save subject difference
                             diff_file = method_freq_dir / f"{method_freq}_Left-Right_{subject}.csv"
                             pd.DataFrame(diff_matrix).to_csv(diff_file, index=False, header=False)
