@@ -7,6 +7,11 @@ Step 1: Organize the raw the data
 * Copy the .csv files to the Data folder using the structure: Data\<Data Set Name>\Align_cue\<Individual Subject Data Folder>\<Data File>.csv
 This repository contains scripts and data for analyzing Magnetoencephalography (MEG) measurements across different experimental conditions.
 
+Dataset14 and 15 are from MEG_20250620_cue
+Dataset16 and 17 are from MEG_20250620_mov
+Dataset18 and 19 are from MEG_20250620_cue_multiple_freqs
+Dataset20 and 21 are from MEG_20250620_mov_multiple_freqs
+
 
 Step 2: Prepare data for analysis by creating a new data set structure
 * Run script: helper_arrange_measurement_files_for_histogram.py
