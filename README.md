@@ -22,6 +22,7 @@ Step 2: Prepare data for analysis by creating a new data set structure
   * No unc files were provided, so we answer No (n) at the question to process 'unc' files
   * Result was a new folder, named: Data\DataSet14_Align_cue containing only 1 sub-folder, 'cue', then the 2 separate sub-folders, 'L' and 'R', then under each L and R folders are <method><frequency> subfolder, then subject names subfolders, and then individual measurement files.
   ** Example of a path (branch) created: 'MEG\Data\DataSet14_Align_cue\cue\L\gPDC_10Hz\BG'
+  * Run helper_arrange_measurement_files_for_histogram_V2.py for Movement Analysis
 
 Step 3: Create average matrices
 * 28-June-2025: created a v2 of the script average named test_average_matrix_v2.py; in essence the v2 script can exculde from averaging the files containing the "LT-Pronation" string. For more detailed documentation for v2 of the script, refer to V2_ENHANCEMENT_SUMMARY.md file
@@ -29,6 +30,7 @@ Step 3: Create average matrices
   * Select the Data folder; in our example we selected: 'DataSet14_Align_cue'
   * Answer 'n' at the question to process DTF files because there are none in this sample
 * The script creates an average matrix per <method><frequency> combination and another average file per indidual subject; example of average files we created: 'cue_L_gPDC_10Hz_average.csv' and 'cue_L_gPDC_10Hz_BG_average.csv' ('BG' = a subject)
+  * Run create_average_matrix_enhanced_V3.py for MOVEMENT.
 
 Step 4: Run Wilcoxon analysis and create Wilcoxon files and heatmaps
 * 28-June-2025: created a v2 of the script named meg_wilcoxon_analysis_V2.py; this v2 script added the option for the user to select the full average file vs the NO-LT average files for the Wilcoxon analysis. or more detailed documentation for v2 of the script, refer to WILCOXON_V2_ENHANCEMENT_SUMMARY.md file.
@@ -38,6 +40,9 @@ Step 4: Run Wilcoxon analysis and create Wilcoxon files and heatmaps
 * Select the data folder (6. DataSet14_Align_cue in our case)
 * Answer 'y' to exclude the iDTF method (in our case)
 * The script creates a Wilcoxon subfolder under selected data set folder and then L-R differences files, a heatmap and a log file in each folder; sample subfolder: \DataSet14_Align_cue\Wilcoxon_06222025-1455\Cue_gPDC_10Hz
+* For movement analysis, run meg_wilcoxon_analysis_V3.py
+
+Step 5a - If you only need to produce summaries, run summary_wilcoxon.py
 
 Step 5 - Manually move the wilcoxon CSV files into Data\Visual folder to be analysed
 * Example: file gPDC_10Hz_L-R_wilcoxon.csv moved into Data\Visual folder
