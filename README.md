@@ -13,6 +13,8 @@ Dataset18 and 19 are from MEG_20250620_cue_multiple_freqs (Order 10) <br/>
 Dataset20 and 21 are from MEG_20250620_mov_multiple_freqs (Order 10) <br/>
 Dataset22 and 23 are from MEG_20250620_cue_multiple_freqs (Order 5) <br/>
 Dataset24 and 25 are from MEG_20250620_mov (Order 5) <br/>
+Dataset26 and 27 are from MEG_20250620_cue (Order 20) <br/>
+Dataset28 and 29 are from MEG_20250620_mov (Order 20) <br/>
 
 
 Step 2: Prepare data for analysis by creating a new data set structure
