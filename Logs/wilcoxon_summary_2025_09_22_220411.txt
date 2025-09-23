@@ -1,0 +1,75 @@
+MEG Wilcoxon Summary Analysis
+============================
+Process started at: 2025-09-22 22:04:11
+-----------------------------
+
+Starting Wilcoxon summary analysis...
+Processing Wilcoxon folder: Wilcoxon_09222025-2203
+Found 8 subfolders to process
+
+Processing subfolder: mov_iPDC_20Hz
+Found 1 log files in mov_iPDC_20Hz
+Processing log file: iPDC_20Hz_wilcoxon.txt
+Extracted 42 non-zero retained values from iPDC_20Hz_wilcoxon.txt
+
+Processing subfolder: mov_iPDC_100Hz
+Found 1 log files in mov_iPDC_100Hz
+Processing log file: iPDC_100Hz_wilcoxon.txt
+Extracted 48 non-zero retained values from iPDC_100Hz_wilcoxon.txt
+
+Processing subfolder: mov_gPDC_10Hz
+Found 1 log files in mov_gPDC_10Hz
+Processing log file: gPDC_10Hz_wilcoxon.txt
+Extracted 45 non-zero retained values from gPDC_10Hz_wilcoxon.txt
+
+Processing subfolder: mov_gPDC_25Hz
+Found 1 log files in mov_gPDC_25Hz
+Processing log file: gPDC_25Hz_wilcoxon.txt
+Extracted 39 non-zero retained values from gPDC_25Hz_wilcoxon.txt
+
+Processing subfolder: mov_gPDC_20Hz
+Found 1 log files in mov_gPDC_20Hz
+Processing log file: gPDC_20Hz_wilcoxon.txt
+Extracted 44 non-zero retained values from gPDC_20Hz_wilcoxon.txt
+
+Processing subfolder: mov_iPDC_10Hz
+Found 1 log files in mov_iPDC_10Hz
+Processing log file: iPDC_10Hz_wilcoxon.txt
+Extracted 47 non-zero retained values from iPDC_10Hz_wilcoxon.txt
+
+Processing subfolder: mov_gPDC_100Hz
+Found 1 log files in mov_gPDC_100Hz
+Processing log file: gPDC_100Hz_wilcoxon.txt
+Extracted 47 non-zero retained values from gPDC_100Hz_wilcoxon.txt
+
+Processing subfolder: mov_iPDC_25Hz
+Found 1 log files in mov_iPDC_25Hz
+Processing log file: iPDC_25Hz_wilcoxon.txt
+Extracted 49 non-zero retained values from iPDC_25Hz_wilcoxon.txt
+
+Summary CSV created for iPDC: wilcoxon_summary_iPDC_20250922_220418.csv
+Total non-zero retained values for iPDC: 186
+Output location: Data/DataSet29_Align_mov/Wilcoxon_09222025-2203/wilcoxon_summary_iPDC_20250922_220418.csv
+
+Summary for iPDC by frequency:
+  25Hz: 49 values
+  100Hz: 48 values
+  10Hz: 47 values
+  20Hz: 42 values
+
+Summary CSV created for gPDC: wilcoxon_summary_gPDC_20250922_220418.csv
+Total non-zero retained values for gPDC: 175
+Output location: Data/DataSet29_Align_mov/Wilcoxon_09222025-2203/wilcoxon_summary_gPDC_20250922_220418.csv
+
+Summary for gPDC by frequency:
+  100Hz: 47 values
+  10Hz: 45 values
+  20Hz: 44 values
+  25Hz: 39 values
+
+Analysis completed successfully!
+Summary files saved:
+  - Data/DataSet29_Align_mov/Wilcoxon_09222025-2203/wilcoxon_summary_iPDC_20250922_220418.csv
+  - Data/DataSet29_Align_mov/Wilcoxon_09222025-2203/wilcoxon_summary_gPDC_20250922_220418.csv
+
+Process completed at: 2025-09-22 22:04:18
