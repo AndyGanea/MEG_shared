@@ -48,11 +48,19 @@ Step 4: Run Wilcoxon analysis and create Wilcoxon files and heatmaps
 
 Step 5a - If you only need to produce summaries, run summary_wilcoxon.py
 
-Step 5 - Manually move the wilcoxon CSV files into Data\Visual folder to be analysed
+Step 5b - To combine summaries that were done at +- 1 frequencies from each other, put all of them
+in the Results folder, and run triad_tiple_frequency_filter.py. It will only keep connections that
+exist in all 3 frequency files.
+
+Step 5c - To combine summaries that were done across model orders, put the files to be analyzed
+in the Results folder, and run triad_across_orders_intersection.py from the terminal. 
+
+
+Step 6 - Manually move the wilcoxon CSV files into Data\Visual folder to be analysed
 * Example: file gPDC_10Hz_L-R_wilcoxon.csv moved into Data\Visual folder
 
 
-Step 6 - Run the circular connectogram and 3D brain scripts and create the 2 types of diagrams: 1) circular connectivity and 3D brain diagrams
+Step 7 - Run the circular connectogram and 3D brain scripts and create the 2 types of diagrams: 1) circular connectivity and 3D brain diagrams
 * * 28-June-2025: created a v2 of the scripts named meg_visualization_circular_select_V2.py and meg_visualization_3DBrain_select_V2.py respectively. The V2 versions will be able to detect in the Visual folders if there are NO-LT files and they will include them in the slection options. The script groups the files in 2 categories: 1) full files and 2) NO-LT files.
 * Scripts run: meg_visualization_circular_select.py and meg_visualization_3DBrain_select.py
 
