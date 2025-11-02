@@ -169,7 +169,7 @@ class MEGWilcoxonAnalyzer:
         
         # Get all method-frequency combinations
         method_freq_dirs = []
-        for method in ['gDTF', 'iPDC', 'gPDC', 'iDTF']:
+        for method in ['gDTF', 'iPDC', 'gPDC', 'iDTF', 'msc_cat', 'msc_mean']:
             if self.exclude_idtf and method == 'iDTF':
                 continue
             for freq in ['9Hz', '10Hz', '11Hz', '19Hz', '20Hz', '21Hz', '24Hz', '25Hz', '26Hz', '99Hz', '100Hz', '101Hz']:

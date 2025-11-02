@@ -220,7 +220,12 @@ class AverageMatrixCreator:
                 
                 # Now process each method_freq combination
                 for (target, method_freq), dirs in method_freq_dirs.items():
-                    method, freq = method_freq.split('_')
+                    parts = method_freq.split('_')
+                    if len(parts) < 2:
+                        logging.warning(f"Unexpected method_freq name: {method_freq}")
+                        continue
+                    method = '_'.join(parts[:-1])   # e.g., 'gDTF' or 'msc_mean'
+                    freq   = parts[-1]              # e.g., '100Hz'
                     
                     # Skip iDTF if requested
                     if self.exclude_idtf and method == 'iDTF':

@@ -1,0 +1,63 @@
+MEG Wilcoxon Summary Analysis
+============================
+Process started at: 2025-11-02 17:05:48
+-----------------------------
+
+Starting Wilcoxon summary analysis...
+Processing Wilcoxon folder: Wilcoxon_11022025-1703
+Found 6 subfolders to process
+
+Processing subfolder: mov_msc_cat_10Hz
+Found 1 log files in mov_msc_cat_10Hz
+Processing log file: msc_cat_10Hz_wilcoxon.txt
+Extracted 58 non-zero retained values from msc_cat_10Hz_wilcoxon.txt
+
+Processing subfolder: mov_msc_mean_20Hz
+Found 1 log files in mov_msc_mean_20Hz
+Processing log file: msc_mean_20Hz_wilcoxon.txt
+Extracted 48 non-zero retained values from msc_mean_20Hz_wilcoxon.txt
+
+Processing subfolder: mov_msc_cat_100Hz
+Found 1 log files in mov_msc_cat_100Hz
+Processing log file: msc_cat_100Hz_wilcoxon.txt
+Extracted 68 non-zero retained values from msc_cat_100Hz_wilcoxon.txt
+
+Processing subfolder: mov_msc_mean_10Hz
+Found 1 log files in mov_msc_mean_10Hz
+Processing log file: msc_mean_10Hz_wilcoxon.txt
+Extracted 50 non-zero retained values from msc_mean_10Hz_wilcoxon.txt
+
+Processing subfolder: mov_msc_cat_20Hz
+Found 1 log files in mov_msc_cat_20Hz
+Processing log file: msc_cat_20Hz_wilcoxon.txt
+Extracted 56 non-zero retained values from msc_cat_20Hz_wilcoxon.txt
+
+Processing subfolder: mov_msc_mean_100Hz
+Found 1 log files in mov_msc_mean_100Hz
+Processing log file: msc_mean_100Hz_wilcoxon.txt
+Extracted 52 non-zero retained values from msc_mean_100Hz_wilcoxon.txt
+
+Summary CSV created for cat: wilcoxon_summary_cat_20251102_170602.csv
+Total non-zero retained values for cat: 182
+Output location: Data/DataSet31_Align_mov/Wilcoxon_11022025-1703/wilcoxon_summary_cat_20251102_170602.csv
+
+Summary for cat by frequency:
+  100Hz: 68 values
+  10Hz: 58 values
+  20Hz: 56 values
+
+Summary CSV created for mean: wilcoxon_summary_mean_20251102_170602.csv
+Total non-zero retained values for mean: 150
+Output location: Data/DataSet31_Align_mov/Wilcoxon_11022025-1703/wilcoxon_summary_mean_20251102_170602.csv
+
+Summary for mean by frequency:
+  100Hz: 52 values
+  10Hz: 50 values
+  20Hz: 48 values
+
+Analysis completed successfully!
+Summary files saved:
+  - Data/DataSet31_Align_mov/Wilcoxon_11022025-1703/wilcoxon_summary_cat_20251102_170602.csv
+  - Data/DataSet31_Align_mov/Wilcoxon_11022025-1703/wilcoxon_summary_mean_20251102_170602.csv
+
+Process completed at: 2025-11-02 17:06:02

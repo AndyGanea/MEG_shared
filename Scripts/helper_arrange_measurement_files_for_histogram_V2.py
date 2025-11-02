@@ -78,7 +78,7 @@ class FileOrganizerV2:
             'anti_L': 'Right_movement'
         }
         
-        self.methods = ['gDTF', 'iPDC', 'gPDC', 'iDTF']
+        self.methods = ['gDTF', 'iPDC', 'gPDC', 'iDTF', 'msc']
         self.frequencies = ['9Hz', '10Hz', '11Hz', '19Hz', '20Hz', '21Hz', '24Hz', '25Hz', '26Hz', '99Hz', '100Hz', '101Hz']
         
         self.data_dir = Path("Data")
@@ -236,21 +236,28 @@ class FileOrganizerV2:
                 # Create method_frequency directories
                 for method in self.methods:
                     for freq in self.frequencies:
-                        method_freq_dir = movement_path / f"{method}_{freq}"
-                        if not method_freq_dir.exists():
-                            method_freq_dir.mkdir()
-                            print(f"Created method_freq directory: {method_freq_dir}")
+                        # Handle msc method: create both msc_mean and msc_cat directories
+                        if method == 'msc':
+                            derived_methods = ['msc_mean', 'msc_cat']
                         else:
-                            print(f"Method_freq directory already exists: {method_freq_dir}")
+                            derived_methods = [method]
                         
-                        # Create subject folders inside method_freq directory
-                        for subject in self.subjects:
-                            subject_dir = method_freq_dir / subject
-                            if not subject_dir.exists():
-                                subject_dir.mkdir()
-                                print(f"Created subject directory: {subject_dir}")
+                        for derived_method in derived_methods:
+                            method_freq_dir = movement_path / f"{derived_method}_{freq}"
+                            if not method_freq_dir.exists():
+                                method_freq_dir.mkdir()
+                                print(f"Created method_freq directory: {method_freq_dir}")
                             else:
-                                print(f"Subject directory already exists: {subject_dir}")
+                                print(f"Method_freq directory already exists: {method_freq_dir}")
+                            
+                            # Create subject folders inside method_freq directory
+                            for subject in self.subjects:
+                                subject_dir = method_freq_dir / subject
+                                if not subject_dir.exists():
+                                    subject_dir.mkdir()
+                                    print(f"Created subject directory: {subject_dir}")
+                                else:
+                                    print(f"Subject directory already exists: {subject_dir}")
 
         except Exception as e:
             print(f"Error creating directory structure: {str(e)}")
@@ -326,9 +333,21 @@ class FileOrganizerV2:
                             parts = file_path.stem.split('_')
                             
                             # Extract file components
-                            method = next((p for p in parts if p in self.methods), None)
-                            freq = next((p for p in parts if p in self.frequencies), None)
+                            # Subject, frequency
                             subject = next((p for p in parts if p in self.subjects), None)
+                            freq = next((p for p in parts if p in self.frequencies), None)
+                            
+                            # Base method (legacy or 'msc')
+                            base_method = next((p for p in parts if p in self.methods), None)
+                            
+                            # Result type for msc (mean or cat) — optional for legacy files
+                            result_type = 'mean' if 'mean' in parts else ('cat' if 'cat' in parts else None)
+                            
+                            # Promote 'msc' to 'msc_mean' / 'msc_cat' when present
+                            if base_method == 'msc' and result_type:
+                                method = f"msc_{result_type}"
+                            else:
+                                method = base_method
                             
                             if all([method, freq, subject]):
                                 combo = f"{method}_{freq}"
@@ -347,12 +366,14 @@ class FileOrganizerV2:
                                 
                                 # Copy to method_freq directory within movement folder
                                 method_freq_dir = self.alignment_dir / movement_type / f"{method}_{freq}"
+                                method_freq_dir.mkdir(parents=True, exist_ok=True)
                                 method_freq_path = method_freq_dir / new_filename
                                 shutil.copy2(file_path, method_freq_path)
                                 files_copied += 1
                                 
                                 # Copy to subject directory
                                 subject_dir = method_freq_dir / subject
+                                subject_dir.mkdir(exist_ok=True)
                                 subject_path = subject_dir / new_filename
                                 shutil.copy2(file_path, subject_path)
                                 files_copied += 1

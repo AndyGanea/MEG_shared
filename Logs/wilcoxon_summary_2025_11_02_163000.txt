@@ -1,0 +1,67 @@
+MEG Wilcoxon Summary Analysis
+============================
+Process started at: 2025-11-02 16:30:00
+-----------------------------
+
+Starting Wilcoxon summary analysis...
+Processing Wilcoxon folder: Wilcoxon_10292025-1341
+Found 7 subfolders to process
+
+Processing subfolder: Cue_msc_cat_20Hz
+Found 1 log files in Cue_msc_cat_20Hz
+Processing log file: msc_cat_20Hz_wilcoxon.txt
+Extracted 54 non-zero retained values from msc_cat_20Hz_wilcoxon.txt
+
+Processing subfolder: Cue_msc_mean_20Hz
+Found 1 log files in Cue_msc_mean_20Hz
+Processing log file: msc_mean_20Hz_wilcoxon.txt
+Extracted 42 non-zero retained values from msc_mean_20Hz_wilcoxon.txt
+
+Processing subfolder: Cue_msc_cat_100Hz
+Found 1 log files in Cue_msc_cat_100Hz
+Processing log file: msc_cat_100Hz_wilcoxon.txt
+Extracted 58 non-zero retained values from msc_cat_100Hz_wilcoxon.txt
+
+Processing subfolder: Cue_msc_mean_100Hz
+Found 1 log files in Cue_msc_mean_100Hz
+Processing log file: msc_mean_100Hz_wilcoxon.txt
+Extracted 42 non-zero retained values from msc_mean_100Hz_wilcoxon.txt
+
+Processing subfolder: correlation_outputs
+Could not extract method and frequency from folder name: correlation_outputs
+No log files found in correlation_outputs
+
+Processing subfolder: Cue_msc_mean_10Hz
+Found 1 log files in Cue_msc_mean_10Hz
+Processing log file: msc_mean_10Hz_wilcoxon.txt
+Extracted 72 non-zero retained values from msc_mean_10Hz_wilcoxon.txt
+
+Processing subfolder: Cue_msc_cat_10Hz
+Found 1 log files in Cue_msc_cat_10Hz
+Processing log file: msc_cat_10Hz_wilcoxon.txt
+Extracted 24 non-zero retained values from msc_cat_10Hz_wilcoxon.txt
+
+Summary CSV created for cat: wilcoxon_summary_cat_20251102_163006.csv
+Total non-zero retained values for cat: 136
+Output location: Data/DataSet30_Align_mov/Wilcoxon_10292025-1341/wilcoxon_summary_cat_20251102_163006.csv
+
+Summary for cat by frequency:
+  100Hz: 58 values
+  20Hz: 54 values
+  10Hz: 24 values
+
+Summary CSV created for mean: wilcoxon_summary_mean_20251102_163006.csv
+Total non-zero retained values for mean: 156
+Output location: Data/DataSet30_Align_mov/Wilcoxon_10292025-1341/wilcoxon_summary_mean_20251102_163006.csv
+
+Summary for mean by frequency:
+  10Hz: 72 values
+  100Hz: 42 values
+  20Hz: 42 values
+
+Analysis completed successfully!
+Summary files saved:
+  - Data/DataSet30_Align_mov/Wilcoxon_10292025-1341/wilcoxon_summary_cat_20251102_163006.csv
+  - Data/DataSet30_Align_mov/Wilcoxon_10292025-1341/wilcoxon_summary_mean_20251102_163006.csv
+
+Process completed at: 2025-11-02 16:30:06

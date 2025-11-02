@@ -62,7 +62,7 @@ class FileOrganizer:
         """
         self.subjects = ['DOC', 'GB', 'JDC', 'JFXD', 'JZ', 'LT', 'NvA', 'RR', 'SJB', 'BG']
         self.targets = ['L', 'R']
-        self.methods = ['gDTF', 'iPDC', 'gPDC', 'iDTF']
+        self.methods = ['gDTF', 'iPDC', 'gPDC', 'iDTF', 'msc']
         self.frequencies = ['9Hz', '10Hz', '11Hz', '19Hz', '20Hz', '21Hz', '24Hz', '25Hz', '26Hz', '99Hz', '100Hz', '101Hz']
         
         self.data_dir = Path("Data")
@@ -284,40 +284,50 @@ class FileOrganizer:
                             
                         try:
                             parts = file_path.stem.split('_')
-                            
-                            # Extract file components
-                            method = next((p for p in parts if p in self.methods), None)
-                            freq = next((p for p in parts if p in self.frequencies), None)
+
+                            # Subject, frequency
                             subject = next((p for p in parts if p in self.subjects), None)
-                            
+                            freq    = next((p for p in parts if p in self.frequencies), None)
+
+                            # Base method (legacy or 'msc')
+                            base_method = next((p for p in parts if p in self.methods), None)
+
+                            # Result type for msc (mean or cat) — optional for legacy files
+                            result_type = 'mean' if 'mean' in parts else ('cat' if 'cat' in parts else None)
+
+                            # Promote 'msc' to 'msc_mean' / 'msc_cat' when present
+                            if base_method == 'msc' and result_type:
+                                method = f"msc_{result_type}"
+                            else:
+                                method = base_method
+
                             if all([method, freq, subject]):
                                 combo = f"{method}_{freq}"
                                 combinations_found.add(combo)
-                                
-                                # Update counters
+
                                 method_freq_counts[combo] = method_freq_counts.get(combo, 0) + 1
                                 subject_counts[subject] += 1
-                                
-                                # Create new filename
-                                new_filename = f"{self.alignment}_{posture}-{movement}_{target}_{condition}_{subject}_{method}_{freq}"
+
+                                # Example new filename: mov_..._{subject}_{method}_{freq}[ _unc].csv
+                                new_filename = f"{self.alignment}_structure-{movement}_{target}_{condition}_{subject}_{method}_{freq}"
                                 if self.process_unc and "_unc" in file_path.name:
                                     new_filename += "_unc"
                                 new_filename += ".csv"
-                                
+
                                 # Copy to method_freq directory
                                 method_freq_dir = self.alignment_dir / target / f"{method}_{freq}"
-                                method_freq_path = method_freq_dir / new_filename
-                                shutil.copy2(file_path, method_freq_path)
+                                method_freq_dir.mkdir(parents=True, exist_ok=True)
+                                shutil.copy2(file_path, method_freq_dir / new_filename)
                                 files_copied += 1
-                                
+
                                 # Copy to subject directory
                                 subject_dir = method_freq_dir / subject
-                                subject_path = subject_dir / new_filename
-                                shutil.copy2(file_path, subject_path)
+                                subject_dir.mkdir(exist_ok=True)
+                                shutil.copy2(file_path, subject_dir / new_filename)
                                 files_copied += 1
-                                
                             else:
                                 failed_files.append((file_path.name, "Could not determine method/frequency/subject"))
+
                                 
                         except Exception as e:
                             failed_files.append((file_path.name, str(e)))

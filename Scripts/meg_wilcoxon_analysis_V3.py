@@ -171,7 +171,7 @@ class MEGWilcoxonAnalyzerV3:
         
         # Get all method-frequency combinations
         method_freq_dirs = []
-        for method in ['gDTF', 'iPDC', 'gPDC', 'iDTF']:
+        for method in ['gDTF', 'iPDC', 'gPDC', 'iDTF', 'msc_cat', 'msc_mean']:
             if self.exclude_idtf and method == 'iDTF':
                 continue
             for freq in ['9Hz', '10Hz', '11Hz', '19Hz', '20Hz', '21Hz', '24Hz', '25Hz', '26Hz', '99Hz', '100Hz', '101Hz']:
@@ -215,7 +215,13 @@ class MEGWilcoxonAnalyzerV3:
                     # Process each subject
                     all_differences = []
                     for subject in subject_folders:
-                        method, freq = method_freq.split('_')
+                        # Parse method_freq to handle both simple methods (gDTF_10Hz) and compound methods (msc_mean_10Hz)
+                        parts = method_freq.split('_')
+                        if len(parts) < 2:
+                            logging.warning(f"Unexpected method_freq format: {method_freq}")
+                            continue
+                        method = '_'.join(parts[:-1])   # e.g., 'gDTF' or 'msc_mean'
+                        freq   = parts[-1]              # e.g., '10Hz'
                         # Patterns to match any file ending with _average.csv or _average_NO-LT.csv
                         left_file = None
                         right_file = None

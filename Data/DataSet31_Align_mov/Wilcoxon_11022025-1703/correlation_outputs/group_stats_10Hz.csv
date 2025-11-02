@@ -1,0 +1,2 @@
+frequency_Hz,n_subjects,mean_rho,std_rho,ci95_low,ci95_high,t_pvalue,wilcoxon_pvalue,spearman_edgewise,spearman_pvalue,n_pairs,spearman_ci95_low,spearman_ci95_high
+10,NA,NA,NA,NA,NA,NA,NA,0.43329796578936075,1.0512428887810709e-22,465,0.35640704306434057,0.5043593506280344
