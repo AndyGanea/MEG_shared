@@ -90,7 +90,7 @@ def create_heatmap_subplot(matrix: np.ndarray, ax, vmin: float, vmax: float,
     ax.grid(True, which='both', color='gray', linestyle='-', linewidth=0.5, alpha=0.3)
     
     if show_labels:
-        ax.set_xlabel('Target Region', fontsize=6)
+        ax.set_xlabel('Source Region', fontsize=6)
         # Note: ylabel (Source Region) is not set here to allow participant name to be set separately
         plt.setp(ax.get_xticklabels(), rotation=45, ha='right', fontsize=4)
         plt.setp(ax.get_yticklabels(), rotation=0, fontsize=4)
@@ -121,8 +121,21 @@ def create_heatmap_facet(dataset='Dataset31_Align_mov',
     # Define paths based on your directory structure
     # Workspace is at /Users/andy/Desktop/MEG_shared
     base_path = desktop_path / "MEG_shared" / "Data" / dataset / movement
-    left_path = base_path / "Left_movement"
-    right_path = base_path / "Right_movement"
+    
+    # Handle different folder structures for 'mov' vs 'cue'
+    if movement == 'mov':
+        left_path = base_path / "Left_movement"
+        right_path = base_path / "Right_movement"
+        wilcoxon_folder_prefix = "mov_"
+        wilcoxon_file_pattern = "{freq_name}_Left-Right_{participant}.csv"
+    elif movement == 'cue':
+        left_path = base_path / "L"
+        right_path = base_path / "R"
+        wilcoxon_folder_prefix = "Cue_"  # Capital C for cue
+        wilcoxon_file_pattern = "{freq_name}_L-R_{participant}.csv"
+    else:
+        print(f"Error: Unknown movement type '{movement}'. Expected 'mov' or 'cue'.")
+        return
     
     # Find Wilcoxon folder
     wilcoxon_base = find_wilcoxon_folder(base_path)
@@ -135,10 +148,12 @@ def create_heatmap_facet(dataset='Dataset31_Align_mov',
     output_dir.mkdir(parents=True, exist_ok=True)
     
     print(f"Looking in: {base_path}")
+    print(f"Left path: {left_path}")
+    print(f"Right path: {right_path}")
     print(f"Wilcoxon folder: {wilcoxon_base}")
     print(f"Output directory: {output_dir}")
     
-    # Get all frequency/method folders from Left_movement (e.g., 'msc_cat_10Hz')
+    # Get all frequency/method folders from left path (e.g., 'msc_cat_10Hz')
     freq_folders = sorted([f for f in left_path.iterdir() if f.is_dir()])
     
     # Process each frequency/method combination
@@ -157,8 +172,9 @@ def create_heatmap_facet(dataset='Dataset31_Align_mov',
         for participant_folder in participant_folders:
             participant = participant_folder.name  # e.g., 'BG'
             
-            # Find the average file in Left_movement
-            # Pattern: mov_msc_cat_10Hz_BG_average_NO-LT.csv
+            # Find the average file in left path
+            # Pattern for mov: mov_msc_cat_10Hz_BG_average_NO-LT.csv
+            # Pattern for cue: cue_L_msc_cat_10Hz_BG_average_NO-LT.csv
             left_files = list(participant_folder.glob('*average*.csv'))
             if not left_files:
                 print(f"  Warning: No average file found for participant {participant}")
@@ -167,11 +183,20 @@ def create_heatmap_facet(dataset='Dataset31_Align_mov',
             left_file = left_files[0]  # Take the first average file found
             
             # Construct corresponding Right path
-            right_file = right_path / freq_name / participant / left_file.name
+            # For 'cue', the filename changes from 'cue_L_' to 'cue_R_'
+            if movement == 'cue':
+                right_file_name = left_file.name.replace('cue_L_', 'cue_R_')
+                right_file = right_path / freq_name / participant / right_file_name
+            else:
+                # For 'mov', the filename stays the same
+                right_file = right_path / freq_name / participant / left_file.name
             
-            # Construct corresponding Wilcoxon path
-            # Pattern: msc_cat_10Hz_Left-Right_BG.csv
-            wilcoxon_file = wilcoxon_base / f"mov_{freq_name}" / f"{freq_name}_Left-Right_{participant}.csv"
+            # Construct corresponding Wilcoxon path based on movement type
+            # Pattern for mov: mov_msc_cat_10Hz/msc_cat_10Hz_Left-Right_BG.csv
+            # Pattern for cue: Cue_msc_cat_10Hz/msc_cat_10Hz_L-R_BG.csv
+            wilcoxon_folder_name = f"{wilcoxon_folder_prefix}{freq_name}"
+            wilcoxon_file_name = wilcoxon_file_pattern.format(freq_name=freq_name, participant=participant)
+            wilcoxon_file = wilcoxon_base / wilcoxon_folder_name / wilcoxon_file_name
             
             # Load matrices
             left_matrix = load_matrix_from_file(left_file)
@@ -199,10 +224,25 @@ def create_heatmap_facet(dataset='Dataset31_Align_mov',
         # Create figure for this frequency/method: 10 rows × 3 columns
         n_participants = len(data_structure)
         n_cols = 3
-        # Increase figure size and reduce spacing to make heatmaps occupy more space
-        fig = plt.figure(figsize=(20, n_participants * 3))
-        gs = GridSpec(n_participants, n_cols, figure=fig, hspace=0.15, wspace=0.15, 
-                     left=0.05, right=0.88, top=0.95, bottom=0.05)
+        
+        # Define margins and colorbar position
+        left_margin = 0.08  # Space for y-axis labels
+        colorbar_left = 0.88  # Where colorbar starts
+        colorbar_width = 0.02  # Width of colorbar
+        right_margin = 0.02  # Small margin after colorbar
+        
+        # Calculate available width for heatmaps
+        available_width = colorbar_left - left_margin - 0.01  # Small gap before colorbar
+        
+        # Increase figure size to give more room
+        fig = plt.figure(figsize=(24, n_participants * 3))
+        
+        # Minimize spacing between heatmaps to maximize their size
+        # wspace is the width spacing between columns (as fraction of average subplot width)
+        gs = GridSpec(n_participants, n_cols, figure=fig, 
+                     hspace=0.12, wspace=0.03,  # Very small spacing between heatmaps
+                     left=left_margin, right=colorbar_left, 
+                     top=0.96, bottom=0.04)
         
         # Find global min/max for consistent color scaling across all 3 types
         # Calculate from all values (all participants, all matrix types)
@@ -255,13 +295,14 @@ def create_heatmap_facet(dataset='Dataset31_Align_mov',
                 ax_sub.set_title('SUBTRACTION', fontsize=10, fontweight='bold')
         
         # Add colorbar with raw values (no normalization)
-        # Position colorbar to the right of the plots
+        # Position colorbar to the right of the plots, just after the heatmaps
         # Use TwoSlopeNorm to properly center at 0, matching the center=0 in heatmap
         from matplotlib.colors import TwoSlopeNorm
         abs_max = max(abs(vmin), abs(vmax))
         norm = TwoSlopeNorm(vmin=-abs_max, vcenter=0, vmax=abs_max)
         
-        cbar_ax = fig.add_axes([0.90, 0.15, 0.015, 0.7])
+        # Position colorbar right after the heatmap area
+        cbar_ax = fig.add_axes([colorbar_left + 0.005, 0.15, colorbar_width, 0.7])
         sm = plt.cm.ScalarMappable(cmap='RdBu_r', norm=norm)
         sm.set_array([])
         cbar = fig.colorbar(sm, cax=cbar_ax, label='Value')
@@ -284,5 +325,5 @@ def create_heatmap_facet(dataset='Dataset31_Align_mov',
         print(f"  Saved heatmap to: {output_path}")
         plt.close()
 
-# Example usage:
-create_heatmap_facet(dataset='Dataset31_Align_mov', movement='mov', output_file='dataset31_heatmaps.png')
+# Usage:
+create_heatmap_facet(dataset='Dataset30_Align_mov', movement='cue', output_file='dataset30_heatmaps.png')

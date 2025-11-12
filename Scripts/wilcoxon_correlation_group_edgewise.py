@@ -7,6 +7,9 @@ import sys
 from pathlib import Path
 from typing import Dict, List, Tuple
 
+import matplotlib
+matplotlib.use('Agg')  # Use non-interactive backend
+import matplotlib.pyplot as plt
 import numpy as np
 import pandas as pd
 from scipy import stats
@@ -93,6 +96,60 @@ def collect_subject_files(root_dir: Path, target_filename: str) -> Dict[str, Pat
         mapping[p.parent.name] = p
     return mapping
 
+def create_scatterplot(mean_values: np.ndarray, cat_values: np.ndarray, 
+                      rho: float, p_value: float, freq: str, 
+                      out_path: Path, title_suffix: str = "") -> None:
+    """
+    Create a scatterplot of mean vs cat values with correlation statistics.
+    
+    Args:
+        mean_values: Array of mean values
+        cat_values: Array of cat values
+        rho: Spearman correlation coefficient
+        p_value: P-value of the correlation
+        freq: Frequency string (e.g., "10")
+        out_path: Path to save the plot
+        title_suffix: Optional suffix for the title (e.g., "GROUP" or subject name)
+    """
+    # Ensure arrays are the same length and finite
+    m = min(mean_values.size, cat_values.size)
+    mean_vals = mean_values[:m]
+    cat_vals = cat_values[:m]
+    
+    # Filter out non-finite values
+    valid = np.isfinite(mean_vals) & np.isfinite(cat_vals)
+    mean_vals = mean_vals[valid]
+    cat_vals = cat_vals[valid]
+    
+    if mean_vals.size < 3:
+        return  # Skip plotting if not enough data points
+    
+    fig, ax = plt.subplots(figsize=(8, 6))
+    
+    # Create scatter plot
+    ax.scatter(mean_vals, cat_vals, alpha=0.6, s=30, edgecolors='black', linewidth=0.5)
+    
+    # Labels and title
+    ax.set_xlabel('MSC Mean', fontsize=12, fontweight='bold')
+    ax.set_ylabel('MSC Cat', fontsize=12, fontweight='bold')
+    
+    title = f'Correlation: MSC Mean vs MSC Cat ({freq}Hz)'
+    if title_suffix:
+        title += f' - {title_suffix}'
+    ax.set_title(title, fontsize=14, fontweight='bold')
+    
+    # Add correlation statistics as text
+    stats_text = f'Spearman ρ = {rho:.4f}\np = {p_value:.4e}\nn = {mean_vals.size}'
+    ax.text(0.05, 0.95, stats_text, transform=ax.transAxes, 
+            fontsize=11, verticalalignment='top',
+            bbox=dict(boxstyle='round', facecolor='wheat', alpha=0.8))
+    
+    ax.grid(True, alpha=0.3)
+    
+    plt.tight_layout()
+    plt.savefig(out_path, dpi=300, bbox_inches='tight')
+    plt.close()
+
 def compute_group_stats_from_subjects(rhos: List[float], alpha: float = 0.05) -> dict:
     arr = np.asarray([x for x in rhos if np.isfinite(x)], dtype=float)
     n = arr.size
@@ -152,6 +209,9 @@ def analyze_frequency(freq: str, mean_dir: Path, cat_dir: Path, out_dir: Path) -
 
     if common_subjects:
         rows = []; rhos = []
+        all_mean_vals = []
+        all_cat_vals = []
+        
         for subj in common_subjects:
             a = load_numeric_array(mean_map[subj])
             b = load_numeric_array(cat_map[subj])
@@ -160,6 +220,27 @@ def analyze_frequency(freq: str, mean_dir: Path, cat_dir: Path, out_dir: Path) -
             rho, p = stats.spearmanr(a[:m], b[:m], nan_policy='omit')
             rows.append({"subject": subj, "rho_spearman": float(rho), "p_value": float(p), "n_pairs": int(m)})
             if np.isfinite(rho): rhos.append(float(rho))
+            
+            # Collect data for combined plot
+            valid = np.isfinite(a[:m]) & np.isfinite(b[:m])
+            all_mean_vals.extend(a[:m][valid].tolist())
+            all_cat_vals.extend(b[:m][valid].tolist())
+            
+            # Create individual subject scatterplot
+            create_scatterplot(a[:m], b[:m], rho, p, freq, 
+                             out_dir / f"scatterplot_{freq}Hz_{subj}.png", 
+                             title_suffix=subj)
+        
+        # Create combined scatterplot with all subjects
+        if all_mean_vals and all_cat_vals:
+            all_mean_arr = np.array(all_mean_vals)
+            all_cat_arr = np.array(all_cat_vals)
+            if all_mean_arr.size >= 3:
+                rho_combined, p_combined = stats.spearmanr(all_mean_arr, all_cat_arr, nan_policy='omit')
+                create_scatterplot(all_mean_arr, all_cat_arr, rho_combined, p_combined, freq,
+                                 out_dir / f"scatterplot_{freq}Hz_ALL_SUBJECTS.png",
+                                 title_suffix="ALL SUBJECTS")
+        
         pd.DataFrame(rows).sort_values("subject").to_csv(out_dir / f"individual_correlations_{freq}Hz.csv", index=False)
         stats_dict = compute_group_stats_from_subjects(rhos)
         pd.DataFrame([{
@@ -201,6 +282,11 @@ def analyze_frequency(freq: str, mean_dir: Path, cat_dir: Path, out_dir: Path) -
 
     rho, p = stats.spearmanr(a[:m], b[:m], nan_policy='omit')
     lo, hi = fisher_z_ci(rho, n_pairs=m)
+
+    # Create scatterplot for group-level analysis
+    create_scatterplot(a[:m], b[:m], rho, p, freq,
+                     out_dir / f"scatterplot_{freq}Hz_GROUP.png",
+                     title_suffix="GROUP")
 
     pd.DataFrame([{
         "subject": "GROUP", "rho_spearman": float(rho), "p_value": float(p), "n_pairs": int(m)

@@ -309,6 +309,7 @@ class MEGWilcoxonAnalyzerV3:
         plt.ylabel('Source Region', fontsize=12)
         plt.xticks(rotation=45, ha='right')
         plt.yticks(rotation=0)
+        plt.grid(True)
         
         # Adjust layout to ensure labels are not clipped
         plt.tight_layout()
