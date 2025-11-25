@@ -92,7 +92,7 @@ def create_heatmap_subplot(matrix: np.ndarray, ax, vmin: float, vmax: float,
     if show_labels:
         ax.set_xlabel('Source Region', fontsize=6)
         # Note: ylabel (Source Region) is not set here to allow participant name to be set separately
-        plt.setp(ax.get_xticklabels(), rotation=45, ha='right', fontsize=4)
+        plt.setp(ax.get_xticklabels(), rotation=90, ha='right', fontsize=4)
         plt.setp(ax.get_yticklabels(), rotation=0, fontsize=4)
 
 def create_heatmap_facet(dataset='Dataset31_Align_mov', 
@@ -276,7 +276,7 @@ def create_heatmap_facet(dataset='Dataset31_Align_mov',
             # Show participant name as ylabel on all rows
             ax_l.set_ylabel(participant, fontsize=8, fontweight='bold')
             if row_idx == 0:
-                ax_l.set_title('LEFT', fontsize=10, fontweight='bold')
+                ax_l.set_title('LEFT MOVEMENT (proL + antiR)', fontsize=10, fontweight='bold')
             
             # Plot R (Right)
             ax_r = fig.add_subplot(gs[row_idx, 1])
@@ -284,7 +284,7 @@ def create_heatmap_facet(dataset='Dataset31_Align_mov',
             if matrix_r is not None:
                 create_heatmap_subplot(matrix_r, ax_r, vmin, vmax, show_labels=show_labels)
             if row_idx == 0:
-                ax_r.set_title('RIGHT', fontsize=10, fontweight='bold')
+                ax_r.set_title('RIGHT MOVEMENT (proR + antiL)', fontsize=10, fontweight='bold')
             
             # Plot Subtraction
             ax_sub = fig.add_subplot(gs[row_idx, 2])
@@ -292,7 +292,7 @@ def create_heatmap_facet(dataset='Dataset31_Align_mov',
             if matrix_sub is not None:
                 create_heatmap_subplot(matrix_sub, ax_sub, vmin, vmax, show_labels=show_labels)
             if row_idx == 0:
-                ax_sub.set_title('SUBTRACTION', fontsize=10, fontweight='bold')
+                ax_sub.set_title('SUBTRACTION ((proL + antiR) - (proR + antiL))', fontsize=10, fontweight='bold')
         
         # Add colorbar with raw values (no normalization)
         # Position colorbar to the right of the plots, just after the heatmaps
@@ -326,4 +326,4 @@ def create_heatmap_facet(dataset='Dataset31_Align_mov',
         plt.close()
 
 # Usage:
-create_heatmap_facet(dataset='Dataset30_Align_mov', movement='cue', output_file='dataset30_heatmaps.png')
+create_heatmap_facet(dataset='Dataset31_Align_mov', movement='mov', output_file='dataset31_heatmaps.png')

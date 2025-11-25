@@ -36,6 +36,7 @@ Step 3: Create average matrices
   * Answer 'n' at the question to process DTF files because there are none in this sample
 * The script creates an average matrix per <method><frequency> combination and another average file per indidual subject; example of average files we created: 'cue_L_gPDC_10Hz_average.csv' and 'cue_L_gPDC_10Hz_BG_average.csv' ('BG' = a subject)
   * Run create_average_matrix_enhanced_V3.py for MOVEMENT.
+  * Run create_average_matrix_enhanced_V4.py for PRO AND ANTI individuals.
 
 Step 4: Run Wilcoxon analysis and create Wilcoxon files and heatmaps
 * 28-June-2025: created a v2 of the script named meg_wilcoxon_analysis_V2.py; this v2 script added the option for the user to select the full average file vs the NO-LT average files for the Wilcoxon analysis. or more detailed documentation for v2 of the script, refer to WILCOXON_V2_ENHANCEMENT_SUMMARY.md file.
