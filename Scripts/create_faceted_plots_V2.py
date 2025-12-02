@@ -65,7 +65,7 @@ def get_lower_triangle_vector(matrix: np.ndarray, include_diagonal: bool = False
 
 def run_pca_and_plot(vectors, labels, title, save_path):
     """
-    Run PCA on a list of 1D vectors and save a 2D scatter plot (PC1 vs PC2).
+    Run PCA on a list of 1D vectors and save 3D scatter plots (PC1, PC2, PC3).
 
     Parameters
     ----------
@@ -99,22 +99,71 @@ def run_pca_and_plot(vectors, labels, title, save_path):
     # Scores: projection onto PCs
     scores = U * S  # (n_samples, n_components)
 
-    # Use first two PCs
+    # Calculate explained variance
+    total_variance = np.sum(S**2)
+    explained_variance_ratio = (S**2) / total_variance
+    
+    # Print PCA results
+    print(f"  [PCA] Singular values (S): {S[:3]}")
+    print(f"  [PCA] Explained variance:")
+    print(f"    PC1: {explained_variance_ratio[0]:.4f} ({explained_variance_ratio[0]*100:.2f}%)")
+    print(f"    PC2: {explained_variance_ratio[1]:.4f} ({explained_variance_ratio[1]*100:.2f}%)")
+    print(f"    PC3: {explained_variance_ratio[2]:.4f} ({explained_variance_ratio[2]*100:.2f}%)")
+    print(f"  [PCA] Total variance explained (PC1-3): {explained_variance_ratio[:3].sum():.4f} ({explained_variance_ratio[:3].sum()*100:.2f}%)")
+
+    # Use first three PCs
     pc1 = scores[:, 0]
     pc2 = scores[:, 1] if scores.shape[1] > 1 else np.zeros_like(pc1)
+    pc3 = scores[:, 2] if scores.shape[1] > 2 else np.zeros_like(pc1)
 
-    fig, ax = plt.subplots(figsize=(6, 5))
-    ax.scatter(pc1, pc2, alpha=0.8)
+    # Create figure with multiple subplots
+    fig = plt.figure(figsize=(18, 5))
+
+    # Plot 1: Singular values (S) - descending order
+    ax1 = fig.add_subplot(141)
+    n_components_to_show = min(10, len(S))
+    ax1.bar(range(1, n_components_to_show + 1), S[:n_components_to_show])
+    ax1.set_xlabel('Component')
+    ax1.set_ylabel('Singular Value (S)')
+    ax1.set_title('Singular Values (Descending Order)')
+    ax1.set_xticks(range(1, n_components_to_show + 1))
+
+    # Plot 2: Variance explained
+    ax2 = fig.add_subplot(142)
+    ax2.bar(range(1, 4), explained_variance_ratio[:3])
+    ax2.set_xlabel('Principal Component')
+    ax2.set_ylabel('Variance Explained')
+    ax2.set_title('Variance Explained by Each PC')
+    ax2.set_xticks(range(1, 4))
+
+    # Plot 3: 3D scatter plot (PC1, PC2, PC3)
+    ax3 = fig.add_subplot(143, projection='3d')
+    ax3.scatter(pc1, pc2, pc3, alpha=0.8, s=30)
+
+    # Label each point with participant + condition (optional - can be cluttered)
+    # Uncomment the next two lines if you want labels on the 3D plot
+    # for x, y, z, lab in zip(pc1, pc2, pc3, labels):
+    #     ax3.text(x, y, z, lab, fontsize=5, ha='center', va='center')
+
+    ax3.set_xlabel(f'PC1 ({explained_variance_ratio[0]*100:.1f}%)')
+    ax3.set_ylabel(f'PC2 ({explained_variance_ratio[1]*100:.1f}%)')
+    ax3.set_zlabel(f'PC3 ({explained_variance_ratio[2]*100:.1f}%)')
+    ax3.set_title('3D PCA Space')
+
+    # Plot 4: 2D scatter plot (PC1 vs PC2)
+    ax4 = fig.add_subplot(144)
+    ax4.scatter(pc1, pc2, alpha=0.8)
 
     # Label each point with participant + condition
     for x, y, lab in zip(pc1, pc2, labels):
-        ax.text(x, y, lab, fontsize=7, ha='center', va='center')
+        ax4.text(x, y, lab, fontsize=7, ha='center', va='center')
 
-    ax.set_xlabel('PC1')
-    ax.set_ylabel('PC2')
-    ax.set_title(title)
-    ax.axhline(0, color='grey', linewidth=0.5, linestyle='--', alpha=0.5)
-    ax.axvline(0, color='grey', linewidth=0.5, linestyle='--', alpha=0.5)
+    ax4.set_xlabel(f'PC1 ({explained_variance_ratio[0]*100:.1f}%)')
+    ax4.set_ylabel(f'PC2 ({explained_variance_ratio[1]*100:.1f}%)')
+    ax4.set_title('2D View (PC1 vs PC2)')
+    ax4.axhline(0, color='grey', linewidth=0.5, linestyle='--', alpha=0.5)
+    ax4.axvline(0, color='grey', linewidth=0.5, linestyle='--', alpha=0.5)
+    
     fig.tight_layout()
 
     save_path = Path(save_path)
@@ -183,9 +232,9 @@ def create_heatmap_facet(dataset='Dataset31_Align_mov',
     """
     
     # Get Desktop path
-    desktop_path = Path(expanduser("~")) / "Desktop"
+    desktop_path = Path(expanduser("~")) / "Documents"
     
-    # Workspace is at /Users/andy/Desktop/MEG_shared
+    # Workspace is at /Users/andy/Documents/MEG_shared
     base_path = desktop_path / "MEG_shared" / "Data" / dataset / movement
     
     # Handle different folder structures for 'mov' vs 'cue'
@@ -666,4 +715,4 @@ def create_heatmap_facet(dataset='Dataset31_Align_mov',
         plt.close()
 
 # Example usage:
-create_heatmap_facet(dataset='Dataset31_Align_mov', movement='mov', output_file='dataset31_mov_heatmaps.png')
+create_heatmap_facet(dataset='DataSet31_Align_mov', movement='mov', output_file='dataset31_mov_heatmaps.png')

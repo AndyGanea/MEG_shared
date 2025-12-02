@@ -1,0 +1,66 @@
+import numpy as np
+import matplotlib.pyplot as plt
+from mpl_toolkits.mplot3d import Axes3D
+from sklearn.decomposition import PCA
+from sklearn.preprocessing import StandardScaler
+import scipy.io
+
+# Load your MEG data from .mat file
+# Replace 'your_file.mat' with your actual MEG file
+mat_file = scipy.io.loadmat('MEG_20250620_cue_vols_626_to_1563_order_5_multiple_freqs.mat')
+
+# Extract the data array from the .mat file
+# You'll need to adjust the key name based on your .mat file structure
+# Common key names: 'data', 'meg_data', 'vols', etc.
+# To see available keys: print(mat_file.keys())
+data = mat_file['data']  # Replace 'data' with your actual variable name
+
+# Ensure data is 2D (samples x features)
+# If your data is (channels x timepoints), transpose it:
+# data = data.T
+
+# Step 1: Standardize the data (zero mean, unit variance)
+scaler = StandardScaler()
+data_scaled = scaler.fit_transform(data)
+
+# Step 2: Apply PCA to reduce to 3 dimensions
+pca = PCA(n_components=3)
+data_pca = pca.fit_transform(data_scaled)
+
+# Step 3: Print explained variance
+print("Explained variance ratio per component:")
+for i, var in enumerate(pca.explained_variance_ratio_):
+    print(f"PC{i+1}: {var:.4f} ({var*100:.2f}%)")
+print(f"\nTotal variance explained: {pca.explained_variance_ratio_.sum():.4f} ({pca.explained_variance_ratio_.sum()*100:.2f}%)")
+
+# Step 4: Visualize in 3D
+fig = plt.figure(figsize=(12, 5))
+
+# 3D scatter plot
+ax1 = fig.add_subplot(121, projection='3d')
+ax1.scatter(data_pca[:, 0], data_pca[:, 1], data_pca[:, 2], 
+            c=np.arange(len(data_pca)), cmap='viridis', s=10, alpha=0.6)
+ax1.set_xlabel('PC1')
+ax1.set_ylabel('PC2')
+ax1.set_zlabel('PC3')
+ax1.set_title('Neural Data in 3D PCA Space')
+
+# Scree plot - variance explained
+ax2 = fig.add_subplot(122)
+ax2.bar(range(1, 4), pca.explained_variance_ratio_)
+ax2.set_xlabel('Principal Component')
+ax2.set_ylabel('Variance Explained')
+ax2.set_title('Variance Explained by Each PC')
+ax2.set_xticks(range(1, 4))
+
+plt.tight_layout()
+plt.show()
+
+# Optional: Access the principal components (loadings)
+# These show how each original neuron contributes to each PC
+print(f"\nPrincipal component loadings shape: {pca.components_.shape}")
+print("(3 components × original number of features)")
+
+# Optional: Project new data onto the same PCA space
+# new_data_scaled = scaler.transform(new_data)
+# new_data_pca = pca.transform(new_data_scaled)
